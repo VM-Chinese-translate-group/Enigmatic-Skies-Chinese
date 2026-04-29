@@ -1,16 +1,16 @@
 <div align="center"> 
-   <h1>某某项目简体中文翻译</h1>
+   <h1>Enigmatic Skies简体中文翻译</h1>
 </div>
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
 | :------------- | :--------- | :----------------- | :----------- |
-| [链接](原链接) | 模组加载器 | MC 版本 整合包版本 | 翻译中       |
+| [链接](https://www.curseforge.com/minecraft/modpacks/enigmatic-skies) | NeoForge | 1.21.1 1.0.0 | 翻译中       |
 
 ### 📌 汉化相关
 
-- **汉化项目**：[Paratranz](https://paratranz.cn/projects/项目)
-- **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/项目)
-- **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/项目/leaderboard)
+- **汉化项目**：[Paratranz](https://paratranz.cn/projects/18919)
+- **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/18919)
+- **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/18919/leaderboard)
 
 # 📖 整合包介绍
 
