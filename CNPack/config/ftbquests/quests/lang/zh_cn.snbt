@@ -155,8 +155,8 @@
 		""
 		"这种替换器运行需要能量，但它有更大的操作范围，对农场更实用。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
 	quest.0554264AE11578D2.quest_desc: [
 		"The &7Pressure Chamber&r is a multiblock crafting interface that uses compressed air to operate. Items are passed in and extracted from the &7Interfaces&r while Air is provided through the &7Valve&r. "
@@ -186,13 +186,13 @@
 		"&a    valid locations for them."
 	]
 	quest.062BB5F675CF9F45.quest_desc: [
-		"Welcome to Just Dire Things!"
+		"欢迎游玩Just Dire Things！"
 		""
-		"This mod hosts a number of small utility blocks to make life simpler, doing such tasks as interacting with entities, farming crops, and more."
+		"这个模组包含了许多小型实用方块，让生活更轻松，可以执行与实体交互、种植等多种任务。"
 		""
-		"This chapter will help get you familiar with the crafting mechanics it uses, as well as introduce some of the more notable blocks."
+		"此章节将带你熟悉下其使用机制，并介绍些著名方块。"
 		""
-		"[\"Additionally, the author has a number of helpful \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLvGYM7MCieIomj0tKtO9T5DUhvaYFjSxA\"},\"color\":\"blue\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"video guides\",\"underlined\":true},\" on YouTube. Check them out if you need a little extra help.\"]"
+		"[\"此外，作者还在YouTube上提供了些实用的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLvGYM7MCieIomj0tKtO9T5DUhvaYFjSxA\"},\"color\":\"blue\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"视频教程\",\"underlined\":true},\"。如果你需要帮助，不妨去看看。\"]"
 	]
 	quest.062BB5F675CF9F45.title: "Just Dire Things"
 	quest.064BF1AA27A01A3A.quest_desc: [
@@ -304,7 +304,7 @@
 	]
 	quest.0B04BC5F88746182.quest_desc: ["The following are full-blown storage systems that hold many types of items and present them in a single easy-to-browse and searchable interface. "]
 	quest.0B04BC5F88746182.title: "Storage"
-	quest.0B05FA716D7335D2.quest_desc: ["The &7Simple Dropper&r is an excellent tool to help automate recipes that involve in world transformations."]
+	quest.0B05FA716D7335D2.quest_desc: ["&7初级投物器&r是一款很出色的工具，它可以自动化一些世界交互的配方。"]
 	quest.0B17FF64DFA4BA90.quest_desc: ["Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!"]
 	quest.0BB6D2595F99ADB4.quest_desc: [
 		"Now that we can animate blocks and start collecting more varied Spirits, it’s time to delve into genetic manipulation."
@@ -477,18 +477,18 @@
 		"&a    working area."
 	]
 	quest.11EDFB60C787114D.quest_desc: [
-		"&7Goo&r is used to transmute materials placed next to it, converting them into far more valuable substances. "
+		"&7凝胶&r可以用来转化其周围的材料，让它们变成更有价值的物质。"
 		""
-		"Placing blocks against any face of the &7Goo&r will begin this transformation. Try placing some &7Iron Blocks&r to begin crafting &7Ferricore&r"
+		"将物品放置在&7凝胶&r的任意一面便可开始转化，不妨放置些&7铁块&r来做些&7核源铁&r。"
 		""
-		"When the blocks are fully engulfed by the &7Goo&r, they’ll be replaced by a crystal that can be broken to obtain the transmuted materials."
+		"当方块完全被&7凝胶&r吞噬后，它们将会被晶簇取代，挖掉晶簇便可获得转化后的材料。"
 		""
-		"&6⚠ Note: Goo is hungry and needs to be "
-		"&6    fed to work! "
+		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
 		""
-		"&6    Right-Click with items to activate it."
-		"&6    To find what items work, search "
-		"&3    #goo_revive_tier_1&r&6 in EMI!"
+		""
+		"&6手持物品右键激活。"
+		"&6在EMI中搜索&3#goo_revive_tier_1&6来查看哪些物品有效！"
+		""
 	]
 	quest.123BB918DF6E3936.quest_desc: [
 		"Looking for a more traditional set of pipes? These pipes from Oritech should get the job done. "
@@ -660,12 +660,12 @@
 		""
 	]
 	quest.157A20804F9E8F83.quest_desc: [
-		"With all this in world crafting, an &7Item Collector&r will no doubt come in handy."
+		"在世界合成中，一个&7物品拾取器&r肯定会派上用场。"
 		""
-		"This &7Item Collector&r places its items into the inventory it is attached to and can be filtered in a variety of ways. "
+		"&7物品拾取器&r会将其中的物品放到附近的库存中，并支持多种方式过滤。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
 	quest.159F7020B1DE875D.quest_desc: [
 		"Want to bring your new friends with you? "
@@ -1010,9 +1010,9 @@
 	]
 	quest.1FDA97FE562A2C4D.title: "Addons"
 	quest.20454EB2C6E93573.quest_desc: [
-		"The &7Player Accessor &rallows any form of logistics to interact with your inventory as if it were a chest. "
+		"&7玩家访问器&r允许任意物流与你的物品栏交互，就像和箱子一样。"
 		""
-		"This could be used to automatically stock building materials for a large project, among other things. "
+		"这就可以用来为大型建筑项目提供材料，以及一些其他用途。"
 	]
 	quest.20C038E5D70CDB52.quest_desc: [
 		"The Wixie Cauldron allows a Wixie to craft either Potions or 3x3 Crafting recipes using Source."
@@ -1128,9 +1128,9 @@
 	]
 	quest.26188F1C7EBA08B6.title: "Eldritch Spirit"
 	quest.264783EF292A494B.quest_desc: [
-		"The &7Simple Clicker&r can automate a number of interactions, such as shearing sheep or killing mobs that pass in front of it. "
+		"&7初级点击器&r可以自动执行多种交互操作，例如剪羊毛或者击杀前方经过的生物。"
 		""
-		"It does need a tool, so be sure to provide it shears for said sheep farm or a nice looting sword for killing mobs. "
+		"它确实需要一个工具，确保为羊毛农场提供了剪刀，为击杀生物提供一把趁手的抢夺剑。"
 	]
 	quest.267FEB0BB5D9B4D9.quest_desc: [
 		"The &7Assembly Table&r is a multiblock machine capable of more advanced crafting. "
@@ -1199,16 +1199,16 @@
 		"&a    placed on Dense Cables."
 	]
 	quest.289DEC367A80D718.quest_desc: [
-		"These &7Advanced&r devices operate much like their &7Simple&r counterparts, but with some added features at the cost of energy."
+		"这些&7高级&r的设备的运作方式与那些&7初级&r的基本相同，但它们提供了更多功能且需要能量。"
 		""
-		"First, they operate in a much larger area which may be configured to your needs."
+		"首先，它们的工作范围更大，你可以自行配置。"
 		""
-		"They also have their own robust filtering systems built in, so they can do more on their own without needing &7Sensors&r to control them."
+		"它们还内置了更强大的过滤系统，因此可以独立完成任务而无需&7传感器&r控制。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
-	quest.289DEC367A80D718.title: "Advanced Placers and Collectors"
+	quest.289DEC367A80D718.title: "高级放置和收集器"
 	quest.28ACDB98DC2B9D41.quest_desc: [
 		"Our fuel can burn plenty hot, but with the extreme cold here it's still not enough to warm certain machines to suitable temperatures. "
 		""
@@ -1249,16 +1249,16 @@
 		"&a    suitable insulation items."
 	]
 	quest.2961B707783AC925.quest_desc: [
-		"Once you're settled in with energy production, you should be quite comfortable upgrading your &7Goo&r to this tier."
+		"一旦你开始从事能量生产，你会很乐意将&7凝胶&r升级到这个等级。"
 		""
-		"&a🛈 Tip: Higher tier Goos can do all of the lower tier’s recipes."
+		"&a🛈 提示：高级凝胶兼容所有低级配方。"
 		""
-		"&6⚠ Note: Goo is hungry and needs to be "
-		"&6    fed to work! "
+		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
 		""
-		"&6    Right-Click with items to activate it."
-		"&6    To find what items work, search "
-		"&3    #goo_revive_tier_3&r&6 in EMI!"
+		""
+		"&6手持物品右键激活。"
+		"&6在EMI中搜索&3goo_revive_tier_3&6来查看哪些物品有效！"
+		""
 	]
 	quest.2A7455D9EE649BA4.quest_desc: [
 		"Totemic Magic allows the intrepid sorcerer to create effects in an area and can produce some rather unique effects. "
@@ -1859,10 +1859,10 @@
 	]
 	quest.3D1D6D17B2900DF0.title: "Infernal Spirit"
 	quest.3D59639F51E89CF9.quest_desc: [
-		"The &7Advanced Clicker&r gets an area upgrade over its Simple counterpart, allowing it to interact with things in a larger area. "
+		"&7高级点击器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
 	quest.3D6441ECF951BAD4.quest_desc: [
 		"This incredibly cold fluid holds some mystical capabilities that may be used to augment certain Industrial Foregoing machines."
@@ -1896,11 +1896,11 @@
 		"It feels lightweight but resists sudden changes in momentum as if it were incredibly dense or being dragged through a thick fluid…"
 	]
 	quest.3E7A4470BD04F2A1.quest_desc: [
-		"The &7Simple Sensor&r is an all purpose block and entity sensor that emits a signal according to its settings. "
+		"&7初级传感器&r是一种多功能的方块与实体检测器，可以根据其设置发出信号。"
 		""
-		"Drag an item or block from EMI to the filter slot in the middle. Right-Click blocks in the filter to configure states such as waterlogged."
+		"将物品或方块从EMI中拖入中间的过滤槽，右键过滤槽中的方块以改变其配置，例如是否含水。"
 		""
-		"For filtering entities, use that creature’s Spawn Egg and for fluids, use a bucket of that fluid."
+		"要过滤实体，请使用刷怪蛋；要过滤流体，请使用桶装流体。"
 	]
 	quest.3EA53BBEBC32F813.quest_desc: [
 		"Welcome to Genetics: Resequenced!"
@@ -2108,11 +2108,11 @@
 	quest.4421EB35235888DF.quest_desc: ["Welcome to Nature's Aura! "]
 	quest.4421EB35235888DF.title: "Nature's Aura"
 	quest.4457D6BB7AE28073.quest_desc: [
-		"The mod doesn’t offer any form of power conduit, but it does offer the next best thing: wireless energy."
+		"这个模组不提供任何形式的能量管道，但它提供了次优选择：无线能量传输。"
 		""
-		"The &7Energy Transmitter&r can be used to power every block in a small area. "
+		"&7能量传输器&r可以用来给一小片区域内的方块供能。"
 		""
-		"Use the Render Area button to help align the work area to cover your machines."
+		"点击显示区域按钮，配置工作区域来覆盖机器。"
 	]
 	quest.44BD4C393C59F1CB.quest_desc: [
 		"&7发现&r任务线用来展示整合包中可用的东西。"
@@ -2201,19 +2201,19 @@
 		"[\"Since it requires multiple input slots, you'll undoubtedly wish to use a \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://guide.appliedenergistics.org/1.21.1/ae2-mechanics/subnetworks#root\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Subnet\",\"underlined\":true},\" to route items appropriately.\"]"
 	]
 	quest.45F3C4F0EDA160C5.quest_desc: [
-		"You’ve got nothing but your wits and a few trinkets to work with; these books will help you get started. "
+		"除了你的小脑瓜和手上的小玩意儿以外，这还有几本书可以帮你快速开局。"
 		""
-		"• &6Cloud Burst&r will summon a fluffy cloud."
+		"• &6层云爆&r能够生成一片蓬松的云。"
 		""
-		"• &6Brawndo&r will quickly grow plants."
+		"• &6布兰朵&r能够让植物快速生长。"
 		""
-		"• &6Holdfast&r places a single block in midair which "
-		"    will disappear after a few moments."
+		"• &6固身锚&r能够在半空中放置一个方块，"
+		"一段时间后消失。"
 		"&n                                                              &r"
 		""
-		"Lost your books? Ran out of Saplings? "
+		"把书弄丢了？树苗用光了？"
 		""
-		"This quest is repeatable to get you going again!"
+		"没关系！此任务可以被重复完成，助你重新上路！"
 	]
 	quest.4613FE560EAC7695.quest_desc: [
 		"Combine the &7Purified Blood&r with a filled &7Plasmid&r in the &7Plasmid Injector&r to set the trait in the blood sample. "
@@ -2359,8 +2359,8 @@
 		"Alternatively, Right-Click &7Clay&r with a &7Water Essence&r to convert a &n21x11x21&r area to this biome!"
 	]
 	quest.4A3B9586D14D5037.title: "Biome Conversion"
-	quest.4ACD723FC7EB7CD6.quest_desc: ["It's hard to keep a fire lit in this place; most open flames will go out immediately or simply not catch in the first place. "]
-	quest.4ACD723FC7EB7CD6.title: "Fire"
+	quest.4ACD723FC7EB7CD6.quest_desc: ["这个地方很难点着火，大部分明火会立即熄灭，或者根本打不着。"]
+	quest.4ACD723FC7EB7CD6.title: "火"
 	quest.4B2DF8F028C3CFA0.quest_desc: [
 		"Animate a &7Guardian&r and gather some &7Organic Matter&r from it."
 		""
@@ -2524,10 +2524,10 @@
 		"Items, such as &7Pebbles&r, may be Right-Clicked into the &7Oven&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing."
 	]
 	quest.55065F1D9C6716C1.quest_desc: [
-		"The &7Advanced Sensor&r gets an area upgrade over its Simple counterpart, allowing it to interact with things in a larger area. "
+		"&7高级传感器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
 	quest.5550423B6E6BDBAF.quest_desc: [
 		"In need of some saplings? Maybe you’d like to get some bees producing honey? "
@@ -2570,19 +2570,19 @@
 		"This is generally most useful when paired with a Generator, allowing you to turn it on or off as needed."
 	]
 	quest.574555F24035E48A.quest_desc: [
-		"This collection of blocks do pretty much what their name implies; placing and picking up blocks or fluid."
+		"这一系列方块的功能正如它们的名字所写；放置与收集方块或流体。"
 		""
-		"They cannot be filtered, but they can be controlled via Redstone, so they can be combined with a &7Sensor&r for more advanced logic. "
+		"它们无法过滤，但可以被红石信号控制，所以配合&7传感器&r使用以实现更高级的逻辑功能。"
 		""
-		"They each have a single inventory slot which behaves slightly differently for each. "
+		"它们都拥有一个功能各不相同的槽位。"
 		""
-		"The &7Block Breaker&r will break using whatever item is in this slot as its tool. "
+		"&7方块破坏器&r会使用栏位内的工具进行破坏。"
 		""
-		"The &7Block Placer&r only places the blocks in that inventory slot."
+		"&7方块放置器&r仅会将其栏位内的方块进行放置。"
 		""
-		"Meanwhile the &7Fluid Collector&r and &7Placer&r blocks accept a tank in those slots to manually insert/extract fluids. Of course, fluids can also be piped in or out. "
+		"与此同时，&7流体收集器&r和&7放置器&r都需要在栏位中放置容器，这样便可手动输入/输出流体。当然，它们也可以使用管道进行流体输入输出。"
 	]
-	quest.574555F24035E48A.title: "Simple Placers and Collectors"
+	quest.574555F24035E48A.title: "初级放置和收集器"
 	quest.577337FFD6AD9C83.quest_desc: ["[ \"Check out the \", { \"text\": \"Replication Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on using these machines to produce items. \" ]"]
 	quest.577337FFD6AD9C83.title: "Replication"
 	quest.579B2C5CB83022ED.quest_desc: [
@@ -2983,7 +2983,7 @@
 		""
 		"With a &7Knife&r, you’ll be able to break &7Grass&r for &7Straw&r."
 	]
-	quest.62C7492F54D80CBA.title: "On the Chopping Block"
+	quest.62C7492F54D80CBA.title: "我为刀俎"
 	quest.62E2DEBF71698376.quest_desc: [
 		"&7Import&r, &7Export&r, and &7Storage Buses&r are your primary interface with the network. "
 		""
@@ -3154,18 +3154,18 @@
 		"Right-Click a block of Prismarine with her charm to create her home. Placing more aquatic plants and animals in their home will make them happier and more productive."
 	]
 	quest.6703E3A9E3571660.quest_desc: [
-		"Standing out in the open without protection or holding too many cold items will cause your body temperature to drop rapidly. "
+		"在没有防护的情况下进行户外活动，持有太多冰冷物品都会导致体温快速下降。"
 		""
-		"Wearing protective clothing will slow the rate at which heat is lost, so don't leave home without it. "
+		"穿戴保暖衣物能够降低热量流失的速度，所以记得穿好衣服再出门。"
 		"&n                                                             &r"
 		""
-		"Between your Health and your Hunger, you'll notice a new indicator showing your Temperature Rating. This indicator ranges from 0 to 100, where 0 is considered comfortable and 100 is deadly. It displays as &9Blue&r for freezing and &6Orange&r for overheating. "
+		"在生命值和饥饿值之间，有一个新标识来表示你的温度值。该值范围为0到100，0表示温度舒适，100则表示温度致命。过冷会显示为&9蓝色&r，过热则显示为&6橙色&r。"
 		""
-		"Starting at around &950&r, you'll notice your movements becoming sluggish and your view start to diminish. "
+		"温度值超过&950&r后，你的移动速度会减缓，同时视角会受限。"
 		""
-		"If your Temperature Rating hits &9100&r, you will rapidly freeze to death."
+		"如果温度值达到&9100&r，你很快会被冻死。"
 		""
-		"Overheating may not seem like a threat at the moment, but be aware that holding certain items, like Lava Buckets, will affect your body temperature."
+		"过热目前似乎还不算什么危险。但要小心，持有某些物品，如熔岩桶时，你的体温会升高。"
 	]
 	quest.6705BECBD94CAAAD.quest_desc: [
 		"With stronger gearing and motors, this &7SAG Mill&r can help you get more from your ores than before. "
@@ -3207,10 +3207,10 @@
 		"Needless to say, this can be a great way to get some &7Snow&r to make &7Ice&r!"
 	]
 	quest.679DACB985517C55.quest_desc: [
-		"The &7Advanced Dropper&r allows for dropping items further away and in more configurable amounts. "
+		"&7高级投物器&r可以将物品扔得更远，且可进行数量配置。"
 		""
-		"&a🛈 Tip: Use the Render Area button to "
-		"&a    easily configure the working area."
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		""
 	]
 	quest.6806970967942788.quest_desc: [
 		"The &7Coffee Maker&r is the work site for the &7Engineer&r villager. In exchange for a hearty breakfast, these villagers will gladly provide you with all the parts you need to start &7making power&r."
@@ -3258,15 +3258,15 @@
 		"&a    by a Relay using the Wololo Glyph!"
 	]
 	quest.692EDEAEC3F4A2AD.quest_desc: [
-		"The &7Swapper&r is a powerful teleportation device that swaps the blocks or entities in front of it with its linked partner. "
+		"&7替换器&r是一个强大的传送装置，可以将前方的方块或实体与绑定的对象互换。"
 		""
-		"This can be a great way to get around your base, teleport long distances, move babies out of a farm, and more. "
+		"这将是个绝妙的方式在你的基地四处移动，远距离传送，将幼崽从农场转移，等等。"
 		""
-		"They must be set up in a linked pair and are bound to each other by using a &7Ferricore Wrench&r."
+		"它们必须成对连接，通过&7核源铁扳手&r进行绑定。"
 		""
-		"Simply place them both, then Right-Click one with the &7Wrench&r. Finish by Right-Clicking the other with the &7Wrench&r. "
+		"只需要同时放置它们，用&7扳手&r右键一个，然后用&7扳手&r右键另一个，这样就能完成绑定。"
 	]
-	quest.692EDEAEC3F4A2AD.title: "Simple Swapper"
+	quest.692EDEAEC3F4A2AD.title: "初级替换器"
 	quest.697E0106FF4F5691.quest_desc: [
 		"&7Ender Resonators&r, despite their prescience, still lack the higher-order thinking capabilities of a conscious mind. "
 		""
@@ -3408,8 +3408,8 @@
 		"&7Tree Harvesting&r"
 		"    &5Projectile&r > &aFell&r"
 		""
-		"&7Conjure Icestone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑冰石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
 		"&a🛈 Tip: Refer to the guide for more examples."
 		""
@@ -3434,40 +3434,40 @@
 		"Use it to build yourself a nice enclosure for your plants that is also functional. "
 	]
 	quest.6DBBD5B744B801B1.quest_desc: [
-		"You'll notice that a number of blocks either cannot be placed in this frigid place or will transform when placed. "
+		"有些方块无法放置在这个冰冷的地方，有些则会在放置后转化为另一种方块。"
 		""
-		"Notably, the following blocks will be transformed if placed by any means, including conjuration!"
+		"值得注意的是，下列方块无论以何种方式放置（包括构筑法术！）都会被转化为对应的方块。"
 		""
 		""
-		"  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r"
-		"  • &7Grass Block&r           &2⟶&r           &7Aether Grass&r"
-		"  • &7Cobblestone&r           &2⟶&r           &7Icestone&r"
-		"  • &7Stone&r                   &2⟶&r           &7Holystone&r"
-		"  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r"
-		"  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r"
-		"  • &7C. Deepslate&r           &2⟶&r           &7Aerogel&r"
-		"  • &7Deepslate&r              &2⟶&r           &7Aerogel&r"
+		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
+		"  • &7草方块&r           &2⟶&r           &7空叶草方块&r"
+		"  • &7圆石&r           &2⟶&r           &7冰石&r"
+		"  • &7石头&r                   &2⟶&r           &7圣石&r"
+		"  • &7沙子&r                    &2⟶&r           &7寒风境云&r"
+		"  • &7沙岩&r             &2⟶&r           &7速沙&r"
+		"  • &7深板岩圆石&r           &2⟶&r           &7气凝胶&r"
+		"  • &7深板岩&r              &2⟶&r           &7气凝胶&r"
 		""
 		"{@pagebreak}"
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Conjure Aether Dirt&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"&7构筑天壤&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
-		"&7Conjure Icestone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑冰石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&7Conjure Holystone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑圣石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a烧炼&r"
 		""
-		"&7Conjure Cold Aercloud&r"
-		"    &5Touch&r > &aConjure Terrain&r > &aCrush&r"
+		"&7构筑寒风境云&r"
+		"    &5触摸&r > &a构筑地层&r > &a粉碎&r"
 		""
-		"&7Conjure Quicksoil&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑速沙&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Aerogel&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑气凝胶&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 	]
 	quest.6DD8DD44D4B70AD4.quest_desc: [
 		"With an &7Addon Splicer&r, it’s possible to compact a set of Addons into a single block, allowing you to make more compact setups for your Oritech machines. "
@@ -3638,15 +3638,15 @@
 		"The front will output a signal when the device has finished a recipe, allowing finer control for small batches."
 	]
 	quest.7163E7EBDB861D72.quest_desc: [
-		"There is no advanced version of the &7Item Collector&r, instead tools at this tier may be given the ability to teleport items to a bound block."
+		"这并没有&7物品拾取器&r的高级版本，但这一等级的工具可以被赋予将物品传送至绑定方块的能力。"
 		""
-		"Running a mob farm? Use a &7Celestigem Sword&r bound to a storage system; all the mob drops will be inserted automatically."
+		"运行一个生物农场？用&7苍穹晶剑&r绑定存储系统，这样所有生物掉落物都会自动存入。"
 		""
-		"Setting up a tree farm? Use a &7Celestigem Axe&r to teleport the logs to storage. "
+		"成立一个树场？用&7苍穹晶斧&r将原木传送至存储中。"
 		""
-		"Farmland tilled with a &7Celestigem Hoe&r will self-harvest and teleport the drops to a bound storage as well."
+		"用&7苍穹晶锄&r开垦的耕地会自动收获，并将掉落物传送至绑定的存储中。"
 	]
-	quest.7163E7EBDB861D72.title: "Advanced Item Collector?"
+	quest.7163E7EBDB861D72.title: "进阶物品拾取器？"
 	quest.7234B1B299DE122D.quest_desc: [
 		"Finally, craft a &7Drygmy Charm&r. "
 		""
@@ -3775,17 +3775,17 @@
 		"[\"For a step-by-step guide to cooling, refer to our \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../pneumaticcraft-heating-and-cooling#advanced-compressors-1\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\".\"]"
 	]
 	quest.76695BF2B0E70087.quest_desc: [
-		"[ \"After a quick jaunt to the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \", you’ll be able to upgrade your \", {\"text\": \"Goo\", \"color\": \"gray\"}, \" to a \", {\"text\": \"Blazebloom Goo\", \"color\": \"gray\"}, \" \" ]"
+		"[ \"在前往\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \"后，你可以将你的\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"升级成\", {\"text\": \"烈焰蕾凝胶\", \"color\": \"gray\"}, \"。\" ]"
 		""
-		"&a🛈 Tip: Higher tier Goos will do all of the "
-		"&a    lower tier’s recipes faster."
+		"&a🛈 提示：高级凝胶兼容所有低级配方。"
 		""
-		"&6⚠ Note: Goo is hungry and needs to be "
-		"&6    fed to work! "
 		""
-		"&6    Right-Click with items to activate it."
-		"&6    To find what items work, search "
-		"&3    #goo_revive_tier_2&r&6 in EMI!"
+		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		""
+		""
+		"&6手持物品右键激活。"
+		"&6在EMI中搜索&3#goo_revive_tier_2&6来查看哪些物品有效！"
+		""
 	]
 	quest.768869D763EC54EB.quest_desc: [
 		"                       &6&nBiome: Deep Dark&r&r"
@@ -3935,13 +3935,13 @@
 		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
 	]
 	quest.78B1BC9540590D17.quest_desc: [
-		"Need a place to store that hard earned experience? "
+		"需要一个用来存来之不易经验的地方吗？"
 		""
-		"Try the &7Experience Holder&r. "
+		"试试&7经验存储器&r。"
 		""
-		"This handy device can be used to keep you at a specific level of experience, as well as storing an incredible amount of experience. "
+		"这个便携装置可以让你保持一定的经验等级，也能存储大量经验。"
 		""
-		"It makes an indispensable addition to any enchanting area. "
+		"它是任何迷人区域中不可或缺的元素。"
 	]
 	quest.78E557B17D1EB84F.quest_desc: [
 		"The Altar uses &7Ambrosium&r as fuel to transmute items. "
@@ -3958,17 +3958,17 @@
 		"Simply place it beneath the Generator block to unlock its full potential."
 	]
 	quest.79951647661D4B52.quest_desc: [
-		"[ \"Face off against a \", {\"text\": \"Warden\", \"color\": \"gray\"}, \" at the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } }, \" to obtain the necessary ingredients required for this tier of \", {\"text\": \"Goo\", \"color\": \"gray\"}, \".\" ]"
+		"[ \"你需要在\",{ \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } },\"与\",{\"text\": \"坚守者\", \"color\": \"gray\"}, \"对峙，才可以获得升级这一等级\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"的重要材料。\" ]"
 		""
-		"&a🛈 Tip: Higher tier Goos will do all of the "
-		"&a    lower tier’s recipes faster."
+		"&a🛈 提示：高级凝胶兼容所有低级配方。"
 		""
-		"&6⚠ Note: Goo is hungry and needs to be "
-		"&6    fed to work! "
 		""
-		"&6    Right-Click with items to activate it."
-		"&6    To find what items work, search "
-		"&3    #goo_revive_tier_4&r&6 in EMI!"
+		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		""
+		""
+		"&6手持物品右键激活。"
+		"&6在EMI中搜索&3#goo_revive_tier_4&6来查看哪些物品有效！"
+		""
 	]
 	quest.799839991CC1DDF9.quest_desc: [
 		"难怪说古老的传说总能引起人们的共鸣。"
@@ -4197,7 +4197,7 @@
 	task.2900F7E8CBB5DD74.title: "Source Storage"
 	task.2914EFBE380196D0.title: "Dense Smart Cables"
 	task.2A7052B5A35B4A22.title: "Occultism Pentacle"
-	task.2B3416E3F3663598.title: "Block Conversions"
+	task.2B3416E3F3663598.title: "方块转化"
 	task.2BEFCB331D1564CF.title: "Any Basic Sophisticated Storage Chest or Barrel"
 	task.2D263309A4FF7233.title: "Energy Upgrades"
 	task.2EFD078D0F36514F.title: "Pattern Provider"
@@ -4214,7 +4214,7 @@
 	task.37CDC8E9B9004A0D.title: "Crafting Storage"
 	task.383830982713CF12.title: "能量输出仓"
 	task.3898E7E189555B8C.title: "Arcane Platforms"
-	task.3A59C49FAF001D7E.title: "Temperature Management"
+	task.3A59C49FAF001D7E.title: "温度管理"
 	task.3B6A2E42A7F4D6C2.title: "专业工具"
 	task.3C9F8F7D407AC253.title: "Sender Modules"
 	task.3D17C42035FE93C1.title: "Fluid Transfer Labels"
@@ -4233,7 +4233,7 @@
 	task.4927D2345C71AAA4.title: "Fluid Storage"
 	task.4AAAB62A26960EFE.title: "Fluid Pipes"
 	task.4D45C5166D0700F8.title: "Item Pipes"
-	task.4EAFCD169CB43E2D.title: "Hearth and Home"
+	task.4EAFCD169CB43E2D.title: "壁炉和家"
 	task.4F21DF4EFC469AAC.title: "流体输出仓"
 	task.4FE55FEB08DFF115.title: "Construction Sticks"
 	task.51C59228A0E0612E.title: "Items"
