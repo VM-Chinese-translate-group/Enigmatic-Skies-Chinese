@@ -17,7 +17,7 @@
 	chapter.67558DB55ADC2157.title: "故事的开端"
 	chapter.70FCD34EEFA2F001.title: "Nature's Aura"
 	chapter.72447ED7D54B4AF7.title: "Vexing Island"
-	chapter.777EE0C4949DFE12.title: "Applied Energistics"
+	chapter.777EE0C4949DFE12.title: "应用能源"
 	chapter.7F17CDF8564DCC49.title: "Genetics: Resequenced"
 	chapter.7F9A789B53FAB216.title: "适应环境"
 	chapter_group.1C7CD605A8DD7732.title: "&b发现"
@@ -46,11 +46,11 @@
 	]
 	quest.016B7CA4A7FC58A1.quest_desc: ["With &7Brass&r, most of Create should now be accessible to you, greatly enhancing your options for automation."]
 	quest.0227D9EC391788D6.quest_desc: [
-		"Tired of looking at exposed cables everywhere?"
+		"厌倦了随处可见的线缆？"
 		""
-		"&7Facades&r may be crafted from most solid blocks and act as a nice cover for cables and cable subparts, making your AE system look like an integrated part of your base."
+		"&7伪装板&r可以由大部分实心方块合成，能够很好的遮盖线缆和线缆组件，让你的AE系统看起来像是基地的一部分。"
 	]
-	quest.0227D9EC391788D6.title: "Cable Facades"
+	quest.0227D9EC391788D6.title: "线缆伪装板"
 	quest.0230942DF53BB9E5.quest_desc: ["下面是可以用来充能物品和装备的方块。"]
 	quest.0230942DF53BB9E5.title: "充能器"
 	quest.03405336161EF1B5.quest_desc: [
@@ -4252,7 +4252,7 @@
 	task.591E8D139882293D.title: "Logistics Frames"
 	task.5A4465B1F1B8673A.title: "Any Machine Addons"
 	task.5ABB5D7B054177D0.title: "能量"
-	task.5CE5C1A8B02B037B.title: "Cable Facades"
+	task.5CE5C1A8B02B037B.title: "线缆伪装板"
 	task.5D8E35699FF69418.title: "Interfaces"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
 	task.5FAB53ACB4BF565C.title: "Fluid Modules"
