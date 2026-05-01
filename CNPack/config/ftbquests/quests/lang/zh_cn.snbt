@@ -1,7 +1,7 @@
 {
 	chapter.083FB2FC095A6686.title: "Flourishing Island"
 	chapter.0A799F91D9A1C8A1.title: "Blazing Island"
-	chapter.0C0D9C8007301C03.title: "Malum"
+	chapter.0C0D9C8007301C03.title: "灵灾"
 	chapter.0EFE9E753A92388D.title: "建筑"
 	chapter.0FF1E0FF9CAD1914.title: "能量"
 	chapter.13C15ACA23526F9E.title: "Replication"
@@ -155,7 +155,7 @@
 		""
 		"这种替换器运行需要能量，但它有更大的操作范围，对农场更实用。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.0554264AE11578D2.quest_desc: [
@@ -655,7 +655,7 @@
 	quest.154F980273016EAF.quest_desc: [
 		"仅需要一点火花，&7蒸汽&r便点燃了&7光以太&r。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -664,7 +664,7 @@
 		""
 		"&7物品拾取器&r会将其中的物品放到附近的库存中，并支持多种方式过滤。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.159F7020B1DE875D.quest_desc: [
@@ -815,14 +815,14 @@
 		""
 		"这只是你至今为止用过的众多&7涡轮机&r中的一台，但你还需要不少这样的涡轮机来满足你&7聚变反应堆&r的产能。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
 	quest.1BAEB780F38B1C56.quest_desc: [
-		"Connect an Access Point to your network, then place a Wireless Terminal inside it to link them and gain wireless access to the entire network."
+		"将一个ME无线访问点接入你的网络，然后将无线终端放在其中进行连接，这样你就可以无线访问你的网络。"
 		""
-		"Greater range will cost more power!"
+		"范围越远，耗能越多！"
 	]
 	quest.1BDCA4CF5ED739BA.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
 	quest.1C21EC957B97C70A.quest_desc: [
@@ -869,7 +869,7 @@
 		""
 		"不过，要使&7涡轮机&r达到这一产能，需要&7超高压等级能量仓&r和线缆。它当然可以使用低级的仓室，但这会导致输出被限制。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -1118,7 +1118,7 @@
 		""
 		"This quest section covers the basics of using the mod. For more in-depth explanations, please refer to the Encyclopedia Arcana."
 	]
-	quest.25B779319401405B.title: "Malum"
+	quest.25B779319401405B.title: "灵灾"
 	quest.26188F1C7EBA08B6.quest_desc: [
 		"Animate a &7Vexing Weald Walker&r and defeat it to obtain &7Eldritch Spirits&r."
 		""
@@ -1163,7 +1163,7 @@
 		""
 		"女子再度降临地面时，陶炉的热量愈发强盛，流溢而出，遍布四野。"
 		""
-		"Forever after, the cold of Winter would give way to the gentle touch of Spring in an endless dance of seasons.  "
+		"自那以后，凛冽之冬后也有温柔之春接替，四季轮回，生生不息。"
 	]
 	quest.2722D0A13CF02C73.quest_desc: ["A &7Source Condenser&r can be a handy way to convert &7Source&r into &7Liquefied Source&r!"]
 	quest.274C351C4A8F794F.quest_desc: ["Positively buzzing with arcane energy. "]
@@ -1189,14 +1189,14 @@
 		"    storm with lightning and thunder."
 	]
 	quest.289A1CE4C4092687.quest_desc: [
-		"&7Interfaces&r are essentially a combined Import/Export Bus."
+		"&7ME接口&r本质上是个集成的输入/输出总线。"
 		""
-		"For example, one might be used to stock coal for a power generator, while a nearby automated wheat farm might send all of its wheat back through the same interface. "
+		"举个例子，一个可能用于为发电机储存煤炭，而附近的小麦农场可以通过同一个ME接口将小麦返回。"
 		""
-		"Their combined nature means getting more done with a single channel."
+		"它们的组合意味着可以用一个频道完成更多工作。"
 		""
-		"&a🛈 Tip: Cable Subparts cannot be "
-		"&a    placed on Dense Cables."
+		"&a🛈提示：线缆组件不能连接致密线缆。"
+		""
 	]
 	quest.289DEC367A80D718.quest_desc: [
 		"这些&7高级&r的设备的运作方式与那些&7初级&r的基本相同，但它们提供了更多功能且需要能量。"
@@ -1205,7 +1205,7 @@
 		""
 		"它们还内置了更强大的过滤系统，因此可以独立完成任务而无需&7传感器&r控制。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.289DEC367A80D718.title: "高级放置和收集器"
@@ -1251,7 +1251,7 @@
 	quest.2961B707783AC925.quest_desc: [
 		"一旦你开始从事能量生产，你会很乐意将&7凝胶&r升级到这个等级。"
 		""
-		"&a🛈 提示：高级凝胶兼容所有低级配方。"
+		"&a🛈提示：高级凝胶兼容所有低级配方。"
 		""
 		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
 		""
@@ -1499,17 +1499,17 @@
 		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
 	]
 	quest.3456EED039818662.quest_desc: [
-		"The &7Quantum Bridge&r is a multiblock used for expanding your network cross-dimensionally. It consists of a ring of eight &7Quantum Rings&r and a &7Quantum Link Chamber&r set in the center."
+		"&7量子桥&r是用于跨纬度拓展网络的一种多方快结构，它由八个&7量子环&r围绕一个&7量子连接仓&r构成。"
 		""
-		"In most cases, you’ll need one at both ends with a linked pair of &7Entangled Singularities&r in each. However, there exists the very handy &7Quantum Bridge Card&r which may be installed in your &7Wireless Terminal&r, allowing it to link up to a &7Quantum Bridge&r as well. "
+		"在大部分情况下，两端都需要一个相互连接的&7量子缠绕态奇点&r。不过，还有个非常方便的&7量子桥卡&r，它可以安装在你的&7无线终端&r中，让其与&7量子桥&r连接。"
 		""
-		"This means infinite cross-dimensional access to your home network at the tips of your fingers!"
+		"这意味着，你只需要动动手指，便可跨纬度与家中的网络进行连接！"
 		""
-		"&a🛈 Tip: Name your Entangled "
-		"&a    Singularities to help you remember "
-		"&a    which ones go where."
+		"&a🛈提示：给你的量子缠绕态奇点命名，这可以让你更好分辨其用途。"
+		""
+		""
 	]
-	quest.3456EED039818662.title: "Quantum Bridge"
+	quest.3456EED039818662.title: "量子桥"
 	quest.34F48A8F71A7C937.quest_desc: [
 		"&7Ender Crates&r represent an upgrade over Ender Chests. Not only can they be accessed by automation and logistics, but they can also be separated into multiple channels based on their name."
 		""
@@ -1720,28 +1720,28 @@
 		"Right-Click any flower with her charm to create their home. Placing more plants and a greater variety of plants in their home will make them happier and more productive. "
 	]
 	quest.3A7AD25302240A1B.quest_desc: [
-		"dAd-Hoc Networks are the simplest form of network in Applied Energistic; they consist of a length of &7Fluix Cable&r and some connected devices such as &7Storage Buses&r and &7Terminals&r."
+		"临时网络是最简单的AE网络形式；它由一段&7福鲁伊克斯色线缆&r和一些连接设备组成，例如&7存储总线&r和&7终端&r。"
 		""
-		"The system will need some power too, which can be provided passively by a &7Crystal Resonance Generator&r, or more actively with an &7Energy Acceptor&r."
+		"该系统也需要一点能量，这些能量可以由&7水晶谐振发电机&r被动提供，也可通过&7能源接收器&r主动提供。"
 		"&n                                                            "
 		""
-		"Set up a simple Ad-Hoc Network using the items you’ve gathered and the rewards from this quest. "
+		"利用你收集到的物品和本次任务奖励，搭建一个临时网络吧。"
 		""
-		"1. Place a &7Storage Bus&r against each &7Barrel&r and "
-		"   connect them all with &7Fluix Cables&r. "
+		"1. 在每个&7桶&r旁放置&7存储总线&r并都用&7福鲁伊克斯色线缆&r连接。"
 		""
-		"2. Place the &7Crafting Terminal&r anywhere on the "
-		"   &7Fluix Cables&r."
 		""
-		"3. Finally, attach your preferred source of "
-		"   power. "
+		"2. 将&7合成终端&r放置在&7福鲁伊克斯色线缆&r上的任意位置。"
 		""
-		"If done correctly, you should now have access to the contents of all six &7Barrels&r and be able to craft using their contents at the &7Terminal&r."
 		""
-		"&6⚠ Note: An Ad-Hoc Network can have up to eight"
-		"&6    connections in total."
+		"3. 最后，按你的想法提供能量。"
+		""
+		""
+		"如果操作正确，那么你应该可以看到六个&7桶&r中的内容，并可以用其在&7终端&r里制作物品。"
+		""
+		"&6⚠ 提示：一个临时网络最多可以建立八个连接。"
+		""
 	]
-	quest.3A7AD25302240A1B.title: "Ad-Hoc Networks"
+	quest.3A7AD25302240A1B.title: "临时网络"
 	quest.3B609B8A4DE93B53.quest_desc: [
 		"Build a &7Melon&r farm and set your Alakarkinos to work making &7Melon Balls&r!"
 		""
@@ -1809,27 +1809,27 @@
 		"The Fuel is also vital to the production of Steel, which will open numerous doors for you."
 	]
 	quest.3CA4472228D0F866.quest_desc: [
-		"By adding an &7ME Controller&r to a network, we gain access to far more channels; 32 per side, in fact. "
+		"将&7ME控制器&r接入网络，我们可以获得更多的频道——每个面提供32频道。"
 		""
-		"It doesn’t stop there, either. Multiple &7ME Controllers&r can be built together to form a larger multiblock structure with each exposed face giving you 32 more channels to work with. "
+		"还不止如此，多个&7ME控制器&r可以相互连接形成更大的多方快结构，每个外露面都可以提供32频道。"
 		""
-		"Building such a multiblock must follow these rules:"
+		"建造多方快结构需要遵循以下规则："
 		""
-		"  1. All controller blocks on a "
-		"     network must be connected"
+		"1.同一网络中的所有控制器方块必须连接在一起"
 		""
-		"  2. The total size cannot exceed "
-		"     7x7x7"
 		""
-		"  3. A controller can have two "
-		"     adjacent blocks in at most 1 axis"
+		"2.总大小不能超过7x7x7"
 		""
-		"The &7AE Guide&r goes into greater technical details for those interested and includes helpful images!"
 		""
-		"&a🛈 Tip: Use an ME Network Analyzer to "
-		"&a    debug channels on your network!"
+		"3.控制器只能在最多1个轴向方向上有2个相邻方块"
+		""
+		""
+		"&7AE指南&r为感兴趣的人提供更多技术细节，并附有有用的图片！"
+		""
+		"&a🛈提示：可以使用ME网络分析仪调试网络频道！"
+		""
 	]
-	quest.3CA4472228D0F866.title: "ME Networks"
+	quest.3CA4472228D0F866.title: "ME网络"
 	quest.3CBA1384BD3D28ED.quest_desc: [
 		"This workstation allows the &7Wixie&r to craft &7Furnace&r recipes. "
 		""
@@ -1861,7 +1861,7 @@
 	quest.3D59639F51E89CF9.quest_desc: [
 		"&7高级点击器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.3D6441ECF951BAD4.quest_desc: [
@@ -2004,9 +2004,9 @@
 	]
 	quest.3ED6754FC6B0A36D.title: "Just Dire Tools"
 	quest.3F021EBB71F4BC70.quest_desc: [
-		"&7Smart Cables&r are identical to their covered counterparts, with one small addition: they display the number of channels passing through them directly on their surface."
+		"&7智能线缆&r与其包层版本相同，但有个小小的附加功能：它们会在表面直接显示频道数量。"
 		""
-		"These are an excellent way to help you keep track of the number of channels in use, as you can visually trace back where they’re coming from. "
+		"这是帮助你跟踪使用中的频道数量的绝佳方式，因为你可以追溯到这些频道的来源。"
 	]
 	quest.3F20E7D7E1C07311.quest_desc: [
 		"Give this little guy a pail, a shovel, and a little snack and it’ll happily get to work for you. "
@@ -2179,9 +2179,9 @@
 		"                     15                         15000"
 	]
 	quest.45B1C10885F542A7.quest_desc: [
-		"Item Storage Cells handle any type of item. You’ll likely want quite a few of these to handle everything you have. "
+		"物品存储元件可以存储任意类型的物品，你可能需要不少才能妥善保管所有物品。"
 		""
-		"Start small, you can always upgrade to large cells later!"
+		"从小开始，以后你可以随时升级更大的元件！"
 	]
 	quest.45E411460C53A082.quest_desc: [
 		"Materials may be greatly enhanced by infusing them with one or more &7Spirit&r types and this &7Altar&r is the key to performing such operations. "
@@ -2458,11 +2458,11 @@
 		"  • &7Otherworld Ashes&r"
 	]
 	quest.51233852CD921F79.quest_desc: [
-		"&7Drives&r act as compact storage capable of holding tens of thousands of items."
+		"&7驱动器&r作为紧凑存储设备，可以存储成千上万的物品。"
 		""
-		"A single drive may contain up to 10 &7Storage Cells&r, each with their own capacity and limitations. "
+		"单个驱动器可以存储最多10个&7存储元件&r，每个元件有独自的容量和限制。"
 		""
-		"Cells may also be filtered in a &7Cell Workbench&r, allowing you to dictate exactly what materials will be stored on that cell. "
+		"元件也可以在&7元件工作台&r中进行过滤，让你精确控制哪些物品可以存储在这个元件上。"
 	]
 	quest.513BDF32A8F6EF45.quest_desc: [
 		"Alakarkinos is eager and ready to assist! "
@@ -2499,12 +2499,12 @@
 	quest.5226F1BC0A1B23D0.title: "Cascading Island"
 	quest.529329FE6CB3D29E.quest_desc: ["Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. "]
 	quest.52E79B2EB7400D13.quest_desc: [
-		"&7Terminals&r grant you visibility into the network and allow you to manually interact with the contents."
+		"&7终端&r让你可以访问网络，让你和其中的物品交互。"
 		""
-		"&7Crafting Terminals&r also have a built in crafting grid, making them the better choice most of the time."
+		"&7合成终端&r内置了工作台，因此大多情况下它们都是更好的选择。"
 		""
-		"&a🛈 Tip: Cable Subparts cannot be "
-		"&a    placed on Dense Cables."
+		"&a🛈提示：线缆组件不能连接致密线缆。"
+		""
 	]
 	quest.537EDDC45D94BDE4.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
 	quest.53CE92319716971B.quest_desc: [
@@ -2526,7 +2526,7 @@
 	quest.55065F1D9C6716C1.quest_desc: [
 		"&7高级传感器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.5550423B6E6BDBAF.quest_desc: [
@@ -2549,21 +2549,21 @@
 	]
 	quest.56AD6E7F12056140.title: "Shady Wizard"
 	quest.56DDD2327724F715.quest_desc: [
-		"&7Cables&r come in a variety of sizes and colors to suit your needs. "
+		"&7线缆&r有不同的颜色与尺寸供你选择。"
 		""
-		"Different colors of cable will not interconnect, meaning they can be easily run alongside each other without risk. "
+		"不同颜色的线缆不会相互连接，这意味着它们可以轻松的并排铺设而无需担心风险。"
 		""
-		"&7Fluix Cables&r, on the other hand, will connect to any other cable."
+		"另一方面，&7福鲁伊克斯色线缆&r可以连接任何其他线缆。"
 		""
-		"&7Glass&r and &7Covered Cables&r can support up to eight channels, while &7Dense Cables&r can carry a full 32 channels. "
+		"&7玻璃&r和&7包层线缆&r最多可以传输8个频道，而&7致密线缆&r可以传输全部32个频道。"
 		""
-		"Typically, these would be run from an &7ME Controller&r with smaller cables branching off where needed."
+		"通常来说，这些线缆会通过&7ME控制器&r，在需要时使用较小的线缆分支。"
 		""
-		"&a🛈 Tip: Cable Anchors may be used to "
-		"&a    prevent connections between"
-		"&a    cables."
+		"&a🛈提示：线缆锚用来阻止两条线缆之间进行连接。"
+		""
+		""
 	]
-	quest.56DDD2327724F715.title: "Cables"
+	quest.56DDD2327724F715.title: "线缆"
 	quest.56EDBF31457D8112.quest_desc: [
 		"The Aura Detector may be read with a Comparator to determine how much Aura is in the area. "
 		""
@@ -2597,29 +2597,29 @@
 		"&6    Spell Book or Spell Parchment to set a spell."
 	]
 	quest.579C07CD07599438.quest_desc: [
-		"In order to autocraft anything, AE needs a CPU to manage the craft. These are multi-block constructions composed of up to three components."
+		"为了自动合成物品，AE需要一个CPU来管理合成。这些是由三个部分组成的多方块结构。"
 		""
-		"The multi-block itself must contain at least one Storage Unit and must be a rectangular prism."
+		"这种多方块本身必须包含至少一个合成存储器，而且必须是长方体。"
 		""
-		"One CPU is needed for each simultaneous craft request."
+		"每个同时进行的制造请求都需要一个CPU。"
 		""
-		"• Crafting Storage: Used to store all "
-		"  the items required for the craft. "
-		"  More than one may be used."
+		"•合成存储器：存储合成所需的所有材料。可以使用多个。"
 		""
-		"• Crafting Co-Processor: Optional. "
-		"  Allows the CPU to send out batches "
-		"  more often."
 		""
-		"• Crafting Units: Optional. Cheap filler "
-		"  blocks to meet the shape "
-		"  requirements."
 		""
-		"• Crafting Monitor: Optional. Displays "
-		"  the request a CPU is currently "
-		"  handling."
+		"•并行处理单元：可选。让CPU更频繁的发送材料批次。"
+		""
+		""
+		""
+		"•合成单元：可选。廉价的填充块，以满足形状需求。"
+		""
+		""
+		""
+		"•合成监控器：可选。显示CPU当前处理的任务。"
+		""
+		""
 	]
-	quest.579C07CD07599438.title: "Crafting CPUs"
+	quest.579C07CD07599438.title: "合成CPU"
 	quest.5859B0217F1C837A.quest_desc: ["With an Aura Attraction Cart, Aura may be pulled from a centralized Generator and dispersed throughout an area to power machines that might be too far away to otherwise benefit from the Generator. "]
 	quest.58A275DB77CDF7F8.quest_desc: [
 		"Malum adds several special drops from mobs that are only obtainable with an appropriate weapon. "
@@ -2755,16 +2755,16 @@
 	quest.5D74493BC797D6F0.title: "Wicked Spirit"
 	quest.5D97DDB66F470605.quest_desc: ["Neptunium tools and armor are Unbreakable, making the tools quite useful in farms. "]
 	quest.5DF0502B194247F9.quest_desc: [
-		"Ever wanted to transfer Source around your base through your AE system? Perhaps you’d like more Source storage than Source Jars can easily accommodate? "
+		"你是否想过用AE系统转移魔源？或者是与魔源罐相比，可以轻松存储更多魔源的存储空间？"
 		""
-		"Source Storage Cells are the answer. "
+		"魔源存储元件便是答案。"
 		""
-		"By combining these with an ME Source Jar you can import and export Source anywhere you need it while storing vast amounts of the stuff in your system for future use. "
+		"将这些元件与ME魔源罐结合使用，你可以随时随地按需输入输出魔源，同时将大量魔源存储在系统中以备不时之需。"
 		""
-		"&a🛈 Tip: Place an ME Source Jar nearby "
-		"&a    where Source is needed, then "
-		"&a    transport it with a Relay to a "
-		"&a    regular Source Jar for use. "
+		"&a🛈提示：将ME魔源罐放在需要魔源的地方，然后用中转器传输到常规魔源罐以供使用。"
+		""
+		""
+		""
 	]
 	quest.5E4077F317135E34.quest_desc: [
 		"As the woman awoke on the newly formed earth, alone and surrounded by unfamiliar sights. Her belly rumbled and she knew hunger. Her people were gone and she knew fear. She shed tears for what was lost."
@@ -2777,16 +2777,16 @@
 	]
 	quest.5E4077F317135E34.title: "Taking Root"
 	quest.5E581FAC8D96FC22.quest_desc: [
-		"The &7Molecular Assembler&r is a simple auto crafter that will repeatedly craft whatever recipe has been set in an installed Pattern. Items may be piped in and the results will be auto exported into an adjacent inventory. "
+		"&7分子装配室&r是一款简单的自动化合成器，它可以根据样板终端设置好的配方重复合成。物品可以通过管道输入，结果会自动输出到相邻的库存。"
 		""
-		"These can be an excellent early way to automate basic crafting tasks. "
+		"这是早期基础合成自动化的最好方式。"
 		""
-		"&a🛈 Tip: Molecular Assemblers need "
-		"&a    power but do not consume a "
-		"&a    channel, allowing many to be set up "
-		"&a    on an Ad-Hoc Network for power "
-		"&a    while external pipes passively feed "
-		"&a    them crafting materials."
+		"&a🛈提示：分子装配室需要能量但不占用频道，所以可以在临时网络中放置多个来获取能量，同时用外部管道被动提供材料。"
+		""
+		""
+		""
+		""
+		""
 	]
 	quest.5E727F7B600E0E91.quest_desc: [
 		"The &7Dissolution Chamber&r combines multiple ingredients with some type of fluid. "
@@ -2825,7 +2825,7 @@
 		""
 		"使用&7进阶大型蒸汽锅炉&r来提升你的能量产出。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -2839,7 +2839,7 @@
 		""
 		"在EMI中，查看控制器方块（即&7大型蒸汽锅炉&r方块）的用途便可知道这个结构所需的其他方块。注意，所列的方块可被仓室替代。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -2985,29 +2985,29 @@
 	]
 	quest.62C7492F54D80CBA.title: "我为刀俎"
 	quest.62E2DEBF71698376.quest_desc: [
-		"&7Import&r, &7Export&r, and &7Storage Buses&r are your primary interface with the network. "
+		"&7输入&r，&7输出&r，和&7存储总线&r是你网络中的主要接口。"
 		""
-		"&7Import&r and &7Export Buses&r act as one might expect, pulling items into, or pushing them out of the network. "
+		"&7输入&r和&7输出总线&r的作用正如其名，可以将物品输入网络或从网络中输出。"
 		""
-		"&7Storage Buses&r, on the other hand, effectively make the attached inventory a part of the network; anything in it can be accessed by the network and it can be used to store anything coming into the network."
+		"另一方面，&7存储总线&r可以让连接的库存变为网络的一部分；网络可以访问其中的内容，它也可以用来存储网络中的内容。"
 		""
-		"&a🛈 Tip: Cable Subparts cannot be "
-		"&a    placed on Dense Cables."
+		"&a🛈提示：线缆组件不能连接致密线缆。"
+		""
 	]
 	quest.631AA5AAA6EF687C.quest_desc: [
-		"&7Pattern Providers&r are the network's means of interfacing with crafting machines, both to insert crafting materials and to receive the crafting result. "
+		"&7样板供应器&r是网络与制作机器交互的方式，既可以输入制作材料，也可接受制作的结果。"
 		""
-		"For basic crafting patterns, such as you'd do at a &7Crafting Table&r, the &7Pattern Provider&r must be placed next to one or more &7Molecular Assemblers&r. "
+		"对于基础的合成样板，例如你在&7工作台&r的合成，&7样板供应器&r需要被放在一个或多个&7分子装配室&r旁。"
 		""
-		"For machine crafting, or processing patterns, the &7Provider&r should be placed facing that machine on a side where the machine can accept inputs. "
+		"对于机器制作或处理样板，&7供应器&r需要放置在机器可以输入输出的一侧，面朝机器。"
 		""
-		"It can also feed into any type of inventory, allowing you to route items from there. For example, an array of &7Furnaces&r could be fed by a single &7Provider&r pushing into a &7Barrel&r. Pipes would then carry items and distribute them amongst the Furnaces, as well as return the results back to the &7Pattern Provider&r."
+		"它还可以接入任何形式的库存，让你可以向其发送物品。例如，一组&7熔炉&r可以通过一个&7供应器&r提供原料，将原料输入&7桶&r中，管道可以运送物品并将其分配到熔炉中，同时将产物返回到&7样板供应器&r中。"
 		""
-		"&a🛈 Tip: Consider using a Subnet for "
-		"&a    machines that need fluids and items "
-		"&a    delivered to separate faces!"
+		"&a🛈提示：对于需要将流体或物品分配到不同面的机器，可以考虑使用子网！"
+		""
+		""
 	]
-	quest.631AA5AAA6EF687C.title: "Autocrafting"
+	quest.631AA5AAA6EF687C.title: "自动合成"
 	quest.6384F08466CA9FB9.quest_desc: [
 		"The &7Redstone Aura Vaporizer&r is, quite simply, a clock. "
 		""
@@ -3209,7 +3209,7 @@
 	quest.679DACB985517C55.quest_desc: [
 		"&7高级投物器&r可以将物品扔得更远，且可进行数量配置。"
 		""
-		"&a🛈 提示：点击显示区域按钮，这可以让配置工作区域更方便。"
+		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
 		""
 	]
 	quest.6806970967942788.quest_desc: [
@@ -3535,7 +3535,7 @@
 		""
 		"每台&7锅炉&r最高生产等价于8kEU/t的&7高压蒸汽&r，这意味着需要两台&7锅炉&r才能使一台&7热交换机&r达到最高产量。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -3577,18 +3577,18 @@
 		"Once everything is connected, toss some items in the &7Disintegrator&r. The matter will automatically flow out from this machine and be stored in the &7Matter Tank&r. From here, it's available to other machines for use. "
 	]
 	quest.6F8C048404EAF9FF.quest_desc: [
-		"Autocrafting is a central part of Applied Energistics, allowing it to perform all of the sub-crafting required for a requested item. "
-		"Naturally, this becomes very helpful when dealing with more complicated crafts from other mods. "
+		"自动合成是AE的核心组成部分，它可以处理所需物品的所以子合成过程。"
+		"当然，这对处理其他模组的复杂工艺会十分有用。"
 		""
-		"In order to craft anything automatically, the system must first be taught a pattern. These patterns are configured at the &7Pattern Encoding Terminal&r."
+		"要自动合成任何物品，你必须让系统学会其样板。这些样板可以在&7样板编码终端&r中配置。"
 		""
-		"Configured &7Patterns&r must then be put into a &7Pattern Provider&r. This can be done directly at the &7Provider&r, but a &7Pattern Access Terminal&r also gives you access to all of them in a single place for easy management."
+		"配置好的&7样板&r必须被放进&7样板供应器&r。你可以直接在&7供应器&r处完成，但&7样板管理终端&r可以让你在一个地方轻松管理所有样板。"
 		"&n                                                  &r"
 		""
-		"We won’t fully cover Autocrafting in the quests here; it’s already explained quite well in the AE Guidebook. We will touch on a few key pieces, however."
+		"我们并不会在这个任务里全面介绍自动化，这在AE指南中已被详细说明。不过，我们会提及几个要点。"
 		""
-		"&a🛈 Tip: Cable Subparts cannot be "
-		"&a    placed on Dense Cables."
+		"&a🛈提示：线缆组件不能连接致密线缆。"
+		""
 	]
 	quest.6FC31B3806BF222A.quest_desc: [
 		"The &7Thermal Compressor&r uses heat differentials to produce compressed air up to &710 bar&r. "
@@ -3704,7 +3704,7 @@
 		""
 		"最高效率：&n592&r"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
+		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
 		""
 		""
 	]
@@ -3777,7 +3777,7 @@
 	quest.76695BF2B0E70087.quest_desc: [
 		"[ \"在前往\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \"后，你可以将你的\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"升级成\", {\"text\": \"烈焰蕾凝胶\", \"color\": \"gray\"}, \"。\" ]"
 		""
-		"&a🛈 提示：高级凝胶兼容所有低级配方。"
+		"&a🛈提示：高级凝胶兼容所有低级配方。"
 		""
 		""
 		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
@@ -3960,7 +3960,7 @@
 	quest.79951647661D4B52.quest_desc: [
 		"[ \"你需要在\",{ \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } },\"与\",{\"text\": \"坚守者\", \"color\": \"gray\"}, \"对峙，才可以获得升级这一等级\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"的重要材料。\" ]"
 		""
-		"&a🛈 提示：高级凝胶兼容所有低级配方。"
+		"&a🛈提示：高级凝胶兼容所有低级配方。"
 		""
 		""
 		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
@@ -4035,9 +4035,9 @@
 		"[ \"Head on over to the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to begin. \" ]"
 	]
 	quest.7BEC7AF0176EA162.quest_desc: [
-		"Fluid Storage Cells are often best used by locking their type in a Cell Workbench and dedicating a cell to each fluid you wish to store. "
+		"流体存储元件最好在元件工作台中锁定其类型，并将你想存储的流体专门分配一个元件。"
 		""
-		"For fluids that may be generating endlessly, such as Lava or Water, an Overflow Destruction Card can be a handy way to keep your Interfaces from clogging as any excess will simply be voided."
+		"对于可以持续生产的流体，例如熔岩和水，使用溢出销毁卡可以销毁多余的流体，防止堵塞。"
 	]
 	quest.7C1E4DDAAA75E58F.quest_desc: [
 		"Oritech’s &7Item Pipes&r offer limited logistics and filtering, perfect for point-to-point transfers. "
@@ -4071,13 +4071,13 @@
 		"&a    valid locations for them."
 	]
 	quest.7D82585D50D7207A.quest_desc: [
-		"Welcome to Applied Energistics, a powerful logistics and storage mod with fully integrated autocrafting capable of interfacing with most any other mod."
+		"欢迎游玩应用能源，这是一款强大的物流和存储模组，它完全集成了自动化内容，能够与绝大多数其他模组兼容。"
 		""
-		"The following chapter will take you through getting started with this mod as well as some basic concepts. "
+		"这一章节将带你了解如何使用此模组，以及一些基础概念。"
 		""
-		"We recommend that you also check out the guides and tutorials built into the mod’s own &7Guide&r."
+		"我们建议你也可以查看模组自带的&7指南&r来查看指引与教程。"
 	]
-	quest.7D82585D50D7207A.title: "Applied Energistics"
+	quest.7D82585D50D7207A.title: "应用能源"
 	quest.7D8AEEB13B201CFB.quest_desc: [
 		"These highly advanced processors will enable creating a powerful AE2 system to assist in crafting and stock management."
 		""
@@ -4166,7 +4166,7 @@
 	task.01BD7546106B0EB9.title: "Magical Shards"
 	task.0219421FBD8DB647.title: "Just Dire Upgrades"
 	task.03DF0245816D38A4.title: "Wilden Meat"
-	task.073DDF6031485D23.title: "Covered Cables"
+	task.073DDF6031485D23.title: "包层线缆"
 	task.0767C8200D0389A6.title: "Essences"
 	task.083303CA128E5B22.title: "Fluid Output Hatch"
 	task.0BB96E58A01F180D.title: "Fluid Input Hatch"
@@ -4182,7 +4182,7 @@
 	task.1A49508B81A230E6.title: "Observation: &2Altar of Birthing&r"
 	task.1B81285E0D45A226.title: "Any Tool"
 	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
-	task.1E437E1BEE76E5FF.title: "Terminals"
+	task.1E437E1BEE76E5FF.title: "终端"
 	task.1E4E5D2B9B36005C.title: "Brilliant Blocks"
 	task.20B6CC540E82D042.title: "Pedestals"
 	task.210DF794EE1D714A.title: "Observation: &2Wixie's Stonecutter&r"
@@ -4194,13 +4194,13 @@
 	task.24F2BEBFC964C83B.title: "Knives"
 	task.24FDDE2CC71EBC7A.title: "Logistics"
 	task.264F4FA6B354C01A.title: "Observation: &2Wixie's Enchanting Apparatus&r"
-	task.2900F7E8CBB5DD74.title: "Source Storage"
-	task.2914EFBE380196D0.title: "Dense Smart Cables"
+	task.2900F7E8CBB5DD74.title: "魔源存储"
+	task.2914EFBE380196D0.title: "致密线缆"
 	task.2A7052B5A35B4A22.title: "Occultism Pentacle"
 	task.2B3416E3F3663598.title: "方块转化"
 	task.2BEFCB331D1564CF.title: "Any Basic Sophisticated Storage Chest or Barrel"
 	task.2D263309A4FF7233.title: "Energy Upgrades"
-	task.2EFD078D0F36514F.title: "Pattern Provider"
+	task.2EFD078D0F36514F.title: "样板供应器"
 	task.2F65A10B08073D6D.title: "Spirit Crucible Augments"
 	task.31508ACE862B4A9A.title: "Tokens"
 	task.31B1D4D0DBFCDCD6.title: "Runewood Pedestals"
@@ -4211,7 +4211,7 @@
 	task.35F8589774CE48D9.title: "Arcane Pedestals"
 	task.360DFCFD6400CADB.title: "Latex Materials"
 	task.36D658D637E5D847.title: "Storage Systems"
-	task.37CDC8E9B9004A0D.title: "Crafting Storage"
+	task.37CDC8E9B9004A0D.title: "合成存储器"
 	task.383830982713CF12.title: "能量输出仓"
 	task.3898E7E189555B8C.title: "Arcane Platforms"
 	task.3A59C49FAF001D7E.title: "温度管理"
@@ -4230,7 +4230,7 @@
 	task.47D22C2E34E9A099.title: "Sourcelinks"
 	task.484FF1BEA9145D5F.title: "Puller Modules"
 	task.488180E25D5B815A.title: "Anti-Fields"
-	task.4927D2345C71AAA4.title: "Fluid Storage"
+	task.4927D2345C71AAA4.title: "流体存储"
 	task.4AAAB62A26960EFE.title: "Fluid Pipes"
 	task.4D45C5166D0700F8.title: "Item Pipes"
 	task.4EAFCD169CB43E2D.title: "壁炉和家"
@@ -4243,17 +4243,17 @@
 	task.54F9AD36E2BEBF47.title: "Neptunium Tools and Armor"
 	task.5726FC2C852F6F2B.title: "充能器"
 	task.573110BB52169A48.title: "Observation: &2Wixie's Furnace&r"
-	task.576CB5FB3B8A46A6.title: "Smart Cables"
-	task.57961EA9F4FC3596.title: "Processors"
+	task.576CB5FB3B8A46A6.title: "智能线缆"
+	task.57961EA9F4FC3596.title: "处理器"
 	task.57BE29AB834A63FE.title: "Just Dire Armor"
 	task.58162F4C2BB35BA4.title: "Mercurial Fluid Transporters"
-	task.582472ED7BA0A212.title: "Item Storage"
+	task.582472ED7BA0A212.title: "物品存储"
 	task.5887027FAE29F371.title: "Addon: Processing"
 	task.591E8D139882293D.title: "Logistics Frames"
 	task.5A4465B1F1B8673A.title: "Any Machine Addons"
 	task.5ABB5D7B054177D0.title: "能量"
 	task.5CE5C1A8B02B037B.title: "线缆伪装板"
-	task.5D8E35699FF69418.title: "Interfaces"
+	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
 	task.5FAB53ACB4BF565C.title: "Fluid Modules"
 	task.5FD033C23F211569.title: "Picking Up What You're Putting Down"
@@ -4261,13 +4261,13 @@
 	task.60A606EEBA68E86C.title: "流体输出仓"
 	task.60BB29288D966B49.title: "Any &3Macaw's&r Item"
 	task.62742836108A45A3.title: "Addon: Efficiency"
-	task.664C79E935ED1414.title: "Glass Cables"
-	task.676C8DE6C246D422.title: "AE Power"
+	task.664C79E935ED1414.title: "玻璃线缆"
+	task.676C8DE6C246D422.title: "AE能量"
 	task.684AE1845DD8C662.title: "Pre-Programmed Drones "
 	task.6C573946ECF532BC.title: "Soul Shattering Weapons"
 	task.6D1A048396918DF0.title: "Fluids"
 	task.6DE11EA8A586D544.title: "Item Output Hatch"
-	task.70531464F6943384.title: "Pattern Terminals"
+	task.70531464F6943384.title: "样板终端"
 	task.71A479E92219AB03.title: "流体输入仓"
 	task.71EFA0C693ACD330.title: "Item Transfer Labels"
 	task.7361E2FFBFB27FD7.title: "流体输出仓"
@@ -4283,5 +4283,5 @@
 	task.7C0E5A805AE1132B.title: "学习模组"
 	task.7CDDB3E6855989E2.title: "Soul Shattering Weapons"
 	task.7E422D4A867340A6.title: "Any Functional Storage Drawer"
-	task.7FC1B66AFF268BF8.title: "Dense Covered Cables"
+	task.7FC1B66AFF268BF8.title: "致密包层线缆"
 }
