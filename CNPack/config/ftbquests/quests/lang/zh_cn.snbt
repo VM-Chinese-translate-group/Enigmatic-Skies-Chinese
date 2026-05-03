@@ -509,9 +509,9 @@
 	quest.128449F277949E31.quest_desc: [
 		"Placing a &7Repair Pylon&r near an active &7Spirit Crucible&r will allow you to keep an installed &7Impetus&r repaired and working at it’s best. "
 		""
-		"The &7Repair Pylon&r will need appropriate materials, of course, which are detailed in EMI. It can equally be used to repair many items you might otherwise repair on an Anvil. "
+		"当然，&7修复基柱&r需要合适的材料才能进行修复，具体配方可在EMI中查询。它同样可以用来修复许多在铁砧上修复的物品。"
 		""
-		"For such items, you’ll want to place them in an Item Stand or Item Pedestal nearby."
+		"对于这种物品，你需要把它们放置在附近的物品台或物品基座中。"
 	]
 	quest.12E0E45FC08A5912.quest_desc: ["&7无线玩家充能器&r可以在小范围内给你身上的设备充电。"]
 	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]"]
@@ -843,12 +843,12 @@
 		"This system can be a great way to speed up things like the &7Cooking Pot&r and the &7Natural Altar&r, among others."
 	]
 	quest.1C83B47F599B117A.quest_desc: [
-		"So far, we’ve dabbled with magics of the Soul. To delve deeper, we will need to stare into the void itself."
+		"目前为止，我们已涉足了灵魂的魔法。要想再进一步深入，我们就必须凝视虚空本身。"
 		"&n                                                  "
 		""
-		"Locate a Weeping Well and throw your Encyclopedia Arcana into it to obtain the necessary knowledge. "
+		"找到一座哭泣之井，并将你的奥术全典丢进去，来获得必要的知识。"
 		""
-		"Once you've transformed your Encyclopedia, you'll find a new chapter listed within: &dThe Chronicles of the Void&r"
+		"在全典转化之后，你会发现多出了一个新章节：&d虚空通史&r"
 	]
 	quest.1C9565D5C51B74CC.quest_desc: [
 		"With a &7Cell Analyzer&r and &7DNA Extractor&r, you're ready to begin breaking down the &7Organic Matter&r you've been collecting to obtain the &7DNA&r within. "
@@ -883,9 +883,9 @@
 		"The label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r."
 	]
 	quest.1CF0D1E63C34AE6E.quest_desc: [
-		"&7Spirit Catalyzers&r help speed up the &7Spirit Crucible&r. Simply place them nearby and fill them with your choice of furnace fuel."
+		"&7精魂催化器&r能加速&7精魂坩埚&r。只需将它们放置在附近，并填入指定熔炉燃料即可。"
 		""
-		"Speeding up the &7Crucible&r in this way will cause the &7Impetus&r to take damage faster as well, but the trade-off is well worth the risk."
+		"以此方式加速&7坩埚&r的同时，也会导致&7促符&r耐久消耗加快，但这种方式算是利大于弊。"
 	]
 	quest.1CF4103BFBCE0E29.quest_desc: [
 		"With an &7Imbuement Chamber&r, you can begin accessing new islands, each with its own unique block transformations and resources. "
@@ -988,14 +988,14 @@
 		"  • &7Cinder Flour&r"
 	]
 	quest.1E0B03155C2CAEE7.quest_desc: [
-		"Spirit Focusing is an alchemical art whereby a catalyst item, or &7Impetus&r, is infused with &7Spirits&r to generate new materials. "
+		"精魂聚焦算得上是一种炼金术，通过向催化剂物品（即&7促符&r）中灌注&7精魂&r来生成新材料。"
 		"&n                                                  "
 		""
-		"For a start, craft an &7Alchemical Impetus&r and slot it into the &7Crucible&r. Depending on the &7Spirits&r inserted alongside the Impetus, you will begin to generate new materials."
+		"首先，制作一个&7炼金促符&r并将其放入&7坩埚&r，再加入精魂，根据放入&7精魂&r的不同，将会开始生成不同的新材料。"
 		""
-		"The &7Impetus&r will be damaged in the process and will eventually fracture, however there are ways to repair them to keep this process going indefinitely."
+		"此过程中&7促符&r会消耗耐久，最后会碎掉，但也有办法修复它们，让这个过程得以无限持续。"
 	]
-	quest.1E0B03155C2CAEE7.title: "Spirit Focusing"
+	quest.1E0B03155C2CAEE7.title: "精魂聚焦"
 	quest.1E514F5A18364625.quest_desc: [
 		"Finally, craft yourself a &7Whirlisprig Charm&r. These items may be Right-Clicked on any flower to make a home for your new friend."
 		""
@@ -1114,9 +1114,9 @@
 		"Items, such as &7Sky Stone Dust&r, may be Right-Clicked into the &7Distiller&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing."
 	]
 	quest.25B779319401405B.quest_desc: [
-		"Welcome to Malum, a magic mod designed around the manipulation of spirits to invoke powerful rituals."
+		"欢迎来到灵灾，这是一个以操控精魂来施行强力仪式为核心的魔法模组。"
 		""
-		"This quest section covers the basics of using the mod. For more in-depth explanations, please refer to the Encyclopedia Arcana."
+		"此任务章节涵盖了模组使用的基础知识。如需更深入了解，请参阅奥术全典。"
 	]
 	quest.25B779319401405B.title: "灵灾"
 	quest.26188F1C7EBA08B6.quest_desc: [
@@ -1261,29 +1261,29 @@
 		""
 	]
 	quest.2A7455D9EE649BA4.quest_desc: [
-		"Totemic Magic allows the intrepid sorcerer to create effects in an area and can produce some rather unique effects. "
+		"图腾魔法能让勇敢的术士创造出一些独特的范围效果。"
 		""
-		"For example, the Rite of Sapping allows Dripstone to work more quickly, while the Rite of the Seas enhances one’s fishing abilities while standing in the area."
+		"例如，抽液仪式能让滴水石锥滴水速度加快，而潮汐仪式则能增强区域内玩家的钓鱼能力。"
 		"&n                                                             "
 		""
-		"Setting up a totem is a straightforward endeavor. Simply place a Runewood Totem Base and then place a number of Runewood logs atop it in a column. The number of logs required will depend on the specific ritual."
+		"建造图腾的方式并不复杂。只需放置一个符文木图腾基座，然后在其上放置若干符文原木。所需原木的数量取决于具体的仪式。"
 		""
-		"Encoding the glyphs requires you to Right-Click the logs with the appropriate Spirit. "
+		"用相应的精魂右击原木就可以刻写符文。"
 		""
-		"For the Rite of Sapping we would need four logs. Right-Click each log from top to bottom with &9Aqueous&r, &9Aqueous&r, &dArcane&r, and &5Eldritch&r. "
+		"例如，在抽液仪式中需要四根原木，从上到下依次用&9碧水&r、&9碧水&r、&d奥术&r和&5邪术&r右击。"
 		""
-		"Finally, Right-Click the base to activate the ritual."
+		"最后，右击基座就可以激活仪式。"
 		""
-		"These rituals, once activated, require no maintenance nor upkeep. "
+		"仪式激活后无需维护或持续供应。"
 		""
-		"Check the Encyclopedia Arcana for an in depth description of each rite and a list of the glyphs required to encode it. "
+		"查阅奥术全典以了解每种仪式的详细描述，以及它所需要刻写的符文列表。"
 		""
-		"Setting up Wicked Rites can be an excellent way to help farm more Spirits."
+		"建造邪恶仪式是获取更多精魂的绝佳方式。"
 		""
-		"&a🛈 Tip: A Totemic Staff will display a totem's "
-		"&a    working area when held."
+		"&a🛈 提示：手持图腾法杖时，会显示图腾的工作区域。"
+		""
 	]
-	quest.2A7455D9EE649BA4.title: "Totemic Magic"
+	quest.2A7455D9EE649BA4.title: "图腾魔法"
 	quest.2AA352D00D86DCC3.quest_desc: [
 		"With an &7Aerial Interface&r, you gain remote access to your own inventory. "
 		""
@@ -1524,19 +1524,19 @@
 	]
 	quest.34FB10F0A2504973.title: "Shepherd"
 	quest.359562022532BAE1.quest_desc: [
-		"Spirit Infusion is used to enhance items and materials, granting them greater potency. "
+		"精魂灌注用于强化物品和材料，加强它们的效果。"
 		"&n                                                   &r"
-		"To begin, let’s make some Soulstained Steel. "
+		"开始让我们制造一些魂染钢吧。"
 		""
-		"When viewing Spirit Altar recipes in EMI, the central item and the Spirits shown to the left should be insterted onto the Altar itself. "
+		"EMI的精魂祭坛的配方中，中间的物品和显示在左侧精魂应放置在祭坛本身之上。"
 		""
-		"Any items shown on the right must be instered into a nearby Item Pedestal or Item Stand. "
+		"显示在右侧的其他物品必须放在附近的物品基座或物品台中。"
 		""
-		"Items may be piped into the these blocks, or otherwise Right-Clicked into place when crafting by hand."
+		"可以通过管道把物品送入物品基座中，或者在合成时手动右击放入。"
 		""
-		"&6⚠ Note: Item Stands and Pedestals "
-		"&6    must be within four blocks of "
-		"&6    the Altar."
+		"&6⚠ 注意：物品台和物品基座必须在祭坛的四格"
+		"&6    之内。"
+		""
 	]
 	quest.359A7C9127500D6C.quest_desc: ["A simple &7Furnace&r, despite the cold, should protect that precious heat well enough to get started."]
 	quest.35A8CEA408114638.quest_desc: [
@@ -1561,13 +1561,13 @@
 	]
 	quest.363AB8EC195285BE.quest_desc: ["&7Sludge Refiners&r sort all the gunk fed into them to create more useful materials, such as &7Soul Sand&r, &7Clay&r, and &7Rich Soil&r. "]
 	quest.369D0F2CC8D028D2.quest_desc: [
-		"The &7Spirit Crucible&r may be further augmented by placing up to four &7Augments&r on it and one &7Core Augment&r. Each nearby &7Catalyzer&r may be similarly augmented with a single &7Augment&r of your choosing."
+		"在&7精魂坩埚&r上放置最多四个&7增强件&r和一个&7核心增强件&r，可以进一步加强它。类似地，附近的每个&7精魂催化器&r也可以用&7增强件&r进行增强。"
 		""
-		"The same augment may be used more than once, however it may be best to mix and match them to achieve the desired results. "
+		"相同的增强件可以使用多次，但最好将它们混合搭配以达到理想的效果。"
 		""
-		"Holding a &7Tuning Fork&r in your hand will display the total effect of all installed augments. "
+		"手持&7调谐音叉&r会显示所有已安装增强件的总效果。"
 		""
-		"Right-Clicking the &7Crucible&r with the &7Tuning Fork&r will also allow you to select one modifier that will receive an even greater boost."
+		"用&7调谐音叉&r右击&7坩埚&r，还可以选择一个修饰项，进行额外加强。"
 	]
 	quest.36A18D327A03810B.quest_desc: [
 		"那口&7哭泣之井&r对你十分慷慨，你唯一能给它的，只有自己。"
@@ -1770,14 +1770,14 @@
 		"&a🛈 提示：EU可直接转化为FE！"
 	]
 	quest.3BF1CB7CDDA99856.quest_desc: [
-		"Working with spirits is a messy business, both physically and mentally. "
+		"与精魂打交道是件麻烦事，无论是从身体上还是精神上。"
 		""
-		"You’ll need proper materials to have any hope of mastering this magic, and that all starts with Soulstone. "
+		"只有选择了合适的材料才有希望掌握这种魔法，而一切都从灵魂石开始。"
 		"&n                                                  "
 		""
-		"We’ll learn ways to further refine this later. "
+		"我们稍后会学到进一步精炼它的方法。"
 		""
-		"For now, start digging and locate some Soulstone Ore. You’ll need to smelt this to obtain Refined Soulstone."
+		"就现在而言，去挖掘一些灵魂石矿石，然后烧炼它以获得精制灵魂石。"
 	]
 	quest.3BF458796782EB49.quest_desc: [
 		"The &7Cybernetics Station&r allows you to research and install various bio-mechanical enhancements into your body to provide you with permanent buffs and new abilities. "
@@ -2289,14 +2289,14 @@
 		"For recipes with multiple fluid outputs, be sure to stack &7Refinery Chamber Modules&r atop the Refinery to get the extra outputs."
 	]
 	quest.48B6E6CDBFFD77A7.quest_desc: [
-		"Runes may be imbued with powerful effects that become active when worn. Equipping them, however, requires an appropriate receptacle. "
+		"符文可以注入强大的效果，佩戴时就会激活。然而，只有合适的容器才能装备它们。"
 		"&n                                                  "
 		""
-		"Begin by crafting a Runic Brooch. Once equipped, it will allow you to equip two Runes of your choice. "
+		"从制作符文胸针开始。装备后可以让你佩戴两个自选的符文。"
 		""
-		"Runes themselves are crafted on the Runic Workbench. This is done easily enough by clicking the central recipe item onto the Workbench, followed by the required Spirits."
+		"符文本身是在符文工作台上合成的，只需把配方中间的物品放到工作台上，然后提供所需的精魂即可。"
 	]
-	quest.48B6E6CDBFFD77A7.title: "Runeworking"
+	quest.48B6E6CDBFFD77A7.title: "符文工艺"
 	quest.48C487AF892A80B2.quest_desc: [
 		"一旦你将凝胶升级为&7虚空辉凝胶&r，你就可以开始将你的燃料改进成&7虚炎燃料&r。"
 		""
@@ -2622,13 +2622,13 @@
 	quest.579C07CD07599438.title: "合成CPU"
 	quest.5859B0217F1C837A.quest_desc: ["With an Aura Attraction Cart, Aura may be pulled from a centralized Generator and dispersed throughout an area to power machines that might be too far away to otherwise benefit from the Generator. "]
 	quest.58A275DB77CDF7F8.quest_desc: [
-		"Malum adds several special drops from mobs that are only obtainable with an appropriate weapon. "
+		"灵灾为生物添加了几种特殊掉落物，只能用特定的武器获得。"
 		""
-		"Normally, you will want to start by crafting a &7Crude Scythe&r, however if you’ve already progressed in some other mods, you may find that you’ve already got a weapon capable of harvesting these materials. "
+		"一般来说，都是从合成一把&7粗制镰刀&r开始的，但是如果你已经在其他模组中有所进展，你可能会发现你已经拥有了一把能获取这些材料的武器。"
 		""
-		"&a🛈 Tip: A Soulwoven Pouch will "
-		"&a    auto-collect these drops, keeping "
-		"&a    your inventory clean!"
+		"&a🛈 提示：魂织布袋会自动收集这些掉落物"
+		"&a    注意整理好你的物品栏！"
+		""
 	]
 	quest.58A3F58B7F1C580B.quest_desc: [
 		"The &7Large Settling Tank&r is a multiblock version of the &7Settling Tank&r capable of processing in larger batches. "
@@ -2683,12 +2683,12 @@
 		"&a    extra wires!"
 	]
 	quest.5A74D7EFD6AD1EAC.quest_desc: [
-		"Slaughtering mobs with a &7Soul Shattering Weapon&r will cause Spirit Aspects to drop These are useful for many crafts in Malum, so pay attention to what mobs drop which Spirit Aspects."
+		"用&7碎魂武器&r击杀生物会掉落精魂碎晶。这在灵灾中的许多合成都有用到，所以要注意哪种生物掉落哪种精魂碎晶。"
 		""
-		"Check the Info tab in EMI on each Spirit Aspect to see where to obtain it."
+		"在EMI中查看每种精魂碎晶的信息选项卡，了解从何处获得它们。"
 		""
-		"&a🛈 Tip: Spirit Jars can hold an "
-		"&a    enormous number of Spirits!"
+		"&a🛈 提示：精魂罐可以容纳"
+		"&a    巨量的精魂！"
 	]
 	quest.5AC80FA3683D9E45.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
 	quest.5AD1A273F3714FAF.quest_desc: [
@@ -2773,7 +2773,7 @@
 		""
 		"The woman ate her fill and sang her praises to the animals. With her heart full of company, she brushed her tears away. They spread across the sky where they glistened and became stars. With her belly full of nourishment, she pressed the roots into the newly formed earth. They flourished in the soil and multiplied."
 		""
-		"As she wandered the new earth, she sang to the animals and they adored her. When her hunger returned, the animals fed her. Each place she visited, she pressed roots into the ground. Each place, they flourished and multiplied. The land grew lush and was filled with new life.  "
+		"女子在新生的大地上行走，歌声伴随左右，诸兽倾心相随。她再次感到饥饿时，诸兽为她献上口粮。每到新的地点，女子将根茎植入土壤。由此，根茎滋长繁盛。由此，大地葱茏，万象竞发。"
 	]
 	quest.5E4077F317135E34.title: "Taking Root"
 	quest.5E581FAC8D96FC22.quest_desc: [
@@ -3305,7 +3305,7 @@
 		""
 		"She soared until at last, she plunged her walking stick into the burning heights."
 	]
-	quest.6A4DD846F7E08FD6.title: "Borrowed Flame"
+	quest.6A4DD846F7E08FD6.title: "盗取火种"
 	quest.6A8ACE8E9B7A056D.quest_desc: [
 		"As the woman plummeted into the sea, the animals rushed to her knowing she would surely perish without a place to rest."
 		""
@@ -3607,18 +3607,18 @@
 		"They come with a basic program that allows them to perform one task automatically and with no further oversight. "
 	]
 	quest.710D7615763E9945.quest_desc: [
-		"Oaths and vows have power, though they come at a cost. "
+		"誓言和誓约具有力量，但它们需要付出代价。"
 		""
-		"The &7Soulbinding Brazier&r is used to enter in to such a pact, the details of which may be found within the Encyclopedia Arcana. "
+		"用&7魂缚火盆&r宣告誓令，具体细节可在奥术全典中找到。"
 		""
-		"Choose carefully, as breaking your pact is not done easily. "
+		"谨慎选择，因为收回誓令并不容易。"
 		"&n                                                  "
 		""
-		"To start the ritual, place the central item in the brazier, followed by all the items listed around it in the recipe. If done correctly, all the items will go from circling around the brazier to circling above it. "
+		"开始仪式的方法是，将展示在配方中的中间物品放入火盆，然后放入旁边的其他物品。如果操作正确，所有物品会从围绕旋转变为在火盆上方旋转。"
 		""
-		"Once the items are ready, ignite the brazier by Right-Clicking with Ether. Finally, Right-Click the brazier one final time and wait for the animation to finish. "
+		"物品准备好后，用灵火右击以点燃火盆。最后再右击火盆，等待动画完成。"
 	]
-	quest.710D7615763E9945.title: "Geasa"
+	quest.710D7615763E9945.title: "誓令"
 	quest.714379744B3CF395.quest_desc: [
 		"The first few &7Gold Ingots&r you make should go towards making an &7Imbuement Chamber&r. "
 		"&n                                                                          &r"
@@ -4110,9 +4110,9 @@
 		"它只输出中压能量，所以你要么更换接线，要么用&7变压器&r将两个网络连起来。"
 	]
 	quest.7F445C22C528AC1F.quest_desc: [
-		"Runewood Obelisks are used to accelerate the Spirit Altar, so crafting a few should be a high priority. "
+		"符文木方尖碑用于加速精魂祭坛，最好尽早制作。"
 		""
-		"As many as four Obelisks may be used to speed up crafting, with each one reducing the total crafting time. "
+		"最多可使用四个方尖碑来加速合成，每一个都能减少总合成时间。"
 	]
 	quest.7F829A1BFED304D0.quest_desc: [
 		"What’s magic without some functional devices powered by it? "
@@ -4176,7 +4176,7 @@
 	task.10DFCCF8FA5D5505.title: "Aura Generators"
 	task.116CBCF6CA77E71A.title: "Syringe"
 	task.122BA8ACC6374460.title: "Item Pedestals"
-	task.1291CAC439E06D6C.title: "Rune"
+	task.1291CAC439E06D6C.title: "符文"
 	task.14C95C2344B5DC59.title: "Catalysts"
 	task.15D7325C0C904192.title: "Any Small Flower"
 	task.1A49508B81A230E6.title: "Observation: &2Altar of Birthing&r"
@@ -4189,7 +4189,7 @@
 	task.2249B1CA280D4531.title: "谜之天空"
 	task.225508B5F690C310.title: "流体输入仓"
 	task.23CDBB8A570B6689.title: "Blocks Obtained from Sludge"
-	task.2404D63C45135601.title: "Spirit Aspects"
+	task.2404D63C45135601.title: "精魂碎晶"
 	task.241DC4DBEF1C8648.title: "Observation: &2Wixie Cauldron&r"
 	task.24F2BEBFC964C83B.title: "Knives"
 	task.24FDDE2CC71EBC7A.title: "Logistics"
@@ -4201,9 +4201,9 @@
 	task.2BEFCB331D1564CF.title: "Any Basic Sophisticated Storage Chest or Barrel"
 	task.2D263309A4FF7233.title: "Energy Upgrades"
 	task.2EFD078D0F36514F.title: "样板供应器"
-	task.2F65A10B08073D6D.title: "Spirit Crucible Augments"
+	task.2F65A10B08073D6D.title: "精魂坩埚增强件"
 	task.31508ACE862B4A9A.title: "Tokens"
-	task.31B1D4D0DBFCDCD6.title: "Runewood Pedestals"
+	task.31B1D4D0DBFCDCD6.title: "符文木基座"
 	task.328C56BA23A70B8F.title: "Power"
 	task.34E6ED3A221ADB0E.title: "Just Dire Tools"
 	task.358F07DD4EF00930.title: "Item Pipes"
@@ -4264,7 +4264,7 @@
 	task.664C79E935ED1414.title: "玻璃线缆"
 	task.676C8DE6C246D422.title: "AE能量"
 	task.684AE1845DD8C662.title: "Pre-Programmed Drones "
-	task.6C573946ECF532BC.title: "Soul Shattering Weapons"
+	task.6C573946ECF532BC.title: "碎魂武器"
 	task.6D1A048396918DF0.title: "Fluids"
 	task.6DE11EA8A586D544.title: "Item Output Hatch"
 	task.70531464F6943384.title: "样板终端"
