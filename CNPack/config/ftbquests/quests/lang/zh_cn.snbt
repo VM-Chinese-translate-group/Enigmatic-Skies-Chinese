@@ -2769,7 +2769,7 @@
 	quest.5E4077F317135E34.quest_desc: [
 		"女子在新生的大地上苏醒时，发现自己孤身一人，举目皆是陌生的景象。女子听到自己的肚肠饥鸣，由此始知饥饿的滋味。女子清楚难以再见同伴，由此有了害怕的感受。泪连成线，女子为失去的往昔而伤感。"
 		""
-		"百兽不忍见女子饥饿，送来根茎让她果腹。又见女子孤身一人，于是围拢上来，给予安慰。"
+		"动物们见女子饥饿，便送来根茎让她果腹。又见女子孤身一人，于是纷纷围拢来安慰女子。"
 		""
 		"The woman ate her fill and sang her praises to the animals. With her heart full of company, she brushed her tears away. They spread across the sky where they glistened and became stars. With her belly full of nourishment, she pressed the roots into the newly formed earth. They flourished in the soil and multiplied."
 		""
@@ -2844,13 +2844,13 @@
 		""
 	]
 	quest.6030BA17DB9228F2.quest_desc: [
-		"One day the woman found herself in the North and few animals remained with her. "
+		"又一天，女子猛觉自己已身处北方，仍在跟随的动物寥寥无几。"
 		""
-		"Here, the land was covered in deep snow and frozen in ice. Here, the woman’s wanderings slowed; she knew she had not the strength of body to traverse the land. She watched as the animals burrowed into the snow to stay warm and she did as they did. "
+		"天地间银装素裹，女子前行的脚步越来越慢。她意识到自己的体力正在流失，已不足以穿越这片地界。她见看到动物们钻入雪地取暖，便效仿它们，也将自己埋进了雪堆。"
 		""
-		"There she sat, and there she reflected on her travels. "
+		"她在雪中静坐，回想自己旅程中的点点滴滴。"
 		""
-		"The North Wind began to blow, strong and cold, and the world stood still."
+		"地面上，北风开始呼啸，强劲而寒冷。一切仿佛静止了。"
 	]
 	quest.6030BA17DB9228F2.title: "Snowed Under"
 	quest.605A60825B68C2D7.quest_desc: [
@@ -3046,7 +3046,7 @@
 		"            &aSmelt&r > &6Sensitive&r > &aItem Pickup&r"
 	]
 	quest.63A7E92BBCEDF461.quest_desc: [
-		"All too soon, the woman felt she must move on. She headed into the South and the animals came with her."
+		"又一天，女子觉得该继续上路了。这次她来到了南方，诸兽依然陪伴左右。"
 		""
 		"Here, forests gave way to wetlands, wetlands to sand-strewn shores. The woman, seeing how the animals swam along the winding waterways, made a canoe to follow them.  When she grew tired, she lay down amongst the sandy dunes of the coast to rest. When she grew unclean, she bathed in the warm waters of the seas. "
 		""
@@ -3299,7 +3299,7 @@
 		""
 		"Higher and higher, up and up. She soared until at last she approached the Sun."
 		""
-		"When the light grew bright and her eyes could not see, the Autumn winds guided her."
+		"日光变得刺眼，女子双目难以睁开。秋风前来为她指引方向。"
 		""
 		"日光变得滚烫，烈火炙烤女子身躯。冬风前来为她提供庇佑。"
 		""

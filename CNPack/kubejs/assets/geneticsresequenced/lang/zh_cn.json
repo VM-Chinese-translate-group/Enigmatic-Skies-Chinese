@@ -1,13 +1,13 @@
 {
-    "gene.geneticsresequenced.frost_proof": "Frost Proof",
-    "info.gene.geneticsresequenced.frost_proof": "Makes you immune to cold damage.",
+    "gene.geneticsresequenced.frost_proof": "辟寒",
+    "info.gene.geneticsresequenced.frost_proof": "使你免疫寒冷伤害。",
 
-    "gene.geneticsresequenced.wilden": "Wilden",
-    "info.gene.geneticsresequenced.wilden": "Grants the magical potency of Wilden beasts.",
+    "gene.geneticsresequenced.wilden": "荒野族裔",
+    "info.gene.geneticsresequenced.wilden": "赋予你荒野野兽的魔法力量。",
 
-    "gene.geneticsresequenced.wilden_4": "Wilden IV",
-    "info.gene.geneticsresequenced.wilden_4": "Grants the magical potency of the Wilden Chimera.",
+    "gene.geneticsresequenced.wilden_4": "荒野族裔 IV",
+    "info.gene.geneticsresequenced.wilden_4": "赋予你荒野奇美拉的魔法威能。",
 
-    "gene.geneticsresequenced.stone_skin": "Stone Skin",
-    "info.gene.geneticsresequenced.stone_skin": "Your skin hardens, granting you extra armor."
+    "gene.geneticsresequenced.stone_skin": "石肤",
+    "info.gene.geneticsresequenced.stone_skin": "硬化自身皮肤，获得额外护甲值。"
 }

@@ -1,13 +1,13 @@
 {
-    "block.mi_tweaks.dilapidated_boiler": "Dilapidated Boiler",
-    "rei_categories.mi_tweaks.dilapidated_boiler": "Dilapidated Boiler",
+    "block.mi_tweaks.dilapidated_boiler": "破旧锅炉",
+    "rei_categories.mi_tweaks.dilapidated_boiler": "破旧锅炉",
 
-    "block.mi_tweaks.settling_tank": "Settling Tank",
-    "rei_categories.mi_tweaks.settling_tank": "Settling Tank",
+    "block.mi_tweaks.settling_tank": "沉淀池",
+    "rei_categories.mi_tweaks.settling_tank": "沉淀池",
 
-    "block.mi_tweaks.large_settling_tank": "Large Settling Tank",
-    "rei_categories.mi_tweaks.large_settling_tank": "Large Settling Tank",
+    "block.mi_tweaks.large_settling_tank": "大型沉淀池",
+    "rei_categories.mi_tweaks.large_settling_tank": "大型沉淀池",
 
-    "block.mi_tweaks.snack_packer": "Snack Packer",
-    "rei_categories.mi_tweaks.snack_packer": "Snack Packer"
+    "block.mi_tweaks.snack_packer": "零食打包机",
+    "rei_categories.mi_tweaks.snack_packer": "零食打包机"
 }

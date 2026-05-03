@@ -1,7 +1,7 @@
 {
-    "item.actuallyadditions.lens_of_the_miner": "Lens of Hikaru",
-    "booklet.actuallyadditions.chapter.lensMining": "Lens of Hikaru",
-    "booklet.actuallyadditions.chapter.lensMining.text.1": "The <item>Lens of Hikaru<r> can <imp>create ores<r> out of blocks in its sight. <n>When the laser hits a <item>block of stone<r>, it will convert it into <imp>different overworld ores<r>, whereas a <item>block of netherrack<r> will be converted into <imp>nether ores<r>. <n>Each operation uses <imp><energy> CF<r>, however each operation requires <imp>additional power<r> depending on the rarity of the ore that is generated.",
-    "jei.actuallyadditions.mining_lens": "Lens of Hikaru",
-    "actuallyadditions.configuration.minerLensEnergy": "Lens of Hikaru Energy"
+    "item.actuallyadditions.lens_of_the_miner": "光之透镜",
+    "booklet.actuallyadditions.chapter.lensMining": "光之透镜",
+    "booklet.actuallyadditions.chapter.lensMining.text.1": "<item>光之透镜<r>可以将方块<imp>转化为矿石<r>。<n>当激光击中<item>石头方块<r>时，会将它转化为<imp>不同的主世界矿石<r>，而击中<item>下界岩方块<r>则会转化为<imp>下界矿石<r>。<n>每次操作消耗<imp><energy>CF<r>能量，并根据生成矿石的稀有度<imp>额外消耗能量<r>。",
+    "jei.actuallyadditions.mining_lens": "光之透镜",
+    "actuallyadditions.configuration.minerLensEnergy": "光之透镜耗能"
 }
