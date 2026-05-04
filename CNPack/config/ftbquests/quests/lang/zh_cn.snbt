@@ -15,7 +15,7 @@
 	chapter.5957A1DE2E537AC3.title: "PneumaticCraft"
 	chapter.5C2F675CD8139E11.title: "Ars Nouveau"
 	chapter.67558DB55ADC2157.title: "故事的开端"
-	chapter.70FCD34EEFA2F001.title: "Nature's Aura"
+	chapter.70FCD34EEFA2F001.title: "自然灵气"
 	chapter.72447ED7D54B4AF7.title: "Vexing Island"
 	chapter.777EE0C4949DFE12.title: "应用能源"
 	chapter.7F17CDF8564DCC49.title: "Genetics: Resequenced"
@@ -155,8 +155,8 @@
 		""
 		"这种替换器运行需要能量，但它有更大的操作范围，对农场更实用。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.0554264AE11578D2.quest_desc: [
 		"The &7Pressure Chamber&r is a multiblock crafting interface that uses compressed air to operate. Items are passed in and extracted from the &7Interfaces&r while Air is provided through the &7Valve&r. "
@@ -483,12 +483,12 @@
 		""
 		"当方块完全被&7凝胶&r吞噬后，它们将会被晶簇取代，挖掉晶簇便可获得转化后的材料。"
 		""
-		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		"&6⚠ 注意：凝胶饿了，需要喂食才能工作！"
 		""
 		""
 		"&6手持物品右键激活。"
-		"&6在EMI中搜索&3#goo_revive_tier_1&6来查看哪些物品有效！"
-		""
+		"&6    在EMI中搜索&3#goo_revive_tier_1&6来查看"
+		"&6    哪些物品有效！"
 	]
 	quest.123BB918DF6E3936.quest_desc: [
 		"Looking for a more traditional set of pipes? These pipes from Oritech should get the job done. "
@@ -507,7 +507,7 @@
 		"It works best if you create one pattern per matter type."
 	]
 	quest.128449F277949E31.quest_desc: [
-		"Placing a &7Repair Pylon&r near an active &7Spirit Crucible&r will allow you to keep an installed &7Impetus&r repaired and working at it’s best. "
+		"将&7促符&r放在&7修复基柱&r上后，放在激活的&7精魂坩埚&r附近，就可以修复它，并使其在最佳工作状态。"
 		""
 		"当然，&7修复基柱&r需要合适的材料才能进行修复，具体配方可在EMI中查询。它同样可以用来修复许多在铁砧上修复的物品。"
 		""
@@ -655,8 +655,8 @@
 	quest.154F980273016EAF.quest_desc: [
 		"仅需要一点火花，&7蒸汽&r便点燃了&7光以太&r。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.157A20804F9E8F83.quest_desc: [
@@ -664,8 +664,8 @@
 		""
 		"&7物品拾取器&r会将其中的物品放到附近的库存中，并支持多种方式过滤。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.159F7020B1DE875D.quest_desc: [
 		"Want to bring your new friends with you? "
@@ -763,22 +763,22 @@
 	]
 	quest.1A2B5BCA37161B1A.title: "Wixie Enchanting"
 	quest.1AB4455F15DF1F84.quest_desc: [
-		"The &7Natural Altar&r is the primary Aura consuming device you'll be using."
+		"&7自然祭坛&r是你最常用的核心灵气消耗装置。"
 		""
-		"Think of Aura like Oxygen and Carbon Dioxide. When you breathe, you inhale Oxygen and exhale Carbon Dioxide. Do that enough without renewing the Oxygen and you will die."
+		"你可以把灵气想象成氧气和二氧化碳：人呼吸时，吸入氧气、呼出二氧化碳。若只消耗氧气却不补充，最终就会走向死亡。"
 		""
-		"Aura is your Oxygen. "
+		"灵气，就是你的氧气。"
 		""
-		"There are &7Aura Generators&r to replenish it, but it is a finite resource that requires upkeep. Use too much and terrible things will start to happen."
+		"&7灵气生成器&r可以补充灵气，但灵气本质是一种需要悉心维护的有限资源。一旦过度消耗，可怕的事情便会接踵而至。"
 		""
-		"Luckily, the &7Natural Altar&r will simply stop working if Aura gets too low. Other devices, however, can drain it away completely. "
+		"万幸的是，一旦灵气过低，&7自然祭坛&r就会直接停止工作。但其他装置却能将灵气彻底耗尽。"
 		""
-		"The &7Book of Natural Aura&r goes into more details on this mysterious force."
+		"&7自然灵气之书&r会为你详细讲解这股神秘能量。"
 		"&n                                                              &r"
 		""
-		"This device requires a multiblock structure to function. "
+		"该装置需搭建多方块结构才能正常运作。"
 		""
-		"Refer to the &7Book of Natural Aura&r for a preview of block placement."
+		"你可以参考&7自然灵气之书&r，提前查看方块的摆放方式。"
 	]
 	quest.1ABB07894781F511.quest_desc: [
 		"By setting up some &7Powder of Fertility&r near your animals, you can keep them happy and breeding at the cost of Aura instead of food. "
@@ -815,8 +815,8 @@
 		""
 		"这只是你至今为止用过的众多&7涡轮机&r中的一台，但你还需要不少这样的涡轮机来满足你&7聚变反应堆&r的产能。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.1BAEB780F38B1C56.quest_desc: [
@@ -869,8 +869,8 @@
 		""
 		"不过，要使&7涡轮机&r达到这一产能，需要&7超高压等级能量仓&r和线缆。它当然可以使用低级的仓室，但这会导致输出被限制。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.1CEDA28FD4CB759E.quest_desc: [
@@ -1084,9 +1084,9 @@
 	quest.235D7EF41916E480.quest_desc: ["The following are various forms of power transfer options available in Enigmatica 10."]
 	quest.235D7EF41916E480.title: "Power"
 	quest.23DDFBC0DB19F6A4.quest_desc: [
-		"When placed beneath any Aura using blocks, the Aura Imbalance Ward will prevent the device from consuming Aura into dangerous territory. "
+		"将灵气失衡护符放置在任意消耗灵气的方块下方，就能防止该装置过度消耗灵气，避免灵气值跌入危险阈值。"
 		""
-		"Consider placing one beneath most Aura Using Devices as soon as possible. Some of them can consume Aura at a startling rate!"
+		"建议你尽快在大多数耗灵气装置下方都放上一个。有些装置耗灵气的速度快得吓人！"
 	]
 	quest.23ED7167CB856D26.quest_desc: [
 		"Magic doesn’t come out of thin air, of course. What madness!"
@@ -1157,7 +1157,7 @@
 		"&a    the bottom."
 	]
 	quest.26D35A0B06B5EA35.quest_desc: [
-		"火苗舔舐着女子的手杖，四风将她带回地面。"
+		"她的手杖渐渐燃作灰烬，四风将她送回大地的怀抱"
 		""
 		"她小心翼翼地将火苗送入特制的陶炉中。火焰得到了滋养，渐渐地变得旺盛。"
 		""
@@ -1195,7 +1195,7 @@
 		""
 		"它们的组合意味着可以用一个频道完成更多工作。"
 		""
-		"&a🛈提示：线缆组件不能连接致密线缆。"
+		"&a🛈 提示：线缆组件不能连接致密线缆。"
 		""
 	]
 	quest.289DEC367A80D718.quest_desc: [
@@ -1205,8 +1205,8 @@
 		""
 		"它们还内置了更强大的过滤系统，因此可以独立完成任务而无需&7传感器&r控制。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.289DEC367A80D718.title: "高级放置和收集器"
 	quest.28ACDB98DC2B9D41.quest_desc: [
@@ -1251,14 +1251,14 @@
 	quest.2961B707783AC925.quest_desc: [
 		"一旦你开始从事能量生产，你会很乐意将&7凝胶&r升级到这个等级。"
 		""
-		"&a🛈提示：高级凝胶兼容所有低级配方。"
+		"&a🛈 提示：高级凝胶兼容所有低级配方。"
 		""
-		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		"&6⚠ 注意：凝胶饿了，需要喂食才能工作！"
 		""
 		""
 		"&6手持物品右键激活。"
-		"&6在EMI中搜索&3goo_revive_tier_3&6来查看哪些物品有效！"
-		""
+		"&6    在EMI中搜索&3#goo_revive_tier_3&6来查看"
+		"&6    哪些物品有效！"
 	]
 	quest.2A7455D9EE649BA4.quest_desc: [
 		"图腾魔法能让勇敢的术士创造出一些独特的范围效果。"
@@ -1505,17 +1505,17 @@
 		""
 		"这意味着，你只需要动动手指，便可跨纬度与家中的网络进行连接！"
 		""
-		"&a🛈提示：给你的量子缠绕态奇点命名，这可以让你更好分辨其用途。"
-		""
+		"&a🛈 提示：给你的量子缠绕态奇点命名，这可以让"
+		"&a   你更好分辨其用途。"
 		""
 	]
 	quest.3456EED039818662.title: "量子桥"
 	quest.34F48A8F71A7C937.quest_desc: [
-		"&7Ender Crates&r represent an upgrade over Ender Chests. Not only can they be accessed by automation and logistics, but they can also be separated into multiple channels based on their name."
+		"&7末影板条箱&r是末影箱的进阶升级版。它不仅支持自动化与物流系统接入，还能根据命名划分多个独立存储频道。"
 		""
-		"To set a channel, place the &7Crate&r in an &7Anvil&r with an &7Eye of Ender&r, then set a name. The name becomes the channel and any other &7Crate&r with the same name will share the same inventory."
+		"想设定频道的话，就把&7末影板条箱&r和一颗&7末影之眼&r一起放进&7铁砧&r里，再给它命名就行。这个名字就会成为专属频道，所有同名的&7末影板条箱&r都会共享同一个物品栏。"
 		""
-		"Additionally, an &7Ender Ocular&r may be used to remotely access the &7Ender Crate&r. Rename it the same way as the &7Crate&r to set the channel. "
+		"除此之外，你还能用&7末影目镜&r远程访问&7末影板条箱&r。只要和&7板条箱&r命名一致，就能绑定对应频道。"
 	]
 	quest.34FB10F0A2504973.quest_desc: [
 		"Buy a &7Loom&r to gain access to a &7Shepherd Villager&r. "
@@ -1528,7 +1528,7 @@
 		"&n                                                   &r"
 		"开始让我们制造一些魂染钢吧。"
 		""
-		"EMI的精魂祭坛的配方中，中间的物品和显示在左侧精魂应放置在祭坛本身之上。"
+		"EMI的精魂祭坛的配方中，中间的物品和显示在左侧的精魂应放置在祭坛本身之上。"
 		""
 		"显示在右侧的其他物品必须放在附近的物品基座或物品台中。"
 		""
@@ -1540,17 +1540,17 @@
 	]
 	quest.359A7C9127500D6C.quest_desc: ["A simple &7Furnace&r, despite the cold, should protect that precious heat well enough to get started."]
 	quest.35A8CEA408114638.quest_desc: [
-		"As mentioned, Aura is a finite resource that must be maintained. "
+		"正如之前所说，灵气是一种有限资源，必须用心维持。"
 		""
-		"Fortunately, there are multiple generators available for doing so. "
+		"好在，你可以使用多种灵气生成器来补充灵气。"
 		""
-		"Each has its advantages and disadvantages and each uses unique inputs to operate. Typically speaking, the easier it is to obtain the inputs, the less Aura they’ll generate. "
+		"每种生成器都各有优劣，运作时所需材料也各不相同。一般来说，材料越好获取，生成器产出的灵气就越少。"
 		""
-		"For some high output options, take a look at the &2Shooting Mark&r, &2Firecracker Gaze&r, or &2Lingering Absorber&r. "
+		"想要更高灵气产量，可以看看&2射击标靶&r、&2烟火凝望&r或是&2滞留型吸收器&r。"
 		""
-		"If you just need a little Aura for a small contraption, you might be fine with an &2Herbivorous Absorber&r or &2Swamp Homi&r."
+		"如果你的小型装置只需要少量灵气，用&2草食性吸收器&r或者&2沼泽之霍米&r就够用了。"
 		""
-		"All of these are detailed in the &7Book of Natural Aura&r, so be sure to refer to their entries for specific information on setting them up.  "
+		"这些内容在&7自然灵气之书&r中均有详细说明，如需了解具体搭建方法，请查阅对应条目。"
 	]
 	quest.35FD905A4A4EB1F5.quest_desc: [
 		"Pretty Pipes: Fluids is an addon to Pretty Pipes which allows the network to carry fluids in addition to items. The same network will effectively carry both, allowing everything to flow through a single block space. "
@@ -1563,7 +1563,7 @@
 	quest.369D0F2CC8D028D2.quest_desc: [
 		"在&7精魂坩埚&r上放置最多四个&7增强件&r和一个&7核心增强件&r，可以进一步加强它。类似地，附近的每个&7精魂催化器&r也可以用&7增强件&r进行增强。"
 		""
-		"相同的增强件可以使用多次，但最好将它们混合搭配以达到理想的效果。"
+		"相同的增强件可以使用多次，但最好混合搭配以达到理想的效果。"
 		""
 		"手持&7调谐音叉&r会显示所有已安装增强件的总效果。"
 		""
@@ -1690,11 +1690,11 @@
 		"Generating Compressed Air in sufficient volumes with only a &7Thermal Compressor&r will likely prove daunting. Consider something with a bit more power, such as the &7Electrostatic Compressor&r. "
 	]
 	quest.39BCDF29A792B723.quest_desc: [
-		"An Aura Cache acts as a personal battery for recharging Aura Using tools and armor. "
+		"灵气缓存相当于个人电池，可用于为消耗灵气的工具与盔甲补充灵气。"
 		""
-		"This includes anything enchanted with Nature’s Mend and all armor and tools from Nature’s Aura. To repair this equipment, simply Sneak while holding the tool or wearing the armor. "
+		"这包括所有附有自然修补魔咒的物品，以及自然灵气模组的全部盔甲与工具。修复此类装备，只需手持装备或身穿装备时潜行即可。"
 		""
-		"The Cache can be filled in a Natural Altar, or if Aura is exceptionally high in an area, will fill passively while worn. "
+		"灵气缓存可在自然祭坛中充能，若所在区域灵气极为充沛，穿戴在身上时也能被动充能。"
 	]
 	quest.39E9D5470F347400.quest_desc: [
 		"Raw Gold, Copper, and Iron can contain some very useful secondary minerals, obtainable with just a little bit of extra processing. "
@@ -1738,7 +1738,7 @@
 		""
 		"如果操作正确，那么你应该可以看到六个&7桶&r中的内容，并可以用其在&7终端&r里制作物品。"
 		""
-		"&6⚠ 提示：一个临时网络最多可以建立八个连接。"
+		"&6⚠ 注意：一个临时网络最多可以建立八个连接。"
 		""
 	]
 	quest.3A7AD25302240A1B.title: "临时网络"
@@ -1826,7 +1826,7 @@
 		""
 		"&7AE指南&r为感兴趣的人提供更多技术细节，并附有有用的图片！"
 		""
-		"&a🛈提示：可以使用ME网络分析仪调试网络频道！"
+		"&a🛈 提示：可以使用ME网络分析仪调试网络频道！"
 		""
 	]
 	quest.3CA4472228D0F866.title: "ME网络"
@@ -1861,8 +1861,8 @@
 	quest.3D59639F51E89CF9.quest_desc: [
 		"&7高级点击器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.3D6441ECF951BAD4.quest_desc: [
 		"This incredibly cold fluid holds some mystical capabilities that may be used to augment certain Industrial Foregoing machines."
@@ -1873,9 +1873,9 @@
 		"It's also a vital component for more advanced machinery!"
 	]
 	quest.3D76C219EB7EEC03.quest_desc: [
-		"A simple device for placing blocks in an area. It will pull blocks from an inventory above it and place them atop the specified block. "
+		"一个简易的区域放置方块装置。它会从上方的物品栏中提取方块，并将其放置在指定方块的顶部。"
 		""
-		"Specify a block to place on by putting it in an &7Item Frame&r attached to the &7Builder&r. "
+		"将目标方块放入附着在&7建造器&r上的&7物品展示框内&r，即可指定放置位置。"
 	]
 	quest.3D7B773741D78864.quest_desc: [
 		"Harvesting edible meat from &7Wilden&r is a task that requires both skill and focus; one slip and the meat may be fouled by the cursed magic flowing through them."
@@ -2105,8 +2105,8 @@
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
-	quest.4421EB35235888DF.quest_desc: ["Welcome to Nature's Aura! "]
-	quest.4421EB35235888DF.title: "Nature's Aura"
+	quest.4421EB35235888DF.quest_desc: ["欢迎来到自然灵气！"]
+	quest.4421EB35235888DF.title: "自然灵气"
 	quest.4457D6BB7AE28073.quest_desc: [
 		"这个模组不提供任何形式的能量管道，但它提供了次优选择：无线能量传输。"
 		""
@@ -2369,19 +2369,19 @@
 		"&6    viewing the recipe."
 	]
 	quest.4C46DBD26BE50BCD.quest_desc: [
-		"&7Aura Field Creators&r are powerful block breakers that work in pairs, breaking every block between them. "
+		"&7灵气场生成器&r是强力的方块破坏装置，需成对使用，可破坏两者之间的所有方块。"
 		""
-		"They can be augmented with a tool by placing the tool in an &7Item Frame&r on one of the Creators, thus allowing it to use &7Silk Touch&r, &7Fortune&r, or any other special breaking property of the installed tool. "
+		"可在任意一台灵气场生成器的&7物品展示框&r中放入工具进行强化，使其获得该工具的&7精准采集&r、&7时运&r及其他特殊挖掘效果。"
 	]
 	quest.4C91792ACCC53A2B.quest_desc: ["By applying high heat in a low-oxygen environment, we can convert &7Pelagite&r into &7Kerogen&r. "]
 	quest.4CB21D6351486281.quest_desc: [
-		"Catalysts may be installed on a &7Natural Altar&r to modify the recipes it can process."
+		"可在&7自然祭坛&r上安装催化剂，以修改其可处理的合成配方。"
 		""
-		"Place them on the &7short stone pillars&r of the structure to use them."
+		"将其放置在结构的&7矮石柱&r上即可使用。"
 		""
-		"&6⚠ Note: An Altar with a Catalyst can "
-		"&6    still process basic recipes if they "
-		"&6    don’t conflict."
+		"&6⚠ 注意：在不冲突的前提下，装"
+		"&6    有催化剂的祭坛仍然可以"
+		"&6    处理基础配方"
 	]
 	quest.4CC1CF537349C2D6.quest_desc: [
 		"Need a little more room to work? Summoning another island is always an option. "
@@ -2444,9 +2444,9 @@
 	]
 	quest.4FEA49AD05720ED7.title: "Arts and Crafts"
 	quest.5009BB4B0D1B459E.quest_desc: [
-		"The &7Hopper Enhancement&r is placed on top of a &7Hopper&r, allowing it to pick up items from up to seven blocks away. "
+		"&7漏斗增强器&r放置在&7漏斗&r上方，使其可从最远7格范围内拾取物品。"
 		""
-		"When coupled with an &7Adept Hopper&r, it can be filtered to specific items."
+		"与&7专家型漏斗&r配合使用时，还可针对特定物品进行过滤。"
 	]
 	quest.503873180200D878.quest_desc: [
 		"Made from &7Sculk&r, &7Reverberating Dorodangos&r may be processed down into new materials!"
@@ -2503,7 +2503,7 @@
 		""
 		"&7合成终端&r内置了工作台，因此大多情况下它们都是更好的选择。"
 		""
-		"&a🛈提示：线缆组件不能连接致密线缆。"
+		"&a🛈 提示：线缆组件不能连接致密线缆。"
 		""
 	]
 	quest.537EDDC45D94BDE4.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
@@ -2526,8 +2526,8 @@
 	quest.55065F1D9C6716C1.quest_desc: [
 		"&7高级传感器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.5550423B6E6BDBAF.quest_desc: [
 		"In need of some saplings? Maybe you’d like to get some bees producing honey? "
@@ -2565,9 +2565,9 @@
 	]
 	quest.56DDD2327724F715.title: "线缆"
 	quest.56EDBF31457D8112.quest_desc: [
-		"The Aura Detector may be read with a Comparator to determine how much Aura is in the area. "
+		"可通过比较器读取灵气探测器的信号，以检测当前区域内的灵气储量。"
 		""
-		"This is generally most useful when paired with a Generator, allowing you to turn it on or off as needed."
+		"这通常在与生成器搭配使用时最为实用，可按需开启或关闭生成器。"
 	]
 	quest.574555F24035E48A.quest_desc: [
 		"这一系列方块的功能正如它们的名字所写；放置与收集方块或流体。"
@@ -2603,24 +2603,24 @@
 		""
 		"每个同时进行的制造请求都需要一个CPU。"
 		""
-		"•合成存储器：存储合成所需的所有材料。可以使用多个。"
+		"• 合成存储器：存储合成所需的所有材料。"
+		"  可以使用多个。"
 		""
 		""
-		""
-		"•并行处理单元：可选。让CPU更频繁的发送材料批次。"
-		""
-		""
-		""
-		"•合成单元：可选。廉价的填充块，以满足形状需求。"
+		"• 并行处理单元：可选。"
+		"  让CPU更频繁的发送材料批次。"
 		""
 		""
+		"• 合成单元：可选。"
+		"  廉价的填充块，以满足形状需求。"
 		""
-		"•合成监控器：可选。显示CPU当前处理的任务。"
 		""
+		"• 合成监控器：可选。"
+		"显示CPU当前处理的任务。"
 		""
 	]
 	quest.579C07CD07599438.title: "合成CPU"
-	quest.5859B0217F1C837A.quest_desc: ["With an Aura Attraction Cart, Aura may be pulled from a centralized Generator and dispersed throughout an area to power machines that might be too far away to otherwise benefit from the Generator. "]
+	quest.5859B0217F1C837A.quest_desc: ["使用灵气吸引矿车，可从中心生成器抽取灵气并将其分散至整片区域，为距离过远、无法直接接收生成器供能的机器提供能源。"]
 	quest.58A275DB77CDF7F8.quest_desc: [
 		"灵灾为生物添加了几种特殊掉落物，只能用特定的武器获得。"
 		""
@@ -2761,8 +2761,8 @@
 		""
 		"将这些元件与ME魔源罐结合使用，你可以随时随地按需输入输出魔源，同时将大量魔源存储在系统中以备不时之需。"
 		""
-		"&a🛈提示：将ME魔源罐放在需要魔源的地方，然后用中转器传输到常规魔源罐以供使用。"
-		""
+		"&a🛈提示：将ME魔源罐放在需要魔源的地方，然"
+		"&a   后用中转器传输到常规魔源罐以供使用。"
 		""
 		""
 	]
@@ -2771,7 +2771,7 @@
 		""
 		"动物们见女子饥饿，便送来根茎让她果腹。又见女子孤身一人，于是纷纷围拢来安慰女子。"
 		""
-		"The woman ate her fill and sang her praises to the animals. With her heart full of company, she brushed her tears away. They spread across the sky where they glistened and became stars. With her belly full of nourishment, she pressed the roots into the newly formed earth. They flourished in the soil and multiplied."
+		"女子饱餐了一顿，她用歌声表达对动物们的感谢。有了动物们的陪伴，女子止住了哭泣。泪水洒向天空，化作点点繁星。她将根茎埋入新生的大地，根茎开始生长，渐渐变得繁盛。"
 		""
 		"女子在新生的大地上行走，歌声伴随左右，诸兽倾心相随。她再次感到饥饿时，诸兽为她献上口粮。每到新的地点，女子将根茎植入土壤。由此，根茎滋长繁盛。由此，大地葱茏，万象竞发。"
 	]
@@ -2781,9 +2781,9 @@
 		""
 		"这是早期基础合成自动化的最好方式。"
 		""
-		"&a🛈提示：分子装配室需要能量但不占用频道，所以可以在临时网络中放置多个来获取能量，同时用外部管道被动提供材料。"
-		""
-		""
+		"&a🛈 提示：分子装配室需要能量但不占用频道，所"
+		"&a   以可以在临时网络中放置多个来获取能量，同"
+		"&a   时用外部管道被动提供材料。"
 		""
 		""
 		""
@@ -2825,8 +2825,8 @@
 		""
 		"使用&7进阶大型蒸汽锅炉&r来提升你的能量产出。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.60239B38B7288779.quest_desc: [
@@ -2839,8 +2839,8 @@
 		""
 		"在EMI中，查看控制器方块（即&7大型蒸汽锅炉&r方块）的用途便可知道这个结构所需的其他方块。注意，所列的方块可被仓室替代。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.6030BA17DB9228F2.quest_desc: [
@@ -2991,7 +2991,7 @@
 		""
 		"另一方面，&7存储总线&r可以让连接的库存变为网络的一部分；网络可以访问其中的内容，它也可以用来存储网络中的内容。"
 		""
-		"&a🛈提示：线缆组件不能连接致密线缆。"
+		"&a🛈 提示：线缆组件不能连接致密线缆。"
 		""
 	]
 	quest.631AA5AAA6EF687C.quest_desc: [
@@ -3003,15 +3003,15 @@
 		""
 		"它还可以接入任何形式的库存，让你可以向其发送物品。例如，一组&7熔炉&r可以通过一个&7供应器&r提供原料，将原料输入&7桶&r中，管道可以运送物品并将其分配到熔炉中，同时将产物返回到&7样板供应器&r中。"
 		""
-		"&a🛈提示：对于需要将流体或物品分配到不同面的机器，可以考虑使用子网！"
-		""
+		"&a🛈 提示：对于需要将流体或物品分配到不同面的"
+		"&a   机器，可以考虑使用子网！"
 		""
 	]
 	quest.631AA5AAA6EF687C.title: "自动合成"
 	quest.6384F08466CA9FB9.quest_desc: [
-		"The &7Redstone Aura Vaporizer&r is, quite simply, a clock. "
+		"&7红石灵气蒸发器&r本质上就是一个时钟电路。"
 		""
-		"Insert &7Bottled Aura&r into it to set different intervals. Each bottle of &7Sunlight&r is a second, &7Ghosts&r for minutes, and &7Darkness&r for hours. "
+		"向其注入&7瓶装灵气&r可设定不同间隔。每瓶&7阳光&r对应一秒，&7鬼魂&r对应一分钟，&7黑暗&r对应一小时。"
 	]
 	quest.63944BDC078E728A.quest_desc: [
 		"The &7Focus of Block Shaping&r is a powerful piece of kit for any spell-caster as it allows you to stack effects into a single spell that would normally take multiple casts. "
@@ -3046,7 +3046,7 @@
 		"            &aSmelt&r > &6Sensitive&r > &aItem Pickup&r"
 	]
 	quest.63A7E92BBCEDF461.quest_desc: [
-		"又一天，女子觉得该继续上路了。这次她来到了南方，诸兽依然陪伴左右。"
+		"有一天，女子觉得该继续上路了。这次她来到了南方，动物们依然结伴同行。"
 		""
 		"Here, forests gave way to wetlands, wetlands to sand-strewn shores. The woman, seeing how the animals swam along the winding waterways, made a canoe to follow them.  When she grew tired, she lay down amongst the sandy dunes of the coast to rest. When she grew unclean, she bathed in the warm waters of the seas. "
 		""
@@ -3200,17 +3200,17 @@
 		"&a    random and doesn’t affect the pentacle!"
 	]
 	quest.672B88E9A3FA1FCE.quest_desc: [
-		"With the &7Winter’s Calling&r active, snow will rapidly accumulate in the area and water will freeze to ice. "
+		"当&7凛冬的呼唤&r激活时，该区域内会快速积雪，水会冻结成冰。"
 		""
-		"Snow Golems may also appear to further spread the snowy goodness!"
+		"雪傀儡也可能生成，进一步扩大积雪区域！"
 		""
-		"Needless to say, this can be a great way to get some &7Snow&r to make &7Ice&r!"
+		"毋庸置疑，这是获取&7雪&r来制作&7冰&r的绝佳途径！"
 	]
 	quest.679DACB985517C55.quest_desc: [
 		"&7高级投物器&r可以将物品扔得更远，且可进行数量配置。"
 		""
-		"&a🛈提示：点击显示区域按钮，这可以让配置工作区域更方便。"
-		""
+		"&a🛈 提示：点击显示区域按钮，这可以让配置工作"
+		"&a   区域更方便。"
 	]
 	quest.6806970967942788.quest_desc: [
 		"The &7Coffee Maker&r is the work site for the &7Engineer&r villager. In exchange for a hearty breakfast, these villagers will gladly provide you with all the parts you need to start &7making power&r."
@@ -3307,9 +3307,9 @@
 	]
 	quest.6A4DD846F7E08FD6.title: "盗取火种"
 	quest.6A8ACE8E9B7A056D.quest_desc: [
-		"As the woman plummeted into the sea, the animals rushed to her knowing she would surely perish without a place to rest."
+		"女子骤然坠入海里，动物们争先恐后来到她的身边，因为它们知道，若无歇脚之处，女子必会溺死。"
 		""
-		"They took it in turns to dive down into the depths, each attempting to bring up the mud from the bottom. Each boasted of their strengths, claiming they would be the one to reach the bottom. Each failed and upon resurfacing claimed the task to be impossible. "
+		"它们轮流潜入深处，想把海底的泥巴托举上来。它们吹嘘着自己的力量，称自己能够潜到海底。但最后只能无奈地浮出水面，声称这项任务是不可能完成的。"
 		""
 		"When hope was nearly lost, the smallest among them came forward and asked to be permitted to try. It made no boast and all doubted its ability, but the other animals stood aside to allow it to try. Through quiet determination, it dove deeper and deeper. It dove until its lungs burned and its limbs ached. It dove until at last, one small paw brushed the mud in the lightless depths. "
 		""
@@ -3341,7 +3341,7 @@
 		""
 		"泪流成海，海面上涨，女子终于停止了坠落。"
 	]
-	quest.6AF21EDF59FCE0D4.title: "Innocence Lost"
+	quest.6AF21EDF59FCE0D4.title: "消逝的童真"
 	quest.6AFCA9F187AE6EB2.quest_desc: [
 		"The Building section covers mods and tools to help you build up or tear down. "
 		""
@@ -3440,13 +3440,13 @@
 		""
 		""
 		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
-		"  • &7草方块&r           &2⟶&r           &7空叶草方块&r"
-		"  • &7圆石&r           &2⟶&r           &7冰石&r"
-		"  • &7石头&r                   &2⟶&r           &7圣石&r"
-		"  • &7沙子&r                    &2⟶&r           &7寒风境云&r"
-		"  • &7沙岩&r             &2⟶&r           &7速沙&r"
-		"  • &7深板岩圆石&r           &2⟶&r           &7气凝胶&r"
-		"  • &7深板岩&r              &2⟶&r           &7气凝胶&r"
+		"  • &7草方块&r                    &2⟶&r           &7空叶草方块&r"
+		"  • &7圆石&r                      &2⟶&r           &7冰石&r"
+		"  • &7石头&r                      &2⟶&r           &7圣石&r"
+		"  • &7沙子&r                      &2⟶&r           &7寒风境云&r"
+		"  • &7沙岩&r                      &2⟶&r           &7速沙&r"
+		"  • &7深板岩圆石&r                &2⟶&r           &7气凝胶&r"
+		"  • &7深板岩&r                    &2⟶&r           &7气凝胶&r"
 		""
 		"{@pagebreak}"
 		"&6&n示例法术&r"
@@ -3535,8 +3535,8 @@
 		""
 		"每台&7锅炉&r最高生产等价于8kEU/t的&7高压蒸汽&r，这意味着需要两台&7锅炉&r才能使一台&7热交换机&r达到最高产量。"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.6EB5108D30F5A94A.title: "高压进阶大型蒸汽锅炉"
@@ -3587,7 +3587,7 @@
 		""
 		"我们并不会在这个任务里全面介绍自动化，这在AE指南中已被详细说明。不过，我们会提及几个要点。"
 		""
-		"&a🛈提示：线缆组件不能连接致密线缆。"
+		"&a🛈 提示：线缆组件不能连接致密线缆。"
 		""
 	]
 	quest.6FC31B3806BF222A.quest_desc: [
@@ -3704,8 +3704,8 @@
 		""
 		"最高效率：&n592&r"
 		""
-		"&a🛈提示：放置控制方块，然后拿着扳手来预览结构。同样，拿着仓室可以显示它们的位置。"
-		""
+		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.739A201F595E3EFE.title: "热交换机"
@@ -3777,15 +3777,15 @@
 	quest.76695BF2B0E70087.quest_desc: [
 		"[ \"在前往\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \"后，你可以将你的\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"升级成\", {\"text\": \"烈焰蕾凝胶\", \"color\": \"gray\"}, \"。\" ]"
 		""
-		"&a🛈提示：高级凝胶兼容所有低级配方。"
+		"&a🛈 提示：高级凝胶能快速处理所有低级配方。"
 		""
 		""
-		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		"&6⚠ 注意：凝胶饿了，需要喂食才能工作！"
 		""
 		""
 		"&6手持物品右键激活。"
-		"&6在EMI中搜索&3#goo_revive_tier_2&6来查看哪些物品有效！"
-		""
+		"&6    在EMI中搜索&3#goo_revive_tier_2&6来查看"
+		"&6    哪些物品有效！"
 	]
 	quest.768869D763EC54EB.quest_desc: [
 		"                       &6&nBiome: Deep Dark&r&r"
@@ -3951,24 +3951,24 @@
 		"From that, you'll be able to create a &7Magebloom Seed&r."
 	]
 	quest.7973D06875662CFE.quest_desc: [
-		"You may have noticed that many Aura Generators stop working when Aura gets too high. The threshold is different from one to the next, but present just the same. "
+		"你可能已经注意到，许多灵气生成器在灵气浓度过高时会停止工作。不同生成器的临界值各不相同，但都存在这一机制。"
 		""
-		"The Creational Catalyst removes this limit. "
+		"创造催化剂可解除该限制。"
 		""
-		"Simply place it beneath the Generator block to unlock its full potential."
+		"将其放置在生成器方块下方，即可释放其全部能力。"
 	]
 	quest.79951647661D4B52.quest_desc: [
 		"[ \"你需要在\",{ \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } },\"与\",{\"text\": \"坚守者\", \"color\": \"gray\"}, \"对峙，才可以获得升级这一等级\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"的重要材料。\" ]"
 		""
-		"&a🛈提示：高级凝胶兼容所有低级配方。"
+		"&a🛈 提示：高级凝胶能快速处理所有低级配方。"
 		""
 		""
-		"&6⚠ 提示：凝胶饿了，需要喂食才能工作！"
+		"&6⚠ 注意：凝胶饿了，需要喂食才能工作！"
 		""
 		""
 		"&6手持物品右键激活。"
-		"&6在EMI中搜索&3#goo_revive_tier_4&6来查看哪些物品有效！"
-		""
+		"&6    在EMI中搜索&3#goo_revive_tier_4&6来查看"
+		"&6    哪些物品有效！"
 	]
 	quest.799839991CC1DDF9.quest_desc: [
 		"难怪说古老的传说总能引起人们的共鸣。"
@@ -4027,7 +4027,7 @@
 		""
 		"她复朝北方，乞愿冬天的寒风庇佑其身。"
 		""
-		"The Four Winds came at her call and uplifted her into the heavens. Soaring higher than even the birds dare, joy and elation swelled in her heart."
+		"四风回应了她的呼唤，将她托举上那天际。她飞得比任何一只鸟儿还高，喜悦与激动的感情在心中回荡。"
 	]
 	quest.7B9D8AD7BFC1E87D.quest_desc: [
 		"Direct Steam power will only get you so far. To begin working with electricity, you'll need a very special device; a &7Flux Gate&r."
@@ -4055,7 +4055,7 @@
 		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
 	]
 	quest.7C27093E25633B9F.title: "Mercurial Fluid Nodes"
-	quest.7C3C0E6AC71F621B.quest_desc: ["The &7Item Distributor&r takes items from an inventory above it and evenly distributes them to inventories on each side. "]
+	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r会从其上方容器提取物品，并将其均匀分配至四周的容器中。"]
 	quest.7D63AB919406E5AD.quest_desc: [
 		"&7Dorodangos&r produced by &7Alakarkinos&r are suffused with magic, full of latent potential. The &7Steam Alembic&r is capable of transmuting them into invaluable resources. "
 		""
@@ -4115,13 +4115,13 @@
 		"最多可使用四个方尖碑来加速合成，每一个都能减少总合成时间。"
 	]
 	quest.7F829A1BFED304D0.quest_desc: [
-		"What’s magic without some functional devices powered by it? "
+		"若是没有由其驱动的实用装置，魔法又有何意义？"
 		""
-		"The following section will highlight some of the more interesting devices Nature’s Aura has to offer. It’s up to you to figure out when and where they make sense in your base!"
+		"接下来将介绍自然灵气模组中一些更具特色的实用装置。你可以自行探索，判断它们在基地建设中的适用时机与场景。"
 		""
-		"For a full rundown of how to use these devices, remember to consult the &7Book of Natural Aura&r!"
+		"想要了解这些装置的完整使用方法，请查阅&7自然灵气之书&r！"
 	]
-	quest.7F829A1BFED304D0.title: "Natural Devices"
+	quest.7F829A1BFED304D0.title: "自然装置"
 	quest.7FAC3A637F82BFED.quest_desc: [
 		"These floaty little witch friends can be tasked with automating standard 3x3 Crafting Table crafts, Potion Brewing, and even the Enchanting Apparatus. "
 		""
@@ -4144,25 +4144,25 @@
 	reward.596A24138CB4C67D.title: "Emergency Supplies"
 	reward.6364852EF59523D4.title: "Emergency Supplies"
 	reward.68B7C21542AEB978.title: "Emergency Supplies"
-	reward_table.00540CF744EBCDCA.title: "Farmer's Delight"
-	reward_table.01958857E91F63D0.title: "Spare Parts: Rare"
-	reward_table.02545B33A0B47726.title: "Scavenger's Delight"
-	reward_table.044F2F65D540C024.title: "Miner's Delight"
-	reward_table.09B745401897355C.title: "PneumaticCraft Lootbox: Epic"
-	reward_table.0F3B57D5BCDEFA8D.title: "Ars Nouveau Lootbox: Legendary"
-	reward_table.2A321C328AF4DF7B.title: "Emergency Supplies"
-	reward_table.304C87B452C4DF86.title: "OriTech Lootbox"
-	reward_table.4D04B0EC7BE49CA0.title: "PneumaticCraft Lootbox: Rare"
-	reward_table.506FFF33A24A6C87.title: "Sorcerer's Delight"
-	reward_table.57D690FA70BABEA6.title: "PneumaticCraft Lootbox: Legendary"
-	reward_table.63595DAD65E0F896.title: "Ars Nouveau Lootbox: Epic"
-	reward_table.65B36FE5D4A2DE53.title: "Bed"
-	reward_table.6AE591972B41AD78.title: "Spare Parts: Common"
-	reward_table.6F5C02ACE833C527.title: "Malum Lootbox"
-	reward_table.72C4CB45CED49659.title: "Nature's Aura Lootbox"
-	reward_table.7306EFE33A5617BA.title: "Hats"
-	reward_table.77FB07B0CC8EAE79.title: "Ars Nouveau Lootbox: Rare"
-	reward_table.79D53E33D5224416.title: "Spare Parts: AE"
+	reward_table.00540CF744EBCDCA.title: "农夫乐事"
+	reward_table.01958857E91F63D0.title: "零件：稀有"
+	reward_table.02545B33A0B47726.title: "拾荒者乐事"
+	reward_table.044F2F65D540C024.title: "矿工乐事"
+	reward_table.09B745401897355C.title: "气动工艺奖励箱：史诗"
+	reward_table.0F3B57D5BCDEFA8D.title: "新生魔艺奖励箱：传说"
+	reward_table.2A321C328AF4DF7B.title: "紧急补给"
+	reward_table.304C87B452C4DF86.title: "奥瑞科技奖励箱"
+	reward_table.4D04B0EC7BE49CA0.title: "气动工艺奖励箱：稀有"
+	reward_table.506FFF33A24A6C87.title: "魔法师乐事"
+	reward_table.57D690FA70BABEA6.title: "气动工艺奖励箱：传说"
+	reward_table.63595DAD65E0F896.title: "新生魔艺奖励箱：史诗"
+	reward_table.65B36FE5D4A2DE53.title: "床"
+	reward_table.6AE591972B41AD78.title: "零件：常见"
+	reward_table.6F5C02ACE833C527.title: "灵灾奖励箱"
+	reward_table.72C4CB45CED49659.title: "自然灵气奖励箱"
+	reward_table.7306EFE33A5617BA.title: "帽子"
+	reward_table.77FB07B0CC8EAE79.title: "新生魔艺奖励箱：稀有"
+	reward_table.79D53E33D5224416.title: "零件：应用能源"
 	task.01BD7546106B0EB9.title: "Magical Shards"
 	task.0219421FBD8DB647.title: "Just Dire Upgrades"
 	task.03DF0245816D38A4.title: "Wilden Meat"
@@ -4173,11 +4173,11 @@
 	task.0C683224C0A3D09E.title: "Processors"
 	task.0CB92589AF70B557.title: "任意&3精巧手艺&r物品"
 	task.0DE0A9A5505F1850.title: "发现谜团"
-	task.10DFCCF8FA5D5505.title: "Aura Generators"
+	task.10DFCCF8FA5D5505.title: "灵气生成器"
 	task.116CBCF6CA77E71A.title: "Syringe"
 	task.122BA8ACC6374460.title: "Item Pedestals"
 	task.1291CAC439E06D6C.title: "符文"
-	task.14C95C2344B5DC59.title: "Catalysts"
+	task.14C95C2344B5DC59.title: "催化剂"
 	task.15D7325C0C904192.title: "Any Small Flower"
 	task.1A49508B81A230E6.title: "Observation: &2Altar of Birthing&r"
 	task.1B81285E0D45A226.title: "Any Tool"
