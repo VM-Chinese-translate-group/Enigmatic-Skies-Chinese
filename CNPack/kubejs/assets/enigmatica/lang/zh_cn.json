@@ -293,7 +293,7 @@
     "tooltip.enigmatica.universal_chalk": "May replace any Chalk in any pentacle",
     "tooltip.enigmatica.armor_insulation": "May be used to insulate armor",
 
-    "tooltip.enigmatica.aura_generator": "灵气生成器",
+    "tooltip.enigmatica.aura_generator": "灵气制造设备",
     "tooltip.enigmatica.inhibits_boosted_plant_growth": "Inhibits boosted plant growth from Aura",
     "tooltip.enigmatica.inhibits_aura_nether_grass": "Inhibits Aura induced grass growth in the Nether",
     "tooltip.enigmatica.inhibits_aura_cache_recharge": "Inhibits Aura from charging a worn Aura Cache or Aura Trove",
@@ -361,7 +361,7 @@
     "tooltip.enigmatica.armadillo_scute": "Obtained by brushing Armadillos",
     "tooltip.enigmatica.straw_from_grass": "用小刀破坏草！",
     "tooltip.enigmatica.awaken_trophy": "Right-Click the Trophy with an Antikythera Mechanism to awaken it.",
-    "tooltip.enigmatica.villager_trade": "与%s %s村民交易！",
+    "tooltip.enigmatica.villager_trade": "与%s%s村民交易！",
     "tooltip.enigmatica.iou_exchange": "§5可以兑换为%s %s",
     "tooltip.enigmatica.wolf_armor.much_wow": "好多哇",
     "tooltip.enigmatica.wolf_armor.vetty_cute": "非常可爱",

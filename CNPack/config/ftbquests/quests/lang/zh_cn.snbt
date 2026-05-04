@@ -25,7 +25,7 @@
 	chapter_group.46AB9129BBE517B6.title: "&b谜之天空"
 	file.0000000000000001.title: "&n&6谜之天空&r"
 	quest.00066BB06F509677.quest_desc: ["Item Cards for LaserIO allow Laser Nodes to transport Items."]
-	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"Fire Essence\", \"color\":\"gray\"}, \" grants access to the fiery volcano on the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \".\" ]"]
+	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"Fire Essence\", \"color\":\"gray\"}, \" grants access to the fiery volcano on the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \".\" ]"]
 	quest.008F3C0FB9F4B451.title: "Blazing Island"
 	quest.00946DF0B2C88A9F.quest_desc: [
 		"Metals and plastics can serve as wonderful analogs to bone for structure, but motors and servos lack a certain flexibility. "
@@ -223,7 +223,7 @@
 		"&a    set Spell Turrets!"
 	]
 	quest.07189DA532A429AE.title: "Whirligigs"
-	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]"]
+	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]"]
 	quest.0745FDF3F22807CA.title: "Flashing Island"
 	quest.074827E52A09685F.quest_desc: [
 		"&7Water&r, precious and rare, will be hard to come by in this place. "
@@ -514,7 +514,7 @@
 		"对于这种物品，你需要把它们放置在附近的物品台或物品基座中。"
 	]
 	quest.12E0E45FC08A5912.quest_desc: ["&7无线玩家充能器&r可以在小范围内给你身上的设备充电。"]
-	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]"]
+	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]"]
 	quest.12E7105B33AC043E.title: "Vexing Island"
 	quest.130A2701B96A941D.quest_desc: [
 		"这个地方基本不会有怪物，然而，有比周围徘徊的僵尸和骷髅更严重的事情等待处理。"
@@ -763,20 +763,20 @@
 	]
 	quest.1A2B5BCA37161B1A.title: "Wixie Enchanting"
 	quest.1AB4455F15DF1F84.quest_desc: [
-		"&7自然祭坛&r是你最常用的核心灵气消耗装置。"
+		"&7自然祭坛&r是最常用的灵气设备。"
 		""
-		"你可以把灵气想象成氧气和二氧化碳：人呼吸时，吸入氧气、呼出二氧化碳。若只消耗氧气却不补充，最终就会走向死亡。"
+		"你可以把灵气想象成氧气和二氧化碳，在你呼吸时，吸入氧气、呼出二氧化碳，若只消耗氧气却不补充，最终将会死亡。"
 		""
 		"灵气，就是你的氧气。"
 		""
-		"&7灵气生成器&r可以补充灵气，但灵气本质是一种需要悉心维护的有限资源。一旦过度消耗，可怕的事情便会接踵而至。"
+		"&7灵气制造设备&r可以补充灵气，但灵气本质是一种需要悉心维护的有限资源，一旦过度消耗，可怕的事情便会接踵而至。"
 		""
-		"万幸的是，一旦灵气过低，&7自然祭坛&r就会直接停止工作。但其他装置却能将灵气彻底耗尽。"
+		"万幸的是，一旦灵气过低，&7自然祭坛&r就会直接停止工作，但其他设备却能将灵气彻底耗尽。"
 		""
-		"&7自然灵气之书&r会为你详细讲解这股神秘能量。"
+		"&7自然灵气之书&r会为你详细讲解这种神秘能量。"
 		"&n                                                              &r"
 		""
-		"该装置需搭建多方块结构才能正常运作。"
+		"该设备需搭建多方块结构才能正常工作。"
 		""
 		"你可以参考&7自然灵气之书&r，提前查看方块的摆放方式。"
 	]
@@ -855,7 +855,7 @@
 		""
 		"These samples will be spliced and introduced into a host to obtain something entirely new."
 		""
-		"[ \"These machines can also be used to grant entities permanent buffs. Refer to the \", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for more information.\" ]"
+		"[ \"These machines can also be used to grant entities permanent buffs. Refer to the \", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for more information.\" ]"
 	]
 	quest.1C9565D5C51B74CC.title: "Genetics"
 	quest.1CBC50FA40BFB54A.quest_desc: [
@@ -894,7 +894,7 @@
 		""
 		"Summon them all as soon as you're able. "
 		""
-		"[ \"A good place to start will be the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \", so get the materials together for \", { \"text\": \"Essence of Earth\" , \"color\":\"gray\"}, \".\" ]"
+		"[ \"A good place to start will be the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \", so get the materials together for \", { \"text\": \"Essence of Earth\" , \"color\":\"gray\"}, \".\" ]"
 		""
 		"To use the &7Imbuement Chamber&r, you’ll need to place some &7Arcane Pedestals&r or &7Platforms&r directly adjacent to it. The item shown in the middle of the recipe goes in the &7Imbuement Chamber&r, while the rest must be placed in the &7Pedestals.&r "
 		""
@@ -1084,9 +1084,9 @@
 	quest.235D7EF41916E480.quest_desc: ["The following are various forms of power transfer options available in Enigmatica 10."]
 	quest.235D7EF41916E480.title: "Power"
 	quest.23DDFBC0DB19F6A4.quest_desc: [
-		"将灵气失衡护符放置在任意消耗灵气的方块下方，就能防止该装置过度消耗灵气，避免灵气值跌入危险阈值。"
+		"将灵气失衡区放置在消耗灵气的设备下方，就能防止其过度消耗灵气，防止灵气值进入危险阈值。"
 		""
-		"建议你尽快在大多数耗灵气装置下方都放上一个。有些装置耗灵气的速度快得吓人！"
+		"建议你尽快在所有耗灵气设备下方都放上一个，因为有些设备耗灵气的速度很快！"
 	]
 	quest.23ED7167CB856D26.quest_desc: [
 		"Magic doesn’t come out of thin air, of course. What madness!"
@@ -1339,7 +1339,7 @@
 	quest.2D755021F6490B86.quest_desc: [
 		"Obtain your first &7Sourceberry&r by enchanting a &7Cloud Berry&r. "
 		""
-		"Be sure to plant the &7Sourceberry&r on &7Grass&r to grow more. The spells you have at your disposal should help tremendously with this task."
+		"Be sure to plant the &7Sourceberry&r to grow more. The spells your disposal should help tremendously with this task."
 		""
 		"&6⚠ Note: Use a Cutting Board to grind "
 		"&6    Flour for Dough!"
@@ -1511,11 +1511,11 @@
 	]
 	quest.3456EED039818662.title: "量子桥"
 	quest.34F48A8F71A7C937.quest_desc: [
-		"&7末影板条箱&r是末影箱的进阶升级版。它不仅支持自动化与物流系统接入，还能根据命名划分多个独立存储频道。"
+		"&7末影板条箱&r是末影箱的升级版。它不仅支持自动化与物流系统接入，还能根据命名划分多个独立存储频道。"
 		""
-		"想设定频道的话，就把&7末影板条箱&r和一颗&7末影之眼&r一起放进&7铁砧&r里，再给它命名就行。这个名字就会成为专属频道，所有同名的&7末影板条箱&r都会共享同一个物品栏。"
+		"想设定频道的话，就把&7末影板条箱&r和一颗&7末影之眼&r一起放进&7铁砧&r里，再给它命名就行，这个名字就会成为专属频道，所有同名的&7末影板条箱&r都会共享同一个存储空间。"
 		""
-		"除此之外，你还能用&7末影目镜&r远程访问&7末影板条箱&r。只要和&7板条箱&r命名一致，就能绑定对应频道。"
+		"除此之外，你还能用&7末影目镜&r远程访问&7末影板条箱&r，只要和&7板条箱&r命名一致，就能绑定对应频道。"
 	]
 	quest.34FB10F0A2504973.quest_desc: [
 		"Buy a &7Loom&r to gain access to a &7Shepherd Villager&r. "
@@ -1540,15 +1540,15 @@
 	]
 	quest.359A7C9127500D6C.quest_desc: ["A simple &7Furnace&r, despite the cold, should protect that precious heat well enough to get started."]
 	quest.35A8CEA408114638.quest_desc: [
-		"正如之前所说，灵气是一种有限资源，必须用心维持。"
+		"正如之前所说，灵气是一种有限资源，必须用心维护。"
 		""
-		"好在，你可以使用多种灵气生成器来补充灵气。"
+		"好在，你可以使用多种灵气制造设备来补充灵气。"
 		""
-		"每种生成器都各有优劣，运作时所需材料也各不相同。一般来说，材料越好获取，生成器产出的灵气就越少。"
+		"每种制造设备都各有优缺点，工作时所需材料也各不相同，一般来说，材料越容易获取，制造设备产出的灵气就越少。"
 		""
 		"想要更高灵气产量，可以看看&2射击标靶&r、&2烟火凝望&r或是&2滞留型吸收器&r。"
 		""
-		"如果你的小型装置只需要少量灵气，用&2草食性吸收器&r或者&2沼泽之霍米&r就够用了。"
+		"如果你的小型灵气设备只需消耗少量灵气，用&2草食性吸收器&r或者&2沼泽之霍米&r就够用了。"
 		""
 		"这些内容在&7自然灵气之书&r中均有详细说明，如需了解具体搭建方法，请查阅对应条目。"
 	]
@@ -1873,7 +1873,7 @@
 		"It's also a vital component for more advanced machinery!"
 	]
 	quest.3D76C219EB7EEC03.quest_desc: [
-		"一个简易的区域放置方块装置。它会从上方的物品栏中提取方块，并将其放置在指定方块的顶部。"
+		"一个简易的区域放置方块设备。它会从上方的物品栏中提取方块，并将其放置在指定方块的顶部。"
 		""
 		"将目标方块放入附着在&7建造器&r上的&7物品展示框内&r，即可指定放置位置。"
 	]
@@ -2261,7 +2261,7 @@
 	quest.47A2DB9344C8CE26.quest_desc: [
 		"With a &7Zephyr Impetus&r secured, you’ll be able to mass produce some important materials; &7Weather Crystals&r and &7Wind Charges&r. "
 		""
-		"[ \"Refer to the Spirit Focusing quest in the \", { \"text\": \"Malum\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0C0D9C8007301C03\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for information on using the Impetus.\" ]"
+		"[ \"Refer to the Spirit Focusing quest in the \", { \"text\": \"Malum\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0C0D9C8007301C03\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for information on using the Impetus.\" ]"
 		""
 		"&a🛈 Tip: Mending Diffusers are an easy"
 		"&a    way to keep your Impetus from"
@@ -2369,7 +2369,7 @@
 		"&6    viewing the recipe."
 	]
 	quest.4C46DBD26BE50BCD.quest_desc: [
-		"&7灵气场生成器&r是强力的方块破坏装置，需成对使用，可破坏两者之间的所有方块。"
+		"&7灵气场生成器&r是强力的方块破坏设备，需成对使用，可破坏两者之间的所有方块。"
 		""
 		"可在任意一台灵气场生成器的&7物品展示框&r中放入工具进行强化，使其获得该工具的&7精准采集&r、&7时运&r及其他特殊挖掘效果。"
 	]
@@ -2495,7 +2495,7 @@
 		"&6    viewing the recipe."
 	]
 	quest.521DE7879A4B6F03.quest_desc: ["With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  "]
-	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"Water Essence\", \"color\":\"gray\"}, \" grants access to the ever-flowing waterfalls of the \", { \"text\": \"Cascading Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \".\" ]"]
+	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"Water Essence\", \"color\":\"gray\"}, \" grants access to the ever-flowing waterfalls of the \", { \"text\": \"Cascading Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \".\" ]"]
 	quest.5226F1BC0A1B23D0.title: "Cascading Island"
 	quest.529329FE6CB3D29E.quest_desc: ["Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. "]
 	quest.52E79B2EB7400D13.quest_desc: [
@@ -2583,7 +2583,7 @@
 		"与此同时，&7流体收集器&r和&7放置器&r都需要在栏位中放置容器，这样便可手动输入/输出流体。当然，它们也可以使用管道进行流体输入输出。"
 	]
 	quest.574555F24035E48A.title: "初级放置和收集器"
-	quest.577337FFD6AD9C83.quest_desc: ["[ \"Check out the \", { \"text\": \"Replication Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on using these machines to produce items. \" ]"]
+	quest.577337FFD6AD9C83.quest_desc: ["[ \"Check out the \", { \"text\": \"Replication Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on using these machines to produce items. \" ]"]
 	quest.577337FFD6AD9C83.title: "Replication"
 	quest.579B2C5CB83022ED.quest_desc: [
 		"The &7Manipulation Infused Turret&r combines the benefits of a &7Focus of Block Shaping&r with an &7Enchanted Turret&r, meaning it can not only cast all the examples from the previous quest, but it gets an enormous mana discount in doing so. "
@@ -2665,7 +2665,7 @@
 		"Let's speed things along a little with the magic of &7Time Fluid&r."
 		"&n                                                              &r"
 		""
-		"[ \"Obtaining the materials to create these crystals will require a visit to the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"19F8B29D38CA31B8\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \". \" ]"
+		"[ \"Obtaining the materials to create these crystals will require a visit to the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"19F8B29D38CA31B8\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \". \" ]"
 		""
 		"Once you’ve obtained the requisite ingredients, the only thing standing in your way is Time itself."
 		""
@@ -2830,7 +2830,7 @@
 		""
 	]
 	quest.60239B38B7288779.quest_desc: [
-		"&7露台&r上的那个小锅炉显然已经不够用了，所以我们现在给它做个“小”升级吧。"
+		"&7亭子&r上的那个小锅炉显然已经不够用了，所以我们现在给它做个“小”升级吧。"
 		"&n                                                                          &r"
 		""
 		"每个现代工业化的多方快结构都需要与其处理内容所匹配的输入与输出仓。"
@@ -3215,7 +3215,7 @@
 	quest.6806970967942788.quest_desc: [
 		"The &7Coffee Maker&r is the work site for the &7Engineer&r villager. In exchange for a hearty breakfast, these villagers will gladly provide you with all the parts you need to start &7making power&r."
 		""
-		"[ \"Check out the \", { \"text\": \"Energy Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to learn about better \", {\"text\": \"Boilers\", \"color\":\"gray\"}, \" as well as generating power with \", {\"text\": \"Turbines\", \"color\":\"gray\"}, \".\" ]"
+		"[ \"Check out the \", { \"text\": \"Energy Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to learn about better \", {\"text\": \"Boilers\", \"color\":\"gray\"}, \" as well as generating power with \", {\"text\": \"Turbines\", \"color\":\"gray\"}, \".\" ]"
 		""
 		"The &7Coffee Maker&r may also be used to automatically brew &7Coffee&r. "
 		""
@@ -3230,7 +3230,7 @@
 		""
 		"Be sure to check the uses for this casing in EMI to find more devices that you may now have access to."
 		""
-		"[ \"Also take a look in the \", { \"text\": \"Energy Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on upgrading your power infrastructure. \" ]"
+		"[ \"Also take a look in the \", { \"text\": \"Energy Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on upgrading your power infrastructure. \" ]"
 	]
 	quest.687E532AD956C57A.quest_desc: [
 		"With excellent insulation and heating capabilities, this &7Alloy Smelter&r can reach temperatures capable of burning the Hell out of things."
@@ -3324,7 +3324,7 @@
 		""
 		"The second is a &7Ritual&r for more elaborate requests. Look for the chalice surrounded by chalk marks."
 	]
-	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"Earth Essence\", \"color\":\"gray\"}, \" grants access to the swampy environs of the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \".\" ]"]
+	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"Earth Essence\", \"color\":\"gray\"}, \" grants access to the swampy environs of the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \".\" ]"]
 	quest.6AC4CADE97CB512F.title: "Flourishing Island"
 	quest.6AF21EDF59FCE0D4.quest_desc: [
 		"在时间诞生以前，天空之民定居在云中的岛屿。"
@@ -3351,7 +3351,9 @@
 	quest.6BA05AC6ECC577DA.quest_desc: [
 		"By now, you should have everything you need to summon your first Island, the Lush Garden. "
 		""
-		"There, you'll find a number of plants to expand your cooking repertoire as well as an &7Altar of Birthing&r where you can summon in some animals for meat and other resources."
+		"There, you'll find a number of plants to expand your cooking repertoire as well as an &7Altar of Birthing&r where you can summon in some animals for meat and other resources. "
+		""
+		"Simply toss your recipe ingredients near the &7Altar&r and your animal will appear. Magic!"
 		"&n                                                              &r"
 		""
 		"Be careful when setting up these Island rituals. They will not destroy blocks when spawning the island. "
@@ -3486,11 +3488,11 @@
 		""
 		"任务被分为三个板块："
 		""
-		"[ {\"text\":\"                \"}, { \"text\": \"谜之天空\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8B7FD4A52663D3\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"                \"}, { \"text\": \"谜之天空\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8B7FD4A52663D3\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
 		""
-		"[ {\"text\":\"           \"}, { \"text\": \"发现谜团\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44BD4C393C59F1CB\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"           \"}, { \"text\": \"发现谜团\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44BD4C393C59F1CB\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
 		""
-		"[ {\"text\":\"                \"}, { \"text\": \"学习模组\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"16C7D5478BF3D449\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"                \"}, { \"text\": \"学习模组\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"16C7D5478BF3D449\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
 	]
 	quest.6DE4258F18A7A321.title: "欢迎！"
 	quest.6E4554D07901967C.quest_desc: [
@@ -3951,9 +3953,9 @@
 		"From that, you'll be able to create a &7Magebloom Seed&r."
 	]
 	quest.7973D06875662CFE.quest_desc: [
-		"你可能已经注意到，许多灵气生成器在灵气浓度过高时会停止工作。不同生成器的临界值各不相同，但都存在这一机制。"
+		"你可能已经注意到，许多灵气制造设备在灵气浓度过高时会停止工作。不同制造设备的临界值各不相同，但都存在这一机制。"
 		""
-		"创造催化剂可解除该限制。"
+		"制造催化剂可解除该限制。"
 		""
 		"将其放置在生成器方块下方，即可释放其全部能力。"
 	]
@@ -4032,7 +4034,7 @@
 	quest.7B9D8AD7BFC1E87D.quest_desc: [
 		"Direct Steam power will only get you so far. To begin working with electricity, you'll need a very special device; a &7Flux Gate&r."
 		""
-		"[ \"Head on over to the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to begin. \" ]"
+		"[ \"Head on over to the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to begin. \" ]"
 	]
 	quest.7BEC7AF0176EA162.quest_desc: [
 		"流体存储元件最好在元件工作台中锁定其类型，并将你想存储的流体专门分配一个元件。"
@@ -4083,7 +4085,7 @@
 		""
 		"Very handy indeed as crafts become more and more complex."
 		""
-		"[ \"Check out the \", { \"text\": \"Applied Energistics Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on setting up an ME Network. \" ]"
+		"[ \"Check out the \", { \"text\": \"Applied Energistics Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on setting up an ME Network. \" ]"
 	]
 	quest.7EBB38BA04910A92.quest_desc: [
 		"A cooking pot worthy of any industrial kitchen, this beast can handle larger batches of ingredients at a time. "
@@ -4115,13 +4117,13 @@
 		"最多可使用四个方尖碑来加速合成，每一个都能减少总合成时间。"
 	]
 	quest.7F829A1BFED304D0.quest_desc: [
-		"若是没有由其驱动的实用装置，魔法又有何意义？"
+		"若是没有由其驱动的实用设备，魔法又有何意义？"
 		""
-		"接下来将介绍自然灵气模组中一些更具特色的实用装置。你可以自行探索，判断它们在基地建设中的适用时机与场景。"
+		"接下来将介绍自然灵气模组中一些更具特色的实用设备。你可以自行探索，判断它们在基地建设中的适用时机与场景。"
 		""
-		"想要了解这些装置的完整使用方法，请查阅&7自然灵气之书&r！"
+		"想要了解这些设备的完整使用方法，请查阅&7自然灵气之书&r！"
 	]
-	quest.7F829A1BFED304D0.title: "自然装置"
+	quest.7F829A1BFED304D0.title: "自然设备"
 	quest.7FAC3A637F82BFED.quest_desc: [
 		"These floaty little witch friends can be tasked with automating standard 3x3 Crafting Table crafts, Potion Brewing, and even the Enchanting Apparatus. "
 		""
@@ -4173,7 +4175,7 @@
 	task.0C683224C0A3D09E.title: "Processors"
 	task.0CB92589AF70B557.title: "任意&3精巧手艺&r物品"
 	task.0DE0A9A5505F1850.title: "发现谜团"
-	task.10DFCCF8FA5D5505.title: "灵气生成器"
+	task.10DFCCF8FA5D5505.title: "灵气制造设备"
 	task.116CBCF6CA77E71A.title: "Syringe"
 	task.122BA8ACC6374460.title: "Item Pedestals"
 	task.1291CAC439E06D6C.title: "符文"
