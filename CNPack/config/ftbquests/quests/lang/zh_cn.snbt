@@ -226,19 +226,19 @@
 	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]"]
 	quest.0745FDF3F22807CA.title: "Flashing Island"
 	quest.074827E52A09685F.quest_desc: [
-		"&7Water&r, precious and rare, will be hard to come by in this place. "
+		"&7水&r，珍贵又稀少，在这个地方非常难以获得。"
 		""
-		"For now, you'll be able to condense a very small amount from the clouds around you by inserting them in the &7Accumulator&r. "
+		"目前，你可以通过将云放入&7蓄积器&r中来凝结出极少量的水。"
 		""
-		"There are pipes in the floor under the &7Accumulator&r that drain &7Water&r directly into your &7Boiler&r. "
+		"&7蓄积器&r下方的地板中布有管道，可以将&7水&r直接抽到你的&7锅炉&r里。"
 		""
-		"Excess &7Water&r will overflow into the &7Fluid Drawer&r in the basement where it can be easily retrieved; just Left-Click the front with an empty &7Bucket&r."
+		"多余的&7水&r会流入地下室的&7流体抽屉&r，以便取用。只需用空&7桶&r左击抽屉正面即可。"
 		""
-		"Remember to keep an eye on your &7Hearth&r! A bucket of water will only last about 12 minutes. "
+		"记得留意你的&7壁炉&r！一桶水只能供应大约12分钟。"
 		""
-		"&6⚠ Note: Water Sources are &nnot&r &6infinite! "
+		"&6⚠ 注意：水源&n无法&r&6提供无限水！"
 	]
-	quest.074827E52A09685F.title: "Water"
+	quest.074827E52A09685F.title: "水"
 	quest.07684F58521A4D34.quest_desc: [
 		"Playing with friends? "
 		""
@@ -1239,14 +1239,14 @@
 		"Similarly, items can be pulled out of the system from the &7Interface&r, meaning this can be paired nicely with AE2 or an Ars Nouveau Storage Lectern."
 	]
 	quest.294B023DD4F19FE3.quest_desc: [
-		"Your &7Goat Fur Suit&r should keep you warm enough while stepping out into the cold. But it won’t offer much else. "
+		"你的&7毛皮套装&r足以在出门时保暖，但它无法提供更多防护。"
 		""
-		"If you’d like to wear other armor pieces, you can insulate them at a &7Sewing Table&r."
+		"如果要穿戴其他盔甲的话，可以用&7缝纫台&r为其缝入隔温层。 "
 		""
-		"Insulation can always be removed by placing &7Shears&r in the bottom slot. This does not damage the insulation or the armor."
+		"将&7剪刀&r放入底部槽位即可移除隔温层，该操作不会损坏隔温层和盔甲。"
 		""
-		"&a🛈 Tip: Search \"Insulate\" in EMI to find "
-		"&a    suitable insulation items."
+		"&a🛈 提示：在EMI中搜索\"Insulate\"查阅&a合适的隔温材料。"
+		""
 	]
 	quest.2961B707783AC925.quest_desc: [
 		"一旦你开始从事能量生产，你会很乐意将&7凝胶&r升级到这个等级。"
@@ -1538,7 +1538,7 @@
 		"&6    之内。"
 		""
 	]
-	quest.359A7C9127500D6C.quest_desc: ["A simple &7Furnace&r, despite the cold, should protect that precious heat well enough to get started."]
+	quest.359A7C9127500D6C.quest_desc: ["一个简单的&7熔炉&r，尽管天气寒冷，它也能很好地保护那宝贵的热量供你使用。"]
 	quest.35A8CEA408114638.quest_desc: [
 		"正如之前所说，灵气是一种有限资源，必须用心维护。"
 		""
@@ -1692,9 +1692,9 @@
 	quest.39BCDF29A792B723.quest_desc: [
 		"灵气缓存相当于个人电池，可用于为消耗灵气的工具与盔甲补充灵气。"
 		""
-		"这包括所有附有自然修补魔咒的物品，以及自然灵气模组的全部盔甲与工具。修复此类装备，只需手持装备或身穿装备时潜行即可。"
+		"这包括所有附有自然修补附魔的物品，以及自然灵气模组的全部盔甲与工具，修复这类装备，只需手持装备或身穿装备时潜行即可。"
 		""
-		"灵气缓存可在自然祭坛中充能，若所在区域灵气极为充沛，穿戴在身上时也能被动充能。"
+		"灵气缓存可在自然祭坛中充能，若所在区域灵气极为充沛，穿戴在身上时也能被动地充能。"
 	]
 	quest.39E9D5470F347400.quest_desc: [
 		"Raw Gold, Copper, and Iron can contain some very useful secondary minerals, obtainable with just a little bit of extra processing. "
@@ -1873,9 +1873,9 @@
 		"It's also a vital component for more advanced machinery!"
 	]
 	quest.3D76C219EB7EEC03.quest_desc: [
-		"一个简易的区域放置方块设备。它会从上方的物品栏中提取方块，并将其放置在指定方块的顶部。"
+		"一个简易的范围方块放置器，会从上方的容器中提取方块，并将其放置在指定方块的顶部。"
 		""
-		"将目标方块放入附着在&7建造器&r上的&7物品展示框内&r，即可指定放置位置。"
+		"将目标方块放入贴在&7无感知建造器&r上的&7物品展示框内&r，即可指定放置方块的位置。"
 	]
 	quest.3D7B773741D78864.quest_desc: [
 		"Harvesting edible meat from &7Wilden&r is a task that requires both skill and focus; one slip and the meat may be fouled by the cursed magic flowing through them."
@@ -2313,17 +2313,17 @@
 		"It also makes an excellent focus for certain magical pursuits. "
 	]
 	quest.49E18B07D6E4A5EB.quest_desc: [
-		"With the latent energies in Ambrosium, we can create a Fermentation Vat to magically transmute certain materials. "
+		"利用神能晶片中蕴含的能量，我们可以制造一个发酵釜，用炼金手段转化某些材料。"
 		""
-		"We just need a suitable material to line the vat with to control the reaction."
+		"我们需要一种合适的材料在缸内作为衬物，以控制反应。"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Conjure Quicksoil&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑速沙&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Aether Dirt&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"&7构筑天壤&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
 		"&n                                                                          &r"
 		""
@@ -2369,15 +2369,15 @@
 		"&6    viewing the recipe."
 	]
 	quest.4C46DBD26BE50BCD.quest_desc: [
-		"&7灵气场生成器&r是强力的方块破坏设备，需成对使用，可破坏两者之间的所有方块。"
+		"&7灵气场生成器&r是强力的方块破坏器，需成对使用，可破坏两者之间的所有方块。"
 		""
-		"可在任意一台灵气场生成器的&7物品展示框&r中放入工具进行强化，使其获得该工具的&7精准采集&r、&7时运&r及其他特殊挖掘效果。"
+		"可在任意一台灵气场生成器的&7物品展示框&r中放入工具进行强化，使其获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
 	]
 	quest.4C91792ACCC53A2B.quest_desc: ["By applying high heat in a low-oxygen environment, we can convert &7Pelagite&r into &7Kerogen&r. "]
 	quest.4CB21D6351486281.quest_desc: [
-		"可在&7自然祭坛&r上安装催化剂，以修改其可处理的合成配方。"
+		"在&7自然祭坛&r上安装催化剂，就可变更其处理的配方。"
 		""
-		"将其放置在结构的&7矮石柱&r上即可使用。"
+		"将其放置在结构的&7矮石柱&r上即可。"
 		""
 		"&6⚠ 注意：在不冲突的前提下，装"
 		"&6    有催化剂的祭坛仍然可以"
@@ -2444,7 +2444,7 @@
 	]
 	quest.4FEA49AD05720ED7.title: "Arts and Crafts"
 	quest.5009BB4B0D1B459E.quest_desc: [
-		"&7漏斗增强器&r放置在&7漏斗&r上方，使其可从最远7格范围内拾取物品。"
+		"&7漏斗增强器&r放置在&7漏斗&r上方，可使其拾取范围提升至最远7格。"
 		""
 		"与&7专家型漏斗&r配合使用时，还可针对特定物品进行过滤。"
 	]
@@ -2470,15 +2470,15 @@
 		"New &7Dorodangos&r await you with the materials available on this island. "
 	]
 	quest.51636F3E5A461A7B.quest_desc: [
-		"You'll be able to scrape away the ice from &7Icestone&r on a cutting board with any &7Axe&r."
+		"你可以在砧板上用&7斧头&r刮掉&7冰石&r上的冰。"
 		""
-		"After it has been cleaned up, you’ll be left with &7Holystone&r which may be crushed down to obtain other materials. "
+		"清理后，你将得到&7圣石&r，圣石可以粉碎以获得其他材料。"
 		""
-		"Notably, you’ll need some &7Ambrosium&r which is an important catalyst for transmutation magic."
+		"值得注意的是，你还需要一些&7神能晶片&r，它是附神转化的重要催化剂。"
 		""
-		"&6⚠ Note: Icestone is cold and holding "
-		"&6    too much will rapidly lower your "
-		"&6    body temperature!"
+		"&6⚠ 注意：冰石很冷，持有过多冰石会迅速降低你的体温！"
+		""
+		""
 	]
 	quest.51A88370BE1CAC99.quest_desc: [
 		"Not only do &7Worms&r speed up crop growth, but they’ll also keep the soil mostly hydrated. "
@@ -2565,9 +2565,9 @@
 	]
 	quest.56DDD2327724F715.title: "线缆"
 	quest.56EDBF31457D8112.quest_desc: [
-		"可通过比较器读取灵气探测器的信号，以检测当前区域内的灵气储量。"
+		"可通过比较器读取灵气探测器的数据，以检测当前区域内的灵气值。"
 		""
-		"这通常在与生成器搭配使用时最为实用，可按需开启或关闭生成器。"
+		"常与灵气制造设备搭配使用，可按需开启或关闭制造灵气。"
 	]
 	quest.574555F24035E48A.quest_desc: [
 		"这一系列方块的功能正如它们的名字所写；放置与收集方块或流体。"
@@ -2620,7 +2620,7 @@
 		""
 	]
 	quest.579C07CD07599438.title: "合成CPU"
-	quest.5859B0217F1C837A.quest_desc: ["使用灵气吸引矿车，可从中心生成器抽取灵气并将其分散至整片区域，为距离过远、无法直接接收生成器供能的机器提供能源。"]
+	quest.5859B0217F1C837A.quest_desc: ["灵气吸引矿车可从中心灵气制造设备抽取灵气，并将其分散至整个区域，为距离过远的设备提供灵气。"]
 	quest.58A275DB77CDF7F8.quest_desc: [
 		"灵灾为生物添加了几种特殊掉落物，只能用特定的武器获得。"
 		""
@@ -2975,13 +2975,13 @@
 		"Bind an inventory to your &7Primary Lectern&r using the Dominion Wand; Sneak Right-Click the inventory, then Right-Click the &7Primary Lectern&r."
 	]
 	quest.62C7492F54D80CBA.quest_desc: [
-		"The few spell tomes you’ve been left with should prove useful, but they’re no substitute for a full &7Spell Book&r. Fully recovering that is going to take time but we can get a start on it now."
+		"先前留给你的几本法术卷册效果应该不错，但它们毕竟无法替代真正的&7法术书&r。完全修复它需要费点功夫，我们现在开始着手。"
 		""
-		"Gather some wood and craft up some basic tools. "
+		"首先收集一些木材，制作几个基础工具。"
 		""
-		"With an &7Axe&r and &7Cutting Board&r, you’ll be able to get some &7Bark&r for &7Paper&r. "
+		"有了&7斧头&r和&7砧板&r，你就能够切削&7树皮&r，制作&7纸&r。"
 		""
-		"With a &7Knife&r, you’ll be able to break &7Grass&r for &7Straw&r."
+		"再用&7刀&r破坏&7草&r以获得&7草杆&r。"
 	]
 	quest.62C7492F54D80CBA.title: "我为刀俎"
 	quest.62E2DEBF71698376.quest_desc: [
@@ -3009,9 +3009,9 @@
 	]
 	quest.631AA5AAA6EF687C.title: "自动合成"
 	quest.6384F08466CA9FB9.quest_desc: [
-		"&7红石灵气蒸发器&r本质上就是一个时钟电路。"
+		"&7红石灵气蒸发器&r本质上就是一个时钟。"
 		""
-		"向其注入&7瓶装灵气&r可设定不同间隔。每瓶&7阳光&r对应一秒，&7鬼魂&r对应一分钟，&7黑暗&r对应一小时。"
+		"输入&7瓶装灵气&r可设定不同间隔。每瓶&7阳光&r对应一秒，&7鬼魂&r对应一分钟，&7黑暗&r对应一小时。"
 	]
 	quest.63944BDC078E728A.quest_desc: [
 		"The &7Focus of Block Shaping&r is a powerful piece of kit for any spell-caster as it allows you to stack effects into a single spell that would normally take multiple casts. "
@@ -3054,7 +3054,7 @@
 		""
 		"The South Wind began to blow, hot and strong, bringing with it Summer and the promise of adventure."
 	]
-	quest.63A7E92BBCEDF461.title: "Soaking Up the Sun"
+	quest.63A7E92BBCEDF461.title: "沐浴阳光"
 	quest.63AFE7CB35AE94BF.quest_desc: [
 		"Want to change things up a bit? Looking for a more magical experience over Create’s normal machines?"
 		""
@@ -3202,7 +3202,7 @@
 	quest.672B88E9A3FA1FCE.quest_desc: [
 		"当&7凛冬的呼唤&r激活时，该区域内会快速积雪，水会冻结成冰。"
 		""
-		"雪傀儡也可能生成，进一步扩大积雪区域！"
+		"雪傀儡也可能会生成，进一步扩大积雪区域！"
 		""
 		"毋庸置疑，这是获取&7雪&r来制作&7冰&r的绝佳途径！"
 	]
@@ -3387,35 +3387,35 @@
 		"&6    viewing the recipe."
 	]
 	quest.6CE9EE018596DAD2.quest_desc: [
-		"Craft a &7Novice Spell Book&r. It comes with a few key glyphs that you’ll be able to put together, but you’ll soon want to explore more glyphs to pull off ever more impressive feats."
+		"合成一本&7初学者法术书&r。它自带一些可以组合使用的核心魔符，相信你很快就会想尝试更多魔符，实现更加惊人的壮举。"
 		""
-		"                          &6&nUseful Keybinds&r"
+		"                          &6&n实用按键绑定&r"
 		""
-		"[\"• Open Book (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Open Book\"}]},\"keybind\":\"key.ars_nouveau.open_book\"},\")\"]"
-		"[\"• Selection HUD (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Selection HUD\"}]},\"keybind\":\"key.ars_nouveau.selection_hud\"},\")\"]"
-		"[\"• Next Slot (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Next Slot\"}]},\"keybind\":\"key.ars_nouveau.next_slot\"},\")\"]"
-		"[\"• Previous Slot (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Previous Slot\"}]},\"keybind\":\"key.ars_nouveau.previous_slot\"},\")\"]"
+		"[\"• 打开法术书 (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"打开法术书\"}]},\"keybind\":\"key.ars_nouveau.open_book\"},\")\"]"
+		"[\"• 法术选取HUD (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"法术选取HUD\"}]},\"keybind\":\"key.ars_nouveau.selection_hud\"},\")\"]"
+		"[\"• 下一栏法术 (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"下一栏法术\"}]},\"keybind\":\"key.ars_nouveau.next_slot\"},\")\"]"
+		"[\"• 上一栏法术 (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"上一栏法术\"}]},\"keybind\":\"key.ars_nouveau.previous_slot\"},\")\"]"
 		""
-		"If you're feeling a little daunted by spellcraft, that's normal. It's a huge and very powerful system. We'll try to point out useful spells to know throughout the quests, however. "
+		"如果你对法术制作有些犯怵，这很正常——这是一套庞大而强力的系统。因此，我们会尝试在任务中指明一些实用的法术。"
 		""
-		"The guidebook also has a section that explains the rules, such as placing &5Form&r before &aEffect&r or where &6Augments&r are allowed. "
+		"指南书中也有一个解释规则的部分，解释了诸如&5形态&r应该放在&a效果&r之前，&6增强&r允许放置的位置等。"
 		""
-		"[\"Lastly, the community driven \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ars.guide/spells/introduction/compendium/\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Ars.Guide\",\"underlined\":true},\" has a repository of useful spells. Feel free to explore them and submit your own creations!\"]"
+		"[\"最后，社区驱动的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ars.guide/spells/introduction/compendium/\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"Ars.Guide\",\"underlined\":true},\"提供了一个实用的法术库。请随意探索，分享你自己的法术！\"]"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Multi-Tool&r"
-		"    &5Touch&r > &aBreak&r"
+		"&7多合一工具&r"
+		"    &5触摸&r > &a破坏&r"
 		""
-		"&7Tree Harvesting&r"
-		"    &5Projectile&r > &aFell&r"
+		"&7一键砍树&r"
+		"    &5弹射物&r > &a砍伐&r"
 		""
 		"&7构筑冰石&r"
 		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&a🛈 Tip: Refer to the guide for more examples."
+		"&a🛈 提示：参阅指南了解更多示例。"
 		""
-		"&6⚠ Note: Spells may contain up to thirty glyphs."
+		"&6⚠ 注意：单个法术最多只可包含30个魔符。"
 	]
 	quest.6D09D016EDE0AAFB.quest_desc: [
 		"This workstation allows the Wixie to craft standard &7Crafting Table&r and &7Brewing Stand&r recipes. "
@@ -3957,7 +3957,7 @@
 		""
 		"制造催化剂可解除该限制。"
 		""
-		"将其放置在生成器方块下方，即可释放其全部能力。"
+		"将其放置在灵气制造设备下方，即可释放其全部能力。"
 	]
 	quest.79951647661D4B52.quest_desc: [
 		"[ \"你需要在\",{ \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } },\"与\",{\"text\": \"坚守者\", \"color\": \"gray\"}, \"对峙，才可以获得升级这一等级\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"的重要材料。\" ]"
@@ -4137,15 +4137,15 @@
 		"&7Witch to Wixie&r"
 		"    &5Projectile&r > &aHarm&r > &6Amplify&r > &aDispel&r "
 	]
-	reward.11E0A9AD9E166E7A.title: "Emergency Supplies"
+	reward.11E0A9AD9E166E7A.title: "应急物资"
 	reward.34CE01457EC3BF54.title: "床"
-	reward.3E7BAB348DD3EE9A.title: "Emergency Supplies"
-	reward.40388BEEAF901737.title: "Emergency Supplies"
-	reward.45A896DE3291BF81.title: "Emergency Supplies"
-	reward.57C51F8A99D36594.title: "Emergency Supplies"
-	reward.596A24138CB4C67D.title: "Emergency Supplies"
-	reward.6364852EF59523D4.title: "Emergency Supplies"
-	reward.68B7C21542AEB978.title: "Emergency Supplies"
+	reward.3E7BAB348DD3EE9A.title: "应急物资"
+	reward.40388BEEAF901737.title: "应急物资"
+	reward.45A896DE3291BF81.title: "应急物资"
+	reward.57C51F8A99D36594.title: "应急物资"
+	reward.596A24138CB4C67D.title: "应急物资"
+	reward.6364852EF59523D4.title: "应急物资"
+	reward.68B7C21542AEB978.title: "应急物资"
 	reward_table.00540CF744EBCDCA.title: "农夫乐事"
 	reward_table.01958857E91F63D0.title: "零件：稀有"
 	reward_table.02545B33A0B47726.title: "拾荒者乐事"
@@ -4239,7 +4239,7 @@
 	task.4F21DF4EFC469AAC.title: "流体输出仓"
 	task.4FE55FEB08DFF115.title: "Construction Sticks"
 	task.51C59228A0E0612E.title: "Items"
-	task.5243C7DE02D7AA20.title: "Armor Insulation"
+	task.5243C7DE02D7AA20.title: "盔甲隔温层"
 	task.5314260DF92C1856.title: "Observe a Wixie's Cauldron"
 	task.547A92B162CC0314.title: "流体输入仓"
 	task.54F9AD36E2BEBF47.title: "Neptunium Tools and Armor"
