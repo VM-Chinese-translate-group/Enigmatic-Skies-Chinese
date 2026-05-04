@@ -500,11 +500,11 @@
 		"To allow them to extract from any slot, you just need to slap a &7Rune of Swiftness&r on the connection."
 	]
 	quest.1275C61F2390D761.quest_desc: [
-		"The &7ME Replication Connector&r allows you to interface your Replication network with your AE2 network. With it in place, AE2 will be able to request anything from your Replication network for auto-crafting."
+		"&7ME复制连接器&r能链接你的复制网络与AE2网络。有了它，AE2就能从你的复制网络请求任何物品进行自动合成。"
 		""
-		"Note that AE2 must be taught how to create each Matter Type. This can be done by placing Pattern Providers against Disintegrators and setting up patterns for each matter type. "
+		"一定要学会如何在AE2创建物质类型：将样板供应器对着分解器放置，然后给每种物质类型设置样板。"
 		""
-		"It works best if you create one pattern per matter type."
+		"最好为每种物质类型创建一个样板。"
 	]
 	quest.128449F277949E31.quest_desc: [
 		"将&7促符&r放在&7修复基柱&r上后，放在激活的&7精魂坩埚&r附近，就可以修复它，并使其在最佳工作状态。"
@@ -769,9 +769,9 @@
 		""
 		"灵气，就是你的氧气。"
 		""
-		"&7灵气制造设备&r可以补充灵气，但灵气本质是一种需要悉心维护的有限资源，一旦过度消耗，可怕的事情便会接踵而至。"
+		"&7灵气制造设备&r可以制造灵气，但灵气是一种需要维护的有限资源，一旦过度消耗，可怕的事情便会接踵而至。"
 		""
-		"万幸的是，一旦灵气过低，&7自然祭坛&r就会直接停止工作，但其他设备却能将灵气彻底耗尽。"
+		"万幸的是，一旦灵气过低，&7自然祭坛&r会直接停止工作，但其他设备却能将灵气彻底耗尽。"
 		""
 		"&7自然灵气之书&r会为你详细讲解这种神秘能量。"
 		"&n                                                              &r"
@@ -1069,9 +1069,9 @@
 	]
 	quest.22344008D43D4710.title: "Chef's Aid"
 	quest.223BE2F1F8A5C87C.quest_desc: [
-		"The &7Replication Terminal&r is used to request crafts from patterns stored on &7Memory Chips&r. "
+		"&7复制终端&r可以从&7存储芯片&r上的样板请求合成。"
 		""
-		"It also gives you an overview of the total amount of each &7Matter&r stored on the network and allows you to manage any ongoing requests. "
+		"它还会显示网络上存储的每种&7物质&r的总量，也允许你管理任何进行中的请求。"
 	]
 	quest.22ABFC3024E54FEA.quest_desc: [
 		"The Mercurial Item transport system is a simple logistics network for moving, well, items."
@@ -1084,9 +1084,9 @@
 	quest.235D7EF41916E480.quest_desc: ["The following are various forms of power transfer options available in Enigmatica 10."]
 	quest.235D7EF41916E480.title: "Power"
 	quest.23DDFBC0DB19F6A4.quest_desc: [
-		"将灵气失衡区放置在消耗灵气的设备下方，就能防止其过度消耗灵气，防止灵气值进入危险阈值。"
+		"灵气失衡区使用方法：放置在消耗灵气的设备下方，它可以防止设备过度消耗灵气，防止灵气值过低。"
 		""
-		"建议你尽快在所有耗灵气设备下方都放上一个，因为有些设备耗灵气的速度很快！"
+		"建议你尽快在所有消耗灵气的设备下方都放上一个，因为有些设备消耗灵气的速度真的很快！"
 	]
 	quest.23ED7167CB856D26.quest_desc: [
 		"Magic doesn’t come out of thin air, of course. What madness!"
@@ -1109,9 +1109,9 @@
 		"As &7Spirit&r requirements increase, it may be a good idea to push your Spirit Plunder enchants to ever greater heights."
 	]
 	quest.25B419FE32D9752B.quest_desc: [
-		"Make a &7Mercury Distiller&r and place it atop a &7Pyromantic Brazier&r. "
+		"制作一个&7汞蒸馏器&r并将其放置在&7御炎火盆&r上方。"
 		""
-		"Items, such as &7Sky Stone Dust&r, may be Right-Clicked into the &7Distiller&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing."
+		"手持物品右击&7汞蒸馏器&r即可放入（如&7陨石粉&r），此外还需要往&7御炎火盆&r中右击放入燃料，才能开始蒸馏。"
 	]
 	quest.25B779319401405B.quest_desc: [
 		"欢迎来到灵灾，这是一个以操控精魂来施行强力仪式为核心的魔法模组。"
@@ -1148,13 +1148,13 @@
 	]
 	quest.267FEB0BB5D9B4D9.title: "Assembly Table"
 	quest.26B8DEFFA75B3944.quest_desc: [
-		"The Identification Chamber is used to scan and store patterns into Memory Chips. This process is destructive, so your input item will be lost. But that’s ok, right? You’ll soon have as many as you want. "
+		"鉴定室用于扫描物品，并将样板存储到存储芯片中。此过程具有破坏性，会损失你的输入物品。但这也算合情合理吧？毕竟你很快就会拥有无限的这种物品了。"
 		""
-		"Each Memory Chip can store up to 16 different patterns, and once installed in a Chip Storage will make those items requestable from the Terminal."
+		"每个存储芯片最多可存储16种不同的样板，放入芯片存储器后，就可以从终端请求这些物品。"
 		""
-		"&a🛈 Tip: Items may be piped into the "
-		"&a    Identification Chamber through"
-		"&a    the bottom."
+		"&a🛈 提示：物品可以从底部"
+		"&a    用管道送入鉴定室。"
+		""
 	]
 	quest.26D35A0B06B5EA35.quest_desc: [
 		"她的手杖渐渐燃作灰烬，四风将她送回大地的怀抱"
@@ -1210,16 +1210,16 @@
 	]
 	quest.289DEC367A80D718.title: "高级放置和收集器"
 	quest.28ACDB98DC2B9D41.quest_desc: [
-		"Our fuel can burn plenty hot, but with the extreme cold here it's still not enough to warm certain machines to suitable temperatures. "
+		"虽然我们的燃料可以产生很高的热量，但由于这里极度寒冷，这些热量仍然不足以将某些机器加热到合适的温度。"
 		""
-		"We'll need some form of insulation to retain as much precious warmth as possible."
+		"我们需要一些隔热手段，尽可能保住来之不易的温暖。"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Conjure Aerogel&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑气凝胶&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 		""
-		"&6⚠ Note: Apply Amplify to a Break spell to harvest Aerogel."
+		"&6⚠ 注意：在破坏魔符后插入强化魔符即可用来收获气凝胶。"
 	]
 	quest.28E44D5D6A6C1D6E.quest_desc: [
 		"An alchemical device used in the production of world-shaping materials of magical importance. "
@@ -1337,12 +1337,12 @@
 	]
 	quest.2D55E211F5B4F0BF.quest_desc: ["一个简单的充能站，可以给放在其中的设备充能。"]
 	quest.2D755021F6490B86.quest_desc: [
-		"Obtain your first &7Sourceberry&r by enchanting a &7Cloud Berry&r. "
+		"使用神能炉附神&7云梅&r，获取你的第一颗&7魔源浆果&r。"
 		""
-		"Be sure to plant the &7Sourceberry&r to grow more. The spells your disposal should help tremendously with this task."
+		"务必多多种植收获&7魔源浆果&r。你掌握的法术能够帮助你迅速地完成这项任务。"
 		""
-		"&6⚠ Note: Use a Cutting Board to grind "
-		"&6    Flour for Dough!"
+		"&6⚠ 注意：使用砧板磨粉来制作面团！"
+		""
 	]
 	quest.2F1EA0B091C700E1.quest_desc: [
 		"The &7Fisherman Villager&r has some unusual fish to offer you, like the enigmatic &7Brown Shrooma&r. "
@@ -1398,27 +1398,27 @@
 		"As such, it can be a great way to supplement your &7Water&r production from the waste produced by your animals."
 	]
 	quest.307FEC610F0B542F.quest_desc: [
-		"The Replicator itself essentially has two modes of operation. "
+		"复制器主要有两种运作模式。"
 		""
-		"In either mode, it will automatically drawn required materials from Tanks attached to the network."
-		""
-		""
-		"&7&nInfinite Mode&r"
-		""
-		"To use this mode, simply place an item in the Infinite Mode slot. The Replicator will attempt to continually clone this item using material from the network. "
-		""
-		"This is generally best for things you’ll need a steady supply of. "
+		"无论哪种模式，它都会自动从连接到网络的储罐中抽取所需材料。"
 		""
 		""
-		"&7&nOn-Demand Mode&r"
+		"&7&n无限模式&r"
 		""
-		"Any Replicator on the network that isn’t in Infinite Mode is available for On-Demand requests. Such requests are made at a Terminal and will automatically be balanced across available Replicators. "
+		"要使用此模式，只需将物品放入无限模式栏。复制器就会持续用网络中的物质复制该物品。"
 		""
-		"Making such a request will also require storing patterns on a Memory Chip."
+		"一般用于你需要稳定供应的物品。"
 		""
-		"&6⚠ Note: Items with extra data, such as "
-		"&6    batteries or inventories, will be"
-		"&6    cloned empty."
+		""
+		"&7&n按需模式&r"
+		""
+		"网络上未处于无限模式的复制器都能用于按需请求。在终端发起请求后，会在可用的复制器之间自动均衡复制。"
+		""
+		"需要将样板存储在存储芯片上才能发出此类请求。"
+		""
+		"&6⚠ 注意：带有额外数据的物品，"
+		"&6    例如电池或具有物品栏的物品，"
+		"&6    复制后会清空数据。"
 	]
 	quest.30FE41CF0C7F1270.quest_desc: [
 		"Need a fuel boost? "
@@ -1513,9 +1513,9 @@
 	quest.34F48A8F71A7C937.quest_desc: [
 		"&7末影板条箱&r是末影箱的升级版。它不仅支持自动化与物流系统接入，还能根据命名划分多个独立存储频道。"
 		""
-		"想设定频道的话，就把&7末影板条箱&r和一颗&7末影之眼&r一起放进&7铁砧&r里，再给它命名就行，这个名字就会成为专属频道，所有同名的&7末影板条箱&r都会共享同一个存储空间。"
+		"设定频道的方法：将&7末影板条箱&r和一颗&7末影之眼&r一起放入&7铁砧&r并命名。这个名字就会成为专属频道，所有与之同名的&7末影板条箱&r都会共享同一个存储空间。"
 		""
-		"除此之外，你还能用&7末影目镜&r远程访问&7末影板条箱&r，只要和&7板条箱&r命名一致，就能绑定对应频道。"
+		"使用&7末影目镜&r可远程访问&7末影板条箱&r，只要和&7板条箱&r命名一致，就能绑定对应频道。"
 	]
 	quest.34FB10F0A2504973.quest_desc: [
 		"Buy a &7Loom&r to gain access to a &7Shepherd Villager&r. "
@@ -1544,11 +1544,11 @@
 		""
 		"好在，你可以使用多种灵气制造设备来补充灵气。"
 		""
-		"每种制造设备都各有优缺点，工作时所需材料也各不相同，一般来说，材料越容易获取，制造设备产出的灵气就越少。"
+		"每种灵气制造设备都各有优缺点，工作时所需材料也各不相同，一般来说，材料越容易获取，设备产出的灵气就越少。"
 		""
 		"想要更高灵气产量，可以看看&2射击标靶&r、&2烟火凝望&r或是&2滞留型吸收器&r。"
 		""
-		"如果你的小型灵气设备只需消耗少量灵气，用&2草食性吸收器&r或者&2沼泽之霍米&r就够用了。"
+		"如果你的设备只需要消耗少量灵气，那么有&2草食性吸收器&r或&2沼泽之霍米&r就够用了。"
 		""
 		"这些内容在&7自然灵气之书&r中均有详细说明，如需了解具体搭建方法，请查阅对应条目。"
 	]
@@ -1690,9 +1690,9 @@
 		"Generating Compressed Air in sufficient volumes with only a &7Thermal Compressor&r will likely prove daunting. Consider something with a bit more power, such as the &7Electrostatic Compressor&r. "
 	]
 	quest.39BCDF29A792B723.quest_desc: [
-		"灵气缓存相当于个人电池，可用于为消耗灵气的工具与盔甲补充灵气。"
+		"灵气缓存相当于个人电池，可以给灵气工具与装备“充电”。"
 		""
-		"这包括所有附有自然修补附魔的物品，以及自然灵气模组的全部盔甲与工具，修复这类装备，只需手持装备或身穿装备时潜行即可。"
+		"这其中包括所有附有自然修补附魔的物品，以及自然灵气模组的全部装备与工具。想要修复这类物品，只需手持工具或身穿装备时潜行即可。"
 		""
 		"灵气缓存可在自然祭坛中充能，若所在区域灵气极为充沛，穿戴在身上时也能被动地充能。"
 	]
@@ -1873,7 +1873,7 @@
 		"It's also a vital component for more advanced machinery!"
 	]
 	quest.3D76C219EB7EEC03.quest_desc: [
-		"一个简易的范围方块放置器，会从上方的容器中提取方块，并将其放置在指定方块的顶部。"
+		"一种可以在一定范围内放置方块的机器。它会从上方的容器中提取物品，并将其放置在指定的方块上方。"
 		""
 		"将目标方块放入贴在&7无感知建造器&r上的&7物品展示框内&r，即可指定放置方块的位置。"
 	]
@@ -2327,19 +2327,19 @@
 		""
 		"&n                                                                          &r"
 		""
-		"The &7Fermentation Vat&r is operated by Right-Clicking the inputs into the machine. Once everything is in, Sneak Right-Click it again to ‘close’ it. It will only operate while closed."
+		"&7发酵釜&r的操作方式如下：手持物品右击放入发酵釜，物品放入完毕后，再次潜行右击发酵釜将其“关闭”。发酵釜只有在关闭时才会进行发酵。"
 		""
-		"The Vat will open again automatically once it can no longer do any work. Be that because it finished, ran out of room for outputs, or ran out of inputs. "
+		"一旦发酵无法再进行，发酵釜就会自动打开，导致无法进行的因素有：发酵已完成、输出槽位已满、输入材料耗尽。"
 		""
-		"                       &n&6A Note on Automation&r&r"
+		"                       &n&6关于自动化的说明&r&r"
 		""
-		"Fluids and Items may be inserted by any form of logistics such as pipes or hoppers, but only while the device is open. Similarly, items may only be extracted while it is open."
+		"只有在发酵釜打开时，流体和物品才能通过管道和漏斗等方式输入。同样地，产物也只能在发酵釜打开时提取。"
 		""
-		"The device may be closed by applying a Redstone signal to any side other than the front, which can be identified by the red dot at the bottom. "
+		"对除正面外的任意面输入红石信号，可以关闭反应釜。反应釜正面可以通过底部的红点辨识。"
 		""
-		"Regardless of the signal, the device will still open automatically if it has no room for outputs."
+		"无论是否输入信号，如果发酵釜内缺少输出空间，它仍然会自动打开。"
 		""
-		"The front will output a signal when the device has finished a recipe, allowing finer control for small batches."
+		"发酵釜完成一个配方时，会从正面输出一个红石信号，利用该机制可以实现更加精细的分批操控。"
 	]
 	quest.49F48B91801BE4FE.quest_desc: [
 		"&7Transfer Labels&r are a great way to move items between adjacent inventories, meaning a &7Chest&r next to a &7Furnace&r can now push without the need of a hopper or other pipes. "
@@ -2369,13 +2369,13 @@
 		"&6    viewing the recipe."
 	]
 	quest.4C46DBD26BE50BCD.quest_desc: [
-		"&7灵气场生成器&r是强力的方块破坏器，需成对使用，可破坏两者之间的所有方块。"
+		"&7灵气场生成器&r使用方法：将其成对放置，可破坏两者之间的所有方块。"
 		""
-		"可在任意一台灵气场生成器的&7物品展示框&r中放入工具进行强化，使其获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
+		"强化方法：在任意一台灵气场生成器上&7物品展示框&r中放入工具，就可获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
 	]
 	quest.4C91792ACCC53A2B.quest_desc: ["By applying high heat in a low-oxygen environment, we can convert &7Pelagite&r into &7Kerogen&r. "]
 	quest.4CB21D6351486281.quest_desc: [
-		"在&7自然祭坛&r上安装催化剂，就可变更其处理的配方。"
+		"在&7自然祭坛&r上安装催化剂，就可处理新的配方。"
 		""
 		"将其放置在结构的&7矮石柱&r上即可。"
 		""
@@ -2444,7 +2444,7 @@
 	]
 	quest.4FEA49AD05720ED7.title: "Arts and Crafts"
 	quest.5009BB4B0D1B459E.quest_desc: [
-		"&7漏斗增强器&r放置在&7漏斗&r上方，可使其拾取范围提升至最远7格。"
+		"&7漏斗增强器&r使用方法：放置在&7漏斗&r上方，其拾取范围可提升至最远7格。"
 		""
 		"与&7专家型漏斗&r配合使用时，还可针对特定物品进行过滤。"
 	]
@@ -2565,9 +2565,9 @@
 	]
 	quest.56DDD2327724F715.title: "线缆"
 	quest.56EDBF31457D8112.quest_desc: [
-		"可通过比较器读取灵气探测器的数据，以检测当前区域内的灵气值。"
+		"使用比较器读取灵气探测器的数据，就可检测当前区域内的灵气值。"
 		""
-		"常与灵气制造设备搭配使用，可按需开启或关闭制造灵气。"
+		"常与灵气制造设备搭配使用，根据灵气值开关它们"
 	]
 	quest.574555F24035E48A.quest_desc: [
 		"这一系列方块的功能正如它们的名字所写；放置与收集方块或流体。"
@@ -2620,7 +2620,7 @@
 		""
 	]
 	quest.579C07CD07599438.title: "合成CPU"
-	quest.5859B0217F1C837A.quest_desc: ["灵气吸引矿车可从中心灵气制造设备抽取灵气，并将其分散至整个区域，为距离过远的设备提供灵气。"]
+	quest.5859B0217F1C837A.quest_desc: ["灵气吸引矿车可从中心灵气制造设备抽取灵气，并将其分散至整个区域，为距离远的设备提供灵气。"]
 	quest.58A275DB77CDF7F8.quest_desc: [
 		"灵灾为生物添加了几种特殊掉落物，只能用特定的武器获得。"
 		""
@@ -2879,11 +2879,11 @@
 	quest.605A60825B68C2D7.title: "Animal Senescence"
 	quest.60DC19DA26E8CCA4.quest_desc: ["With all of the impurities purged, &7Stainless Steel&r should prove useful in more advanced technology where a stray soul or two might otherwise disturb the process and prove disastrous. "]
 	quest.616862D8ADBE3928.quest_desc: [
-		"Water will freeze, of course, if left out in the cold. But you’ll need some particularly cold, dense ice soon. "
+		"水在寒冷中会结冰，毫无疑问。不过你很快就会需要一些特别寒冷、致密的冰。"
 		""
-		"Freeze a &7Water Bucket&r and then re-freeze it until you get &7Blue Ice&r."
+		"将&7水桶&r冻成冰，然后再冻，再冻，直到冻成&7蓝冰&r。"
 		""
-		"The &7Freezer&r uses &7Icestone&r as fuel."
+		"&7冷冻器&r使用&7冰石&r作为燃料。"
 	]
 	quest.619FB543EE458A0E.quest_desc: [
 		"Summon a &7Polar Bear&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
@@ -3046,7 +3046,7 @@
 		"            &aSmelt&r > &6Sensitive&r > &aItem Pickup&r"
 	]
 	quest.63A7E92BBCEDF461.quest_desc: [
-		"有一天，女子觉得该继续上路了。这次她来到了南方，动物们依然结伴同行。"
+		"有一天，女子觉得该继续上路了。这次她来到了南方，动物们依然随她同行。"
 		""
 		"Here, forests gave way to wetlands, wetlands to sand-strewn shores. The woman, seeing how the animals swam along the winding waterways, made a canoe to follow them.  When she grew tired, she lay down amongst the sandy dunes of the coast to rest. When she grew unclean, she bathed in the warm waters of the seas. "
 		""
@@ -3565,18 +3565,18 @@
 	]
 	quest.6EBB293F3DDE5EC7.title: "A Spring in Her Step"
 	quest.6F1A7E1B49FCC4C0.quest_desc: [
-		"Replication begins by breaking down material into their base components. "
+		"复制始于将材料分解为其基本组成成分。"
 		""
 		"There are eight of these Matter types in total and materials may consist of more than one. You'll be able to obtain them all by crafting Tokens."
 		"&n                                                                          &r"
 		""
-		"Place the &7Disintegrator&r then connect the provided &7Matter Pipes&r and &7Matter Tank&r to it. "
+		"放置&7分解器&r，再将&7物质管道&r和&7物质储罐&r连接到上面。"
 		""
-		"&7Matter Tanks&r only connect to &7Pipes&r from the top and bottom faces. &7Tanks&r can also be stacked on top of each other and will still connect through to the network. "
+		"&7物质储罐&r只能从顶面和底面连接&7管道&r。&7储罐&r也可以彼此堆叠放置，并且也能同时连接到网络。"
 		""
-		"Replication also uses a fair amount of power, which can be provided directly to machines or transmitted through Matter Pipes to any machines on the network."
+		"复制还需要消耗相当多的能量，这些能量既可以直接提供给机器，也可以从网络上通过物质管道的其他机器传输给机器。"
 		""
-		"Once everything is connected, toss some items in the &7Disintegrator&r. The matter will automatically flow out from this machine and be stored in the &7Matter Tank&r. From here, it's available to other machines for use. "
+		"一切连接准备好后，就可以将物品丢入&7分解器&r，物质会自动输出并储存在&7物质储罐&r中。之后它就可以供其他机器使用了。"
 	]
 	quest.6F8C048404EAF9FF.quest_desc: [
 		"自动合成是AE的核心组成部分，它可以处理所需物品的所以子合成过程。"
@@ -3721,17 +3721,17 @@
 		"TNT cannon, anyone?"
 	]
 	quest.7413DDDB64FFAC2A.quest_desc: [
-		"In what seemed like no time at all, the woman’s explorations led her into the West and the animals came with her."
+		"光阴似箭，弹指之间，女子已经来到了西方，动物们依然随她同行。"
 		""
-		"Here, wetlands gave way to dry brushland and stifling deserts. The woman found travel difficult and though she grew tired faster, places to take rest were fewer and farther between. Food grew scarce and the days grew hard. "
+		"这里不再有湿地，取而代之的是干枯的灌木丛和荒芜的沙漠。女子的步伐变得沉重，她越来越需要停下来休息，但可以歇脚的地方反而越来越少。干粮开始告急，生活变得困难。"
 		""
-		"The woman watched the animals cache food when it was available. Doing as they did, she could eat when none could be found. Seeing that shelter was scarce, she made her own that she could carry and move with her."
+		"女子观察到动物，看到它们在食物充足时，会匀出部分贮藏备用。她也照着它们的做法去做，这样即使食物短缺，她也不会立刻饿肚子。女子还发现合适的扎营点正在减少，她便自己动手搭造了一间可以携带、随身移动的小屋。"
 		""
 		"Of the animals who accompanied the woman, some took to the air and made homes in the trees and were content to stay."
 		""
 		"The West Wind began to blow, dry and harsh, bringing with it Autumn and the promise of challenges ahead."
 	]
-	quest.7413DDDB64FFAC2A.title: "Laying in Supplies"
+	quest.7413DDDB64FFAC2A.title: "整备物资"
 	quest.7431B398FFDF3DCA.quest_desc: [
 		"With a &7Potion of Mutation&r set to the proper mob type, you’re ready for the next step. "
 		""
@@ -3946,14 +3946,14 @@
 		"它是任何迷人区域中不可或缺的元素。"
 	]
 	quest.78E557B17D1EB84F.quest_desc: [
-		"The Altar uses &7Ambrosium&r as fuel to transmute items. "
+		"神能炉使用&7神能&r作为燃料来转化物品。"
 		""
-		"As a first recipe, make some &7Rice&r by transmuting a &7Straw Bale&r, then plant the rice in water to get it growing. "
+		"先来试试这个：将&7稻草&r转化为&7稻米&r，然后将稻米种在水中让其生长。"
 		""
-		"From that, you'll be able to create a &7Magebloom Seed&r."
+		"这样，你就能够收集足够多的稻米，制作一颗&7法师之花种子&r。"
 	]
 	quest.7973D06875662CFE.quest_desc: [
-		"你可能已经注意到，许多灵气制造设备在灵气浓度过高时会停止工作。不同制造设备的临界值各不相同，但都存在这一机制。"
+		"不知你是否注意，许多灵气制造设备在灵气值过高时会停止工作。不同制造设备的临界值各不相同，但都存在这一机制。"
 		""
 		"制造催化剂可解除该限制。"
 		""
@@ -4057,7 +4057,7 @@
 		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
 	]
 	quest.7C27093E25633B9F.title: "Mercurial Fluid Nodes"
-	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r会从其上方容器提取物品，并将其均匀分配至四周的容器中。"]
+	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r使用方法：从其上方容器提取物品，并均匀分配到周围的容器中。"]
 	quest.7D63AB919406E5AD.quest_desc: [
 		"&7Dorodangos&r produced by &7Alakarkinos&r are suffused with magic, full of latent potential. The &7Steam Alembic&r is capable of transmuting them into invaluable resources. "
 		""
@@ -4095,12 +4095,12 @@
 		"&6    Forest on the Blazing Island. "
 	]
 	quest.7EE93B81F83AD199.quest_desc: [
-		"Enchanting &7Clay&r appears to impart it with its own form of transmutation magic, though it seems to need to eat to work?"
+		"附神&7粘土&r似乎让它获得了属于自己的转化魔法，不过它似乎需要“进食”才能工作？"
 		""
-		"No matter, this should prove quite useful."
+		"不管怎么说，它应该会派上大用场。"
 		"&n                                                  &r"
 		""
-		"To work with Goo, place it and then place the required block next to it so the two are touching. "
+		"要使用凝胶，先将其放置在世界中，然后在旁边放置所需的方块，让两者相互接触。"
 		""
 		"In this case, we’ll need some &7Slime Blocks&r, which you can make from dough. We'll also need to feed the thing something suitably magical. "
 		""
@@ -4117,7 +4117,7 @@
 		"最多可使用四个方尖碑来加速合成，每一个都能减少总合成时间。"
 	]
 	quest.7F829A1BFED304D0.quest_desc: [
-		"若是没有由其驱动的实用设备，魔法又有何意义？"
+		"若是没有由其驱动的实用设备，魔法又有什么意义？"
 		""
 		"接下来将介绍自然灵气模组中一些更具特色的实用设备。你可以自行探索，判断它们在基地建设中的适用时机与场景。"
 		""
@@ -4204,7 +4204,7 @@
 	task.2D263309A4FF7233.title: "Energy Upgrades"
 	task.2EFD078D0F36514F.title: "样板供应器"
 	task.2F65A10B08073D6D.title: "精魂坩埚增强件"
-	task.31508ACE862B4A9A.title: "Tokens"
+	task.31508ACE862B4A9A.title: "印记"
 	task.31B1D4D0DBFCDCD6.title: "符文木基座"
 	task.328C56BA23A70B8F.title: "Power"
 	task.34E6ED3A221ADB0E.title: "Just Dire Tools"
