@@ -1,22 +1,22 @@
 {
-	chapter.083FB2FC095A6686.title: "Flourishing Island"
-	chapter.0A799F91D9A1C8A1.title: "Blazing Island"
+	chapter.083FB2FC095A6686.title: "繁茂空岛"
+	chapter.0A799F91D9A1C8A1.title: "烈焰空岛"
 	chapter.0C0D9C8007301C03.title: "灵灾"
 	chapter.0EFE9E753A92388D.title: "建筑"
 	chapter.0FF1E0FF9CAD1914.title: "能量"
 	chapter.13C15ACA23526F9E.title: "Replication"
 	chapter.17B9F323B083C6C2.title: "It Takes a Village"
 	chapter.21245A37A9042E2C.title: "Equipment"
-	chapter.300207E2557764E1.title: "Flashing Island"
+	chapter.300207E2557764E1.title: "闪耀空岛"
 	chapter.402AE6264B81A84B.title: "Logistics"
-	chapter.40C97D6332BD825B.title: "Cascading Island"
+	chapter.40C97D6332BD825B.title: "奔流空岛"
 	chapter.47870879D8E3742D.title: "飞向天空！"
 	chapter.4C53D082D6306BF8.title: "Just Dire Things"
 	chapter.5957A1DE2E537AC3.title: "PneumaticCraft"
 	chapter.5C2F675CD8139E11.title: "Ars Nouveau"
 	chapter.67558DB55ADC2157.title: "故事的开端"
 	chapter.70FCD34EEFA2F001.title: "自然灵气"
-	chapter.72447ED7D54B4AF7.title: "Vexing Island"
+	chapter.72447ED7D54B4AF7.title: "恼人空岛"
 	chapter.777EE0C4949DFE12.title: "应用能源"
 	chapter.7F17CDF8564DCC49.title: "Genetics: Resequenced"
 	chapter.7F9A789B53FAB216.title: "适应环境"
@@ -26,7 +26,7 @@
 	file.0000000000000001.title: "&n&6谜之天空&r"
 	quest.00066BB06F509677.quest_desc: ["Item Cards for LaserIO allow Laser Nodes to transport Items."]
 	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"Fire Essence\", \"color\":\"gray\"}, \" grants access to the fiery volcano on the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \".\" ]"]
-	quest.008F3C0FB9F4B451.title: "Blazing Island"
+	quest.008F3C0FB9F4B451.title: "烈焰空岛"
 	quest.00946DF0B2C88A9F.quest_desc: [
 		"Metals and plastics can serve as wonderful analogs to bone for structure, but motors and servos lack a certain flexibility. "
 		""
@@ -224,7 +224,7 @@
 	]
 	quest.07189DA532A429AE.title: "Whirligigs"
 	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]"]
-	quest.0745FDF3F22807CA.title: "Flashing Island"
+	quest.0745FDF3F22807CA.title: "闪耀空岛"
 	quest.074827E52A09685F.quest_desc: [
 		"&7水&r，珍贵又稀少，在这个地方非常难以获得。"
 		""
@@ -491,16 +491,16 @@
 		"&6    哪些物品有效！"
 	]
 	quest.123BB918DF6E3936.quest_desc: [
-		"Looking for a more traditional set of pipes? These pipes from Oritech should get the job done. "
+		"想要更传统的管道？这些来自Oritech的管道应该能满足你的要求。"
 		""
-		"Simply place them down and Right-Click any pipes that connect to an inventory to toggle between Extract and Insert mode."
+		"只需将管道放置下来，右击与容器的连接处，即可从提取模式和输入模式间切换。"
 		""
-		"The &7Item Pipes&r have one small quirk, however; they only extract from the first slot of the connected inventory by default."
+		"然而，&7物流管道&r有个小特点：默认情况下，它只从相连容器的第一个槽位提取物品。"
 		""
-		"To allow them to extract from any slot, you just need to slap a &7Rune of Swiftness&r on the connection."
+		"要让它们能够从全部槽位提取，只需对连接处使用&7迅捷符文&r即可。"
 	]
 	quest.1275C61F2390D761.quest_desc: [
-		"&7ME复制连接器&r能链接你的复制网络与AE2网络。有了它，AE2就能从你的复制网络请求任何物品进行自动合成。"
+		"&7ME复制连接器&r能把你复制网络与AE2网络链接起来。有了它，AE2就能从你的复制网络请求任何物品进行自动合成。"
 		""
 		"一定要学会如何在AE2创建物质类型：将样板供应器对着分解器放置，然后给每种物质类型设置样板。"
 		""
@@ -515,7 +515,7 @@
 	]
 	quest.12E0E45FC08A5912.quest_desc: ["&7无线玩家充能器&r可以在小范围内给你身上的设备充电。"]
 	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]"]
-	quest.12E7105B33AC043E.title: "Vexing Island"
+	quest.12E7105B33AC043E.title: "恼人空岛"
 	quest.130A2701B96A941D.quest_desc: [
 		"这个地方基本不会有怪物，然而，有比周围徘徊的僵尸和骷髅更严重的事情等待处理。"
 		""
@@ -525,7 +525,7 @@
 		""
 		"如果你想查看壁炉的工作情况，打开壁炉前的&7活板门&r即可前往地下室。"
 		""
-		"&7壁炉&r需要一些时间加热，而且它不会给地下室供暖。你可以从地下室的&7老旧锅炉&r里查看壁炉的工作情况。"
+		"&7壁炉&r需要一些时间加热，而且它不会给地下室供暖。你可以从地下室的&7破旧锅炉&r里查看壁炉的工作情况。"
 		"{@pagebreak}"
 		"&7壁炉&r能够调节&7半径20格范围内球型区域&r的热量。"
 		""
@@ -679,15 +679,15 @@
 		"Check the tooltips on each &7Bound Script&r to see what it has to offer you!"
 	]
 	quest.15FAB1720AD470A0.quest_desc: [
-		"Every Modern Industrialization multiblock will require input and output hatches commensurate with the recipes it handles. "
+		"每个现代工业化的多方快结构都需要与其处理内容所匹配的输入与输出仓。"
 		""
-		"In this case, the &7Steam Kiln&r requires both Item and Fluid Hatches. At least one Fluid Input is required for &7Steam&r to power the device. Multiple hatches may be placed in order to accomodate different inputs."
+		"该任务中，&7蒸汽窑炉&r同时需要物品和流体仓。且需要有至少一个流体输入仓来提供&7蒸汽&r以驱动设备。你可以放置多个仓以进行多种原料的输入。"
 		""
-		"Other blocks required for any structure can also be found by looking at uses for the controller block (ie. &7Steam Kiln&r block) in &7EMI&r. Note that some of the blocks listed will be replaced by Hatches."
+		"在&7EMI&r中，查看控制器方块（即&7蒸汽窑炉&r方块）的用途便可知道这个结构所需的其他方块。注意，所列的方块可被仓室替代。"
 		""
-		"&a🛈 Tip: Place the controller block, then hold a Wrench "
-		"&a    to see the structure. Similarly, hold a Hatch to see "
-		"&a    valid locations for them."
+		"&a🛈 提示：放置控制器方块后，手持扳手即可显示完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
+		""
 	]
 	quest.161CA05D18639AD4.quest_desc: [
 		"This workstation allows the &7Wixie&r to craft &7Farmer's Delight Cutting&r recipes. "
@@ -1412,7 +1412,7 @@
 		""
 		"&7&n按需模式&r"
 		""
-		"网络上未处于无限模式的复制器都能用于按需请求。在终端发起请求后，会在可用的复制器之间自动均衡复制。"
+		"网络上未处于无限模式的复制器是按需请求。在终端发起请求后，会在可用的复制器之间自动均衡复制。"
 		""
 		"需要将样板存储在存储芯片上才能发出此类请求。"
 		""
@@ -1875,7 +1875,7 @@
 	quest.3D76C219EB7EEC03.quest_desc: [
 		"一种可以在一定范围内放置方块的机器。它会从上方的容器中提取物品，并将其放置在指定的方块上方。"
 		""
-		"将目标方块放入贴在&7无感知建造器&r上的&7物品展示框内&r，即可指定放置方块的位置。"
+		"将方块放入贴在&7无感知建造器&r上的&7物品展示框&r内，建造器便只会在此方块上方放置方块。"
 	]
 	quest.3D7B773741D78864.quest_desc: [
 		"Harvesting edible meat from &7Wilden&r is a task that requires both skill and focus; one slip and the meat may be fouled by the cursed magic flowing through them."
@@ -2045,7 +2045,7 @@
 	]
 	quest.410225ED927857D4.title: "Animal Farming"
 	quest.414458433C4734C6.quest_desc: [
-		"当女子重返大地，她环顾四周，只见新一次轮回中万物繁盛。昔日亦师亦友的诸兽，已繁衍生息，遍布整片大地。"
+		"女子再临地面时，她环视周围，只见那全新的生态中，生命正蓬勃发展。曾经亦师亦友的动物们，而今也已繁衍生息，遍布整片大地。"
 		""
 		"天地间百花竞放，但女子心中再度生出孤寂。她所学甚多，却无人可以分享。"
 		""
@@ -2121,17 +2121,17 @@
 	]
 	quest.44BD4C393C59F1CB.title: "发现谜团"
 	quest.453240979BB90EBD.quest_desc: [
-		"The Mercurial Logistics system is a simple network for moving Items and Fluids."
+		"汞驱物流系统是一个用于转移物品和流体的简单网络。"
 		""
-		"The &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Wire&r. "
+		"将&7输入器&r和&7输出器&r放置在机器或其他容器上，然后通过&7汞驱线缆&r连接起来即可使用。"
 		""
-		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
+		"&7汞驱连接节点&r允许多条线缆汇集到一处，形成更广泛的网络，同时也能用来延伸单条线缆的连接距离。"
 		""
-		"Things will only get more complicated from here, so be sure to spend some time automating what you can."
+		"从这里开始，事情只会变得越来越复杂，所以务必在自动化上多投入些时间。"
 		""
-		"&a🛈 Tip: Try to keep your wires isolated to loaded chunks. "
+		"&a🛈 提示：尽量将你的线缆布设在已加载的区块内。"
 	]
-	quest.453240979BB90EBD.title: "Mercurial Networks"
+	quest.453240979BB90EBD.title: "汞驱网络"
 	quest.4537806144939A6B.quest_desc: [
 		"An animate block of Amethyst, these golems will automatically create, grow, and harvest budding blocks. "
 		""
@@ -2342,17 +2342,17 @@
 		"发酵釜完成一个配方时，会从正面输出一个红石信号，利用该机制可以实现更加精细的分批操控。"
 	]
 	quest.49F48B91801BE4FE.quest_desc: [
-		"&7Transfer Labels&r are a great way to move items between adjacent inventories, meaning a &7Chest&r next to a &7Furnace&r can now push without the need of a hopper or other pipes. "
+		"&7传输标贴&r是在相邻容器之间转移物品的好方法，这意味着与&7熔炉&r相邻的&7箱子&r现在无需漏斗或其他管道即可推送物品。"
 		""
-		"The direction of flow depends on the machine the &7Labels&r is placed against. "
+		"流动方向取决于&7标贴&r所处的面。"
 		""
-		"For example, an &7Insert Label&r placed on the side of a &7Furnace&r will pull items from an adjacent &7Chest&r into the &7Furnace&r. Alternatively, an &7Extract Label&r on the &7Chest&r would cause it to push items from the &7Chest&r into the &7Furnace&r."
+		"举个例子，放置在&7熔炉&r侧面的&7存入标贴&r会从相邻的&7箱子&r中将物品存入&7熔炉&r。反过来，放置在&7箱子&r上的&7提取标贴&r会将物品从&7箱子&r里提取进&7熔炉&r。"
 		""
-		"Use a &7Label Accessor&r to Right-Click your labels, even when hidden by a machine, to configure them. Sneak + Left Click will remove the &7Label&r"
+		"使用&7标贴访问器&r右击你的标贴（包括被遮挡的标贴）进行配置。潜行左击可移除&7标贴&r。"
 		""
-		"They allow quite sophisticated filtering and can even be sped up by simply inserting more &7Labels&r in the GUI."
+		"标贴能够处理相当复杂的过滤，甚至还能通过在GUI中放入更多&7标贴&r来加快速度。"
 	]
-	quest.49F48B91801BE4FE.title: "Transfer Labels"
+	quest.49F48B91801BE4FE.title: "传输标贴"
 	quest.4A3B9586D14D5037.quest_desc: [
 		"Need a little more room to work? Summoning another island is always an option. "
 		""
@@ -2371,7 +2371,7 @@
 	quest.4C46DBD26BE50BCD.quest_desc: [
 		"&7灵气场生成器&r使用方法：将其成对放置，可破坏两者之间的所有方块。"
 		""
-		"强化方法：在任意一台灵气场生成器上&7物品展示框&r中放入工具，就可获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
+		"强化方法：在任意一台灵气场生成器上的&7物品展示框&r中放入工具，就可获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
 	]
 	quest.4C91792ACCC53A2B.quest_desc: ["By applying high heat in a low-oxygen environment, we can convert &7Pelagite&r into &7Kerogen&r. "]
 	quest.4CB21D6351486281.quest_desc: [
@@ -2444,7 +2444,7 @@
 	]
 	quest.4FEA49AD05720ED7.title: "Arts and Crafts"
 	quest.5009BB4B0D1B459E.quest_desc: [
-		"&7漏斗增强器&r使用方法：放置在&7漏斗&r上方，其拾取范围可提升至最远7格。"
+		"&7漏斗增强器&r使用方法：放置在&7漏斗&r上方，其拾取范围可提升至7格。"
 		""
 		"与&7专家型漏斗&r配合使用时，还可针对特定物品进行过滤。"
 	]
@@ -2496,7 +2496,7 @@
 	]
 	quest.521DE7879A4B6F03.quest_desc: ["With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  "]
 	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"Water Essence\", \"color\":\"gray\"}, \" grants access to the ever-flowing waterfalls of the \", { \"text\": \"Cascading Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \".\" ]"]
-	quest.5226F1BC0A1B23D0.title: "Cascading Island"
+	quest.5226F1BC0A1B23D0.title: "奔流空岛"
 	quest.529329FE6CB3D29E.quest_desc: ["Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. "]
 	quest.52E79B2EB7400D13.quest_desc: [
 		"&7终端&r让你可以访问网络，让你和其中的物品交互。"
@@ -2534,7 +2534,7 @@
 		""
 		"Summon forth the Queen Bee in her throne and see what trades she has to offer!"
 	]
-	quest.5550423B6E6BDBAF.title: "Beehive Island"
+	quest.5550423B6E6BDBAF.title: "蜂巢空岛"
 	quest.55D51F58CA3130AA.quest_desc: [
 		"Alakarkinos is eager and ready to assist! "
 		""
@@ -2567,7 +2567,7 @@
 	quest.56EDBF31457D8112.quest_desc: [
 		"使用比较器读取灵气探测器的数据，就可检测当前区域内的灵气值。"
 		""
-		"常与灵气制造设备搭配使用，根据灵气值开关它们"
+		"与灵气制造设备搭配使用时效果更好，这可以让你根据灵气值打开或关闭制造设备。"
 	]
 	quest.574555F24035E48A.quest_desc: [
 		"这一系列方块的功能正如它们的名字所写；放置与收集方块或流体。"
@@ -2850,7 +2850,7 @@
 		""
 		"她在雪中静坐，回想自己旅程中的点点滴滴。"
 		""
-		"地面上，北风开始呼啸，强劲而寒冷。一切仿佛静止了。"
+		"北风开始呼啸，强劲而寒冷。一切仿佛静止了。"
 	]
 	quest.6030BA17DB9228F2.title: "Snowed Under"
 	quest.605A60825B68C2D7.quest_desc: [
@@ -3048,11 +3048,11 @@
 	quest.63A7E92BBCEDF461.quest_desc: [
 		"有一天，女子觉得该继续上路了。这次她来到了南方，动物们依然随她同行。"
 		""
-		"Here, forests gave way to wetlands, wetlands to sand-strewn shores. The woman, seeing how the animals swam along the winding waterways, made a canoe to follow them.  When she grew tired, she lay down amongst the sandy dunes of the coast to rest. When she grew unclean, she bathed in the warm waters of the seas. "
+		"在这里，森林让位于湿地，湿地又被沙岸环绕。女子见动物们在蜿蜒的河道中徜徉嬉戏，便欣然造了一艘独木舟加入其中。女子玩得累了，就靠在河岸的沙丘上歇息。女子觉得身上不洁净了，就在温热的海水中沐浴净身。"
 		""
-		"Of the animals who accompanied the woman, some found homes in the rivers and seas and were content to stay. "
+		"与女子一同出游的动物们中，有一部分在这河川之中找到了居所，就此定居了下来。"
 		""
-		"The South Wind began to blow, hot and strong, bringing with it Summer and the promise of adventure."
+		"南风开始吹动，炎热而猛烈。带来了夏天的讯息，也带来了冒险的希望。"
 	]
 	quest.63A7E92BBCEDF461.title: "沐浴阳光"
 	quest.63AFE7CB35AE94BF.quest_desc: [
@@ -3291,29 +3291,29 @@
 	]
 	quest.6A4C2B4518E341D6.title: "Aqueous Spirit"
 	quest.6A4DD846F7E08FD6.quest_desc: [
-		"The woman flew higher and higher, up and up. She soared for what seemed like ages. "
+		"女子越飞越高，穿过云层。她就这样飞行了很久。"
 		""
-		"When the air grew thin and her lungs began to burn, the gentle winds of Spring filled her with breath."
+		"空气变得稀薄，女子肺部开始灼痛。徐徐的春风为她带来新鲜空气。"
 		""
-		"When the air grew cold and her limbs began to ache, the warm winds of Summer warmed her flesh. "
+		"气温骤然下降，女子四肢传来痛感，温热的夏风抚慰她的肌肤。"
 		""
-		"Higher and higher, up and up. She soared until at last she approached the Sun."
+		"女子没有片刻停留，越飞越高。女子感觉自己可以触碰到太阳的辉光。"
 		""
-		"日光变得刺眼，女子双目难以睁开。秋风前来为她指引方向。"
+		"光线愈发刺眼，女子双目难以睁开。秋风为她指引前进的方向。"
 		""
-		"日光变得滚烫，烈火炙烤女子身躯。冬风前来为她提供庇佑。"
+		"光线愈发炽烈，女子身躯变得滚烫。冬风为她提供喘息的空间。"
 		""
-		"She soared until at last, she plunged her walking stick into the burning heights."
+		"女子终于到达了她的目的地，她将手杖伸入那燃烧中的光球。"
 	]
 	quest.6A4DD846F7E08FD6.title: "盗取火种"
 	quest.6A8ACE8E9B7A056D.quest_desc: [
 		"女子骤然坠入海里，动物们争先恐后来到她的身边，因为它们知道，若无歇脚之处，女子必会溺死。"
 		""
-		"它们轮流潜入深处，想把海底的泥巴托举上来。它们吹嘘着自己的力量，称自己能够潜到海底。但最后只能无奈地浮出水面，声称这项任务是不可能完成的。"
+		"它们轮流潜入深处，想把海底的泥巴托举上来。它们卖弄着自己的力量，都认为自己能够潜到海底。但最后只能无奈地浮出水面，声称这项任务是不可能完成的。"
 		""
-		"When hope was nearly lost, the smallest among them came forward and asked to be permitted to try. It made no boast and all doubted its ability, but the other animals stood aside to allow it to try. Through quiet determination, it dove deeper and deeper. It dove until its lungs burned and its limbs ached. It dove until at last, one small paw brushed the mud in the lightless depths. "
+		"希望即将破灭之际，一只最小的海龟挺身而出，请求让它也试一试。小龟先前并未展示过自己的能力，其他动物们将信将疑，但还是纷纷让开，给予小龟尝试的机会。怀揣坚定的决心，小龟不断向深处潜去。哪怕肺部灼痛，四肢酸胀，它也绝不放弃。功夫不负有心人，小龟那小小的爪子在漆黑的深水中探到了泥巴。"
 		""
-		"Grasping a handful of the mud, it turned and swam to the surface. There, it was greeted with praise when the other animals saw what it held. It spread the mud on Turtle’s back and, knowing that more would be needed, it dove again and again, slowly covering Turtle’s back to build a new land where the woman could rest. "
+		"小龟抓起一小撮泥，转身游向水面。其他动物看到它手中拿着的东西时，纷纷赞叹不已。它们帮忙将泥巴涂抹到龟背上，发现还需更多泥巴，于是小龟又一次潜入水中，如此反复，小龟的背甲上的泥巴慢慢扩大，最终形成了一片新的陆地，让女子得以在上面休息。"
 	]
 	quest.6A8ACE8E9B7A056D.title: "The Earth Diver"
 	quest.6A94923547B93B51.quest_desc: ["Fluid Cards for LaserIO allow Laser Nodes to transport Fluids."]
@@ -3325,7 +3325,7 @@
 		"The second is a &7Ritual&r for more elaborate requests. Look for the chalice surrounded by chalk marks."
 	]
 	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"Earth Essence\", \"color\":\"gray\"}, \" grants access to the swampy environs of the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \".\" ]"]
-	quest.6AC4CADE97CB512F.title: "Flourishing Island"
+	quest.6AC4CADE97CB512F.title: "繁茂空岛"
 	quest.6AF21EDF59FCE0D4.quest_desc: [
 		"在时间诞生以前，天空之民定居在云中的岛屿。"
 		""
@@ -3567,7 +3567,7 @@
 	quest.6F1A7E1B49FCC4C0.quest_desc: [
 		"复制始于将材料分解为其基本组成成分。"
 		""
-		"There are eight of these Matter types in total and materials may consist of more than one. You'll be able to obtain them all by crafting Tokens."
+		"世界总共有八种物质类型，而物质可以由多种类型构成。你可以制作印记来获得全部的物质类型。"
 		"&n                                                                          &r"
 		""
 		"放置&7分解器&r，再将&7物质管道&r和&7物质储罐&r连接到上面。"
@@ -4057,7 +4057,7 @@
 		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
 	]
 	quest.7C27093E25633B9F.title: "Mercurial Fluid Nodes"
-	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r使用方法：从其上方容器提取物品，并均匀分配到周围的容器中。"]
+	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r使用方法：从其上方容器中提取物品，并均匀分配到周围的容器中。"]
 	quest.7D63AB919406E5AD.quest_desc: [
 		"&7Dorodangos&r produced by &7Alakarkinos&r are suffused with magic, full of latent potential. The &7Steam Alembic&r is capable of transmuting them into invaluable resources. "
 		""
@@ -4102,9 +4102,9 @@
 		""
 		"要使用凝胶，先将其放置在世界中，然后在旁边放置所需的方块，让两者相互接触。"
 		""
-		"In this case, we’ll need some &7Slime Blocks&r, which you can make from dough. We'll also need to feed the thing something suitably magical. "
+		"该任务中，我们需要用到&7黏液块&r，其可以用面团来制作。此外我们还需要给这个凝胶喂一些足够魔法的东西。"
 		""
-		"A &7Source Berry Roll&r ought to suffice for now."
+		"一个&7魔源浆果卷&r暂时应该够用了。"
 	]
 	quest.7F43653C4B9A96CE.quest_desc: [
 		"采用更坚固的材料可以使转速更高，&7中压蒸汽涡轮机&r是你此前使用的&7低压蒸汽涡轮机&r的合理替代品。"
@@ -4248,7 +4248,7 @@
 	task.576CB5FB3B8A46A6.title: "智能线缆"
 	task.57961EA9F4FC3596.title: "处理器"
 	task.57BE29AB834A63FE.title: "Just Dire Armor"
-	task.58162F4C2BB35BA4.title: "Mercurial Fluid Transporters"
+	task.58162F4C2BB35BA4.title: "汞驱流体传输器"
 	task.582472ED7BA0A212.title: "物品存储"
 	task.5887027FAE29F371.title: "Addon: Processing"
 	task.591E8D139882293D.title: "Logistics Frames"
@@ -4280,8 +4280,8 @@
 	task.7618EFB44BB18F63.title: "Observe a Wixie's Enchanting Apparatus"
 	task.76E02A5A8A664728.title: "流体输入仓"
 	task.7858961CD00D205B.title: "流体输出仓"
-	task.79CE5559C7D6E3EB.title: "Vexing Island"
-	task.7BBDAB866A167CE4.title: "Mercurial Item Transporters"
+	task.79CE5559C7D6E3EB.title: "恼人空岛"
+	task.7BBDAB866A167CE4.title: "汞驱物品传输器"
 	task.7C0E5A805AE1132B.title: "学习模组"
 	task.7CDDB3E6855989E2.title: "Soul Shattering Weapons"
 	task.7E422D4A867340A6.title: "Any Functional Storage Drawer"
