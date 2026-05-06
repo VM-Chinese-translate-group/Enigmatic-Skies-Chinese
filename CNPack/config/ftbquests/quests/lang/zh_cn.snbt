@@ -716,7 +716,7 @@
 		"这些章节涵盖的内容虽然广阔，但也并非全部。因此，务必去查阅那些模组附带的指南手册。"
 	]
 	quest.16C7D5478BF3D449.title: "学习模组"
-	quest.17198F7EC5DC1A4F.quest_desc: ["The smell leaves something to be desired, but these bio-mechanical &7Robot Arms&r are incredibly precise and capable of adapting to changing conditions mid-task."]
+	quest.17198F7EC5DC1A4F.quest_desc: ["这些生化&7机械臂&r可能气味上令人不适，但它们极其精准，且能在任务中根据情况变化灵活调整。"]
 	quest.17553CF42EDC67A6.quest_desc: [
 		"Channeling more powerful magics requires a more specialized focus. "
 		""
@@ -727,11 +727,11 @@
 	]
 	quest.17553CF42EDC67A6.title: "Tier 2 Spells"
 	quest.18A17E8080792318.quest_desc: [
-		"Need a little more room to work? Summoning another island is always an option. "
+		"需要更多空间吗？你随时都可以再召唤另一座空岛。"
 		""
-		"Alternatively, Right-Click a &7Tainted Rock&r with an &7Abjuration Essence&r to convert a &n21x11x21&r area to this biome!"
+		"或者使用&7防护之精华&r右击&7污秽石&r，将&n21x11x21&r的区域变成需要的生物群系！"
 	]
-	quest.18A17E8080792318.title: "Biome Conversion"
+	quest.18A17E8080792318.title: "生物群系转化"
 	quest.18D575594C6F74A7.quest_desc: [
 		"Made from &7Sand&r, &7Silty Dorodangos&r may be processed down into new materials!"
 		""
@@ -808,7 +808,7 @@
 	]
 	quest.1ACB8880980AF206.title: "奉旨成才"
 	quest.1AE63FE6C7EF59AB.quest_desc: ["A &7Simple Clicker&r or &7Activator Module&r attacking mobs with a &7Soul Shattering Weapon&r can be an excellent way to automate &7Spirit&r collection. "]
-	quest.1AE63FE6C7EF59AB.title: "Clickity Clackity"
+	quest.1AE63FE6C7EF59AB.title: "咔哒咔哒"
 	quest.1B0718B6BDA972F0.quest_desc: ["锅炉燃料的最高等级——&7蚀空燃液&r，给你机器供能的最高效方式。"]
 	quest.1B276AC6C7D95526.quest_desc: [
 		"&7等离子涡轮机&r可以从&7光以太&r中获得原始创世能量。"
