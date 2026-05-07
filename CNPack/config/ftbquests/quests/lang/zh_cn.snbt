@@ -89,7 +89,7 @@
 	quest.0458B6BC887C9725.quest_desc: [
 		"Summon a &7Wolf&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。此处列举只是为了更方便的查阅配方。"
+		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
@@ -134,8 +134,8 @@
 	quest.053C43E68E7ADB2B.quest_desc: [
 		"With the &7Slice'N'Splice&r, we can rebuild and splice together the genetic material from different creatures to create the monsters we need. "
 		""
-		"&6⚠ Note: Enderio machines require  "
-		"&6    a Capacitor to function."
+		"&6⚠ 注意：EnderIO模组的机器需要安装电容才能工作。"
+		""
 	]
 	quest.054093E1130E24C1.quest_desc: [
 		"An &7Automatic Feeder&r is a simple feeding station for nearby animals. "
@@ -249,7 +249,7 @@
 	quest.07EC0853BE4C6391.quest_desc: [
 		"活化一个&7史莱姆&r，然后击杀它以获得&7大地精魂&r。"
 		""
-		"&6⚠ 注意：仪式图标物品并不是仪式的必需材料。它只是为了更方便的查阅配方而存在。"
+		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
 		""
 		""
 	]
@@ -445,9 +445,9 @@
 		""
 		"&7Chimera Meat&r may be obtained through &7Soul Shattering&r or by trading extra &7Wilden Tributes&r to a &7Butcher&r. "
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		""
+		""
 	]
 	quest.0E1258E2B2C7FFD5.quest_desc: [
 		"&7Modular Routers&r can be upgraded with an &7Energy Distributor Module&r, allowing them to deliver power wirelessly to eight different blocks per module."
@@ -571,7 +571,7 @@
 		"You should have plenty of raw materials for this from your various animal farms and dorodangos. "
 	]
 	quest.13F15094F3AF4A73.quest_desc: [
-		"                      &6&nBiome: Mushroom Fields&r&r"
+		"                      &6&n生物群系：蘑菇岛&r&r"
 		""
 		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
 		""
@@ -857,7 +857,7 @@
 		""
 		"[ \"These machines can also be used to grant entities permanent buffs. Refer to the \", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for more information.\" ]"
 	]
-	quest.1C9565D5C51B74CC.title: "Genetics"
+	quest.1C9565D5C51B74CC.title: "基因"
 	quest.1CBC50FA40BFB54A.quest_desc: [
 		"&7大型蒸汽涡轮机&r用&7蒸汽&r运行，就像你之前的电力设施一样。&7热交换机&r便可胜任。"
 		""
@@ -903,19 +903,19 @@
 		"&a🛈 Tip: Source is optional but will speed up the craft!"
 	]
 	quest.1D2F5CE5D285BAEA.quest_desc: [
-		"&7Whirlisprigs&r once roamed the lands, tending to the natural world. It’s been an age since they’ve been seen, but perhaps that can be rectified?"
+		"曾经，&7风转草&r们在大地上游荡，并守护着大自然。虽然它们如今销声匿迹，但也许仍有办法逆转这一现状？"
 		""
-		"Ancient texts alluded to them being related in nature to the &7Allay&r, a creature we can call forth with a little effort…"
+		"古老的文字提到了它们与另一种生物&7悦灵&r的联系，而后者我们稍作努力便能召唤……"
 		"&n                                       &r"
 		""
 		"Craft a &7Magic Lamp&r and release its inhabitant at an &7Altar of Birthing&r. Then gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ Note: The Spawn Egg is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.1D2F5CE5D285BAEA.quest_subtitle: "Rub me the right way"
-	quest.1D2F5CE5D285BAEA.title: "Genie in a Bottle"
+	quest.1D2F5CE5D285BAEA.title: "瓶中精灵"
 	quest.1D5616DFA428D46F.quest_desc: [
 		"Building Gadgets offer a number of FE powered tools to assist with building ranging from block placement, block replacement, copy/paste, and even straight deletion of large areas."
 		""
@@ -1120,13 +1120,13 @@
 	]
 	quest.25B779319401405B.title: "灵灾"
 	quest.26188F1C7EBA08B6.quest_desc: [
-		"Animate a &7Vexing Weald Walker&r and defeat it to obtain &7Eldritch Spirits&r."
+		"活化一个&7恼人林地行者&r，然后击杀它以获得&7邪术精魂&r。"
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		""
+		""
 	]
-	quest.26188F1C7EBA08B6.title: "Eldritch Spirit"
+	quest.26188F1C7EBA08B6.title: "邪术精魂"
 	quest.264783EF292A494B.quest_desc: [
 		"&7初级点击器&r可以自动执行多种交互操作，例如剪羊毛或者击杀前方经过的生物。"
 		""
@@ -1646,8 +1646,8 @@
 		"&6    &oShatter&r&6; the killing blow can come from "
 		"&6    another weapon."
 		""
-		"&a🛈 Tip: Apply Spirit Plunder to your weapon to "
-		"&a    obtain more Spirits!"
+		"&a🛈 提示：附魔了精魂劫掠的武器可以获取更多精魂！"
+		""
 	]
 	quest.3895E1D9DE518B3F.quest_desc: [
 		"Casting all these spells will take its toll on your mana bar, especially if you’re trying to use a &7Spell Book&r as your primary mining tool"
@@ -3139,7 +3139,7 @@
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
-	quest.6660BE0C308A1744.title: "Goat"
+	quest.6660BE0C308A1744.title: "山羊"
 	quest.66C2FBA12D91F642.quest_desc: [
 		"The Exo Suit is an unbreakable suit of powered armor which provides moderate protection, night vision, and speed increases. "
 		""
@@ -3378,13 +3378,13 @@
 		"Simply Sneak + Right Click on a machine to apply stacking boosts up to 256x speed.   "
 	]
 	quest.6CA8BA78F5B8FB6A.quest_desc: [
-		"Animate a &7Wilden Pack Hunter&r and harvest it for parts."
+		"活化一个&7荒野猎手群&r，然后收集它的身体部件。"
 		""
-		"&7Wilden Horns&r may only be obtained through &7Soul Shattering&r. "
+		"&7荒野号角&r只能通过&7碎魂&r能力获得。"
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		""
+		""
 	]
 	quest.6CE9EE018596DAD2.quest_desc: [
 		"合成一本&7初学者法术书&r。它自带一些可以组合使用的核心魔符，相信你很快就会想尝试更多魔符，实现更加惊人的壮举。"
@@ -3650,13 +3650,13 @@
 	]
 	quest.7163E7EBDB861D72.title: "进阶物品拾取器？"
 	quest.7234B1B299DE122D.quest_desc: [
-		"Finally, craft a &7Drygmy Charm&r. "
+		"最后，合成一枚&7德格米护符&r。"
 		""
-		"These items may be Right-Clicked on &7Mossy Cobblestone&r to make a home for your new friend."
+		"然后用这枚护符右击&7苔石&r，为你的新朋友打造一个小屋。"
 		""
-		"The &7Drygmy&r will manage creatures in a large area, gently harvesting drops and depositing them in an inventory &7adjacent to its Henge&r."
+		"&7德格米&r可以管理大范围的生物，温和地采集它们的掉落物，然后存放在&7与它的小屋相邻的&r容器中。"
 		""
-		"Source is required and will be taken from a nearby &7Source Jar&r."
+		"这一过程需要魔源，由附近的&7魔源罐&r提供。"
 	]
 	quest.72B6C89DB165BB07.quest_desc: [
 		"When placed in-world, &7Organic Compost&r will slowly transform into &7Rich Soil&r, a particularly good soil for growing crops."
@@ -3829,9 +3829,9 @@
 		""
 		"To earn a &7Token&r of its trust, toss a &7Wilden Horn&r to your &7Drygmy&r."
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		""
+		""
 	]
 	quest.7750C6E87B1EBF43.quest_desc: [
 		"The humble Imbuement Chamber is perhaps the single most important apparatus in Ars Nouveau. "
@@ -4172,7 +4172,7 @@
 	task.0767C8200D0389A6.title: "Essences"
 	task.083303CA128E5B22.title: "Fluid Output Hatch"
 	task.0BB96E58A01F180D.title: "Fluid Input Hatch"
-	task.0C683224C0A3D09E.title: "Processors"
+	task.0C683224C0A3D09E.title: "处理器"
 	task.0CB92589AF70B557.title: "任意&3精巧手艺&r物品"
 	task.0DE0A9A5505F1850.title: "发现谜团"
 	task.10DFCCF8FA5D5505.title: "灵气制造设备"
