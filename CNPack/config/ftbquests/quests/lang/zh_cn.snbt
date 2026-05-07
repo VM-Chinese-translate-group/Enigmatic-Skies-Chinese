@@ -32,7 +32,7 @@
 		""
 		"Why re-invent what nature has already nearly perfected? Re-animated flesh can be enhanced to be stronger and more durable than ever.   "
 	]
-	quest.00DE313EE5B9954D.quest_desc: ["A simple tape measure to help count distances. Handy for any dedicated builder to keep around."]
+	quest.00DE313EE5B9954D.quest_desc: ["一个简单的卷尺，可以辅助测量距离。对专业的建筑师们来说非常实用，值得常备一个。"]
 	quest.01266355AAB13C39.quest_desc: [
 		"Chisel offers a plethora of block variants to spice up your building. Grab a Chisel and some blocks and get to work!"
 		""
@@ -89,7 +89,7 @@
 	quest.0458B6BC887C9725.quest_desc: [
 		"Summon a &7Wolf&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
@@ -236,7 +236,7 @@
 		""
 		"记得留意你的&7壁炉&r！一桶水只能供应大约12分钟。"
 		""
-		"&6⚠ 注意：水源&n无法&r&6提供无限水！"
+		"&6⚠ 注意：水源方块&n无法&r&6提供无限水！"
 	]
 	quest.074827E52A09685F.title: "水"
 	quest.07684F58521A4D34.quest_desc: [
@@ -347,8 +347,8 @@
 		""
 		"Higher tiers also run on FE instead of using durability!"
 		""
-		"&a🛈 Tip: Sneak Right-Click these tools to"
-		"&a    open their options menu."
+		"&a🛈 提示：手持工具潜行右击可以打开它们的选项菜单。"
+		""
 	]
 	quest.0D32F25CCBC9B192.quest_desc: [
 		"Simple power cables for transferring Modern Industrialization’s EU power. "
@@ -806,8 +806,8 @@
 		""
 		"&7速沙&r烧制成的玻璃非常适合做成&7瓶子&r。"
 	]
-	quest.1ACB8880980AF206.title: "奉旨成才"
-	quest.1AE63FE6C7EF59AB.quest_desc: ["A &7Simple Clicker&r or &7Activator Module&r attacking mobs with a &7Soul Shattering Weapon&r can be an excellent way to automate &7Spirit&r collection. "]
+	quest.1ACB8880980AF206.title: "以章显才"
+	quest.1AE63FE6C7EF59AB.quest_desc: ["让&7初级点击器&r或&7执行模块&r使用&7碎魂武器&r攻击生物，可以更高效地自动化生产并收集&7精魂&r。"]
 	quest.1AE63FE6C7EF59AB.title: "咔哒咔哒"
 	quest.1B0718B6BDA972F0.quest_desc: ["锅炉燃料的最高等级——&7蚀空燃液&r，给你机器供能的最高效方式。"]
 	quest.1B276AC6C7D95526.quest_desc: [
@@ -824,11 +824,11 @@
 		""
 		"范围越远，耗能越多！"
 	]
-	quest.1BDCA4CF5ED739BA.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
+	quest.1BDCA4CF5ED739BA.quest_desc: ["更高级的凝胶可以解锁更多配方，并且加快在游戏世界中的方块处理速度。"]
 	quest.1C21EC957B97C70A.quest_desc: [
-		"An &7Advanced Clicker&r can be an exceptionally useful device for working with mobs since it can both Attack and Right-Click them with weapons and tools. "
+		"&7高级点击器&r相当适合对生物进行操作，放入武器或工具时，它既能攻击生物，也能右击与生物交互。"
 		""
-		"Unlike a &7Simple Clicker&r, the &7Advanced Clicker&r acts in a large area. "
+		"且与&7初级点击器&r不同，&7高级点击器&r可以在更大的区域内工作。"
 	]
 	quest.1C4DB05778703E9B.quest_desc: [
 		"&7Wardens&r were built for protection. That was the original purpose, at least."
@@ -851,11 +851,11 @@
 		"在全典转化之后，你会发现多出了一个新章节：&d虚空通史&r"
 	]
 	quest.1C9565D5C51B74CC.quest_desc: [
-		"With a &7Cell Analyzer&r and &7DNA Extractor&r, you're ready to begin breaking down the &7Organic Matter&r you've been collecting to obtain the &7DNA&r within. "
+		"在准备好&7细胞分析器&r与&7DNA提取器&r后，你可以使用它们分解&7有机物质&r，从而提取出&7DNA&r。"
 		""
-		"These samples will be spliced and introduced into a host to obtain something entirely new."
+		"然后可以将这些DNA样本拼接起来，注入到某个宿主体内，创造出全新的生物。"
 		""
-		"[ \"These machines can also be used to grant entities permanent buffs. Refer to the \", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for more information.\" ]"
+		"[ \"这些机器也能让实体获得永久的增益效果。详见\", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击前往\"}]} }, \"章节。\" ]"
 	]
 	quest.1C9565D5C51B74CC.title: "基因"
 	quest.1CBC50FA40BFB54A.quest_desc: [
@@ -910,28 +910,28 @@
 		""
 		"Craft a &7Magic Lamp&r and release its inhabitant at an &7Altar of Birthing&r. Then gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
-	quest.1D2F5CE5D285BAEA.quest_subtitle: "Rub me the right way"
+	quest.1D2F5CE5D285BAEA.quest_subtitle: "要好好爱护我哦"
 	quest.1D2F5CE5D285BAEA.title: "瓶中精灵"
 	quest.1D5616DFA428D46F.quest_desc: [
-		"Building Gadgets offer a number of FE powered tools to assist with building ranging from block placement, block replacement, copy/paste, and even straight deletion of large areas."
+		"建筑小帮手模组提供了一系列使用FE能量驱动的工具，用以完成例如方块放置、方块替换、复制粘贴甚至是删除大片方块的工作。"
 		""
 		"If you’re looking to build a massive base, Building Gadgets likely has a tool to help. "
 		""
 		"&a🛈 Tip: Search &3@buildinggadgets&r &ain EMI"
 		"&a    to discover more."
 	]
-	quest.1D5616DFA428D46F.title: "Building Gadgets"
+	quest.1D5616DFA428D46F.title: "建筑小帮手"
 	quest.1D5E773A3A547A2C.quest_desc: [
 		"If you’re into Cottagecore or just want some knicknacks to fill your shelves with, Handcrafted is the place to start. It’s loaded with comfy chairs and interior decorations."
 		""
 		"&a🛈 提示：在EMI中搜索&3@handcrafted&r查阅"
 		"&a    更多相关内容。"
 	]
-	quest.1D5E773A3A547A2C.title: "Handcrafted"
+	quest.1D5E773A3A547A2C.title: "手工制作"
 	quest.1D783196F551142F.quest_desc: [
 		"吃得好，干得好。"
 		""
@@ -939,7 +939,7 @@
 		""
 		"                 &6&n关于自动化的说明&r&r"
 		""
-		"The &7Cooking Pot&r is a sided machine, much like a &7Furnace&r. This means that specific items must be inserted on specific sides when using any form of logistics."
+		"&7厨锅&r和&7熔炉&r类似，都是固定侧面传输的方块，也就是说，在传输时，物品只能从特定的面输入输出。"
 		""
 		" • Food Ingredients must be inserted from "
 		"   the top face."
@@ -1376,21 +1376,21 @@
 		""
 		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.cherokee.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"切罗基族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.lenape-nation.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"莱纳佩族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.lenape-nation.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"莱纳佩族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ojibwe.net/stories/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"欧及布威族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ojibwe.net/stories/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"欧及布威族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.wendake.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"温达特族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.wendake.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"温达特族\",\"underlined\":true}]"
 		""
 		"&6&n故事&r"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://thecanadianencyclopedia.ca/en/article/turtle-island\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《神龟驮世》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://thecanadianencyclopedia.ca/en/article/turtle-island\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《神龟驮世》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.indigenouspeople.net/spider.htm\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《盗火的蜘蛛奶奶》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.indigenouspeople.net/spider.htm\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《盗火的蜘蛛奶奶》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.americanfolklore.net/rainbow-crow/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《彩虹乌鸦》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.americanfolklore.net/rainbow-crow/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《彩虹乌鸦》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《三姐妹的故事》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《三姐妹的故事》\",\"underlined\":true}]"
 	]
 	quest.305A56BDCBE2D2AE.quest_desc: [
 		"The &7Settling Tank&r can filter &7Wastewater&r through &7Sand&r and &7Gravel&r to purify it, making it suitable for normal use. "
@@ -2748,11 +2748,11 @@
 		""
 		"Maybe go see what your Goats have in their bleating hearts."
 		""
-		"&6⚠ Note: The Spawn Egg is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
-	quest.5D74493BC797D6F0.title: "Wicked Spirit"
+	quest.5D74493BC797D6F0.title: "邪恶精魂"
 	quest.5D97DDB66F470605.quest_desc: ["Neptunium tools and armor are Unbreakable, making the tools quite useful in farms. "]
 	quest.5DF0502B194247F9.quest_desc: [
 		"你是否想过用AE系统转移魔源？或者是与魔源罐相比，可以轻松存储更多魔源的存储空间？"
@@ -2888,11 +2888,11 @@
 	quest.619FB543EE458A0E.quest_desc: [
 		"Summon a &7Polar Bear&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ Note: The Spawn Egg is not required. "
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
-	quest.619FB543EE458A0E.title: "Polar Bear"
+	quest.619FB543EE458A0E.title: "北极熊"
 	quest.61F55FC24EA0CD1C.quest_desc: [
 		"To begin, we’ll need some Organic Matter samples. You’ll obtain these by using your Scraper on different mobs. "
 		""
@@ -3367,7 +3367,7 @@
 		"&7火盆&r放置后，手持&7仪式板&r右键点击，再空手右击火盆以启动仪式。"
 		""
 		"&6⚠ 注意"
-		"&6如果重要方块缺失，先清除所有阻挡方块，再在同一位置举行仪式刷新空岛即可。"
+		"&6如果重要方块缺失，先清除所有阻挡方块，再在同一位置重新举行仪式刷新空岛即可。"
 		""
 		""
 	]
@@ -3382,7 +3382,7 @@
 		""
 		"&7荒野号角&r只能通过&7碎魂&r能力获得。"
 		""
-		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
@@ -3829,7 +3829,7 @@
 		""
 		"To earn a &7Token&r of its trust, toss a &7Wilden Horn&r to your &7Drygmy&r."
 		""
-		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
@@ -4181,7 +4181,7 @@
 	task.1291CAC439E06D6C.title: "符文"
 	task.14C95C2344B5DC59.title: "催化剂"
 	task.15D7325C0C904192.title: "Any Small Flower"
-	task.1A49508B81A230E6.title: "Observation: &2Altar of Birthing&r"
+	task.1A49508B81A230E6.title: "观察：&2降生祭坛&r"
 	task.1B81285E0D45A226.title: "Any Tool"
 	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
 	task.1E437E1BEE76E5FF.title: "终端"
@@ -4237,7 +4237,7 @@
 	task.4D45C5166D0700F8.title: "Item Pipes"
 	task.4EAFCD169CB43E2D.title: "壁炉和家"
 	task.4F21DF4EFC469AAC.title: "流体输出仓"
-	task.4FE55FEB08DFF115.title: "Construction Sticks"
+	task.4FE55FEB08DFF115.title: "建筑棒"
 	task.51C59228A0E0612E.title: "Items"
 	task.5243C7DE02D7AA20.title: "盔甲隔温层"
 	task.5314260DF92C1856.title: "Observe a Wixie's Cauldron"
@@ -4274,7 +4274,7 @@
 	task.71EFA0C693ACD330.title: "Item Transfer Labels"
 	task.7361E2FFBFB27FD7.title: "流体输出仓"
 	task.73C57E2AF9A1F920.title: "Any Chipped Tool"
-	task.75050C1ED68FA527.title: "Building Gadgets"
+	task.75050C1ED68FA527.title: "建筑小帮手"
 	task.7559C9E4BA735703.title: "Observation: &2Wixie's Cutting Board&r"
 	task.75F35EC4088EBA42.title: "Create Processing"
 	task.7618EFB44BB18F63.title: "Observe a Wixie's Enchanting Apparatus"
