@@ -8,7 +8,7 @@
 	chapter.17B9F323B083C6C2.title: "举村之力"
 	chapter.21245A37A9042E2C.title: "装备"
 	chapter.300207E2557764E1.title: "闪耀空岛"
-	chapter.402AE6264B81A84B.title: "Logistics"
+	chapter.402AE6264B81A84B.title: "物流"
 	chapter.40C97D6332BD825B.title: "奔流空岛"
 	chapter.47870879D8E3742D.title: "飞向天空！"
 	chapter.4C53D082D6306BF8.title: "Just Dire Things"
@@ -25,12 +25,12 @@
 	chapter_group.46AB9129BBE517B6.title: "&b谜之天空"
 	file.0000000000000001.title: "&n&6谜之天空&r"
 	quest.00066BB06F509677.quest_desc: ["Item Cards for LaserIO allow Laser Nodes to transport Items."]
-	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"Fire Essence\", \"color\":\"gray\"}, \" grants access to the fiery volcano on the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \".\" ]"]
+	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"火之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \"上的炽热火山。\" ]"]
 	quest.008F3C0FB9F4B451.title: "烈焰空岛"
 	quest.00946DF0B2C88A9F.quest_desc: [
-		"Metals and plastics can serve as wonderful analogs to bone for structure, but motors and servos lack a certain flexibility. "
+		"金属和塑料可以作为骨骼结构的完美替代，但马达和伺服器在灵活性能上仍有欠缺。"
 		""
-		"Why re-invent what nature has already nearly perfected? Re-animated flesh can be enhanced to be stronger and more durable than ever.   "
+		"你问为什么要重新创造这些已近乎完善的天然造物？那是因为，这些重新赋予生命的肉体可以继续强化，从而变得前所未有的强壮耐用。"
 	]
 	quest.00DE313EE5B9954D.quest_desc: ["一个简单的卷尺，可以辅助测量距离。对专业的建筑师们来说非常实用，值得常备一个。"]
 	quest.01266355AAB13C39.quest_desc: [
@@ -60,7 +60,7 @@
 		""
 		"For example, at Machine Quality 4, an addon can have up to 4 &7Extenders&r between it and the machine. "
 	]
-	quest.03405336161EF1B5.title: "Machine Addons"
+	quest.03405336161EF1B5.title: "机器插件"
 	quest.03D475AF2266ECB6.quest_desc: [
 		"村民是获取材料的重要来源，一定要多和他们交流，充分利用他们的技术！"
 		""
@@ -72,7 +72,7 @@
 		""
 		"              &6&n实用按键绑定&r"
 		""
-		"  鼠标悬停在&7村民刷怪蛋&r上按&6U&r即可查看所有的村民工作站。"
+		"鼠标悬停在&7村民刷怪蛋&r上按&6U&r即可查看所有的村民工作站。"
 		""
 		""
 		""
@@ -87,7 +87,7 @@
 		"There are several uses for this, but when it comes to making Charms, there are two that are our focus; Amethyst Golems and Bookwyrms. The creation of both of these is detailed in the Tablet’s tooltip."
 	]
 	quest.0458B6BC887C9725.quest_desc: [
-		"Summon a &7Wolf&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
+		"使用降生祭坛召唤一只&7狼&r，然后从它身上采集一些&7有机物质&r。"
 		""
 		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -113,7 +113,7 @@
 		"&c⚠ Warning: Not for Indoor Use."
 	]
 	quest.04CE3E8B1DF8B441.quest_desc: ["The following are various forms of fluid transfer options available in Enigmatica 10."]
-	quest.04CE3E8B1DF8B441.title: "Fluids"
+	quest.04CE3E8B1DF8B441.title: "流体"
 	quest.04D144DC0EAE8BE3.quest_desc: [
 		"购买一个&7酿造台&r，解锁&7牧师村民&r的交易。"
 		""
@@ -132,23 +132,23 @@
 		"Right-Click the pipe connecting to a machine or tank to set it to Extract mode."
 	]
 	quest.053C43E68E7ADB2B.quest_desc: [
-		"With the &7Slice'N'Splice&r, we can rebuild and splice together the genetic material from different creatures to create the monsters we need. "
+		"只要有了&7头颅装配机&r，我们就可以将这些来自不同生物基因材料重新组合、拼接到一起，创作出我们想要的怪物。"
 		""
 		"&6⚠ 注意：EnderIO模组的机器需要安装电容才能工作。"
 		""
 	]
 	quest.054093E1130E24C1.quest_desc: [
-		"An &7Automatic Feeder&r is a simple feeding station for nearby animals. "
+		"&7自动饲育机&r就是一个自动饲育附近动物的站点。"
 		""
-		"Keep it filled with the items your animals need to breed, and they’ll take care of the rest. "
+		"只需要在里面装满动物繁殖所需的物品，剩下的交给它自己搞定。"
 		""
-		"            &6&nA Note on Automation&r"
+		"            &6&n关于自动化的说明&r"
 		""
-		"The &7Automatic Feeder&r can be used to count the animals in the area. "
+		"&7自动饲育机&r可以用来统计该区域内的动物数量。"
 		""
-		"Place a &7Comparator&r against it to get a rough estimate, where each level of redstone means two animals. "
+		"将&7红石比较器&r对着它放置以进行粗略估计，每级红石信号表示两只动物。"
 		""
-		"At a signal of 15, it can no longer breed, meaning it's time to start culling."
+		"在信号为15时，机器会停止饲育动物，这意味着是时候开刀了。"
 	]
 	quest.0545305EBB98A0BA.quest_desc: [
 		"&7高级替换器&r必须与另一个&7高级替换器&r绑定，就像&7初级替换器&r那样。"
@@ -192,7 +192,7 @@
 		""
 		"此章节将带你熟悉下其使用机制，并介绍些著名方块。"
 		""
-		"[\"此外，作者还在YouTube上提供了些实用的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLvGYM7MCieIomj0tKtO9T5DUhvaYFjSxA\"},\"color\":\"blue\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"视频教程\",\"underlined\":true},\"。如果你需要帮助，不妨去看看。\"]"
+		"[\"此外，作者还在YouTube上提供了些实用的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLvGYM7MCieIomj0tKtO9T5DUhvaYFjSxA\"},\"color\":\"blue\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处前往\"}]},\"text\":\"视频教程\",\"underlined\":true},\"。如果你需要帮助，不妨去看看。\"]"
 	]
 	quest.062BB5F675CF9F45.title: "Just Dire Things"
 	quest.064BF1AA27A01A3A.quest_desc: [
@@ -215,15 +215,15 @@
 		"&a    Allow/Deny Scrolls!"
 	]
 	quest.07189DA532A429AE.quest_desc: [
-		"The &7Whirl&r glyph can make some exceptionally useful spells, but getting the glyphs to make it yourself may take some time. "
+		"&7旋风&r魔符能够组合成一些相当实用的法术，但自己获取旋风魔符可能要花些时间。"
 		""
-		"For now, you can craft some specially prepared &7Caster Tomes&r with pre-set spells to make use of it!"
+		"目前，你可以制作一些特殊的&7施法者卷册&r来使用这些预设法术！"
 		""
-		"&a🛈 Tip: Caster Tomes can be used to "
-		"&a    set Spell Turrets!"
+		"&a🛈 提示：施法者卷册可以用来给法术炮塔设置法术！"
+		""
 	]
-	quest.07189DA532A429AE.title: "Whirligigs"
-	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]"]
+	quest.07189DA532A429AE.title: "旋风"
+	quest.0745FDF3F22807CA.quest_desc: ["[ \"\", { \"text\": \"气之精华\", \"color\":\"gray\"}, \"通往令人目眩的\", { \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \"。\" ]"]
 	quest.0745FDF3F22807CA.title: "闪耀空岛"
 	quest.074827E52A09685F.quest_desc: [
 		"&7水&r，珍贵又稀少，在这个地方非常难以获得。"
@@ -298,21 +298,21 @@
 		"同样地，任务也会为你提供额外的提示和技巧，帮助你更好了解整合包的内容，尤其是在涉及自定义机制的部分。"
 	]
 	quest.0AEC5C2683575F1C.quest_desc: [
-		"通过哭泣之井换取&7符文树苗&r。"
+		"&7符文树苗&r可以通过哭泣之井换取。"
 		""
-		"You’ll need this primarily for its wood, though the sap can be quite useful as well. "
+		"接下来主要用到的是它的木材，但它的树液也很有使用价值。"
 	]
 	quest.0B04BC5F88746182.quest_desc: ["The following are full-blown storage systems that hold many types of items and present them in a single easy-to-browse and searchable interface. "]
-	quest.0B04BC5F88746182.title: "Storage"
+	quest.0B04BC5F88746182.title: "存储"
 	quest.0B05FA716D7335D2.quest_desc: ["&7初级投物器&r是一款很出色的工具，它可以自动化一些世界交互的配方。"]
 	quest.0B17FF64DFA4BA90.quest_desc: ["Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!"]
 	quest.0BB6D2595F99ADB4.quest_desc: [
 		"Now that we can animate blocks and start collecting more varied Spirits, it’s time to delve into genetic manipulation."
 		""
-		"Craft a &7Scraper&r and Right-Click mobs to gather their &7Organic Matter&r. "
+		"制作一柄&7刮刀&r，并用它右击生物，以此收集生物们的&7有机物质&r。"
 		""
-		"&a🛈 Tip: The Delicate Touch enchantment "
-		"&a    makes Scrapers deal no damage!"
+		"&a🛈 提示：精细触控魔咒可以让刮刀不再对生物造成伤害！"
+		""
 	]
 	quest.0BF882C463675433.quest_desc: [
 		"Now that we have some DNA, we need to know what it can do. "
@@ -362,7 +362,7 @@
 		""
 		"&7Distributor Modules&r can pull from or send to a maximum of up to eight inventories per module, making them perfect for distributed crafts or collecting from many machines."
 	]
-	quest.0D65061DFD04B301.title: "Item Modules"
+	quest.0D65061DFD04B301.title: "物品模块"
 	quest.0D7B7B9CF7362FD8.quest_desc: [
 		"Have a trait you don’t want anymore? You can remove them by crafting an Anti-Plasmid. "
 		""
@@ -441,9 +441,9 @@
 		"Get creative and have a look around at other devices that might be useful, such as those from the &7Redstone Pen&r mod or even simple vanilla blocks like the &7Observer&r. "
 	]
 	quest.0DE5D9ADB947B171.quest_desc: [
-		"Animate a &7Wilden Chimera&r and defeat it to obtain a &7Wilden Tribute&r."
+		"活化一个&7荒野奇美拉&r，然后击杀它以获得&7荒野供物&r。"
 		""
-		"&7Chimera Meat&r may be obtained through &7Soul Shattering&r or by trading extra &7Wilden Tributes&r to a &7Butcher&r. "
+		"&7奇美拉肉&r可以使用&7碎魂武器&r攻击获得，也可以用多余的&7荒野供物&r与&7屠夫&r交易得到。"
 		""
 		"&6⚠ 注意：这里的仪式图标物品只是方便查阅配方，本身并不是任务目标物品。"
 		""
@@ -514,7 +514,7 @@
 		"对于这种物品，你需要把它们放置在附近的物品台或物品基座中。"
 	]
 	quest.12E0E45FC08A5912.quest_desc: ["&7无线玩家充能器&r可以在小范围内给你身上的设备充电。"]
-	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]"]
+	quest.12E7105B33AC043E.quest_desc: ["[ \"\", { \"text\": \"防护之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"恼人空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \"的枯萎之地。\" ]"]
 	quest.12E7105B33AC043E.title: "恼人空岛"
 	quest.130A2701B96A941D.quest_desc: [
 		"这个地方基本不会有怪物，然而，有比周围徘徊的僵尸和骷髅更严重的事情等待处理。"
@@ -859,7 +859,7 @@
 		""
 		"然后可以将这些DNA样本拼接起来，注入到某个宿主体内，创造出全新的生物。"
 		""
-		"[ \"这些机器也能让实体获得永久的增益效果。详见\", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击前往\"}]} }, \"章节。\" ]"
+		"[ \"这些机器也能让实体获得永久的增益效果。详见\", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处前往\"}]} }, \"章节。\" ]"
 	]
 	quest.1C9565D5C51B74CC.title: "基因"
 	quest.1CBC50FA40BFB54A.quest_desc: [
@@ -892,21 +892,21 @@
 		"以此方式加速&7坩埚&r的同时，也会导致&7促符&r耐久消耗加快，但这种方式算是利大于弊。"
 	]
 	quest.1CF4103BFBCE0E29.quest_desc: [
-		"With an &7Imbuement Chamber&r, you can begin accessing new islands, each with its own unique block transformations and resources. "
+		"有了&7灌注室&r，就有了进入新空岛的渠道，每个空岛都有自己独特的资源和方块转化类型。"
 		""
-		"Use your &7Source Gems&r to create the &7Essences&r you'll need for each island. "
+		"使用你的&7魔源宝石&r来制作各个空岛所需的&7精华&r。"
 		""
-		"These areas are not self-contained, however; the deeper you go into each Island’s quests, the more you’ll need resources from the other Islands. "
+		"然而，这些空岛并非相互独立；在探索每个空岛的任务时，深入程度越高，就越需要其他空岛的资源。"
 		""
-		"Summon them all as soon as you're able. "
+		"因此你应该尽快将所有空岛召唤出来。"
 		""
-		"[ \"A good place to start will be the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \", so get the materials together for \", { \"text\": \"Essence of Earth\" , \"color\":\"gray\"}, \".\" ]"
+		"[ \"一个比较好的起点是\", { \"text\": \"繁茂空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \"所以先收集制作\", { \"text\": \"土之精华\" , \"color\":\"gray\"}, \"的材料吧。\" ]"
 		""
-		"To use the &7Imbuement Chamber&r, you’ll need to place some &7Arcane Pedestals&r or &7Platforms&r directly adjacent to it. The item shown in the middle of the recipe goes in the &7Imbuement Chamber&r, while the rest must be placed in the &7Pedestals.&r "
+		"使用&7灌注室&r时，需要在其相邻位置放置一些&7奥术基座&r或&7奥术台座&r。配方中间显示的物品放入&7灌注室&r中，其余材料则必须放置在&7基座&r上。"
 		""
-		"&6⚠ Note: The Pedestal items are &nnot&r &6consumed. "
+		"&6⚠ 注意：基座上的物品&n不会&r&6被消耗。"
 		""
-		"&a🛈 Tip: Source is optional but will speed up the craft!"
+		"&a🛈 提示：魔源不是必需的，但能加快制作速度！"
 	]
 	quest.1D2F5CE5D285BAEA.quest_desc: [
 		"曾经，&7风转草&r们在大地上游荡，并守护着大自然。虽然它们如今销声匿迹，但也许仍有办法逆转这一现状？"
@@ -914,7 +914,7 @@
 		"古老的文字提到了它们与另一种生物&7悦灵&r的联系，而后者我们稍作努力便能召唤……"
 		"&n                                       &r"
 		""
-		"Craft a &7Magic Lamp&r and release its inhabitant at an &7Altar of Birthing&r. Then gather some &7Organic Matter&r from it."
+		"合成一盏&7神灯&r，然后通过&7降生祭坛&r释放里面囚禁的生物。最后从它身上收集一些&7有机物质&r。"
 		""
 		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -989,9 +989,9 @@
 		""
 		"                   &n&6Materials&r"
 		""
-		"  • &7Blazing Quartz&r"
+		"  • &7烈焰石英&r"
 		"  • &7Crystallized Lava&r"
-		"  • &7Cinder Flour&r"
+		"  • &7余烬面粉&r"
 	]
 	quest.1E0B03155C2CAEE7.quest_desc: [
 		"精魂聚焦算得上是一种炼金术，通过向催化剂物品（即&7促符&r）中灌注&7精魂&r来生成新材料。"
@@ -1095,11 +1095,11 @@
 		"建议你尽快在所有消耗灵气的设备下方都放上一个，因为有些设备消耗灵气的速度真的很快！"
 	]
 	quest.23ED7167CB856D26.quest_desc: [
-		"Magic doesn’t come out of thin air, of course. What madness!"
+		"魔力当然不会凭空产生，那太疯狂了！"
 		""
-		"Buy a &7Codex&r from your friendly neighborhood &7Librarian&r and dissolve it in &7Sal Ammoniac&r to obtain &7Liquefied Source&r. "
+		"从你的好邻居&7图书管理员&r那里购买一个&7符典条目节选&r，将其溶解在&7硇砂&r中以获取&7液态魔源&r。"
 		""
-		"From there, you’ll be able to infuse &7Ambrosium&r with it to create &7Source Gems&r."
+		"然后，将其注入&7神能晶片&r来制造&7魔源宝石&r。"
 	]
 	quest.24095EE1A419152D.quest_desc: [
 		"A small multiblock consisting of the &7Controller&r and up to four &7Outputs&r stacked atop it, the &7Refinery&r is central to processing &7Crude Oil&r. "
@@ -1390,21 +1390,21 @@
 		""
 		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.cherokee.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"切罗基族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.lenape-nation.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"莱纳佩族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.lenape-nation.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"莱纳佩族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ojibwe.net/stories/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"欧及布威族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ojibwe.net/stories/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"欧及布威族\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.wendake.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"温达特族\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.wendake.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"温达特族\",\"underlined\":true}]"
 		""
 		"&6&n故事&r"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://thecanadianencyclopedia.ca/en/article/turtle-island\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《神龟驮世》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://thecanadianencyclopedia.ca/en/article/turtle-island\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《神龟驮世》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.indigenouspeople.net/spider.htm\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《盗火的蜘蛛奶奶》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.indigenouspeople.net/spider.htm\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《盗火的蜘蛛奶奶》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.americanfolklore.net/rainbow-crow/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《彩虹乌鸦》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.americanfolklore.net/rainbow-crow/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《彩虹乌鸦》\",\"underlined\":true}]"
 		""
-		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击访问\"}]},\"text\":\"《三姐妹的故事》\",\"underlined\":true}]"
+		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《三姐妹的故事》\",\"underlined\":true}]"
 	]
 	quest.305A56BDCBE2D2AE.quest_desc: [
 		"The &7Settling Tank&r can filter &7Wastewater&r through &7Sand&r and &7Gravel&r to purify it, making it suitable for normal use. "
@@ -1435,9 +1435,9 @@
 		"&6    复制后会清空数据。"
 	]
 	quest.30FE41CF0C7F1270.quest_desc: [
-		"Need a fuel boost? "
+		"需要燃料支持？"
 		""
-		"&7Primal Coal&r burns 16 times longer than a log and can be produced quite easily in the &7Calcination Oven&r."
+		"&7原初煤炭&r的燃烧时间是原木的16倍，且可通过&7煅烧炉&r轻松生产。"
 	]
 	quest.3104ECE58D5CC796.quest_desc: [
 		"The &7Pyromantic Brazier&r can be quite wasteful when used to power Theurgy devices, since it simply keeps burning as long as fuel remains. "
@@ -1626,7 +1626,7 @@
 	quest.37AA9E6270DB015A.quest_desc: [
 		"This is a multiblock structure comprised of a central &7Empowerer&r and four &7Display Stands&r. "
 		""
-		"Each &7Display Stand&r must be placed three blocks away from the &7Empowerer&r in each of the cardinal directions. "
+		"每个&7物品展示台&r都需要放在&7充能台&r四个方向上距离三格方块远的地方。"
 		""
 		"When crafting, the central item in the recipe goes on the &7Empowerer&r while the other four items are placed in any order on the surrounding &7Display Stands&r. "
 		""
@@ -1655,7 +1655,7 @@
 		"合成产物同样能通过&7主动供应框架&r存回网络，或是直接留在机器内供下一环节调用。"
 	]
 	quest.37ED5A328F30DD34.quest_desc: [
-		"Creating monsters is no small feat and we’re going to need some very specific materials to pull it off. "
+		"创造怪物并非易事，要成功完成这一任务，我们还需要一些非常特殊的材料。"
 		""
 		"We’ll start with something easy, slimes. We can lean on the latent magic in certain foods to get the process going, though it's still going to need an extra nudge."
 		""
@@ -1806,7 +1806,7 @@
 		""
 		"These abilities vary from the more mundane, such as Step Assist, to the fantastic such as built in Armor, Invisibility, and even Flight. "
 		""
-		"Unlike other Oritech machines, this one will not function without an appropriate upgrade installed. "
+		"与其他来自Oritech模组的机器不同，这台机器只有安装了合适的升级组件才能工作。"
 		""
 		"There are three in total which can be installed on the sides and back of the &7Augmentation Center&r. "
 		""
@@ -1873,13 +1873,13 @@
 	]
 	quest.3CC1C6949E17A1B9.quest_subtitle: "Basic Pressure"
 	quest.3D1D6D17B2900DF0.quest_desc: [
-		"Animate a &7Magma Slime&r and defeat it to obtain &7Infernal Spirits&r."
+		"活化一个&7岩浆怪&r，然后击杀它以获得&7狱火精魂&r。"
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
-	quest.3D1D6D17B2900DF0.title: "Infernal Spirit"
+	quest.3D1D6D17B2900DF0.title: "狱火精魂"
 	quest.3D59639F51E89CF9.quest_desc: [
 		"&7高级点击器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
 		""
@@ -1900,13 +1900,13 @@
 		"将方块放入贴在&7无感知建造器&r上的&7物品展示框&r内，建造器便只会在此方块上方放置方块。"
 	]
 	quest.3D7B773741D78864.quest_desc: [
-		"Harvesting edible meat from &7Wilden&r is a task that requires both skill and focus; one slip and the meat may be fouled by the cursed magic flowing through them."
+		"想从&7荒野族裔&r身上割下可以食用的肉，这一过程需要高超的技巧与专注力。稍有不剩，割下的肉就会被生物身上流淌的诅咒魔力沾染。"
 		""
-		"Such a delicate process can only be completed with a &7Knife&r. "
+		"如此精细的操作只能使用&7小刀&r完成。"
 		""
 		"By placing the &7Knife&r in an &7Arcane Pedestal&r next to a &7Drygmy Henge&r, they will be able to harvest the &7Meat&r for you."
 	]
-	quest.3D7B773741D78864.title: "Wilden Meat"
+	quest.3D7B773741D78864.title: "野味"
 	quest.3DD21FD2F10FE43D.quest_desc: [
 		"Primarily used to make &7Rubber Sheets&r, &7Latex&r is also used in its raw form for a variety of recipes. "
 		""
@@ -2108,16 +2108,16 @@
 	]
 	quest.42A899B5E25F6124.title: "Tier 3 Spells"
 	quest.42F2191B5C08849B.quest_desc: [
-		"Summon a &7Bat&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
+		"制作一柄&7刮刀&r，并用它右击生物，从生物的身上采集&7有机物质&r。"
 		""
-		"&6⚠ Note: The Spawn Egg is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
-		"&a🛈 Tip: Consider making an enclosure to "
-		"&a    contain your bats!"
+		""
+		""
+		"&a🛈 提示：记得把这些蝙蝠圈起来！"
+		""
 	]
-	quest.42F2191B5C08849B.title: "Bat"
+	quest.42F2191B5C08849B.title: "蝙蝠"
 	quest.43580B4D15FCEF00.quest_desc: [
 		"A bit of slicing and splicing will get us what we need. Prepare the required items for the ritual and create your very own &7Whirlisprig&r. "
 		""
@@ -2357,7 +2357,7 @@
 		""
 		"只有在发酵釜打开时，流体和物品才能通过管道和漏斗等方式输入。同样地，产物也只能在发酵釜打开时提取。"
 		""
-		"对除正面外的任意面输入红石信号，可以关闭反应釜。反应釜正面可以通过底部的红点辨识。"
+		"对除正面外的任意面输入红石信号，可以关闭发酵釜。发酵釜正面可以通过底部的红点辨识。"
 		""
 		"无论是否输入信号，如果发酵釜内缺少输出空间，它仍然会自动打开。"
 		""
@@ -2386,7 +2386,7 @@
 	quest.4B2DF8F028C3CFA0.quest_desc: [
 		"Animate a &7Guardian&r and gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
@@ -2401,9 +2401,9 @@
 		""
 		"将其放置在结构的&7矮石柱&r上即可。"
 		""
-		"&6⚠ 注意：在不冲突的前提下，装"
-		"&6    有催化剂的祭坛仍然可以"
-		"&6    处理基础配方"
+		"&6⚠ 注意：在不冲突的前提下，装有催化剂的祭坛仍然可以处理基础配方。"
+		""
+		""
 	]
 	quest.4CC1CF537349C2D6.quest_desc: [
 		"Need a little more room to work? Summoning another island is always an option. "
@@ -2503,21 +2503,21 @@
 		""
 	]
 	quest.51A88370BE1CAC99.quest_desc: [
-		"Not only do &7Worms&r speed up crop growth, but they’ll also keep the soil mostly hydrated. "
+		"&7蚯蚓&r不仅能加速作物生长，还能保持土壤湿润。"
 		""
-		"A single &7Worm&r will help maintain a 3x3 plot of farmland."
+		"一只&7蚯蚓&r可以维持一片3x3的耕地。"
 	]
 	quest.520241157010066D.quest_desc: [
 		"Animate a &7Wilden Stalker&r and harvest it for parts."
 		""
 		"&7Wilden Wings&r may only be obtained through &7Soul Shattering&r. "
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.521DE7879A4B6F03.quest_desc: ["With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  "]
-	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"Water Essence\", \"color\":\"gray\"}, \" grants access to the ever-flowing waterfalls of the \", { \"text\": \"Cascading Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \".\" ]"]
+	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"水之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"奔流空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \"的不绝飞瀑。\" ]"]
 	quest.5226F1BC0A1B23D0.title: "奔流空岛"
 	quest.529329FE6CB3D29E.quest_desc: ["Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. "]
 	quest.52E79B2EB7400D13.quest_desc: [
@@ -2541,9 +2541,9 @@
 		"This will be of use when dealing with highly unstable arcane flows. "
 	]
 	quest.540133B792547B21.quest_desc: [
-		"Make a &7Calcination Oven&r and place it atop a &7Pyromantic Brazier&r. "
+		"制作一个&7煅烧炉&r，并将其放置在&7御炎火盆&r上。"
 		""
-		"Items, such as &7Pebbles&r, may be Right-Clicked into the &7Oven&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing."
+		"&7石子&r等物品可以通过右击直接放入&7煅烧炉&r中，而燃料则需要右击放入&7火盆&r以开始煅烧。"
 	]
 	quest.55065F1D9C6716C1.quest_desc: [
 		"&7高级传感器&r和初级相比有了范围升级，可以与更大范围内的物品交互。"
@@ -2552,9 +2552,9 @@
 		"&a   区域更方便。"
 	]
 	quest.5550423B6E6BDBAF.quest_desc: [
-		"In need of some saplings? Maybe you’d like to get some bees producing honey? "
+		"需要树苗吗？或者想养些蜜蜂产蜜？"
 		""
-		"Summon forth the Queen Bee in her throne and see what trades she has to offer!"
+		"在蜂后的王座上召唤她，看看她能提供哪些交易！"
 	]
 	quest.5550423B6E6BDBAF.title: "蜂巢空岛"
 	quest.55D51F58CA3130AA.quest_desc: [
@@ -2563,13 +2563,13 @@
 		"New &7Dorodangos&r await you with the materials available on this island. "
 	]
 	quest.56AD6E7F12056140.quest_desc: [
-		"The &7Enchanting Apparatus&r is a vital tool in and of itself and will become important soon enough. "
+		"&7附魔装置&r本身就是一个关键工具，而且很快将会成为必须。"
 		""
-		"The &7Arcane Core&r used in this device is also the &7Job Site&r for &7Shady Wizard Villagers&r, who will sell you various magical trinkets."
+		"此装置所用的&7奥术核心&r也是&7可疑的巫师村民&r的&7工作站点&r，他会向你出售各式各样的魔法小物件。"
 		""
-		"Consider picking up some Wixies to help you with cooking up food to feed your villagers."
+		"考虑搞几个薇克精来帮你烹饪食物，好喂饱你的村民。"
 	]
-	quest.56AD6E7F12056140.title: "Shady Wizard"
+	quest.56AD6E7F12056140.title: "可疑的巫师"
 	quest.56DDD2327724F715.quest_desc: [
 		"&7线缆&r有不同的颜色与尺寸供你选择。"
 		""
@@ -2770,7 +2770,7 @@
 		""
 		"Maybe go see what your Goats have in their bleating hearts."
 		""
-		"&6⚠ 注意：刷怪蛋并不是仪式的必需材料。这里只是方便查阅仪式配方。"
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
 		""
 	]
@@ -2908,11 +2908,11 @@
 		"&7冷冻器&r使用&7冰石&r作为燃料。"
 	]
 	quest.619FB543EE458A0E.quest_desc: [
-		"Summon a &7Polar Bear&r at the Altar of Birthing and gather some &7Organic Matter&r from it."
+		"使用降生祭坛召唤一只&7北极熊&r，然后从它身上采集一些&7有机物质&r。"
 		""
 		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		""
+		""
 	]
 	quest.619FB543EE458A0E.title: "北极熊"
 	quest.61F55FC24EA0CD1C.quest_desc: [
@@ -3078,33 +3078,33 @@
 	]
 	quest.63A7E92BBCEDF461.title: "沐浴阳光"
 	quest.63AFE7CB35AE94BF.quest_desc: [
-		"Want to change things up a bit? Looking for a more magical experience over Create’s normal machines?"
+		"想来点新花样？想要在机械动力模组的普通机器上来点更魔幻的体验？"
 		""
-		"Ars Technica, an addon for Ars Nouveau, includes glyphs to mimic many of Create’s processes. Below are a few example spells to get you started."
+		"Ars Technica，新生魔艺的附属模组，包含众多可以模拟机械动力加工处理的魔符。下面有几个入门示例法术。"
 		""
-		"These are great for quick manual processing or can be a powerful replacement to Create if the spells are inscribed in a Spell Turret."
+		"这些法术非常适合快速手动加工物品，或者，如果你将法术写进法术炮塔，也许能成为机械动力的强力替代品。"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Encased Fan - Bulk Washing&r"
-		"    &5Projectile&r > &aWhirl&r > &6Extend Time&r > &aConjure Water&r"
+		"&7鼓风机 - 批量洗涤&r"
+		"    &5弹射物&r > &a旋风&r > &6延长时效&r > &a构筑水&r"
 		""
-		"&7Encased Fan - Bulk Blasting&r"
-		"    &5Projectile&r > &aWhirl&r > &6Extend Time&r > &aSmelt&r"
+		"&7鼓风机 - 批量熔炼&r"
+		"    &5弹射物&r > &a旋风&r > &6延长时效&r > &a烧炼&r"
 		""
-		"&7Deployer&r"
-		"    &5Projectile&r > &aApply&r > &6AOE&r"
+		"&7机械手&r"
+		"    &5弹射物&r > &a使用&r > &6扩散&r"
 		""
-		"&7Mechanical Mixer&r"
-		"    &5Projectile&r > &aFuse&r > &6AOE&r"
+		"&7动力搅拌器&r"
+		"    &5弹射物&r > &a融合&r > &6扩散&r"
 		""
-		"&7Sandpaper&r"
-		"    &5Projectile&r > &aPolish&r > &6AOE&r"
+		"&7砂纸&r"
+		"    &5弹射物&r > &a打磨&r > &6扩散&r"
 		""
-		"&7Mechanical Press&r"
-		"    &5Projectile&r > &aPress&r > &6AOE&r"
+		"&7动力冲压机&r"
+		"    &5弹射物&r > &a冲压&r > &6扩散&r"
 		""
-		"&a🛈 Tip: Try adding more AOE or stacking spell casts!"
+		"&a🛈 提示：尝试增加更多扩散魔符或叠加施放法术！"
 	]
 	quest.6490781066FAE8CF.quest_desc: [
 		"                      &6&nBiome: Mangrove Swamp&r&r"
@@ -3179,7 +3179,7 @@
 		"在没有防护的情况下进行户外活动，持有太多冰冷物品都会导致体温快速下降。"
 		""
 		"穿戴保暖衣物能够降低热量流失的速度，所以记得穿好衣服再出门。"
-		"&n                                                             &r"
+		"&n                                       &r"
 		""
 		"在生命值和饥饿值之间，有一个新标识来表示你的温度值。该值范围为0到100，0表示温度舒适，100则表示温度致命。过冷会显示为&9蓝色&r，过热则显示为&6橙色&r。"
 		""
@@ -3265,7 +3265,7 @@
 		""
 		"&7Wilden Spikes&r may only be obtained through &7Soul Shattering&r. "
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
@@ -3346,7 +3346,7 @@
 		""
 		"The second is a &7Ritual&r for more elaborate requests. Look for the chalice surrounded by chalk marks."
 	]
-	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"Earth Essence\", \"color\":\"gray\"}, \" grants access to the swampy environs of the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \".\" ]"]
+	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"土之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"繁茂空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \"的深泽泥沼。\" ]"]
 	quest.6AC4CADE97CB512F.title: "繁茂空岛"
 	quest.6AF21EDF59FCE0D4.quest_desc: [
 		"在时间诞生以前，天空之民定居在云中的岛屿。"
@@ -3453,9 +3453,9 @@
 	]
 	quest.6D09D016EDE0AAFB.title: "Wixie Crafting and Brewing"
 	quest.6DA23C4B7F016B1D.quest_desc: [
-		"&7Greenhouse Glass&r provides a significant growth boost to the crop directly below it. "
+		"&7温室玻璃&r能够显著促进其正下方作物的生长。"
 		""
-		"Use it to build yourself a nice enclosure for your plants that is also functional. "
+		"用它来为你的植物搭建一个既美观又实用的温室吧。"
 	]
 	quest.6DBBD5B744B801B1.quest_desc: [
 		"有些方块无法放置在这个冰冷的地方，有些则会在放置后转化为另一种方块。"
@@ -3510,11 +3510,11 @@
 		""
 		"任务被分为三个板块："
 		""
-		"[ {\"text\":\"                \"}, { \"text\": \"谜之天空\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8B7FD4A52663D3\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"                \"}, { \"text\": \"谜之天空\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8B7FD4A52663D3\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }]"
 		""
-		"[ {\"text\":\"                \"}, { \"text\": \"发现谜团\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44BD4C393C59F1CB\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"                \"}, { \"text\": \"发现谜团\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44BD4C393C59F1CB\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }]"
 		""
-		"[ {\"text\":\"                \"}, { \"text\": \"学习模组\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"16C7D5478BF3D449\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击这里\"}]} }]"
+		"[ {\"text\":\"                \"}, { \"text\": \"学习模组\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"16C7D5478BF3D449\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }]"
 	]
 	quest.6DE4258F18A7A321.title: "欢迎！"
 	quest.6E4554D07901967C.quest_desc: [
@@ -3644,22 +3644,22 @@
 	]
 	quest.710D7615763E9945.title: "誓令"
 	quest.714379744B3CF395.quest_desc: [
-		"The first few &7Gold Ingots&r you make should go towards making an &7Imbuement Chamber&r. "
+		"你得到的&7金锭&r应该最先用来制作一个&7灌注室&r。"
 		"&n                                       &r"
 		""
-		"The &7Digestion Vat&r is operated by Right-Clicking the inputs into the machine. Once everything is in, Sneak Right-Click it again to ‘close’ it. It will only operate while closed."
+		"&7消化釜&r的操作方式如下：手持物品右击放入消化釜，物品放入完毕后，再次潜行右击消化釜将其“关闭”。消化釜只有在关闭时才会进行炼金消化。"
 		""
-		"The Vat will open again automatically once it can no longer do any work. Be that because it finished, ran out of room for outputs, or ran out of inputs. "
+		"一旦消化无法再进行，消化釜就会自动打开，导致无法进行的因素有：消化已完成、输出槽位已满、输入材料耗尽。"
 		""
-		"                       &n&6A Note on Automation&r&r"
+		"                       &n&6关于自动化的说明&r&r"
 		""
-		"Fluids and Items may be inserted by any form of logistics such as pipes or hoppers, but only while the device is open. Similarly, items may only be extracted while it is open."
+		"只有在消化釜打开时，流体和物品才能通过管道和漏斗等方式输入。同样地，产物也只能在消化釜打开时提取。"
 		""
-		"The device may be closed by applying a Redstone signal to any side other than the front, which can be identified by the red dot at the bottom. "
+		"对除正面外的任意面输入红石信号，可以关闭消化釜。消化釜正面可以通过底部的红点辨识。"
 		""
-		"Regardless of the signal, the device will still open automatically if it has no room for outputs."
+		"无论是否输入信号，如果消化釜内缺少输出空间，它仍然会自动打开。"
 		""
-		"The front will output a signal when the device has finished a recipe, allowing finer control for small batches."
+		"消化釜完成一个配方时，会从正面输出一个红石信号，利用该机制可以实现更加精细的分批操控。"
 	]
 	quest.7163E7EBDB861D72.quest_desc: [
 		"这并没有&7物品拾取器&r的高级版本，但这一等级的工具可以被赋予将物品传送至绑定方块的能力。"
@@ -3681,9 +3681,9 @@
 		"这一过程需要魔源，由附近的&7魔源罐&r提供。"
 	]
 	quest.72B6C89DB165BB07.quest_desc: [
-		"When placed in-world, &7Organic Compost&r will slowly transform into &7Rich Soil&r, a particularly good soil for growing crops."
+		"放置后，&7有机堆肥&r会缓慢转化为特别适合农作物生长的&7沃土&r。"
 		""
-		"Any crops planted on &7Rich Soil Farmland&r will gain a significant boost in growth rates. "
+		"&7沃土耕地&r上作物的生长速度将获得显著提升。"
 	]
 	quest.72C1A824063BAFA3.quest_desc: [
 		"Caretakers of natural spaces, &7Drygmies&r once roamd the lands tending to animals to maintain balance. They’ll willingly join your menagerie if you give them a &7Wilden Horn&r, thus showing your commitment to maintaining order."
@@ -4189,7 +4189,7 @@
 	reward_table.79D53E33D5224416.title: "零件：应用能源"
 	task.01BD7546106B0EB9.title: "Magical Shards"
 	task.0219421FBD8DB647.title: "Just Dire Upgrades"
-	task.03DF0245816D38A4.title: "Wilden Meat"
+	task.03DF0245816D38A4.title: "野味"
 	task.073DDF6031485D23.title: "包层线缆"
 	task.0767C8200D0389A6.title: "Essences"
 	task.083303CA128E5B22.title: "Fluid Output Hatch"
@@ -4208,14 +4208,14 @@
 	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
 	task.1E437E1BEE76E5FF.title: "终端"
 	task.1E4E5D2B9B36005C.title: "Brilliant Blocks"
-	task.20B6CC540E82D042.title: "Pedestals"
+	task.20B6CC540E82D042.title: "基座"
 	task.210DF794EE1D714A.title: "Observation: &2Wixie's Stonecutter&r"
 	task.2249B1CA280D4531.title: "谜之天空"
 	task.225508B5F690C310.title: "流体输入仓"
 	task.23CDBB8A570B6689.title: "Blocks Obtained from Sludge"
 	task.2404D63C45135601.title: "精魂碎晶"
 	task.241DC4DBEF1C8648.title: "Observation: &2Wixie Cauldron&r"
-	task.24F2BEBFC964C83B.title: "Knives"
+	task.24F2BEBFC964C83B.title: "小刀"
 	task.24FDDE2CC71EBC7A.title: "Logistics"
 	task.264F4FA6B354C01A.title: "Observation: &2Wixie's Enchanting Apparatus&r"
 	task.2900F7E8CBB5DD74.title: "魔源存储"
@@ -4234,7 +4234,7 @@
 	task.35B971D8A6CCBC94.title: "EU Cables"
 	task.35F8589774CE48D9.title: "Arcane Pedestals"
 	task.360DFCFD6400CADB.title: "Latex Materials"
-	task.36D658D637E5D847.title: "Storage Systems"
+	task.36D658D637E5D847.title: "存储系统"
 	task.37CDC8E9B9004A0D.title: "合成存储器"
 	task.383830982713CF12.title: "能量输出仓"
 	task.3898E7E189555B8C.title: "Arcane Platforms"
@@ -4244,7 +4244,7 @@
 	task.3D17C42035FE93C1.title: "Fluid Transfer Labels"
 	task.3DED6DAEE4419675.title: "Any Chipped Workbench"
 	task.3EAFB384DAB520FD.title: "Any &3Arts and Crafts&r Item"
-	task.3F1AFB75DEE21F65.title: "Fluid Pipes"
+	task.3F1AFB75DEE21F65.title: "流体管道"
 	task.40A7E30D465D0168.title: "Item Input Hatch"
 	task.40BF2920569F9751.title: "Addon: Speed"
 	task.42EE7B1C5F75BCAF.title: "欢迎！"
@@ -4279,7 +4279,7 @@
 	task.5CE5C1A8B02B037B.title: "线缆伪装板"
 	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
-	task.5FAB53ACB4BF565C.title: "Fluid Modules"
+	task.5FAB53ACB4BF565C.title: "流体模块"
 	task.5FD033C23F211569.title: "Picking Up What You're Putting Down"
 	task.605834F92F6F384F.title: "Observation: &2Wixie's Cooking Pot&r"
 	task.60A606EEBA68E86C.title: "流体输出仓"
@@ -4289,7 +4289,7 @@
 	task.676C8DE6C246D422.title: "AE能量"
 	task.684AE1845DD8C662.title: "预编程无人机"
 	task.6C573946ECF532BC.title: "碎魂武器"
-	task.6D1A048396918DF0.title: "Fluids"
+	task.6D1A048396918DF0.title: "流体"
 	task.6DE11EA8A586D544.title: "Item Output Hatch"
 	task.70531464F6943384.title: "样板终端"
 	task.71A479E92219AB03.title: "流体输入仓"
@@ -4298,14 +4298,14 @@
 	task.73C57E2AF9A1F920.title: "Any Chipped Tool"
 	task.75050C1ED68FA527.title: "建筑小帮手"
 	task.7559C9E4BA735703.title: "Observation: &2Wixie's Cutting Board&r"
-	task.75F35EC4088EBA42.title: "Create Processing"
+	task.75F35EC4088EBA42.title: "机械动力处理"
 	task.7618EFB44BB18F63.title: "Observe a Wixie's Enchanting Apparatus"
 	task.76E02A5A8A664728.title: "流体输入仓"
 	task.7858961CD00D205B.title: "流体输出仓"
 	task.79CE5559C7D6E3EB.title: "恼人空岛"
 	task.7BBDAB866A167CE4.title: "汞驱物品传输器"
 	task.7C0E5A805AE1132B.title: "学习模组"
-	task.7CDDB3E6855989E2.title: "Soul Shattering Weapons"
+	task.7CDDB3E6855989E2.title: "碎魂武器"
 	task.7E422D4A867340A6.title: "Any Functional Storage Drawer"
 	task.7FC1B66AFF268BF8.title: "致密包层线缆"
 }
