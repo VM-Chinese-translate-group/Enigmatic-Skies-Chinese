@@ -1,5 +1,5 @@
 {
-    "block.modern_industrialization.bronze_boiler": "破旧锅炉",
+    "block.modern_industrialization.bronze_boiler": "破朽锅炉",
 
     "block.modern_industrialization.bronze_assembler": "安山合金装配机",
     "block.modern_industrialization.steel_assembler": "钢装配机",
@@ -11,20 +11,20 @@
     "rei_categories.modern_industrialization.bronze_centrifuge": "安山合金离心机",
     "rei_categories.modern_industrialization.steel_centrifuge": "钢离心机",
 
-    "block.modern_industrialization.bronze_alluvial_trommel": "安山合金筛洗机",
-    "block.modern_industrialization.steel_alluvial_trommel": "钢筛洗机",
-    "block.modern_industrialization.electric_alluvial_trommel": "电筛洗机",
-    "rei_categories.modern_industrialization.bronze_alluvial_trommel": "筛洗机",
-    "rei_categories.modern_industrialization.steel_alluvial_trommel": "钢筛洗机",
-    "rei_categories.modern_industrialization.electric_alluvial_trommel": "电筛洗机",
+    "block.modern_industrialization.bronze_alluvial_trommel": "安山合金冲积滚筒筛",
+    "block.modern_industrialization.steel_alluvial_trommel": "钢冲积滚筒筛",
+    "block.modern_industrialization.electric_alluvial_trommel": "电动冲积滚筒筛",
+    "rei_categories.modern_industrialization.bronze_alluvial_trommel": "冲积滚筒筛",
+    "rei_categories.modern_industrialization.steel_alluvial_trommel": "钢冲积滚筒筛",
+    "rei_categories.modern_industrialization.electric_alluvial_trommel": "电动冲积滚筒筛",
 
     "item.modern_industrialization.copper_cable": "铜电缆（低压）",
     "block.modern_industrialization.copper_coil": "铜线圈",
 
-    "block.modern_industrialization.fire_clay_brick_fluid_input_hatch": "耐火黏土流体输入仓",
-    "block.modern_industrialization.fire_clay_brick_fluid_output_hatch": "耐火黏土流体输出仓",
-    "block.modern_industrialization.fire_clay_brick_item_input_hatch": "耐火黏土物品输入仓",
-    "block.modern_industrialization.fire_clay_brick_item_output_hatch": "耐火黏土物品输出仓",
+    "block.modern_industrialization.fire_clay_brick_fluid_input_hatch": "耐火黏土砖流体输入仓",
+    "block.modern_industrialization.fire_clay_brick_fluid_output_hatch": "耐火黏土砖流体输出仓",
+    "block.modern_industrialization.fire_clay_brick_item_input_hatch": "耐火黏土砖物品输入仓",
+    "block.modern_industrialization.fire_clay_brick_item_output_hatch": "耐火黏土砖物品输出仓",
 
     "block.modern_industrialization.vibrant_coil": "振动线圈",
     "item.modern_industrialization.vibrant_cable": "振动电缆（超高压）",
@@ -32,21 +32,21 @@
     "block.modern_industrialization.energetic_coil": "充能线圈",
     "item.modern_industrialization.energetic_cable": "充能电缆（高压）",
 
-    "block.modern_industrialization.conductive_coil": "超导线圈",
-    "item.modern_industrialization.conductive_cable": "超导电缆（中压）",
+    "block.modern_industrialization.conductive_coil": "导电线圈",
+    "item.modern_industrialization.conductive_cable": "导电电缆（中压）",
 
-    "block.modern_industrialization.steam_kiln": "蒸汽窑炉",
-    "block.modern_industrialization.electric_kiln": "电窑炉",
-    "rei_categories.modern_industrialization.steam_kiln": "蒸汽窑炉",
-    "rei_categories.modern_industrialization.electric_kiln": "电窑炉",
+    "block.modern_industrialization.steam_kiln": "蒸汽窑",
+    "block.modern_industrialization.electric_kiln": "电动窑",
+    "rei_categories.modern_industrialization.steam_kiln": "蒸汽窑",
+    "rei_categories.modern_industrialization.electric_kiln": "电动窑",
 
     "block.modern_industrialization.industrial_cauldron": "工业炼药锅",
     "rei_categories.modern_industrialization.industrial_cauldron": "工业炼药锅",
 
     "block.modern_industrialization.steam_alembic": "蒸汽蒸馏器",
-    "block.modern_industrialization.electric_alembic": "电蒸馏器",
+    "block.modern_industrialization.electric_alembic": "电动蒸馏器",
     "rei_categories.modern_industrialization.steam_alembic": "蒸汽蒸馏器",
-    "rei_categories.modern_industrialization.electric_alembic": "电蒸馏器",
+    "rei_categories.modern_industrialization.electric_alembic": "电动蒸馏器",
 
     "item.modern_industrialization.iridium_large_plate": "大型铱板",
 
@@ -54,12 +54,12 @@
     "item.modern_industrialization.andesite_alloy_plate": "安山合金板",
     "item.modern_industrialization.andesite_alloy_large_plate": "大型安山合金板",
 
-    "item.modern_industrialization.sky_large_plate": "大型苍穹板",
-    "item.modern_industrialization.sky_plate": "苍穹板",
-    "item.modern_industrialization.sky_blade": "苍穹叶片",
-    "item.modern_industrialization.sky_rotor": "苍穹转子",
-    "block.modern_industrialization.sky_machine_casing": "苍穹机器外壳",
-    "block.modern_industrialization.sky_machine_casing_pipe": "苍穹管道机器外壳",
+    "item.modern_industrialization.sky_large_plate": "大型天空板",
+    "item.modern_industrialization.sky_plate": "天空板",
+    "item.modern_industrialization.sky_blade": "天空叶片",
+    "item.modern_industrialization.sky_rotor": "天空转子",
+    "block.modern_industrialization.sky_machine_casing": "天空机器外壳",
+    "block.modern_industrialization.sky_machine_casing_pipe": "天空管道机器外壳",
 
     "block.modern_industrialization.bronze_tank": "安山合金储罐",
     "block.modern_industrialization.bronze_barrel": "安山合金桶",
@@ -69,7 +69,7 @@
     "block.modern_industrialization.bronze_macerator": "安山合金研磨机",
     "block.modern_industrialization.bronze_compressor": "安山合金压缩机",
 
-    "block.modern_industrialization.bronze_plated_bricks": "安山合金砖块",
+    "block.modern_industrialization.bronze_plated_bricks": "镀安山合金砖块",
     "block.modern_industrialization.bronze_machine_casing": "安山合金机器外壳",
     "block.modern_industrialization.bronze_machine_casing_pipe": "安山合金管道机器外壳",
 
@@ -79,10 +79,10 @@
     "block.modern_industrialization.bronze_item_input_hatch": "安山合金物品输入仓",
     "block.modern_industrialization.bronze_item_output_hatch": "安山合金物品输出仓",
 
-    "item.modern_industrialization.diesel_jetpack": "涡轮喷气背包",
-    "advancements.modern_industrialization.diesel_jetpack.description": "合成一个涡轮喷气背包",
+    "item.modern_industrialization.diesel_jetpack": "涡轮增压喷气背包",
+    "advancements.modern_industrialization.diesel_jetpack.description": "制作涡轮增压喷气背包",
 
-    "advancements.modern_industrialization.plasma_turbine.description": "搭建一台等离子涡轮机，将光以太转化为能量",
+    "advancements.modern_industrialization.plasma_turbine.description": "制作等离子涡轮机以将光以太转化为能量",
     "block.modern_industrialization.helium_plasma": "光以太",
     "item.modern_industrialization.helium_plasma_bucket": "光以太桶",
 
