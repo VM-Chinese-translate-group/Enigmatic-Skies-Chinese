@@ -2123,9 +2123,9 @@
 		""
 		"To earn a &7Token&r of its trust, grow any sapling nearby."
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.4421EB35235888DF.quest_desc: ["欢迎来到自然灵气！"]
 	quest.4421EB35235888DF.title: "自然灵气"
@@ -2214,7 +2214,7 @@
 		""
 		"Crafting may seem rather slow, however it can be greatly sped up by placing up to four &7Runewood Obelisks&r nearby. The passive animals you've been keeping should provide the necessary &7Spirits&r."
 		""
-		"                       &n&6A Note on Automation&r"
+		"                       &n&6关于自动化的说明&r"
 		""
 		"Items may be inserted by hand or by any form of item logistics. Some form of pipe with a filter is recommended, though not required."
 		""
@@ -2384,11 +2384,11 @@
 	quest.4ACD723FC7EB7CD6.quest_desc: ["这个地方很难点着火，大部分明火会立即熄灭，或者根本打不着。"]
 	quest.4ACD723FC7EB7CD6.title: "火"
 	quest.4B2DF8F028C3CFA0.quest_desc: [
-		"Animate a &7Guardian&r and gather some &7Organic Matter&r from it."
+		"活化一个&7守卫者&r，然后从它身上采集一些&7有机物质&r。"
 		""
 		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		""
+		""
 	]
 	quest.4C46DBD26BE50BCD.quest_desc: [
 		"&7灵气场生成器&r使用方法：将其成对放置，可破坏两者之间的所有方块。"
@@ -2508,9 +2508,9 @@
 		"一只&7蚯蚓&r可以维持一片3x3的耕地。"
 	]
 	quest.520241157010066D.quest_desc: [
-		"Animate a &7Wilden Stalker&r and harvest it for parts."
+		"活化一个&7荒野伏击者&r，然后收集它的身体部件。"
 		""
-		"&7Wilden Wings&r may only be obtained through &7Soul Shattering&r. "
+		"&7荒野膜翼&r只能通过&7碎魂&r能力获得。"
 		""
 		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -2605,7 +2605,7 @@
 		"与此同时，&7流体收集器&r和&7放置器&r都需要在栏位中放置容器，这样便可手动输入/输出流体。当然，它们也可以使用管道进行流体输入输出。"
 	]
 	quest.574555F24035E48A.title: "初级放置和收集器"
-	quest.577337FFD6AD9C83.quest_desc: ["[ \"Check out the \", { \"text\": \"Replication Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on using these machines to produce items. \" ]"]
+	quest.577337FFD6AD9C83.quest_desc: ["[ \"在\", { \"text\": \"Replication章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"查阅更多有关使用这些机器生产物品的信息\" ]"]
 	quest.577337FFD6AD9C83.title: "Replication"
 	quest.579B2C5CB83022ED.quest_desc: [
 		"The &7Manipulation Infused Turret&r combines the benefits of a &7Focus of Block Shaping&r with an &7Enchanted Turret&r, meaning it can not only cast all the examples from the previous quest, but it gets an enormous mana discount in doing so. "
@@ -2758,12 +2758,12 @@
 		"You’ll also notice several &7Swamp Homis&r dotted around under the &7Spore Blossoms&r. These handy little devices will convert nearby &7Moss&r back to &7Mud&r, releasing some Aura into the environment in the process. "
 	]
 	quest.5D50FB987FCA7BB5.quest_desc: [
-		"The &7Vexing Archwoods&r on this island will already have a few &7Bastion Fruit&r grown on them. "
+		"这座空岛上生长的&7恼人至高树&r上已经结出了一些&7堡垒果&r。"
 		""
 		"Gather a few and consider setting up a farm when you can; they grow when placed on a &7Vexing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. "
 		""
-		"&a🛈 Tip: Harvest Rituals can be an easy "
-		"&a    way to farm these fruit!"
+		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
+		""
 	]
 	quest.5D74493BC797D6F0.quest_desc: [
 		"Only the most evil and malicious of creatures have &7Wicked Spirits&r within them to harvest. "
@@ -3157,9 +3157,9 @@
 	quest.6660BE0C308A1744.quest_desc: [
 		"Summon a &7Goat &rat the Altar of Birthing and gather some &7Organic Matter&r from it."
 		""
-		"&6⚠ Note: The Spawn Egg is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.6660BE0C308A1744.title: "山羊"
 	quest.66C2FBA12D91F642.quest_desc: [
@@ -3198,9 +3198,9 @@
 		"&6    a Capacitor to function."
 	]
 	quest.6728201CEC8220A3.quest_desc: [
-		"If, for whatever reason, your Pentacle becomes damaged, worry not. All the materials to recreate it are easily accessible at this point. "
+		"无论何种原因导致五角星阵损坏，都不必担心。当前阶段下，重新完成阵法所需的所有材料都很容易再次获取。"
 		""
-		"Refer to EMI for recipes, as usual. For the &7Strange Crystals&r, they'll form randomly when using &7Bone Meal&r on &7Blighted Earth&r.  "
+		"通常可以在EMI上查到物品的配方。以&7怪异晶体&r为例，在&7腐枯土&r上使用&7骨粉&r后，可以随机生成一些怪异晶体。"
 		""
 		"Click the &6👁&r next to each ritual recipe in EMI to preview the pentacle in world. This will show where each block must be placed. They all use the same pentacle. "
 		""
@@ -3210,7 +3210,7 @@
 		""
 		"                 &6&nA Note on Automation&r&r"
 		""
-		"Occultism’s pentacles have gotten easier to automate than ever, so if you’re only familiar with older versions, read on. "
+		"当前版本中，神秘学的五芒星阵自动化更容易实现了，如果你只玩过旧版模组的话，请看下面的介绍。"
 		""
 		"You may use any pipe or hopper to put items into each &7bowl&r, including the central &7chalice&r. "
 		""
@@ -3261,13 +3261,13 @@
 		"&6    a Capacitor to function."
 	]
 	quest.68C212D2C7F8B308.quest_desc: [
-		"Animate a &7Wilden Defender&r and harvest it for parts."
+		"活化一个&7荒野守卫者&r，然后收集它的身体部件。"
 		""
-		"&7Wilden Spikes&r may only be obtained through &7Soul Shattering&r. "
+		"&7荒野尖刺&r只能通过&7碎魂&r能力获得。"
 		""
 		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		""
+		""
 	]
 	quest.69295042E8C3A609.quest_desc: [
 		"Source Relays are used for transporting Source from place to place. This way you can have a centralized Source generation area that feeds multiple devices or Spell Turrets around your home."
@@ -3296,11 +3296,11 @@
 	]
 	quest.699B01CFAEE29827.quest_desc: ["An excellent way to cool &7Plastic&r or simply make &7Ice&r. "]
 	quest.69EE67B1B612D74D.quest_desc: [
-		"Climb to the top of the island and approach the &7Soulwood Tree&r located there. "
+		"爬到空岛的顶端，那里长着一棵&7灵魂树&r。"
 		""
-		"You’ll find several &7Exposed Soulwood Logs&r which can be stripped with an &7Axe&r. "
+		"你可以在树上找到一些&7富脂灵魂原木&r，这些原木可以用&7斧&r去皮。"
 		""
-		"Right Click the &7Revealed Soulwood Log&r with a &7Glass Bottle&r to obtain some &7Cursed Sap&r."
+		"在你完成去皮后，手持&7玻璃瓶&r对&7去皮富脂灵魂原木&r右击以获得一些&7诅咒树脂&r。"
 		""
 		"A few of these &7Exposed Logs&r will spawn in every new &7Soulwood Tree&r you grow, allowing you to obtain more as needed."
 	]
@@ -3400,7 +3400,7 @@
 		"Simply Sneak + Right Click on a machine to apply stacking boosts up to 256x speed.   "
 	]
 	quest.6CA8BA78F5B8FB6A.quest_desc: [
-		"活化一个&7荒野猎手群&r，然后收集它的身体部件。"
+		"活化一个&7荒野猎手&r，然后收集它的身体部件。"
 		""
 		"&7荒野号角&r只能通过&7碎魂&r能力获得。"
 		""
@@ -4220,7 +4220,7 @@
 	task.264F4FA6B354C01A.title: "Observation: &2Wixie's Enchanting Apparatus&r"
 	task.2900F7E8CBB5DD74.title: "魔源存储"
 	task.2914EFBE380196D0.title: "致密线缆"
-	task.2A7052B5A35B4A22.title: "Occultism Pentacle"
+	task.2A7052B5A35B4A22.title: "神秘学五芒星阵"
 	task.2B3416E3F3663598.title: "方块转化"
 	task.2BEFCB331D1564CF.title: "Any Basic Sophisticated Storage Chest or Barrel"
 	task.2D263309A4FF7233.title: "Energy Upgrades"
