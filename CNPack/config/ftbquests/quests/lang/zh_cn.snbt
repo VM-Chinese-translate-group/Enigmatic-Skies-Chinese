@@ -110,7 +110,7 @@
 		"  speed boost in the direction you’re "
 		"  looking"
 		""
-		"&c⚠ Warning: Not for Indoor Use."
+		"&c⚠ 警告：请勿在室内使用。"
 	]
 	quest.04CE3E8B1DF8B441.quest_desc: ["The following are various forms of fluid transfer options available in Enigmatica 10."]
 	quest.04CE3E8B1DF8B441.title: "流体"
@@ -159,7 +159,7 @@
 		"&a   区域更方便。"
 	]
 	quest.0554264AE11578D2.quest_desc: [
-		"The &7Pressure Chamber&r is a multiblock crafting interface that uses compressed air to operate. Items are passed in and extracted from the &7Interfaces&r while Air is provided through the &7Valve&r. "
+		"&7压力室&r是一个来自气动工艺的多方块机器，使用压缩空气进行操作。物品通过机器的&7界面&r输入或提取，气体则通过&7阀门&r进入。"
 		""
 		"The interfaces will be slow at first, but some &7Speed Upgrades&r will really help out."
 		"&n                                       &r"
@@ -307,7 +307,7 @@
 	quest.0B05FA716D7335D2.quest_desc: ["&7初级投物器&r是一款很出色的工具，它可以自动化一些世界交互的配方。"]
 	quest.0B17FF64DFA4BA90.quest_desc: ["Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!"]
 	quest.0BB6D2595F99ADB4.quest_desc: [
-		"Now that we can animate blocks and start collecting more varied Spirits, it’s time to delve into genetic manipulation."
+		"既然我们可以活化方块并收集更多种类的精魂，那么是时候深入研究基因改造技术了。"
 		""
 		"制作一柄&7刮刀&r，并用它右击生物，以此收集生物们的&7有机物质&r。"
 		""
@@ -575,7 +575,7 @@
 	quest.13F15094F3AF4A73.quest_desc: [
 		"                      &6&n生物群系：蘑菇岛&r&r"
 		""
-		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
 		""
 		"  • &7泥土&r                      &2⟶&r           &7腐枯土&r"
 		"  • &7草方块&r                    &2⟶&r           &7腐枯土&r"
@@ -1003,11 +1003,11 @@
 	]
 	quest.1E0B03155C2CAEE7.title: "精魂聚焦"
 	quest.1E514F5A18364625.quest_desc: [
-		"Finally, craft yourself a &7Whirlisprig Charm&r. These items may be Right-Clicked on any flower to make a home for your new friend."
+		"最后，合成一枚&7风转草护符&r，用它右击任意花朵，为你的新朋友打造一个小屋。"
 		""
-		"The &7Whirlisprig&r will manage the plants in a large area, gently harvesting small quantities of everything in its home area and depositing them in an inventory &nadjacent&r to its &7Blossom&r."
+		"&7风转草&r可以管理大范围的植物，温和地从它的家园区域里采集少量的任意植物，然后存放在&7与它的小花房相邻的&r容器中。"
 		""
-		"Source is required and will be taken from a nearby &7Source Jar&r."
+		"这一过程需要魔源，由附近的&7魔源罐&r提供。"
 	]
 	quest.1FDA97FE562A2C4D.quest_desc: [
 		"Addons can be installed in most Industrial Foregoing machines to speed them up and make them run more efficiently. "
@@ -1663,9 +1663,9 @@
 		""
 		"Once you've animated your slimes, be sure to slay them with a &7Scythe&r or other &7Soul Shattering Weapon&r to properly harvest their &7Spirits&r."
 		""
-		"&6⚠ Note: It is sufficient to harm the mob with "
-		"&6    a &oSoul Shattering Weapon&r &6or &oGlyph of Soul&r "
-		"&6    &oShatter&r&6; the killing blow can come from "
+		"&6⚠ 注意：你可以只使用&6&o碎魂武器&r&6或&oGlyph of Soul&r对生物造成伤害，然后用其他武器补刀，这样更省资源。"
+		""
+		""
 		"&6    another weapon."
 		""
 		"&a🛈 提示：附魔了精魂劫掠的武器可以获取更多精魂！"
