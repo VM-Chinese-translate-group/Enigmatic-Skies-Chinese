@@ -81,11 +81,6 @@
 		""
 	]
 	quest.03D475AF2266ECB6.title: "村民"
-	quest.03DFAA759B4E653E.quest_desc: [
-		"The Tablet of Awakening can infuse inanimate objects with Source, bringing them to some semblance of life. "
-		""
-		"There are several uses for this, but when it comes to making Charms, there are two that are our focus; Amethyst Golems and Bookwyrms. The creation of both of these is detailed in the Tablet’s tooltip."
-	]
 	quest.0458B6BC887C9725.quest_desc: [
 		"使用降生祭坛召唤一只&7狼&r，然后从它身上采集一些&7有机物质&r。"
 		""
@@ -1020,12 +1015,6 @@
 		""
 		"这就可以用来为大型建筑项目提供材料，以及一些其他用途。"
 	]
-	quest.20C038E5D70CDB52.quest_desc: [
-		"The Wixie Cauldron allows a Wixie to craft either Potions or 3x3 Crafting recipes using Source."
-		""
-		"She’ll automatically pull items from a linked storage to do her crafting and can be instructed what to craft by placing the items on an adjacent Arcane Pedestal. "
-	]
-	quest.20C038E5D70CDB52.title: "Wixie Cauldron"
 	quest.2150EE8D0B1474CE.quest_desc: [
 		"The Logistics section covers items from mods that help automate moving things around."
 		""
@@ -2957,14 +2946,6 @@
 		"&6Starbuilder&r"
 		"  • Allows the Starbuncle to place blocks at a location"
 	]
-	quest.6242CD0203DCBDC7.quest_desc: [
-		"The Wixie Enchanting Apparatus allows a Wixie to craft any Enchanting Apparatus recipes using Source."
-		""
-		"She’ll automatically pull items from a linked storage to do her crafting and can be instructed what to craft by placing the items on an adjacent Arcane Pedestal. "
-		""
-		"Unlike a normal Enchanting Apparatus, the Arcane Pedestals are only used to specify a recipe. She does not need them for ingredients."
-	]
-	quest.6242CD0203DCBDC7.title: "Wixie Enchanting Apparatus"
 	quest.625AE1AEF37DAE03.quest_desc: [
 		"One of several options for automated farming. It has its quirks, but it’ll do for now. "
 		""
@@ -4208,6 +4189,7 @@
 	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
 	task.1E437E1BEE76E5FF.title: "终端"
 	task.1E4E5D2B9B36005C.title: "Brilliant Blocks"
+	task.1FBFB31F5657696B.title: "能量"
 	task.20B6CC540E82D042.title: "基座"
 	task.210DF794EE1D714A.title: "Observation: &2Wixie's Stonecutter&r"
 	task.2249B1CA280D4531.title: "谜之天空"
@@ -4262,7 +4244,6 @@
 	task.4FE55FEB08DFF115.title: "建筑棒"
 	task.51C59228A0E0612E.title: "Items"
 	task.5243C7DE02D7AA20.title: "Armor Insulation"
-	task.5314260DF92C1856.title: "Observe a Wixie's Cauldron"
 	task.547A92B162CC0314.title: "流体输入仓"
 	task.54F9AD36E2BEBF47.title: "Neptunium Tools and Armor"
 	task.5726FC2C852F6F2B.title: "充能器"
@@ -4275,7 +4256,6 @@
 	task.5887027FAE29F371.title: "Addon: Processing"
 	task.591E8D139882293D.title: "物流框架"
 	task.5A4465B1F1B8673A.title: "Any Machine Addons"
-	task.5ABB5D7B054177D0.title: "能量"
 	task.5CE5C1A8B02B037B.title: "线缆伪装板"
 	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
@@ -4299,7 +4279,6 @@
 	task.75050C1ED68FA527.title: "建筑小帮手"
 	task.7559C9E4BA735703.title: "Observation: &2Wixie's Cutting Board&r"
 	task.75F35EC4088EBA42.title: "机械动力处理"
-	task.7618EFB44BB18F63.title: "Observe a Wixie's Enchanting Apparatus"
 	task.76E02A5A8A664728.title: "流体输入仓"
 	task.7858961CD00D205B.title: "流体输出仓"
 	task.79CE5559C7D6E3EB.title: "恼人空岛"
