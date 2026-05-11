@@ -10,7 +10,7 @@
 	chapter.300207E2557764E1.title: "闪耀空岛"
 	chapter.402AE6264B81A84B.title: "物流"
 	chapter.40C97D6332BD825B.title: "奔流空岛"
-	chapter.47870879D8E3742D.title: "飞向天空！"
+	chapter.47870879D8E3742D.title: "飞向天际！"
 	chapter.4C53D082D6306BF8.title: "Just Dire Things"
 	chapter.5957A1DE2E537AC3.title: "气动工艺"
 	chapter.5C2F675CD8139E11.title: "Ars Nouveau"
@@ -326,7 +326,7 @@
 		"Unfortunately, we’ll need a slightly more controlled environment to ensure the quality of the &7Plastic&r."
 	]
 	quest.0C32904CD01E4743.quest_desc: [
-		"Animate a Zephyr and harvest it for parts."
+		"活化一个西风啸云，然后收集它的身体部件。"
 		""
 		"&6⚠ Note: The Ritual Item is not required. "
 		"&6    It's simply here as a courtesy for "
@@ -450,9 +450,9 @@
 		"To use them, the &7Router&r must also have an &7Energy Upgrade&r installed, which determines the type of energy the &7Router&r will send. This is fully compatible with both FE and EU."
 	]
 	quest.0E1F3FCCA1A9E405.quest_desc: [
-		"These simple Platforms consist of little more than grass and clouds. "
+		"这些简单的平台仅由草地和云朵构成。"
 		""
-		"They can be used to help you expand your base if you wish!"
+		"如果想要扩建基地，就用它们来帮你！"
 	]
 	quest.0F63D034A018A4FC.quest_desc: ["Placing a &7Sewer&r beneath your animals will allow you to collect &7Sewage&r which can be used to obtain more &7Water&r and eventually converted into &7Oil&r!"]
 	quest.105CABB7D9705359.quest_desc: [
@@ -689,18 +689,18 @@
 		""
 	]
 	quest.161CA05D18639AD4.quest_desc: [
-		"This workstation allows the &7Wixie&r to craft &7Farmer's Delight Cutting&r recipes. "
+		"该工作站允许&7薇克精&r使用&7农夫乐事切削&r配方。"
 		""
-		"It will only produce the primary output of the craft, however. For example, &7Rice&r will &nnot&r produce &7Straw&r when processed this way. "
+		"不过，它只会生产配方的主产物。例如，以此方式生产&7稻米&r时&n不会&r产出&7草杆&r。"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Cutting Board&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7砧板&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.161CA05D18639AD4.title: "Wixie Cutting"
+	quest.161CA05D18639AD4.title: "薇克精切削"
 	quest.16BFB19411FE195F.quest_desc: [
 		"LaserIO is a catch all logistics mod capable of many things. "
 		""
@@ -749,18 +749,18 @@
 		"&a    way to farm these fruit!"
 	]
 	quest.1A2B5BCA37161B1A.quest_desc: [
-		"This workstation allows the &7Wixie&r to craft &7Enchanting Apparatus&r recipes. "
+		"该工作站允许&7薇克精&r使用&7附魔装置&r配方。"
 		""
-		"This can be particularly helpful for repeat crafts as the &7Wixie&r will process ingredients more quickly than the standard &7Enchanting Apparatus&r."
+		"对于重复制作来说尤其有用，因为&7薇克精&r处理材料的速度比普通&7附魔装置&r更快。"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Enchanting Apparatus&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7附魔装置&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.1A2B5BCA37161B1A.title: "Wixie Enchanting"
+	quest.1A2B5BCA37161B1A.title: "薇克精附魔"
 	quest.1AB4455F15DF1F84.quest_desc: [
 		"&7自然祭坛&r是最常用的灵气设备。"
 		""
@@ -1044,25 +1044,25 @@
 		"Each one will only transfer a single fluid type at a time."
 	]
 	quest.22344008D43D4710.quest_desc: [
-		"Villagers are the soul source of many critical ingredients and their hunger knows no bounds. You’re going to need some help keeping them fed!"
+		"村民是许多关键原料的来源，而且他们胃口大得吓人。你需要一些帮手来喂养它们！"
 		""
-		"The &7Wixie&r represents a very simple means of automating various kitchen appliances, among other things. "
+		"&7薇克精&r提供了一种非常简单的自动化方式，用于操作各种厨房用具等等。"
 		""
-		"                            &6&nCare and Use&r&r"
+		"                            &6&n注意事项与使用方法&r&r"
 		""
-		"In order to get your &7Wixie&r working, you'll need to set up their area appropriately. "
+		"为了让你的&7薇克精&r正常工作，你需要合理设置它们的区域。"
 		""
-		"First, place their workstation. For general crafting, this will be a &7Cauldron&r. Right-Click the workstation with the &7Wixie Charm&r to summon them."
+		"首先，放置他们的工作站。通常用于合成的工作站是&7炼药锅&r。手持&7薇克精护符&r右击工作站即可召唤他们。"
 		""
-		"Next, you'll need to tell them what to craft. This is done by placing &7Arcane Pedestals&r directly adjacent to the workstation and then placing the desired output in the pedestal. "
+		"接下来，你需要告诉他们要合成什么。这可以通过将&7奥术基座&r直接放置在工作站旁，然后在基座上放入所需成品来实现。"
 		""
-		"A single Wixie can support multiple crafts by using multiple &7Pedestals&r. Powering a &7Pedestal&r with Redstone will disable that one craft from their list, thus allowing you to stop crafting when you reach a desired amount."
+		"单个薇克精可以通过使用多个&7基座&r来支持多个合成。用红石激活&7基座&r会禁用该基座对应的合成，从而让你在达到所需数量时停止合成。"
 		""
-		"Naturally, they'll also need ingredients. Place one or more inventories nearby and use your &7Dominion Wand&r to bind them to the workstation; while holding the &7Wand&r, Sneak Right-Click the inventory then Right-Click the workstation. "
+		"当然，他们还需要合成材料。在附近放置一个或多个容器，使用&7支配之杖&r将其绑定到工作站；手持&7支配之杖&r时，先潜行右击容器，再右击工作站。"
 		""
-		"Lastly, and most importantly, Wixies need Source. Place a &7Source Jar&r nearby, fill the inventory with ingredients, and enjoy. "
+		"最后也是最重要的，薇克精需要魔源。在附近放置一个&7魔源罐&r，填满它，然后尽情享受吧。"
 	]
-	quest.22344008D43D4710.title: "Chef's Aid"
+	quest.22344008D43D4710.title: "厨师帮手"
 	quest.223BE2F1F8A5C87C.quest_desc: [
 		"&7复制终端&r可以从&7存储芯片&r上的样板请求合成。"
 		""
@@ -1234,22 +1234,22 @@
 		"Similarly, items can be pulled out of the system from the &7Interface&r, meaning this can be paired nicely with AE2 or an Ars Nouveau Storage Lectern."
 	]
 	quest.294B023DD4F19FE3.quest_desc: [
-		"Your &7Goat Fur Suit&r should keep you warm enough while stepping out into the cold. But it won’t offer much else. "
+		"你的&7毛皮套装&r足以在出门时保暖，但它无法提供更多防护。"
 		""
-		"If you’d like to wear other armor pieces, you can insulate them at a &7Sewing Table&r."
+		"如果要穿戴其他盔甲的话，可以用&7缝纫台&r为其缝入隔温层。 "
 		""
-		"Insulation can always be removed by placing &7Shears&r in the bottom slot. This does not damage the insulation or the armor."
-		"                           &6&nInsulation Types&r"
+		"将&7剪刀&r放入底部槽位即可移除隔温层，该操作不会损坏隔温层和盔甲。"
+		"                           &6&n隔温层类型&r"
 		""
-		"    • &9Cold&r - Effective against &9Cold&r  "
-		"    • &6Heat&r - Effective against &cHeat&r "
-		"    • &dNeutral&r - Effective against &cHeat&r &oand&r &9Cold&r "
-		"        It is 50% as effective as dedicated insulation"
-		"    • &aAdaptive&r - Effective against either &cHeat&r &oor&r &9Cold&r "
-		"        It is 75% as effective as dedicated insulation"
-		"        and takes time to adapt to change "
+		"    • &9隔冷&r - 有效抵御&9寒冷&r  "
+		"    • &6隔热&r - 有效抵御&c高温&r"
+		"    • &d中性&r - 有效抵御&c高温&r&o和&r&9寒冷&r"
+		"        效果是专用隔温层的50%"
+		"    • &a自适应&r - 对&c高温&r&o和&r&9寒冷&r都很有效 "
+		"        效果是专用隔温层的75%"
+		"        且可以随时间自适应隔温"
 		""
-		"&a🛈 Tip: Search \"Insulate\" in EMI to find suitable items."
+		"&a🛈 提示：在EMI中搜索\"Insulate\"查阅合适的隔温材料。"
 	]
 	quest.2961B707783AC925.quest_desc: [
 		"一旦你开始从事能量生产，你会很乐意将&7凝胶&r升级到这个等级。"
@@ -1354,16 +1354,16 @@
 	]
 	quest.2F1EA0B091C700E1.title: "渔夫"
 	quest.2F9C801DFAC1C0D9.quest_desc: [
-		"Librarians will sell you everything you need to set up your own &7Storage Lectern&r to organize all of your goods. "
+		"&7存储讲台&r能够用来整理你的所有家当，设置&7存储讲台&r需要的所有物品都可以在图书管理员处购买。"
 		""
-		"The Codices they sell are also the &n&7only&r&r way to access new glyphs. "
+		"还有，他们出售的符典是获取新魔符的&n&7唯一&r&r途径。"
 		""
-		"Each Codex will teach you a &n&7single random glyph&r&r that that isn't already known by you."
+		"每个符典都会教给你一个你尚未掌握的&n&7随机魔符&r&r。"
 		""
-		"&a🛈 Tip: Learning Glyphs increases your "
-		"&a    mana, allowing you to cast more!"
+		"&a🛈 提示：学习魔符可以提升你的魔力，让你施放更多法术！"
+		""
 	]
-	quest.2F9C801DFAC1C0D9.title: "Storage Lectern"
+	quest.2F9C801DFAC1C0D9.title: "存储讲台"
 	quest.304838EDEC32DE97.quest_desc: [
 		"感谢游玩&n&6Enigmatic Skies&r！再次祝愿你在这里玩得愉快！"
 		""
@@ -1465,12 +1465,12 @@
 	quest.31CAA3BC20CCDF25.title: "Biome Conversion"
 	quest.31FAEA42AC32BD3E.quest_desc: ["这个充能站有超大的能量缓存，可以快速给物品充能。"]
 	quest.32305BE195F77F2F.quest_desc: [
-		"Before heading out, you’ll need to start producing some Source as well; each of the following rituals will need a full &7Source Jar&r to activate."
+		"出发前，你还需要生产一些魔源。以下所有仪式都需要一个满的&7魔源罐&r才能启动。"
 		""
-		"Purchase a &7Mycelial Sourcelink&r from &7Farmer Villager&r and use it to turn excess food directly into delectable Source. "
+		"从&7农民村民&r处购买一个&7菌丝魔源通道&r，用它把多余的食物直接转化成美味的魔源。"
 		""
-		"&a🛈 Tip: Place your food into an  "
-		"&a    adjacent Arcane Pedestal!"
+		"&a🛈 提示：将食物放在紧邻菌丝魔源通道的奥术基座上！"
+		""
 	]
 	quest.323D480E3C37579E.quest_desc: [
 		"The &7Cascading Archwoods&r on this island will already have a few &7Frostaya&r grown on them. "
@@ -1597,11 +1597,11 @@
 	]
 	quest.36A482587B5E89F7.quest_subtitle: "Dorodango Unchained"
 	quest.36BCEB3B27822AD1.quest_desc: [
-		"These curious gems seem barely capable of holding their own form. "
+		"这些奇异的宝石看上去几乎不能稳定地保持自身的形状。"
 		""
-		"When paired with certain other items, they'll immediately assume the new form and stabilize. "
+		"与特定的其他物品组合时，这种宝石能立刻呈现出新的形态，并且稳定下来。"
 		""
-		"Most device upgrades can be duplicated in this way."
+		"大多数机器升级可以使用这种方式复制。"
 	]
 	quest.3753A3EB1909F923.quest_desc: [
 		"Made from &7Salt&r, &7Briny Dorodangos&r may be processed down into new materials!"
@@ -1613,13 +1613,13 @@
 		"  • &7Neptunium Nuggets&r"
 	]
 	quest.37AA9E6270DB015A.quest_desc: [
-		"This is a multiblock structure comprised of a central &7Empowerer&r and four &7Display Stands&r. "
+		"这是一个多方块结构，由放置在中心位置的&7充能台&r和周围四个&7物品展示台&r组成。"
 		""
 		"每个&7物品展示台&r都需要放在&7充能台&r四个方向上距离三格方块远的地方。"
 		""
-		"When crafting, the central item in the recipe goes on the &7Empowerer&r while the other four items are placed in any order on the surrounding &7Display Stands&r. "
+		"要开始合成，配方中间的物品需要放在&7充能台&r上，其他物品可按任何顺序放在周围的&7物品展示台&r上。"
 		""
-		"Energy must be provided to each of the four &7Display Stands&r. "
+		"需要向所有四个&7物品展示台&r提供能量。"
 	]
 	quest.37C965C1FA40221E.quest_desc: [
 		"&7Spell Turrets&r can be an incredibly powerful automation tool for casting prepared spells. "
@@ -1683,16 +1683,16 @@
 	]
 	quest.3954AC8D791145CE.quest_desc: ["Wandering Trader keeps ding-dong-ditching your house? Let this say hello instead!"]
 	quest.39716C901B98BAF2.quest_desc: [
-		"This workstation allows the &7Wixie&r to craft &7Stonecutter&r recipes. "
+		"该工作站允许&7薇克精&r使用&7切石机&r配方。"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Stonecutter&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7切石机&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.39716C901B98BAF2.title: "Wixie Stonecutting"
+	quest.39716C901B98BAF2.title: "薇克精切石"
 	quest.398AE848C969FCEF.quest_desc: [
 		"An enigmatic material that looks solid enough but feels as light as air. "
 		""
@@ -1842,16 +1842,16 @@
 	]
 	quest.3CA4472228D0F866.title: "ME网络"
 	quest.3CBA1384BD3D28ED.quest_desc: [
-		"This workstation allows the &7Wixie&r to craft &7Furnace&r recipes. "
+		"该工作站允许&7薇克精&r使用&7熔炉&r配方。"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Furnace&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7熔炉&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.3CBA1384BD3D28ED.title: "Wixie Smelting"
+	quest.3CBA1384BD3D28ED.title: "薇克精烧炼"
 	quest.3CC1C6949E17A1B9.quest_desc: [
 		"Simple and reliable, the &7Liquid Compressor&r is suitable for running basic PneumaticCraft machines up to &75 bar&r. "
 		"&n                                       &r"
@@ -2249,9 +2249,9 @@
 		"Be sure to check out the Worn Notebook for more information on this system!"
 	]
 	quest.46DDBE0A9170F54A.quest_desc: [
-		"Forging &7Steel&r in &7Blaze Ember&r has certain… advantages over traditional practices. "
+		"使用&7烈焰烬质&r铸造的&7钢材&r与使用传统方式铸造出的相比，应该……有些优势。"
 		""
-		"Not only is it strong and durable, but it is uniquely porous when it comes to &7Spirits&r; as if it has a thirst for souls that can never be quenched. "
+		"这种钢材不仅坚固耐用，而且在与&7精魂&r接触时有特别的渗透性；仿佛它对灵魂有着深不见底的渴求一般。"
 	]
 	quest.46F17885C957FD5C.quest_desc: [
 		"Potions of &7Fire Resistance&r and &7Ice Resistance&r won’t affect your body temperature, but they will prevent any negative effects associated with being too &9cold&r or &chot&r, making them ideal for prolonged jaunts outside of the area of your &7Hearth&r."
@@ -2913,9 +2913,9 @@
 		"&a    Delicate Touch will cause no harm."
 	]
 	quest.623B5F0C0464F907.quest_desc: [
-		"While it is true that a scurry of &7Starbuncles&r all share a single over-worked brain cell, they can be immensely helpful, nonetheless. "
+		"虽然“一群&7星宝石兽&r共享一个过度工作的脑细胞”的传言确实是真的，但它们依然能带来巨大的帮助。"
 		""
-		"Naturally, each one can only manage a single task at a time, but they can be instructed to do several different jobs depending on the hat you give them. "
+		"一般来说，每只星宝石兽一次只能专注于一项任务，但你可以通过给予它们不同的帽子来给它们指派各种工作。"
 		""
 		"&6Default Jobs&r"
 		"  • Collect items on the ground and deposit them into a "
@@ -3292,7 +3292,7 @@
 		"&6    It's simply here as a courtesy for "
 		"&6    viewing the recipe."
 	]
-	quest.6A4C2B4518E341D6.title: "Aqueous Spirit"
+	quest.6A4C2B4518E341D6.title: "碧水精魂"
 	quest.6A4DD846F7E08FD6.quest_desc: [
 		"女子越飞越高，穿过云层。她就这样飞行了很久。"
 		""
@@ -3421,18 +3421,18 @@
 		"&6⚠ 注意：单个法术最多只可包含30个魔符。"
 	]
 	quest.6D09D016EDE0AAFB.quest_desc: [
-		"This workstation allows the Wixie to craft standard &7Crafting Table&r and &7Brewing Stand&r recipes. "
+		"该工作站允许薇克精使用标准的&7工作台&r和&7酿造台&r配方。"
 		""
-		"Brewing potions, however, will require a nearby Potion Jar to store the result."
+		"酿造药水时，需要在附近放置药水罐来存储药水。"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Cauldron&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7炼药锅&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.6D09D016EDE0AAFB.title: "Wixie Crafting and Brewing"
+	quest.6D09D016EDE0AAFB.title: "薇克精合成与酿造"
 	quest.6DA23C4B7F016B1D.quest_desc: [
 		"&7温室玻璃&r能够显著促进其正下方作物的生长。"
 		""
@@ -3766,11 +3766,11 @@
 	quest.752888EAF2861EB4.quest_desc: ["The following are various forms of item transfer options available in Enigmatica 10."]
 	quest.752888EAF2861EB4.title: "Items"
 	quest.75507A3DE753BC75.quest_desc: [
-		"Tired of losing drops in the clouds? "
+		"还在为物品总是掉入空岛下的云层烦恼？"
 		""
-		"Make yourself a &7Magnet&r and you won't need to worry about it any longer."
+		"制作一个&7磁铁&r，你就再也不用担心这个问题了。"
 		""
-		"A &7Demagnetization Coil&r may prove similarly indispensable, rendering your &7Magnet&r inert near things you'd like to avoid picking up."
+		"&7消磁线圈&r同样必不可少，它能阻止&7磁铁&r吸附附近的掉落物。"
 	]
 	quest.75BD1F2EB47FB7CF.quest_desc: [
 		"The &7Advanced Liquid Compressor&r operates using the same fuels you've been using thus far and can reach up to &720 bar&r. "
@@ -3986,18 +3986,18 @@
 	]
 	quest.799839991CC1DDF9.title: "混沌初开"
 	quest.79DFBA1E35132332.quest_desc: [
-		"This workstation allows the &7Wixie&r to craft &7Farmer's Delight Cooking&r recipes. "
+		"该工作站允许&7薇克精&r使用&7农夫乐事烹饪&r配方。"
 		""
-		"The &7Wixie&r is generally quicker than the &7Cooking Pot&r, and far easier to automate!"
+		"&7薇克精&r通常比&7厨锅&r更快，而且更易于自动化！"
 		""
-		"                   &6&nFormation&r"
+		"                   &6&n转化&r"
 		""
-		"Right-Click a &7Cooking Pot&r with a &7Wixie Charm&r."
+		"手持&7薇克精护符&r右击&7厨锅&r。"
 		""
-		"&6⚠ Note: For multi-step crafts, each "
-		"&6    step must be specified separately."
+		"&6⚠ 注意：对于多步合成，每一步都需要分别标示出来。"
+		""
 	]
-	quest.79DFBA1E35132332.title: "Wixie Cooking"
+	quest.79DFBA1E35132332.title: "薇克精烹饪"
 	quest.79FA7B5854C9606F.quest_desc: [
 		"The Anti-Field Orb and Block both function to suppress certain genes; specifically the Item Attraction and XP Attraction traits."
 		""
@@ -4180,7 +4180,7 @@
 	task.0DE0A9A5505F1850.title: "发现谜团"
 	task.10DFCCF8FA5D5505.title: "灵气制造设备"
 	task.116CBCF6CA77E71A.title: "Syringe"
-	task.122BA8ACC6374460.title: "Item Pedestals"
+	task.122BA8ACC6374460.title: "物品展示台"
 	task.1291CAC439E06D6C.title: "符文"
 	task.14C95C2344B5DC59.title: "催化剂"
 	task.15D7325C0C904192.title: "Any Small Flower"
@@ -4191,15 +4191,15 @@
 	task.1E4E5D2B9B36005C.title: "Brilliant Blocks"
 	task.1FBFB31F5657696B.title: "能量"
 	task.20B6CC540E82D042.title: "基座"
-	task.210DF794EE1D714A.title: "Observation: &2Wixie's Stonecutter&r"
+	task.210DF794EE1D714A.title: "观察：&2薇克精切石机&r"
 	task.2249B1CA280D4531.title: "谜之天空"
 	task.225508B5F690C310.title: "流体输入仓"
 	task.23CDBB8A570B6689.title: "Blocks Obtained from Sludge"
 	task.2404D63C45135601.title: "精魂碎晶"
-	task.241DC4DBEF1C8648.title: "Observation: &2Wixie Cauldron&r"
+	task.241DC4DBEF1C8648.title: "观察：&2薇克精炼药锅&r"
 	task.24F2BEBFC964C83B.title: "小刀"
 	task.24FDDE2CC71EBC7A.title: "Logistics"
-	task.264F4FA6B354C01A.title: "Observation: &2Wixie's Enchanting Apparatus&r"
+	task.264F4FA6B354C01A.title: "观察：&2薇克精附魔装置&r"
 	task.2900F7E8CBB5DD74.title: "魔源存储"
 	task.2914EFBE380196D0.title: "致密线缆"
 	task.2A7052B5A35B4A22.title: "神秘学五芒星阵"
@@ -4231,7 +4231,7 @@
 	task.40BF2920569F9751.title: "Addon: Speed"
 	task.42EE7B1C5F75BCAF.title: "欢迎！"
 	task.431D734EA8A2E7EF.title: "流体输入仓"
-	task.4484CC7F88D33D12.title: "Arcane Platforms"
+	task.4484CC7F88D33D12.title: "奥术台座"
 	task.466DBFDDD1C1C5A6.title: "Storage Controller"
 	task.47D22C2E34E9A099.title: "Sourcelinks"
 	task.484FF1BEA9145D5F.title: "Puller Modules"
@@ -4243,11 +4243,11 @@
 	task.4F21DF4EFC469AAC.title: "流体输出仓"
 	task.4FE55FEB08DFF115.title: "建筑棒"
 	task.51C59228A0E0612E.title: "Items"
-	task.5243C7DE02D7AA20.title: "Armor Insulation"
+	task.5243C7DE02D7AA20.title: "盔甲隔温层"
 	task.547A92B162CC0314.title: "流体输入仓"
 	task.54F9AD36E2BEBF47.title: "Neptunium Tools and Armor"
 	task.5726FC2C852F6F2B.title: "充能器"
-	task.573110BB52169A48.title: "Observation: &2Wixie's Furnace&r"
+	task.573110BB52169A48.title: "观察：&2薇克精熔炉&r"
 	task.576CB5FB3B8A46A6.title: "智能线缆"
 	task.57961EA9F4FC3596.title: "处理器"
 	task.57BE29AB834A63FE.title: "Just Dire Armor"
@@ -4261,7 +4261,7 @@
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
 	task.5FAB53ACB4BF565C.title: "流体模块"
 	task.5FD033C23F211569.title: "Picking Up What You're Putting Down"
-	task.605834F92F6F384F.title: "Observation: &2Wixie's Cooking Pot&r"
+	task.605834F92F6F384F.title: "观察：&2薇克精厨锅&r"
 	task.60A606EEBA68E86C.title: "流体输出仓"
 	task.60BB29288D966B49.title: "Any &3Macaw's&r Item"
 	task.62742836108A45A3.title: "Addon: Efficiency"
@@ -4277,7 +4277,7 @@
 	task.7361E2FFBFB27FD7.title: "流体输出仓"
 	task.73C57E2AF9A1F920.title: "Any Chipped Tool"
 	task.75050C1ED68FA527.title: "建筑小帮手"
-	task.7559C9E4BA735703.title: "Observation: &2Wixie's Cutting Board&r"
+	task.7559C9E4BA735703.title: "观察：&2薇克精砧板&r"
 	task.75F35EC4088EBA42.title: "机械动力处理"
 	task.76E02A5A8A664728.title: "流体输入仓"
 	task.7858961CD00D205B.title: "流体输出仓"
