@@ -1646,16 +1646,16 @@
 	quest.37ED5A328F30DD34.quest_desc: [
 		"创造怪物并非易事，要成功完成这一任务，我们还需要一些非常特殊的材料。"
 		""
-		"We’ll start with something easy, slimes. We can lean on the latent magic in certain foods to get the process going, though it's still going to need an extra nudge."
+		"我们先从简单的开始，试着去召唤一个史莱姆。我们可以借助特定食物中蕴藏的魔力开始这一进程，但过程中还需要一些额外的力量推动。"
 		""
-		"Gather some &7Spirits of Birthing&r by manually breeding animals in a high Aura environment. "
+		"在高灵气环境手动繁殖一些动物，用这种方式收集一些&7降生之魂&r。"
 		""
-		"Once you've animated your slimes, be sure to slay them with a &7Scythe&r or other &7Soul Shattering Weapon&r to properly harvest their &7Spirits&r."
+		"当你成功活化了一只史莱姆后，确保使用&7镰刀&r或其他&7碎魂武器&r杀死史莱姆，这样才能得到它的&7精魂&r。"
 		""
-		"&6⚠ 注意：你可以只使用&6&o碎魂武器&r&6或&oGlyph of Soul&r对生物造成伤害，然后用其他武器补刀，这样更省资源。"
+		"&6⚠ 注意：你可以只使用&6&o碎魂武器&r&6或&o碎魂魔符&r对生物造成伤害，然后用其他武器补刀，这样更省资源。"
 		""
 		""
-		"&6    another weapon."
+		""
 		""
 		"&a🛈 提示：附魔了精魂劫掠的武器可以获取更多精魂！"
 		""
@@ -1791,7 +1791,7 @@
 		"就现在而言，去挖掘一些灵魂石矿石，然后烧炼它以获得精制灵魂石。"
 	]
 	quest.3BF458796782EB49.quest_desc: [
-		"The &7Cybernetics Station&r allows you to research and install various bio-mechanical enhancements into your body to provide you with permanent buffs and new abilities. "
+		"你可以通过&7赛博改造中心&r进行研究，并在自己身体里植入多种生物机械增强，以此获得永久增益效果和额外能力。"
 		""
 		"These abilities vary from the more mundane, such as Step Assist, to the fantastic such as built in Armor, Invisibility, and even Flight. "
 		""
@@ -2108,9 +2108,9 @@
 	]
 	quest.42F2191B5C08849B.title: "蝙蝠"
 	quest.43580B4D15FCEF00.quest_desc: [
-		"A bit of slicing and splicing will get us what we need. Prepare the required items for the ritual and create your very own &7Whirlisprig&r. "
+		"只需一点小小的切割和拼合，就能得到我们想要的东西。准备好仪式需要的物品，然后造出属于你的&7风转草&r。"
 		""
-		"To earn a &7Token&r of its trust, grow any sapling nearby."
+		"想得你的风转草信任你并交出它的&7护符&r的话，就在它的周围让一棵树苗生长。"
 		""
 		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -2209,7 +2209,7 @@
 		""
 		"Early on, you may find it convenient to set up an &7Altar&r to passively craft a single item in batches, however later on you'll be able to easily integrate this device with Applied Energistics patterns so you can request crafts on-demand."
 		""
-		"[\"Since it requires multiple input slots, you'll undoubtedly wish to use a \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://guide.appliedenergistics.org/1.21.1/ae2-mechanics/subnetworks#root\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Subnet\",\"underlined\":true},\" to route items appropriately.\"]"
+		"[\"因为需要使用多个物品输入槽位，毫无疑问的，你会需要使用\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://guide.appliedenergistics.org/1.21.1/ae2-mechanics/subnetworks#root\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"子网\",\"underlined\":true},\"来正确调配物品。\"]"
 	]
 	quest.45F3C4F0EDA160C5.quest_desc: [
 		"除了你的小脑瓜和手上的小玩意儿以外，这还有几本书可以帮你快速开局。"
@@ -2594,7 +2594,7 @@
 		"与此同时，&7流体收集器&r和&7放置器&r都需要在栏位中放置容器，这样便可手动输入/输出流体。当然，它们也可以使用管道进行流体输入输出。"
 	]
 	quest.574555F24035E48A.title: "初级放置和收集器"
-	quest.577337FFD6AD9C83.quest_desc: ["[ \"在\", { \"text\": \"Replication章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"查阅更多有关使用这些机器生产物品的信息\" ]"]
+	quest.577337FFD6AD9C83.quest_desc: ["[ \"在\", { \"text\": \"Replication章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"了解更多有关使用这些机器生产物品的信息\" ]"]
 	quest.577337FFD6AD9C83.title: "Replication"
 	quest.579B2C5CB83022ED.quest_desc: [
 		"The &7Manipulation Infused Turret&r combines the benefits of a &7Focus of Block Shaping&r with an &7Enchanted Turret&r, meaning it can not only cast all the examples from the previous quest, but it gets an enormous mana discount in doing so. "
@@ -2917,22 +2917,22 @@
 		""
 		"一般来说，每只星宝石兽一次只能专注于一项任务，但你可以通过给予它们不同的帽子来给它们指派各种工作。"
 		""
-		"&6Default Jobs&r"
-		"  • Collect items on the ground and deposit them into a "
-		"    designated inventory"
-		"  • Collect Sourceberries from bushes and deposit them "
-		"    into a designated inventory"
-		"  • Transport items from one inventory to another"
+		"&6默认工作&r"
+		"  • 拾取地面上的物品并存入指定容器"
 		""
-		"&6Starbuncle Shades&r"
-		"  • Disables their ability to pick up items and to collect "
-		"    Sourceberries"
+		"  • 从魔源浆果丛中采集魔源浆果并将其存入指定容器"
+		""
+		"  • 将物品从一个容器运输到另一个容器中"
+		""
+		"&6星宝石兽墨镜&r"
+		"  • 禁用拾取物品和采集魔源浆果的能力"
+		""
 		""
 		"&6Square Robin Mask&r"
 		"  • Enables round-robin item transportation."
 		""
-		"&6Wixie Hat&r"
-		"  • Transport potions from one Potion Jar to another"
+		"&6薇克精帽子&r"
+		"  • 将药水从一个药水罐转移到另一个药水罐中"
 		""
 		"&6Starbucket&r"
 		"  • Transport fluids from one fluid container to another"
@@ -3185,11 +3185,11 @@
 		""
 		"Click the &6👁&r next to each ritual recipe in EMI to preview the pentacle in world. This will show where each block must be placed. They all use the same pentacle. "
 		""
-		"The &7Chalice&r may be replaced with a &7Golden&r or &7Iesnium Sacrificial Bowl&r if desired, though this will slow down the rituals. This may be advantageous, however, depending on your needs."
+		"如果有需要，&7圣杯&r可以替换为&7金质&r或&7艾瑟金属献祭之碗&r，但这么做会让仪式变慢。视情况而定的话，有时也能开发出用途。"
 		""
-		"Feel free to recreate the pentacle elsewhere as desired if you need more room for automation."
+		"你完全可以在其他地方重建五芒星阵，如果你需要更大空间才能自动化的话。"
 		""
-		"                 &6&nA Note on Automation&r&r"
+		"            &6&n关于自动化的说明&r&r"
 		""
 		"当前版本中，神秘学的五芒星阵自动化更容易实现了，如果你只玩过旧版模组的话，请看下面的介绍。"
 		""
@@ -3283,14 +3283,14 @@
 		""
 		"在你完成去皮后，手持&7玻璃瓶&r对&7去皮富脂灵魂原木&r右击以获得一些&7诅咒树脂&r。"
 		""
-		"A few of these &7Exposed Logs&r will spawn in every new &7Soulwood Tree&r you grow, allowing you to obtain more as needed."
+		"之后栽种的每棵&7灵魂树&r上也会生成一些像这样的&7去皮原木&r，使你能收集更多诅咒树脂。"
 	]
 	quest.6A4C2B4518E341D6.quest_desc: [
-		"Animate a &7Blue Swet&r and defeat it to obtain &7Aqueous Spirits&r."
+		"活化一个&7蓝色史威特&r，然后击杀它以获得&7碧水精魂&r。"
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.6A4C2B4518E341D6.title: "碧水精魂"
 	quest.6A4DD846F7E08FD6.quest_desc: [
@@ -3321,11 +3321,11 @@
 	quest.6A8ACE8E9B7A056D.title: "潜水取泥"
 	quest.6A94923547B93B51.quest_desc: ["Fluid Cards for LaserIO allow Laser Nodes to transport Fluids."]
 	quest.6AA9F3E0D4BC181A.quest_desc: [
-		"You’ll find two important structures located on this island. "
+		"在这座空岛上有两个重要的结构。"
 		""
-		"The first is the &7Weeping Well&r, which can exchange certain items. Simply toss an item in and the new item will be thrown back at you."
+		"第一个结构是&7哭泣之井&r，你可以通过它交易特定物品。直接将物品掷入井里，新的物品就会丢回到你手中。"
 		""
-		"The second is a &7Ritual&r for more elaborate requests. Look for the chalice surrounded by chalk marks."
+		"第二个结构是为精细要求设计的&7仪式&r。你应该可以找到一个周围环绕着粉笔记号的圣杯。"
 	]
 	quest.6AC4CADE97CB512F.quest_desc: ["[ \"\", { \"text\": \"土之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"繁茂空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \"的深泽泥沼。\" ]"]
 	quest.6AC4CADE97CB512F.title: "繁茂空岛"
@@ -3828,9 +3828,9 @@
 		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r"
 	]
 	quest.76EC73B59502E2A5.quest_desc: [
-		"A bit of slicing and splicing will get us what we need. Prepare the required items for the ritual and create your very own &7Drygmy&r. "
+		"只需一点小小的切割和拼合，就能得到我们想要的东西。准备好仪式需要的物品，然后造出属于你的&7德格米&r。"
 		""
-		"To earn a &7Token&r of its trust, toss a &7Wilden Horn&r to your &7Drygmy&r."
+		"想得你的&7德格米&r信任你并交出它的&7护符&r的话，就向它投掷一个&7荒野号角&r。"
 		""
 		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -4084,11 +4084,11 @@
 	]
 	quest.7D82585D50D7207A.title: "应用能源"
 	quest.7D8AEEB13B201CFB.quest_desc: [
-		"These highly advanced processors will enable creating a powerful AE2 system to assist in crafting and stock management."
+		"这些高度先进的处理器将能够构建一个强大的 AE2 系统，以协助进行物品制作和库存管理。"
 		""
 		"Very handy indeed as crafts become more and more complex."
 		""
-		"[ \"Check out the \", { \"text\": \"Applied Energistics Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on setting up an ME Network. \" ]"
+		"[ \"在\", { \"text\": \"应用能源章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"了解更多有关组建ME网络的信息。\" ]"
 	]
 	quest.7EBB38BA04910A92.quest_desc: [
 		"A cooking pot worthy of any industrial kitchen, this beast can handle larger batches of ingredients at a time. "
