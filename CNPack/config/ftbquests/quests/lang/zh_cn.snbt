@@ -792,7 +792,7 @@
 		"&a🛈 Tip: Powders may be removed by "
 		"&a    punching them."
 	]
-	quest.1ABB07894781F511.title: "Ain't Nothing But Mammals"
+	quest.1ABB07894781F511.title: "说到底不过是哺乳动物而已"
 	quest.1ACB8880980AF206.quest_desc: [
 		"没做的事情堆积成山，一个人实在难承其重。看你周围也没什么人，该搞几个朋友了。"
 		""
@@ -895,7 +895,7 @@
 		""
 		"因此你应该尽快将所有空岛召唤出来。"
 		""
-		"[ \"一个比较好的起点是\", { \"text\": \"繁茂空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \"所以先收集制作\", { \"text\": \"土之精华\" , \"color\":\"gray\"}, \"的材料吧。\" ]"
+		"[ \"一个比较好的起点是\", { \"text\": \"繁茂空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \"，所以先收集制作\", { \"text\": \"土之精华\" , \"color\":\"gray\"}, \"的材料吧。\" ]"
 		""
 		"使用&7灌注室&r时，需要在其相邻位置放置一些&7奥术基座&r或&7奥术台座&r。配方中间显示的物品放入&7灌注室&r中，其余材料则必须放置在&7基座&r上。"
 		""
@@ -970,7 +970,7 @@
 		""
 		"Alternatively, Right-Click &7Sculk&r with &7Air Essence&r to convert a &n21x11x21&r area to this biome!"
 	]
-	quest.1D9182A079919158.title: "Biome Conversion"
+	quest.1D9182A079919158.title: "生物群系转化"
 	quest.1DA29F3B45DEFB4B.quest_desc: [
 		"Magic can be a lonely profession. Everyone always asks, “What can you do?”, but never “How are you doing?”."
 		""
@@ -1462,7 +1462,7 @@
 		""
 		"Alternatively, Right-Click a &7Blackstone&r with a &7Fire Essence&r to convert a &n21x11x21&r area to this biome!"
 	]
-	quest.31CAA3BC20CCDF25.title: "Biome Conversion"
+	quest.31CAA3BC20CCDF25.title: "生物群系转化"
 	quest.31FAEA42AC32BD3E.quest_desc: ["这个充能站有超大的能量缓存，可以快速给物品充能。"]
 	quest.32305BE195F77F2F.quest_desc: [
 		"出发前，你还需要生产一些魔源。以下所有仪式都需要一个满的&7魔源罐&r才能启动。"
@@ -1673,13 +1673,13 @@
 		"&a    time by Sneak + Right-Clicking with it. "
 	]
 	quest.38E929DADF66C1F3.quest_desc: [
-		"Made from &7Mud&r, &7Boggy Dorodangos&r may be processed down into new materials!"
+		"由&7泥巴&r制成的&7泥沼泥球&r可以加工成新材料！"
 		""
-		"                   &n&6Materials&r"
+		"                   &n&6材料&r"
 		""
-		"  • &7Black Quartz&r"
-		"  • &7Fish Bones&r"
-		"  • &7Rotten Flesh&r"
+		"  • &7焦黑石英&r"
+		"  • &7鱼骨&r"
+		"  • &7腐肉&r"
 	]
 	quest.3954AC8D791145CE.quest_desc: ["Wandering Trader keeps ding-dong-ditching your house? Let this say hello instead!"]
 	quest.39716C901B98BAF2.quest_desc: [
@@ -1754,9 +1754,9 @@
 	]
 	quest.3A7AD25302240A1B.title: "临时网络"
 	quest.3B609B8A4DE93B53.quest_desc: [
-		"Build a &7Melon&r farm and set your Alakarkinos to work making &7Melon Balls&r!"
+		"建造一个&7西瓜&r农场，让你的探宝蟹制造&7西瓜球&r！"
 		""
-		"These will net you far more water than the clouds you've been using."
+		"西瓜里的水比你用的那些云多得多。"
 	]
 	quest.3B77FB0A8CFAAB97.quest_desc: [
 		"Potentially quite dangerous, &7Enderic Lasers&r will destroy most any blocks in their path. Some, however, are instead empowered by it."
@@ -1893,7 +1893,7 @@
 		""
 		"这样精细的操作只能使用&7小刀&r完成。"
 		""
-		"By placing the &7Knife&r in an &7Arcane Pedestal&r next to a &7Drygmy Henge&r, they will be able to harvest the &7Meat&r for you."
+		"将&7小刀&r放在&7德格米石阵&r旁的&7奥术基座&r上，德格米就能为你收集&7肉类&r。"
 	]
 	quest.3D7B773741D78864.title: "野味"
 	quest.3DD21FD2F10FE43D.quest_desc: [
@@ -2195,13 +2195,13 @@
 		"从小开始，以后你可以随时升级更大的元件！"
 	]
 	quest.45E411460C53A082.quest_desc: [
-		"Materials may be greatly enhanced by infusing them with one or more &7Spirit&r types and this &7Altar&r is the key to performing such operations. "
+		"通过往材料里注入一种或更多的&7精魂&r，你可以极大地提升材料的性能。你需要准备一个&7祭坛&r来完成这一操作。"
 		""
-		"Working with the &7Spirit Altar&r is relatively straightforward. At its simplest, you’ll need the &7Altar&r itself and some &7Item Pedestals&r to hold any extra items shown in the recipe. "
+		"&7精魂祭坛&r的使用方式比较简单。最简单的一种情况是，你只需要&7祭坛&r本身，以及数个用于放置配方中额外物品的&7物品基座&r。"
 		""
-		"On the &7Altar&r, you’ll insert the primary ingredient, shown in the middle of the recipe, and the &7Spirits&r shown on the left. Any items shown on the right will be placed on &7Item Pedestals&r. The craft begins immediately upon placing the items for a valid craft."
+		"在&7祭坛&r，你需要放置配方中间所显示的主要材料，然后是配方左列显示的&7精魂&r。配方右列显示的物品需要放置在&7物品基座&r上。一旦放置的物品满足一个有效的配方，合成仪式就会启动。"
 		""
-		"Crafting may seem rather slow, however it can be greatly sped up by placing up to four &7Runewood Obelisks&r nearby. The passive animals you've been keeping should provide the necessary &7Spirits&r."
+		"合成所需的时间相当漫长，但可以通过周围放置的最多四个&7符文木方尖碑&r提速。你养殖的被动动物们应该足以提供过程中需要的&7精魂&r。"
 		""
 		"                       &n&6关于自动化的说明&r"
 		""
@@ -2369,7 +2369,7 @@
 		""
 		"Alternatively, Right-Click &7Clay&r with a &7Water Essence&r to convert a &n21x11x21&r area to this biome!"
 	]
-	quest.4A3B9586D14D5037.title: "Biome Conversion"
+	quest.4A3B9586D14D5037.title: "生物群系转化"
 	quest.4ACD723FC7EB7CD6.quest_desc: ["这个地方很难点着火，大部分明火会立即熄灭，或者根本打不着。"]
 	quest.4ACD723FC7EB7CD6.title: "火"
 	quest.4B2DF8F028C3CFA0.quest_desc: [
@@ -2395,11 +2395,11 @@
 		""
 	]
 	quest.4CC1CF537349C2D6.quest_desc: [
-		"Need a little more room to work? Summoning another island is always an option. "
+		"需要更多空间吗？你随时都可以再召唤另一座空岛。"
 		""
-		"Alternatively, Right-Click &7Tuff&r with an &7Earth Essence&r to convert a &n21x11x21&r area to this biome!"
+		"或者使用&7土之精华&r右击&7凝灰岩&r，将&n21x11x21&r的区域变成该空岛的生物群系！"
 	]
-	quest.4CC1CF537349C2D6.title: "Biome Conversion"
+	quest.4CC1CF537349C2D6.title: "生物群系转化"
 	quest.4D8B278BDF762813.quest_desc: ["As cold as the void, this material seems to phase in and out of existence."]
 	quest.4DFD963932B9FF81.quest_desc: [
 		"With a &7Vortex Tube&r, you can easily create the very high, or very low, temperatures needed for many recipes."
@@ -2476,9 +2476,9 @@
 		"元件也可以在&7元件工作台&r中进行过滤，让你精确控制哪些物品可以存储在这个元件上。"
 	]
 	quest.513BDF32A8F6EF45.quest_desc: [
-		"Alakarkinos is eager and ready to assist! "
+		"探宝蟹已经迫不及待要帮忙啦！"
 		""
-		"New &7Dorodangos&r await you with the materials available on this island. "
+		"内含该空岛独特材料的新&7泥球&r正在等候着你。"
 	]
 	quest.51636F3E5A461A7B.quest_desc: [
 		"你可以在砧板上用&7斧头&r刮掉&7冰石&r上的冰。"
@@ -2749,15 +2749,15 @@
 	quest.5D50FB987FCA7BB5.quest_desc: [
 		"这座空岛上生长的&7恼人至高树&r上已经结出了一些&7堡垒果&r。"
 		""
-		"Gather a few and consider setting up a farm when you can; they grow when placed on a &7Vexing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. "
+		"可以先收集一些，然后随时可以建造一个农场。堡垒果可以在&7恼人至高原木&r上生长，可以通过&7骨粉&r或其他催熟手段加速生长。"
 		""
 		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
 		""
 	]
 	quest.5D74493BC797D6F0.quest_desc: [
-		"Only the most evil and malicious of creatures have &7Wicked Spirits&r within them to harvest. "
+		"只有从那些最邪恶、最残忍的生物的体内才能收集到&7邪恶精魂&r。"
 		""
-		"Maybe go see what your Goats have in their bleating hearts."
+		"你也许应该把那些咩咩叫的山羊的心脏挖出来看看。"
 		""
 		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -3088,39 +3088,39 @@
 		"&a🛈 提示：尝试增加更多扩散魔符或叠加施放法术！"
 	]
 	quest.6490781066FAE8CF.quest_desc: [
-		"                      &6&nBiome: Mangrove Swamp&r&r"
+		"                      &6&n生物群系：红树林沼&r&r"
 		""
-		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
 		""
-		"  • &7Dirt&r                      &2⟶&r           &7Mud&r"
-		"  • &7Grass Block&r           &2⟶&r           &7Mud&r"
-		"  • &7Cobblestone&r           &2⟶&r           &7Tuff&r"
-		"  • &7Stone&r                   &2⟶&r           &7Infused Rock&r"
-		"  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r"
-		"  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r"
-		"  • &7C. Deepslate&r           &2⟶&r           &7Aerogel&r"
-		"  • &7Deepslate&r              &2⟶&r           &7Aerogel&r"
+		"  • &7泥土&r                      &2⟶&r           &7泥巴&r"
+		"  • &7草方块&r                    &2⟶&r           &7泥巴&r"
+		"  • &7圆石&r                      &2⟶&r           &7凝灰岩&r"
+		"  • &7石头&r                      &2⟶&r           &7灌注之石&r"
+		"  • &7沙子&r                      &2⟶&r           &7寒风境云&r"
+		"  • &7沙岩&r                      &2⟶&r           &7速沙&r"
+		"  • &7深板岩圆石&r                &2⟶&r           &7气凝胶&r"
+		"  • &7深板岩&r                    &2⟶&r           &7气凝胶&r"
 		""
 		"{@pagebreak}"
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Conjure Mud&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"&7构筑泥巴&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
-		"&7Conjure Tuff&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑凝灰岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&7Conjure Infused Rock&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑灌注之石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a烧炼&r"
 		""
-		"&7Conjure Cold Aercloud&r"
-		"    &5Touch&r > &aConjure Terrain&r > &aCrush&r"
+		"&7构筑寒风境云&r"
+		"    &5触摸&r > &a构筑地层&r > &a粉碎&r"
 		""
-		"&7Conjure Quicksoil&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑速沙&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Aerogel&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑气凝胶&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 	]
 	quest.6534548E8A6A318C.quest_desc: [
 		"Alakarkinos is eager and ready to assist! "
@@ -3136,7 +3136,7 @@
 		"&a    more connections!"
 	]
 	quest.6660BE0C308A1744.quest_desc: [
-		"Summon a &7Goat &rat the Altar of Birthing and gather some &7Organic Matter&r from it."
+		"使用降生祭坛召唤一只&7山羊&r，然后从它身上采集一些&7有机物质&r。"
 		""
 		"&6⚠ 注意：刷怪蛋并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
 		""
@@ -3183,7 +3183,7 @@
 		""
 		"通常可以在EMI上查到物品的配方。以&7怪异晶体&r为例，在&7腐枯土&r上使用&7骨粉&r后，可以随机生成一些怪异晶体。"
 		""
-		"Click the &6👁&r next to each ritual recipe in EMI to preview the pentacle in world. This will show where each block must be placed. They all use the same pentacle. "
+		"可以在EMI中点击各个仪式配方旁的&6👁&r按钮，在世界中预览五芒星阵图案。这会展示每个方块应该放置的位置。它们都使用了相同的五芒星阵。"
 		""
 		"如果有需要，&7圣杯&r可以替换为&7金质&r或&7艾瑟金属献祭之碗&r，但这么做会让仪式变慢。视情况而定的话，有时也能开发出用途。"
 		""
@@ -3193,14 +3193,14 @@
 		""
 		"当前版本中，神秘学的五芒星阵自动化更容易实现了，如果你只玩过旧版模组的话，请看下面的介绍。"
 		""
-		"You may use any pipe or hopper to put items into each &7bowl&r, including the central &7chalice&r. "
+		"可以通过任意管道或漏斗将物品送入所有&7碗&r中，这一机制也适用于中心的&7圣杯&r。"
 		""
-		"The central item may only be inserted once a valid recipe is present in the surrounding bowls and the ritual will start immediately without further interaction. "
+		"只有周围的碗中物品形成了一个有效的配方，中心的物品才能被送入，随后仪式立即开始，不需要进行额外操作。"
 		""
-		"This means you can quite simply pipe the items into each bowl without any extra logic.  "
+		"这意味着你可以简单地将物品传送到每个碗中，而不必再设置额外的逻辑。"
 		""
-		"&a🛈 Tip: The shape of individual chalk marks is "
-		"&a    random and doesn’t affect the pentacle!"
+		"&a🛈 提示：粉笔画的形状是随机出现的，但它不会影响五芒星阵的效果！"
+		""
 	]
 	quest.672B88E9A3FA1FCE.quest_desc: [
 		"当&7凛冬的呼唤&r激活时，该区域内会快速积雪，水会冻结成冰。"
@@ -3511,26 +3511,26 @@
 	]
 	quest.6E4554D07901967C.title: "Pneumatic Armor"
 	quest.6EA0560551B821B3.quest_desc: [
-		"The &7Flourishing Archwoods&r on this island will already have a few &7Mendosteen&r and &7Glow Berries&r grown on them. "
+		"这座空岛上生长的&7繁茂至高树&r上已经结出了一些&7门多山竹&r和&7发光浆果&r。"
 		""
-		"Gather a few and consider setting up a farm when you can."
-		"                      &n&6A Note on Automation&r&r"
+		"先收集一些，有条件的话可以考虑建立一个农场。"
+		"                      &n&6关于自动化的说明&r&r"
 		""
-		"&7Mendosteen&r grow when placed on the side of &7Flourishing Archwood Logs&r and &7Glow Berries&r grow when placed on the bottom of most blocks. "
+		"&7门多山竹&r生长在&7繁茂至高木原木&r的侧面，而&7发光浆果&r生长在大部分方块的下方。"
 		""
-		"Both can be sped up by applying &7Bone Meal&r or other grow effects such as spells."
+		"两者都可以通过施加&7骨粉&r或其他催熟手段（如法术）来加速。"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Grow and Harvest Mendosteen&r"
-		"    &5Touch&r > &aGrow&r > &aHarvest&r > &aItem Pickup&r"
+		"&7生长并收获门多山竹&r"
+		"    &5触摸&r > &a生长&r > &a收获&r > &a拾取&r"
 		""
-		"&7Grow and Harvest Glow Berries&r"
-		"    &5Touch&r > &aGrow&r > &aInteract&r > &aItem Pickup&r"
+		"&7生长并收获发光浆果&r"
+		"    &5触摸&r > &a生长&r > &a交互&r > &a拾取&r"
 		""
-		"&a🛈 Tip: Harvest Rituals are an easy way farm these!"
+		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
 	]
-	quest.6EA0560551B821B3.title: "Island Fruits"
+	quest.6EA0560551B821B3.title: "空岛水果"
 	quest.6EB5108D30F5A94A.quest_desc: [
 		"有了&7热交换机&r和&7高压水&r，我们可以将其送入&7高压锅炉&r，这样它们便可重新转化为蒸汽。"
 		""
@@ -3793,7 +3793,7 @@
 		"&6    哪些物品有效！"
 	]
 	quest.768869D763EC54EB.quest_desc: [
-		"                       &6&nBiome: Deep Dark&r&r"
+		"                       &6&n生物群系：深暗之域&r&r"
 		""
 		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
 		""
@@ -3858,15 +3858,15 @@
 	]
 	quest.77A66ADAB0845804.title: "Macaw 系列模组"
 	quest.77FA6854AC88C138.quest_desc: [
-		"Made from &7Cold Aerclouds&r, &7Cloudy Dorodangos&r may be processed down into new materials!"
+		"由&7寒风境云&r制成的&7浑浊泥球&r可以加工成新材料！"
 		""
-		"                   &n&6Materials&r"
+		"                   &n&6材料&r"
 		""
-		"  • &7Sky Stone Dust&r"
-		"  • &7Sal Ammoniac Crystals&r"
+		"  • &7陨石粉&r"
+		"  • &7硇砂晶体&r"
 	]
 	quest.78626EE046E48EF3.quest_desc: [
-		"                       &6&nBiome: Archwood Forest&r&r"
+		"                       &6&n生物群系：至高木森林&r&r"
 		""
 		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
 		""
@@ -3905,7 +3905,7 @@
 		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r"
 	]
 	quest.7893072479F01DC2.quest_desc: [
-		"                          &6&nBiome: Warm Ocean&r&r"
+		"                          &6&n生物群系：暖水海洋&r&r"
 		""
 		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
 		""
@@ -4086,7 +4086,7 @@
 	quest.7D8AEEB13B201CFB.quest_desc: [
 		"这些高度先进的处理器将能够构建一个强大的 AE2 系统，以协助进行物品制作和库存管理。"
 		""
-		"Very handy indeed as crafts become more and more complex."
+		"随着配方变得越来越复杂，这一设备必不可少。"
 		""
 		"[ \"在\", { \"text\": \"应用能源章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"了解更多有关组建ME网络的信息。\" ]"
 	]
