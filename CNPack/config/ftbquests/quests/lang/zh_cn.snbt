@@ -34,7 +34,7 @@
 	]
 	quest.00DE313EE5B9954D.quest_desc: ["一个简单的卷尺，可以辅助测量距离。对专业的建筑师们来说非常实用，值得常备一个。"]
 	quest.01266355AAB13C39.quest_desc: [
-		"Chisel offers a plethora of block variants to spice up your building. Grab a Chisel and some blocks and get to work!"
+		"凿子（Chisel ）模组提供了大量方块的变种，让你的建筑大放异彩，拿上凿子和方块开建吧！"
 		""
 		"&a🛈 提示：在EMI中搜索&3@chisel&r查阅"
 		"&a    更多相关内容。"
@@ -191,20 +191,20 @@
 	]
 	quest.062BB5F675CF9F45.title: "Just Dire Things"
 	quest.064BF1AA27A01A3A.quest_desc: [
-		"BetterBlockZ is a decorative mod with a wide variety of sci-fi inspired elements to use in your builds!"
+		"BetterBlockZ是一款装饰mod，提供了海量受科幻启发的的元素，可以在你建筑中使用。"
 		""
-		"Each block has multiple variants that can be easily selected through keybinds, and multiple wands exist to quickly modify blocks already placed in the world."
+		"每个方块有多种变种，可以被快捷键轻松选取。与此同时，你也可以使用多种手杖，来快速修改已经放置的方块。"
 		""
-		"&a🛈 Tip: Search &3@blockz&r &ain EMI to "
+		"&a🛈 提示：在EMI中搜索&3@blockz&r&a查询"
 		"&a    更多相关内容。"
 	]
 	quest.064BF1AA27A01A3A.title: "BetterBlockZ"
 	quest.064F6355185A51D4.quest_desc: [
 		"这些热爱黄金的可爱小家伙们能极大地帮你保持家园整洁。"
 		""
-		"If bound to a chest, they’ll quickly gather all items from the ground and insert them into that chest. "
+		"与箱子绑定后，星宝石兽会迅速收集地面上的物品，把它们放到绑定的箱子里。"
 		""
-		"They’ll also transfer from one chest to another and can farm Sourceberries without getting pricked by their thorns!"
+		"它们也可以将物品从一个箱子转移到另一个箱子里。还可以在不被刺扎到的情况下采集魔源浆果！"
 		""
 		"&a🛈 提示：可以使用允许卷轴和拒绝卷轴对星宝石兽拾取的物品进行配置！"
 		""
@@ -261,9 +261,9 @@
 	]
 	quest.0963C14E9AF5A836.quest_desc: ["&7有线充能器&r可以给放在其中的设备充能。"]
 	quest.09B6773CDA5A7565.quest_desc: [
-		"The Enchanting Apparatus will likely be the next device you’ll wish to set up as it’s used for many more advanced crafts, upgrading equipment, and applying enchantments!"
+		"附魔装置应该是你第二个需要搭建的设备，它可以完成更多高级合成操作、装备升级，以及附魔操作！"
 		""
-		"This device is a free form multiblock. The Enchanting Apparatus must sit atop the Arcane Core, but the Pedestals may go anywhere within 3 blocks of the Core."
+		"这一多方块结构可以自由搭建。只有附魔装置必须放在奥术核心上方，其余的奥术基座可以放在核心周围三格以内的任意位置。"
 		""
 		"The items in the Pedestals will be consumed by these recipes. "
 	]
@@ -274,7 +274,7 @@
 		""
 		"Valid placement is a 3x3x3 area centered on the &7Imbuement Chamber&r."
 		""
-		"&a🛈 提示：魔源并不是必需的！"
+		"&a🛈 提示：魔源不是必需的！"
 	]
 	quest.09C3C5173499DF7C.title: "精华"
 	quest.0A8B7FD4A52663D3.quest_desc: [
@@ -780,17 +780,17 @@
 		"你可以参考&7自然灵气之书&r，提前查看方块的摆放方式。"
 	]
 	quest.1ABB07894781F511.quest_desc: [
-		"By setting up some &7Powder of Fertility&r near your animals, you can keep them happy and breeding at the cost of Aura instead of food. "
+		"在你的牲畜附近放置一些&7繁殖之粉&r，便可以用灵气代替食物来让它们保持快乐并促进繁殖。"
 		"&n                                                &r"
 		""
-		"Powders apply in groups and their range is directly related to the number of powders you were holding when placing them."
+		"粉末可以成组使用，其作用范围直接取决于放置时手持的粉末数量。"
 		""
-		"For example, hold six powders and place them on the ground. All six will be placed as a single entity and their effect will cover a six-block radius. "
+		"例如，手持六个粉末放置在地面上，这六个粉末将作为一个整体放置，其效果覆盖半径六格范围。"
 		""
-		"Right-Click the floating powder with your &7Mystical Magnifier&r to visualize the area."
+		"手持你的&7奥秘放大镜&r右击漂浮的粉末来可视化效果区域。"
 		""
-		"&a🛈 Tip: Powders may be removed by "
-		"&a    punching them."
+		"&a🛈 提示：击打粉末就可以移除他们。"
+		""
 	]
 	quest.1ABB07894781F511.title: "说到底不过是哺乳动物而已"
 	quest.1ACB8880980AF206.quest_desc: [
@@ -929,10 +929,10 @@
 	quest.1D5E773A3A547A2C.quest_desc: [
 		"If you’re into Cottagecore or just want some knicknacks to fill your shelves with, Handcrafted is the place to start. It’s loaded with comfy chairs and interior decorations."
 		""
-		"&a🛈 提示：在EMI中搜索&3@handcrafted&r查阅"
-		"&a    更多相关内容。"
+		"&a🛈 提示：在EMI中搜索“&3@handcrafted&r”&a查阅更多相关内容"
+		""
 	]
-	quest.1D5E773A3A547A2C.title: "手工制作"
+	quest.1D5E773A3A547A2C.title: "精巧手艺"
 	quest.1D783196F551142F.quest_desc: [
 		"吃得好，干得好。"
 		""
@@ -2075,8 +2075,8 @@
 		""
 		"These quests can't cover everything, but the guidebook should help with anything not covered here."
 		""
-		"&a🛈 Tip: Sourceberries can be planted "
-		"&a    on grass!"
+		"&a🛈 提示：魔源浆果可以种在草方块上。"
+		""
 	]
 	quest.41614A924E5556EE.title: "新生魔艺"
 	quest.427846D4FFE678C5.quest_desc: [
@@ -2144,12 +2144,12 @@
 	]
 	quest.453240979BB90EBD.title: "汞驱网络"
 	quest.4537806144939A6B.quest_desc: [
-		"An animate block of Amethyst, these golems will automatically create, grow, and harvest budding blocks. "
+		"作为紫水晶块的活化版本，这种傀儡可以自动化创造，促生并收集母岩上的方块。"
 		""
 		"Bind them to an inventory to set the area they’ll work in. Nearby blocks will be converted into budding blocks. As they grow buds, they’ll break them and collect the drops, storing them in their bound inventory."
 		""
-		"&a🛈 Tip: Amethyst Golems works with"
-		"&a   Certus Quartz too!"
+		"&a🛈 提示：紫晶傀儡也能用于生产赛特斯石英！"
+		""
 	]
 	quest.454EB146FC67E3D5.quest_desc: [
 		"Who knew accelerating objects to near relativistic speeds and smashing them together could be so lucrative?"
@@ -2314,7 +2314,7 @@
 		"这将充分利用你输入的材料，提升效率，使缓慢的机器满足需求。"
 	]
 	quest.4914692B607F8BE0.quest_desc: [
-		"The Ender Source Jar is ideal for cross dimensional Source Transport. "
+		"末影魔源罐是跨维度传输魔源的理想方案。"
 		""
 		"So, if you’ve set up a crazy mob spawner in The End, maybe consider using this and a Vitalic Sourcelink to bring back all that delicious Source."
 	]
@@ -2519,11 +2519,11 @@
 	]
 	quest.537EDDC45D94BDE4.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
 	quest.53CE92319716971B.quest_desc: [
-		"Minecraft has long allowed you to duplicate tall flowers such as &7Rose Bushes&r by applying &7Bone Meal&r. "
+		"我的世界里一直可以使用&7骨粉&r来复制&7玫瑰丛&r等大型花。"
 		""
-		"Here, that ability is extended to &7small flowers&r as well. "
+		"在这里，这种能力也扩展到了&7小型花&r上。"
 	]
-	quest.53CE92319716971B.title: "Small Flower Duplication"
+	quest.53CE92319716971B.title: "复制小花"
 	quest.53D3092CA777D3B5.quest_desc: [
 		"Nearly perfect, this Resonator seems to be able to react to changing conditions well in advance. "
 		""
@@ -2710,41 +2710,41 @@
 		"So, let’s pick a method and get some Source generated!"
 		"&n                                       &r"
 		""
-		"Each Sourcelink uses a different \"fuel\" to generate Source, which it deposits into a nearby Source Jar."
+		"每种魔源通道会使用不同的“燃料”产生魔源，然后将产生的魔源输送到附近的魔源罐中。"
 		""
-		"• &7Agronomic&r – Generates Source from natural "
-		"    crop growth. Place in the middle of a field "
-		"    for best results."
+		"• &7农艺魔源通道&r：作物自然生长时产生魔源。将它放在农田正中可以让效果最大化。"
 		""
-		"• &7Volcanic&r – Consumes furnace fuels like coal. "
-		"    This can be dropped nearby or inserted into "
-		"    an adjacent Arcane Pedestal."
 		""
-		"• &7Alchemical&r – Consumes potions from an "
-		"    adjacent Potion Jar. Best paired with a Wixie "
-		"    designated to craft potions into the jar."
 		""
-		"• &7Vitalic&r – Converts mob deaths to Source, an "
-		"    excellent addition to any mob farm."
+		"• &7火山魔源通道&r：消耗煤炭等熔炉燃料产生魔源。燃料可以直接丢在附近，或者放进相邻的奥术基座上。"
 		""
-		"• &7Mycelial&r – Consumes food. This can be dropped "
-		"    nearby or inserted into an adjacent "
-		"    Arcane Pedestal."
 		""
-		"&a🛈 Tip: Source Jars hold 10,000 Source."
+		""
+		"• &7炼金魔源通道&r：从相邻的药水罐消耗药水以产生魔源。最好安排一个薇克精专门为这个药水罐生产药水。"
+		""
+		""
+		""
+		"• &7生死魔源通道&r：将生物的死亡转化为魔源。与任意生物农场是绝配。"
+		""
+		""
+		"• &7菌丝魔源通道&r：消耗食物以产生魔源。食物可以直接丢在附近，或者放进相邻的奥术基座上。"
+		""
+		""
+		""
+		"&a🛈 提示：魔源罐罐可以容纳10,000点魔源。"
 	]
 	quest.5AFB064A80189AA4.quest_desc: [
-		"This &7Moss&r appears to be concentrating different minerals as it grows. "
+		"这种&7苔藓&r似乎在生长过程中汇聚了各种矿物质。"
 		""
-		"Crush some to obtain &7Copper&r and other useful minerals!"
+		"粉碎他们可以获得&7铜&r和其他有用的矿物质！"
 		""
-		"Using &7Bone Meal&r on &7Moss&r will cause it to spread to nearby blocks, such as &7Mud&r and &7Dirt&r. As long as you keep at least one &7Moss&r, you will have an infinite supply!"
+		"对&7苔藓&r使用&7骨粉&r会使其蔓延到附近的方块，比如&7泥巴&r和&7泥土&r。所以只要你保留至少一块&7苔藓&r，就能无限地获取！"
 	]
-	quest.5AFB064A80189AA4.title: "Copper"
+	quest.5AFB064A80189AA4.title: "铜"
 	quest.5D1960D1AE64E4A2.quest_desc: [
-		"The Flourishing Island comes with a ready-made &7Natural Altar&r to get you started. "
+		"繁茂空岛自带一个现成的&7自然祭坛&r助你启程。"
 		""
-		"You’ll also notice several &7Swamp Homis&r dotted around under the &7Spore Blossoms&r. These handy little devices will convert nearby &7Moss&r back to &7Mud&r, releasing some Aura into the environment in the process. "
+		"你应该已经注意到了，有几个&7沼泽之霍米&r散步在&7孢子花&r下。这些实用的小装置能将附近的&7苔藓&r还原为&7泥巴&r，同时向周遭释放一些灵气。"
 	]
 	quest.5D50FB987FCA7BB5.quest_desc: [
 		"这座空岛上生长的&7恼人至高树&r上已经结出了一些&7堡垒果&r。"
@@ -3088,7 +3088,7 @@
 		"&a🛈 提示：尝试增加更多扩散魔符或叠加施放法术！"
 	]
 	quest.6490781066FAE8CF.quest_desc: [
-		"                      &6&n生物群系：红树林沼&r&r"
+		"                      &6&n生物群系：红树林沼泽&r&r"
 		""
 		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
 		""
@@ -3674,8 +3674,8 @@
 		""
 		"Right-Click a &7Mossy Cobblestone&r with their charm to create their home. Placing many different creatures in their home will make them happier and more productive. "
 		""
-		"&a🛈 Tip: Drygmies will work with mobs "
-		"&a    in Containment Jars!"
+		"&a🛈 提示：德格米可以操作被收容罐捕捉的生物！"
+		""
 	]
 	quest.7327D905FE8B38FC.quest_desc: [
 		"The Item Terminal turns a Pretty Pipes network into a full-fledged item management system, allowing you to access the items throughout a network in one central location. "
@@ -3841,7 +3841,7 @@
 		""
 		"With it, you’ll be able to generate the Source Gems and Essences you’ll need for all future crafts. "
 		""
-		"&a🛈 Tip: Source is optional!"
+		"&a🛈 提示：魔源不是必需的！"
 	]
 	quest.77A66ADAB0845804.quest_desc: [
 		"Macaw’s Mods are an expansive suite of decorative mods to fit just about any build. Enigmatica 10 currently has the following:"
@@ -4130,15 +4130,15 @@
 	quest.7FAC3A637F82BFED.quest_desc: [
 		"These floaty little witch friends can be tasked with automating standard 3x3 Crafting Table crafts, Potion Brewing, and even the Enchanting Apparatus. "
 		""
-		"Obtaining the Wixie Token to craft the Charm is going to require a little bit of Spellcraft; essentially you must Dispel a Witch that’s at less than half health. "
+		"在制作薇克精护符前，获取薇克精词元需要一点魔法技巧。你需要对一个生命值少于一半的女巫使用“解除魔法”魔符。"
 		""
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Villager to Wixie&r"
-		"    &5Projectile&r > &aLinger&r > &aLightning&r > &aDispel&r "
+		"&7把村民变成薇克精&r"
+		"    &5弹射物&r > &a滞留&r > &a闪电&r > &a解除魔法&r"
 		""
-		"&7Witch to Wixie&r"
-		"    &5Projectile&r > &aHarm&r > &6Amplify&r > &aDispel&r "
+		"&7把女巫变成薇克精&r"
+		"    &5弹射物&r > &a伤害&r > &6强化&r > &a解除魔法&r"
 	]
 	reward.11E0A9AD9E166E7A.title: "应急物资"
 	reward.34CE01457EC3BF54.title: "床"
@@ -4183,7 +4183,7 @@
 	task.122BA8ACC6374460.title: "物品展示台"
 	task.1291CAC439E06D6C.title: "符文"
 	task.14C95C2344B5DC59.title: "催化剂"
-	task.15D7325C0C904192.title: "Any Small Flower"
+	task.15D7325C0C904192.title: "任意小型花"
 	task.1A49508B81A230E6.title: "观察：&2降生祭坛&r"
 	task.1B81285E0D45A226.title: "Any Tool"
 	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
@@ -4233,7 +4233,7 @@
 	task.431D734EA8A2E7EF.title: "流体输入仓"
 	task.4484CC7F88D33D12.title: "奥术台座"
 	task.466DBFDDD1C1C5A6.title: "Storage Controller"
-	task.47D22C2E34E9A099.title: "Sourcelinks"
+	task.47D22C2E34E9A099.title: "魔源通道"
 	task.484FF1BEA9145D5F.title: "Puller Modules"
 	task.488180E25D5B815A.title: "Anti-Fields"
 	task.4927D2345C71AAA4.title: "流体存储"
@@ -4260,7 +4260,7 @@
 	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
 	task.5FAB53ACB4BF565C.title: "流体模块"
-	task.5FD033C23F211569.title: "Picking Up What You're Putting Down"
+	task.5FD033C23F211569.title: "懂你意思"
 	task.605834F92F6F384F.title: "观察：&2薇克精厨锅&r"
 	task.60A606EEBA68E86C.title: "流体输出仓"
 	task.60BB29288D966B49.title: "Any &3Macaw's&r Item"
