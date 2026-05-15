@@ -550,6 +550,7 @@
 				id: "farmersdelight:cutting_board"
 			}
 			id: "62C7492F54D80CBA"
+			min_width: 300
 			rewards: [
 				{
 					count: 3
@@ -801,19 +802,19 @@
 			min_width: 300
 			rewards: [
 				{
-					count: 8
-					id: "16F200E14F8BF6F4"
+					id: "4619FFA40EA4D076"
 					item: {
 						count: 1
-						id: "create:andesite_alloy"
+						id: "modern_industrialization:wrench"
 					}
 					type: "item"
 				}
 				{
-					id: "552F105DB2D295AF"
+					count: 16
+					id: "48F582335E3A5EE7"
 					item: {
 						count: 1
-						id: "modern_industrialization:wrench"
+						id: "minecraft:andesite"
 					}
 					type: "item"
 				}
@@ -867,14 +868,6 @@
 					item: {
 						count: 1
 						id: "minecraft:polished_andesite"
-					}
-					type: "item"
-				}
-				{
-					id: "0CEFD794AEF4F341"
-					item: {
-						count: 1
-						id: "create:andesite_alloy"
 					}
 					type: "item"
 				}

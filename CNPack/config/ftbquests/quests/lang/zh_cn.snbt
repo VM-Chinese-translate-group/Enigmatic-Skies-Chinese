@@ -265,14 +265,14 @@
 		""
 		"这一多方块结构可以自由搭建。只有附魔装置必须放在奥术核心上方，其余的奥术基座可以放在核心周围三格以内的任意位置。"
 		""
-		"The items in the Pedestals will be consumed by these recipes. "
+		"基座上的物品会被配方消耗掉。"
 	]
 	quest.09C3C5173499DF7C.quest_desc: [
-		"To craft essences, you’ll need to place some pedestals adjacent to the &7Imbuement Chamber&r with key items installed in each pedestal. "
+		"要开始合成精华，你需要在&7灌注室&r附近摆放一些奥术基座，然后在每个基座上放置一个指示物品。"
 		""
-		"These key items are &nnot consumed&r and are only there to set the recipe. "
+		"这些指示物品只是用来设置配方，过程中&n不会被消耗&r。"
 		""
-		"Valid placement is a 3x3x3 area centered on the &7Imbuement Chamber&r."
+		"合适摆放位置是以&7灌注室&r为中心的3x3x3区域。"
 		""
 		"&a🛈 提示：魔源不是必需的！"
 	]
@@ -328,9 +328,9 @@
 	quest.0C32904CD01E4743.quest_desc: [
 		"活化一个西风啸云，然后收集它的身体部件。"
 		""
-		"&6⚠ Note: The Ritual Item is not required. "
-		"&6    It's simply here as a courtesy for "
-		"&6    viewing the recipe."
+		"&6⚠ 注意：仪式图标物品并不是任务需要提交的物品。这里只是方便查阅仪式配方。"
+		""
+		""
 	]
 	quest.0C8FAB4B801907B1.quest_desc: [
 		"&7特斯拉手持接收器&r可以无线接收能量，在和你的特斯拉线圈连接后。"
@@ -462,14 +462,14 @@
 	]
 	quest.105CABB7D9705359.title: "农民"
 	quest.11B62E499806390F.quest_desc: [
-		"A &7Tablet of Harvest&r can be a great early way to start automating crop farming."
+		"&7收获之板&r是在游戏早期开始自动化作物种植的好方法。"
 		""
-		"Not only does it harvest the standard crops you’d grow on farmland, but it will also easily harvest pods grown on trees, such as &7Cocoa&r, &7Mendosteen&r, or any of the other Pods from Ars Nouveau."
+		"它不仅会收获你在农田里种植的普通作物，还能轻松收获树上生长的豆荚，比如&7可可豆&r、&7门多山竹&r，以及新生魔艺中的其他豆荚。"
 		""
-		"It will require a small amount of Source from a nearby &7Source Jar&r for each crop harvested and will deposit everything into an adjacent inventory. "
+		"它每收获一株作物，就要从附近的&7魔源罐&r中消耗少量魔源。收获的所有物品都会被存入相邻的容器中。"
 		""
-		"&a🛈 Tip: The particles denote the Ritual's "
-		"&a    working area."
+		"&a🛈 提示：粒子效果表示该仪式的生效区域。"
+		""
 	]
 	quest.11EDFB60C787114D.quest_desc: [
 		"&7凝胶&r可以用来转化其周围的材料，让它们变成更有价值的物质。"
@@ -667,11 +667,11 @@
 	quest.159F7020B1DE875D.quest_desc: [
 		"想要带上你的新朋友一起冒险吗？"
 		""
-		"By bringing them close to a &7Ritual of Binding&r, you’ll obtain a &7Bound Script&r which may be learned by Right-Clicking it in the air. "
+		"把它们带到&7绑定仪式&r的附近，你就会得到一个&7绑定手稿&r，对空中右击即可习得这一使魔。"
 		""
-		"Once learned, a new entry will appear in your &7Spell Book&r under the &7Familiars&r tab. From there, you’ll be able to instantly summon one familiar at a time to grant you benefits. "
+		"习得使魔后，你的&7法术书&r中&7使魔&r一栏就会出现新的条目。你现在可以随时召唤一个使魔（一次只能召唤一个），以此获得增益效果。"
 		""
-		"These benefits range from increased spell damage and higher looting rates, to buffed speed and ranged item collection. "
+		"增益效果可以是增加法术伤害或提高抢夺概率，也可以是提升速度或范围收集物品等。"
 		""
 		"Check the tooltips on each &7Bound Script&r to see what it has to offer you!"
 	]
@@ -1429,13 +1429,13 @@
 		"&7原初煤炭&r的燃烧时间是原木的16倍，且可通过&7煅烧炉&r轻松生产。"
 	]
 	quest.3104ECE58D5CC796.quest_desc: [
-		"The &7Pyromantic Brazier&r can be quite wasteful when used to power Theurgy devices, since it simply keeps burning as long as fuel remains. "
+		"用&7御炎火盆&r来驱动炼金设备相当浪费，因为只要有燃料它就会一直燃烧。"
 		""
-		"Consider using a &7Mercury Catalyst&r instead. This device accepts &7Mercury Shards&r and converts them to Flux, storing it much like a battery. "
+		"考虑改用&7汞催化剂&r。该装置可接收&7汞晶碎片&r并将其转化为能量流，并像电池一样储存它们。"
 		""
-		"A &7Caloric Flux Emitter&r may then be linked to a device and placed on a nearby &7Mercury Catalyst&r, allowing it to remotely send Flux to the linked device. "
+		"然后将&7流态热质发射器&r连接到一个设备，再将其放置在附近的&7汞催化剂&r上，使其能够向连接的设备远程发送能量。"
 		""
-		"This will only consume Flux when the linked device is running, allowing it to operate much more efficiently. "
+		"只有在连接的装置运行时，才会消耗能量，运行效率大大提高。"
 	]
 	quest.31903F40C2037EBD.quest_desc: [
 		"With a &7Trading Depot&r, you may begin to automate trades with &7Villagers&r. "
@@ -1500,14 +1500,14 @@
 		"&a    control what recipe is processed!"
 	]
 	quest.33679351A7B6D8E6.quest_desc: [
-		"Being able to place and pick up blocks automatically will help with getting some early tasks automated. "
+		"能够自动放置和拾取方块有助于实现一些早期任务的自动化。"
 		""
-		"Here on the Flourishing Island, &7Tuff&r may be summoned with the same spell you've previously used to obtain &7Icestone&r. It can be turned into some basic devices that will be useful for automation."
+		"在繁茂空岛上，你可以用之前获取&7冰石&r的法术来获取&7凝灰岩&r。它可以合成对自动化很有帮助的基础设备。（译者注：标题英文Picking Up What You're Putting Down可作俚语，意为“懂你意思”）"
 		""
-		"                           &6&nExample Spells&r"
+		"                           &6&n示例法术&r"
 		""
-		"&7Conjure Tuff&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑凝灰岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 	]
 	quest.3456EED039818662.quest_desc: [
 		"&7量子桥&r是用于跨纬度拓展网络的一种多方快结构，它由八个&7量子环&r围绕一个&7量子连接仓&r构成。"
@@ -1622,17 +1622,17 @@
 		"需要向所有四个&7物品展示台&r提供能量。"
 	]
 	quest.37C965C1FA40221E.quest_desc: [
-		"&7Spell Turrets&r can be an incredibly powerful automation tool for casting prepared spells. "
+		"&7法术炮塔&r是用来施放预备法术的极其强大的自动化工具。"
 		""
-		"There are some limitations, of course, since the &7Spell Turret&r cannot use every spell form; primarily Touch and Projectile. Still, being able to trigger a spell cast on a &7Redstone&r signal is invaluable."
+		"当然，有一些限制，因为&7法术炮塔&r不能使用所有法术形态，主要只能使用触摸和弹射物。不过，能够用&7红石&r信号触发法术的特点仍然是极其珍贵的。"
 		""
-		"The &7Turret&r may be programmed by simply Right-Clicking it with your &7Spell Book&r, a &7Caster Tome&r, or a &7Spell Parchment&r. "
+		"&7炮塔&r可以通过使用&7法术书&r、&7施法者卷册&r或&7法术羊皮纸&r右击来写入法术。"
 		""
-		"They may uses glyphs such as &7Item Pickup&r and &7Place Block&r provided they have an inventory adjacent to send to or pull from. "
+		"他们也可以使用诸如&7拾取&r和&7放置方块&r等魔符，前提是它们紧邻着一个可以接收或抽取物品的容器。"
 		""
-		"They also need a &7Source Jar&r somewhere nearby to power them."
+		"它们还需要在附近放置一个&7魔源罐&r来提供魔源。"
 		""
-		"Try setting your &5Brawndo&r spell on a &7Turret&r and shooting a &7Cloud Berry Bush&r."
+		"试试在你的&7炮塔&r上设置&5布兰朵&r法术，然后射击&7云莓灌木&r。"
 	]
 	quest.37DF459B5B6E6221.quest_desc: [
 		"&7物流框架&r可通过管道网络传输物品与流体。"
@@ -2080,12 +2080,12 @@
 	]
 	quest.41614A924E5556EE.title: "新生魔艺"
 	quest.427846D4FFE678C5.quest_desc: [
-		"Ancient stories tell of warriors who would consume these &7Shards&r before battle to enhance their vitality and ensure their safe return."
+		"古老传说中的勇士们会在战前吞服这些&7碎片&r以增强生命力，保护他们平安归来。"
 		""
-		"Perhaps it will also be accepted as a suitable sacrifice for the steps to come."
+		"也许它以后会成为合适的祭品。"
 		""
-		"&a🛈 Tip: Eating Life Shards will increase "
-		"&a    your max health by one Heart each!"
+		"&a🛈 提示：食用生命碎片能够增加你的最大生命，每个碎片加一颗心！"
+		""
 	]
 	quest.42A899B5E25F6124.quest_desc: [
 		"Channeling the most powerful magics requires a highly specialized focus. "
@@ -2290,9 +2290,9 @@
 	]
 	quest.47AFEF3DCB2990FB.title: "精制菜籽油"
 	quest.47CB92C2ECBB7FF4.quest_desc: [
-		"Bones are among the simplest things to re-animate. They hold in them a memory of life and an urge to move; they simply lack the impetus to do so. "
+		"骨头是最容易复活的东西之一。它们承载着生命的记忆和行动的渴望，只是缺乏一些动力。"
 		""
-		"For now, we’ll put them to work controlling some of our more basic machinery. "
+		"目前，我们可以将让它们负责控制一些基础机械。"
 	]
 	quest.47FF0CFF9CC92DBE.quest_desc: [
 		"A powered &7Refinery&r that handles the more complicated aspects of the process for you by regulating heat and pressure automatically!"
@@ -2319,9 +2319,9 @@
 		"So, if you’ve set up a crazy mob spawner in The End, maybe consider using this and a Vitalic Sourcelink to bring back all that delicious Source."
 	]
 	quest.49968116FCB311B0.quest_desc: [
-		"A precious gem known for its hardness, &7Ruby&r has long been used as a bearing in precision machinery. "
+		"&7红宝石&r是一种以硬度闻名的珍贵宝石，常被用作精密机械中的轴承。"
 		""
-		"It also makes an excellent focus for certain magical pursuits. "
+		"它也是某些魔法追求的绝佳媒介。"
 	]
 	quest.49E18B07D6E4A5EB.quest_desc: [
 		"利用神能晶片中蕴含的能量，我们可以制造一个发酵釜，用炼金手段转化某些材料。"
@@ -2894,6 +2894,8 @@
 		""
 		"将&7水桶&r冻成冰，然后再冻，再冻，直到冻成&7蓝冰&r。"
 		""
+		"不过要小心，持有它时会感到极其寒冷！"
+		""
 		"&7冷冻器&r使用&7冰石&r作为燃料。"
 	]
 	quest.619FB543EE458A0E.quest_desc: [
@@ -2985,6 +2987,28 @@
 		"有了&7斧头&r和&7砧板&r，你就能够切削&7树皮&r，制作&7纸&r。"
 		""
 		"再用&7刀&r破坏&7草&r以获得&7草杆&r。"
+		""
+		"之后也可以对&7砧板&r施展法术。以下组合模拟了相应的工具效果。"
+		""
+		"                           &6&n示例法术&r"
+		""
+		"&7刀或剪刀&r"
+		"    &5触摸&r > &a剪切&r"
+		""
+		"&7斧或刀&r"
+		"    &5触摸&r > &a剪切&r > &6强化&r"
+		""
+		"&7剪刀&r"
+		"    &5触摸&r > &a剪切&r > &6提取&r"
+		""
+		"&7镐&r"
+		"    &5触摸&r > &a破坏&r"
+		""
+		"&7锹&r"
+		"    &5触摸&r > &a粉碎&r "
+		""
+		"&7斧&r"
+		"    &5触摸&r > &a砍伐&r "
 	]
 	quest.62C7492F54D80CBA.title: "我为刀俎"
 	quest.62E2DEBF71698376.quest_desc: [
@@ -3154,7 +3178,7 @@
 		"In exchange, the Siren will help you automatically obtain fishing loot. "
 		"&n                                       &r"
 		""
-		"Right-Click a block of Prismarine with her charm to create her home. Placing more aquatic plants and animals in their home will make them happier and more productive."
+		"用对应的护符右击海晶石块可以创造出她的家园。在她的家园里放置更多水生植物和水生动物可以让她更加开心，更有生产力。"
 	]
 	quest.6703E3A9E3571660.quest_desc: [
 		"在没有防护的情况下进行户外活动，持有太多冰冷物品都会导致体温快速下降。"
@@ -3251,7 +3275,7 @@
 		""
 	]
 	quest.69295042E8C3A609.quest_desc: [
-		"Source Relays are used for transporting Source from place to place. This way you can have a centralized Source generation area that feeds multiple devices or Spell Turrets around your home."
+		"魔源中转器可以把魔源从一个地方传输到另一个地方。这样你就可以在一处设立集中式的魔源生产区域，让它为周围多个设备或法术炮塔提供魔源。"
 		""
 		"These come in a variety of flavors, however perhaps the most relevant right now will be the Splitter. Not only will this transfer Source faster than the basic Relay, but it can also be used to pull from or deposit to multiple targets. "
 		""
@@ -4260,7 +4284,7 @@
 	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
 	task.5FAB53ACB4BF565C.title: "流体模块"
-	task.5FD033C23F211569.title: "懂你意思"
+	task.5FD033C23F211569.title: "放下去，拿起来"
 	task.605834F92F6F384F.title: "观察：&2薇克精厨锅&r"
 	task.60A606EEBA68E86C.title: "流体输出仓"
 	task.60BB29288D966B49.title: "Any &3Macaw's&r Item"
