@@ -301,6 +301,13 @@
 	quest.0B04BC5F88746182.title: "存储"
 	quest.0B05FA716D7335D2.quest_desc: ["&7初级投物器&r是一款很出色的工具，它可以自动化一些世界交互的配方。"]
 	quest.0B17FF64DFA4BA90.quest_desc: ["Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!"]
+	quest.0BB08CCD3FEDEB54.quest_desc: [
+		"Moving materials long distances can be a troublesome task, but with an &7Entangled Block&r you can treat over there as if it were over here."
+		""
+		"Sneak Right-Click an inventory with the &7Binder&r to select it, then Right-Click the &7Entangled Block&r with the wand to bind the two. "
+		""
+		"Once bound, you'll be able to pipe in and out of the &7Entangled Block&r as if it were the bound inventory. Perfect for accessing fluids or items from far away!"
+	]
 	quest.0BB6D2595F99ADB4.quest_desc: [
 		"既然我们可以活化方块并收集更多种类的精魂，那么是时候深入研究基因改造技术了。"
 		""
@@ -976,7 +983,7 @@
 		""
 		"虽然你也可以使用法术炮塔替你放法术，但炮塔给人的感觉要更加冰冷……且死气沉沉。"
 		""
-		"But what if you could make your own friends? Cute, lovable, huggable friends that would spark joy just by being around? "
+		"如果说你可以创造出自己的伙伴呢？这些可爱的、招人喜欢的、让人想抱抱的伙伴们，哪怕只是看它们在周围玩耍，都可以幸福很久。"
 	]
 	quest.1DA29F3B45DEFB4B.title: "魔法伙伴"
 	quest.1DB63D0AAD1F0E11.quest_desc: [
@@ -1536,18 +1543,17 @@
 	quest.34FB10F0A2504973.title: "牧羊人"
 	quest.359562022532BAE1.quest_desc: [
 		"精魂灌注用于强化物品和材料，加强它们的效果。"
-		"&n                                                   &r"
-		"开始让我们制造一些魂染钢吧。"
+		"&n                                                  &r"
 		""
-		"EMI的精魂祭坛的配方中，中间的物品和显示在左侧的精魂应放置在祭坛本身之上。"
+		"When viewing Spirit Altar recipes in EMI, the central item and the Spirits shown to the left should be insterted onto the Altar itself. "
 		""
-		"显示在右侧的其他物品必须放在附近的物品基座或物品台中。"
+		"Any items shown on the right must be instered into a nearby Item Pedestal or Item Stand. "
 		""
-		"可以通过管道把物品送入物品基座中，或者在合成时手动右击放入。"
+		"Items may be piped into the these blocks, or otherwise Right-Clicked into place when crafting by hand."
 		""
-		"&6⚠ 注意：物品台和物品基座必须在祭坛的四格之内。"
-		""
-		""
+		"&6⚠ Note: Item Stands and Pedestals "
+		"&6    must be within four blocks of "
+		"&6    the Altar."
 	]
 	quest.359A7C9127500D6C.quest_desc: ["一个简单的&7熔炉&r，尽管天气寒冷，它也能很好地保护那宝贵的热量供你使用。"]
 	quest.35A8CEA408114638.quest_desc: [
@@ -1661,7 +1667,7 @@
 		""
 	]
 	quest.3895E1D9DE518B3F.quest_desc: [
-		"Casting all these spells will take its toll on your mana bar, especially if you’re trying to use a &7Spell Book&r as your primary mining tool"
+		"释放法术会大量消耗你的魔力，尤其是你想要用&7法术书&r作为你的主要挖掘工具的话。"
 		""
 		"希望更快速地回复魔力的话，你可以考虑制作一个&7湮灭之瓶&r。这种手持设备可以吃掉你拾取的物品，把它们直接转化为魔力。"
 		""
@@ -1723,12 +1729,12 @@
 		"They can be filtered and accept Motors as upgrades to speed them up."
 	]
 	quest.3A0F43654CE474DA.quest_desc: [
-		"Tree-hugging woodland spirits, &7Whirlisprigs&r will gladly join your menagerie if you show them some love and plant a tree nearby. "
+		"作为亲近树木的林地精灵，&7风转草&r很愿意加入你的家园，只要你能展现对她的爱，在她的附近种下一棵树。"
 		""
-		"In exchange, the &7Whirlisprig&r will help you grow and farm plants. "
+		"作为交换，&7风转草&r可以帮你种植和收获农场作物。"
 		"&n                                       &r"
 		""
-		"Right-Click any flower with her charm to create their home. Placing more plants and a greater variety of plants in their home will make them happier and more productive. "
+		"用对应的护符右击任意花朵可以创造出她的家园。在她的家园里放置更多数量与种类的植物，可以让她更加开心，更有生产力。"
 	]
 	quest.3A7AD25302240A1B.quest_desc: [
 		"临时网络是最简单的AE网络形式；它由一段&7福鲁伊克斯色线缆&r和一些连接设备组成，例如&7存储总线&r和&7终端&r。"
@@ -2067,13 +2073,13 @@
 	quest.41614A924E5556EE.quest_desc: [
 		"欢迎游玩新生魔艺！"
 		""
-		"这个精彩的模组满足了你所有关于魔法的幻想，从释放法术到酿造药水。"
+		"这个精彩的模组能够满足你所有关于魔法的幻想。从简单的释放法术，酿造药水，"
 		""
-		"Summon magical creatures and craft magical gadgets to automagically perform nearly any task around your home!"
+		"到召唤魔法生物和制作魔法装置，并且让它们自动完成你家里的几乎任何工作！"
 		""
-		"Ars Nouveau also has a number of add-on mods which bring many new mechanics and features. "
+		"新生魔艺还有很多附属模组，它们为游戏带来更多新的机制与新的特性。"
 		""
-		"These quests can't cover everything, but the guidebook should help with anything not covered here."
+		"仅靠这些任务无法囊括所有信息，通过指南手册应该可以解决这里没有提到的问题。"
 		""
 		"&a🛈 提示：魔源浆果可以种在草方块上。"
 		""
@@ -2146,7 +2152,7 @@
 	quest.4537806144939A6B.quest_desc: [
 		"作为紫水晶块的活化版本，这种傀儡可以自动化创造，促生并收集母岩上的方块。"
 		""
-		"Bind them to an inventory to set the area they’ll work in. Nearby blocks will be converted into budding blocks. As they grow buds, they’ll break them and collect the drops, storing them in their bound inventory."
+		"通过绑定它们与容器，来设置它们要进行工作的区域。附近的方块会被转化成母岩方块。当母岩上长出晶芽后，紫晶傀儡可以破坏这些晶芽并收集掉落物，然后存进它们绑定的那个容器中。"
 		""
 		"&a🛈 提示：紫晶傀儡也能用于生产赛特斯石英！"
 		""
