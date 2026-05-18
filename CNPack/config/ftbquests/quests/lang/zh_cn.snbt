@@ -250,9 +250,9 @@
 	]
 	quest.07EC0853BE4C6391.title: "大地精魂"
 	quest.08D496EFE575AD1E.quest_desc: [
-		"With any luck, you’ll have received a Genetically Modified Cell with the trait you’re after. If not, better luck next time."
+		"运气好的话，你会得到一个有你想要的性状的转基因细胞。运气不好的话，那就祝你下次运气好点。"
 		""
-		"If you did, take that GM Cell back to the DNA Extractor and proceed from there as you would with any Cell. By the end of the process, you’ll have a blood sample with your fancy new upgraded trait."
+		"成功之后，再把那个转基因细胞放回DNA提取器，然后像处理正常细胞一样继续操作。最后，你就会得到一个带有你全新升级性状的血液样本。"
 	]
 	quest.0916404C0979D753.quest_desc: [
 		"&7Steel Upgrades&r may be right clicked onto any &7Andesite Alloy Tier Machine&r to upgrade it directly to the &7Steel Tier&r version. "
@@ -317,15 +317,15 @@
 		""
 	]
 	quest.0BF882C463675433.quest_desc: [
-		"Now that we have some DNA, we need to know what it can do. "
+		"现在我们有了DNA，是时候该看看它能干什么了。"
 		""
-		"Every mob will give Basic Genes, but others have a chance to give more specialized Genes; these are what we’re ultimately after."
+		"每个生物都会提供基础基因，但其他生物有概率提供更为特殊的基因，这些才是我们想要的东西。"
 		""
-		"For example, had you started this process with a Sheep, you’d have a chance of getting the Eat Grass Gene, which could be used to give yourself the ability to Right-Click Grass to eat it."
+		"举个例子，如果从羊开始这套流程，就有概率获得吃草基因，它可以让你通过右击草来吃草。"
 		""
-		"&a🛈 Tip: Check the Recipes for any given "
-		"&a    Helix in EMI to see what mobs it "
-		"&a    comes from!"
+		"&a🛈 提示：在EMI中查看DNA螺旋的配方，了解能从哪些生物身上获取"
+		""
+		""
 	]
 	quest.0C0A7017CEF34F6C.quest_desc: [
 		"You’d think just dumping this stuff on the ground would get it plenty cold. "
@@ -366,9 +366,9 @@
 	]
 	quest.0D65061DFD04B301.title: "物品模块"
 	quest.0D7B7B9CF7362FD8.quest_desc: [
-		"Have a trait you don’t want anymore? You can remove them by crafting an Anti-Plasmid. "
+		"有不想要的基因？你可以制作抗质粒来移除它。"
 		""
-		"Attune it to the trait you wish to remove by crafting it together with a Plasmid of that type. Then inject it into a blood sample, just as you would with a regular Plasmid."
+		"将它与同类型的质粒一起合成。然后将其注入血液样本，就像使用普通质粒一样。"
 	]
 	quest.0DA6F0172E06CCB1.quest_desc: [
 		"Building on its tool upgrade system, Just Dire Things also introduces a number of abilities for its armor tiers. "
@@ -465,7 +465,7 @@
 	quest.105CABB7D9705359.quest_desc: [
 		"&7农民&r有一些非常实用的工具，可以帮助你加快作物农场的速度。务必要去看看他们的商品哦！"
 		""
-		"他们还会提供&7菌丝魔源连接器&r，将食物直接转化为魔源，帮助你开始魔源生产。"
+		"他们还会提供&7菌丝魔源通道&r，将食物直接转化为魔源，帮助你开始魔源生产。"
 	]
 	quest.105CABB7D9705359.title: "农民"
 	quest.11B62E499806390F.quest_desc: [
@@ -502,7 +502,7 @@
 		"要让它们能够从全部槽位提取，只需对连接处使用&7迅捷符文&r即可。"
 	]
 	quest.1275C61F2390D761.quest_desc: [
-		"&7ME复制连接器&r能把你复制网络与AE2网络链接起来。有了它，AE2就能从你的复制网络请求任何物品进行自动合成。"
+		"&7ME复制连接器&r能把你的复制网络与AE2网络链接起来。有了它，AE2就能从你的复制网络请求任何物品进行自动合成。"
 		""
 		"一定要学会如何在AE2创建物质类型：将样板供应器对着分解器放置，然后给每种物质类型设置样板。"
 		""
@@ -680,7 +680,7 @@
 		""
 		"增益效果可以是增加法术伤害或提高抢夺概率，也可以是提升速度或范围收集物品等。"
 		""
-		"Check the tooltips on each &7Bound Script&r to see what it has to offer you!"
+		"可在每种&7绑定手稿&r的提示框里查看它们能解锁的内容！"
 	]
 	quest.15FAB1720AD470A0.quest_desc: [
 		"每个现代工业化的多方快结构都需要与其处理内容所匹配的输入与输出仓。"
@@ -1150,12 +1150,12 @@
 	]
 	quest.267FEB0BB5D9B4D9.title: "Assembly Table"
 	quest.26B8DEFFA75B3944.quest_desc: [
-		"鉴定室用于扫描物品，并将样板存储到存储芯片中。此过程具有破坏性，会损失你的输入物品。但这也算合情合理吧？毕竟你很快就会拥有无限的这种物品了。"
+		"鉴定室用于扫描物品，并将样板存储到存储芯片中。此过程具有破坏性，会损失你的输入物品。但这也算合情合理吧？毕竟你很快就会拥有无限量的这种物品了。"
 		""
 		"每个存储芯片最多可存储16种不同的样板，放入芯片存储器后，就可以从终端请求这些物品。"
 		""
-		"&a🛈 提示：物品可以从底部"
-		"&a    用管道送入鉴定室。"
+		"&a🛈 提示：物品可以从底部用管道送入鉴定室。"
+		""
 		""
 	]
 	quest.26D35A0B06B5EA35.quest_desc: [
@@ -1170,13 +1170,13 @@
 	quest.2722D0A13CF02C73.quest_desc: ["A &7Source Condenser&r can be a handy way to convert &7Source&r into &7Liquefied Source&r!"]
 	quest.274C351C4A8F794F.quest_desc: ["Positively buzzing with arcane energy. "]
 	quest.2850FCAFEEF5004C.quest_desc: [
-		"Some traits, such as &7Efficiency&r, may be leveled up through a process known as Mutation."
+		"部分基因（比如&7效率&r），可以通过突变升级。"
 		""
-		"The results of this process are not guaranteed but there are ways to improve your chances."
+		"突变的结果带有不确定性，但有一些方法可以提高成功率。"
 		""
-		"To begin, craft some &7Potions of Mutation&r, then get some &7Cells&r from a mob that can provide the basic trait. In this case, Silverfish."
+		"首先，制作一些&7突变药水&r，然后从一个能提供基础基因的生物（比方说蠹虫）上获取&7细胞&r。"
 		""
-		"Brew the Cell samples with the potion of Mutation to obtain a Potion of Mutation with that mob set as the entity."
+		"将细胞样本与突变药水一起酿造，就能得到一瓶以该生物为实体的突变药水。"
 	]
 	quest.288F7A968693F3E5.quest_desc: [
 		"When supplied the appropriate fluid and a &7Firework Rocket&r to deliver it high into the atmosphere, this &7Obelisk&r will control the weather, keeping things as temperate or tempestuous as you wish."
@@ -1326,13 +1326,13 @@
 		"Similarly, they’ll share heat in any direction, making it simple to heat an entire line of them for multiple recipes. "
 	]
 	quest.2C1538BE243F0CB4.quest_desc: [
-		"So you’ve found a trait you’d like to have for yourself? You’ll need to infuse it into a Plasmid. "
+		"终于找到了一个自己想要的基因？接下来只需要把它注入质粒中。"
 		""
-		"It only takes one Helix to set the type of a Plasmid. From there you can either use more of the same type to fill it up, or Basic Genes. Either is valid, though it will take more Basic Genes to fill it."
+		"用DNA螺旋来设置质粒的类型，然后可以使用更多同类型的DNA螺旋来填满它，基础基因也可以，不过使用基础基因需要消耗更多数量。"
 		""
-		"&a🛈 Tip: Use Basic Genes to craft Empty "
-		"&a    Plasmids rather than wasting useful "
-		"&a    Genes on them."
+		"&a🛈 提示：使用基础基因来制作空质粒，"
+		"&a    而不要把有用的基因浪费在它上面。"
+		""
 	]
 	quest.2C3B39CD6A7E044C.quest_desc: [
 		"Andesite Alloy tier machines all run on &7Steam&r, which will need to be piped directly into the machine to power it. "
@@ -1427,8 +1427,8 @@
 		"需要将样板存储在存储芯片上才能发出此类请求。"
 		""
 		"&6⚠ 注意：带有额外数据的物品，"
-		"&6    例如电池或具有物品栏的物品，"
-		"&6    复制后会清空数据。"
+		"&6    例如电池或具有物品栏的物品，复制后会清空数据。"
+		""
 	]
 	quest.30FE41CF0C7F1270.quest_desc: [
 		"需要燃料支持？"
@@ -1671,9 +1671,9 @@
 		""
 		"希望更快速地回复魔力的话，你可以考虑制作一个&7湮灭之瓶&r。这种手持设备可以吃掉你拾取的物品，把它们直接转化为魔力。"
 		""
-		"To set an item it is allowed to eat, place that item in your offhand and Right-Click with the &7Jar&r. "
+		"要设置允许吃掉的物品，请副手持对应物品，主手持&7湮灭之瓶&r，然后按下右键。"
 		""
-		"Consider adding things like &7Cobble&r and other &7Stones&r to it."
+		"可以考虑设置成&7圆石&r或是其他的一些&7石头&r。"
 		""
 		"&a🛈提示：随时可以潜行并右击魔源罐以进行配置。"
 		""
@@ -1920,17 +1920,17 @@
 		"要过滤实体，请使用刷怪蛋；要过滤流体，请使用桶装流体。"
 	]
 	quest.3EA53BBEBC32F813.quest_desc: [
-		"Welcome to Genetics: Resequenced!"
+		"欢迎来到基因重组！"
 		""
-		"This mod is all about gaining special powers, for yourself and other mobs. "
+		"本模组能让你自己和其它生物获得特殊能力。"
 		""
-		"Ever wanted to shear meat off a pig? Milk a chicken? Eat grass like a sheep? How about feed yourself directly through the power of photosynthesis?"
+		"有没有想过从猪身上剪下肉；或者给鸡挤奶；或者像羊一样吃草；再或者通过光合作用直接给自己补充能量？"
 		""
-		"Well now you can!"
+		"现在你可以做到了。"
 		""
-		"These quests will walk you through the basics of using the mod. From there it’ll be up to you to put it to use, for good or ill."
+		"这些任务将引导你完成使用模组的基础步骤。之后，无论怎样，就靠你自己去运用这些知识了。"
 		""
-		"[\"Be sure to check out their online \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\" which is an excellent source of supplemental information.\"]"
+		"[\"请务必查阅他们的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"，可以为你补充很多信息。\"]"
 	]
 	quest.3EA53BBEBC32F813.title: "基因重组"
 	quest.3EA705A9C893F04A.quest_desc: [
@@ -2233,21 +2233,21 @@
 		"没关系！此任务可以被重复完成，助你重新上路！"
 	]
 	quest.4613FE560EAC7695.quest_desc: [
-		"Combine the &7Purified Blood&r with a filled &7Plasmid&r in the &7Plasmid Injector&r to set the trait in the blood sample. "
+		"在&7质粒注射器&r中将&7净化血液&r与已填充的&7质粒&r组合，就可以在血液样本中设置基因。"
 		""
-		"You can inject multiple traits into the same sample if you like. "
+		"你可以将多个基因注入同一个样本。"
 		""
-		"Once you’re happy with your enhanced blood sample, it’s time to inject it into a creature. "
+		"感觉血液样本增强得差不多了之后，就该把它注入一个生物了。"
 		""
-		"[\"Many traits may be given to mobs, but not all. Refer to the \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\" if in doubt.\"]"
+		"[\"许多基因都可以注入到生物上，但不是所有基因都可以。如有疑问，请参考\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"。\"]"
 		""
-		"&6⚠ Note: Some traits have prerequisites "
-		"&6    that, if not met, will cause the "
-		"&6    injection to fail. Refer to EMI."
+		"&6⚠ 注意：有些基因有前置条件，如果不满足，注入就会失败。"
+		"&6    具体参照EMI。"
 		""
-		"&a🛈 Tip: Traits applied to breedable "
-		"&a    animals are transferred to their "
-		"&a    offspring!"
+		""
+		"&a🛈 提示：对于可繁殖动物的基因，同样会遗传给它们的子代！"
+		""
+		""
 	]
 	quest.465D195EA5630857.quest_desc: [
 		"With a Storage Lectern from Ars Nouveau, you can easily link together multiple inventories to have a central storage and crafting interface. "
@@ -2322,7 +2322,7 @@
 	quest.4914692B607F8BE0.quest_desc: [
 		"末影魔源罐是跨维度传输魔源的理想方案。"
 		""
-		"So, if you’ve set up a crazy mob spawner in The End, maybe consider using this and a Vitalic Sourcelink to bring back all that delicious Source."
+		"也就是说，如果你在末地建造了一个疯狂的生物农场，你可以使用末影魔源罐配合生死魔源通道，将这些可口的魔源运回基地。"
 	]
 	quest.49968116FCB311B0.quest_desc: [
 		"&7红宝石&r是一种以硬度闻名的珍贵宝石，常被用作精密机械中的轴承。"
@@ -2514,7 +2514,7 @@
 	quest.521DE7879A4B6F03.quest_desc: ["With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  "]
 	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"水之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"奔流空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \"的不绝飞瀑。\" ]"]
 	quest.5226F1BC0A1B23D0.title: "奔流空岛"
-	quest.529329FE6CB3D29E.quest_desc: ["Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. "]
+	quest.529329FE6CB3D29E.quest_desc: ["在DNA提取器中分解细胞来获得美味多汁的DNA螺旋。"]
 	quest.52E79B2EB7400D13.quest_desc: [
 		"&7终端&r让你可以访问网络，让你和其中的物品交互。"
 		""
@@ -2709,11 +2709,11 @@
 	]
 	quest.5AC80FA3683D9E45.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
 	quest.5AD1A273F3714FAF.quest_desc: [
-		"It’s probably about time we started thinking about Source. "
+		"是时候开始考虑生产魔源了。"
 		""
-		"Many of Ars Nouveau’s devices either require Source to run, such as certain &7Enchanting Apparatus&r recipes, or are dramatically improved by having Source supplied, like the &7Imbuement Chamber&r."
+		"来自新生魔艺模组的多种设备需要魔源才能运作，例如&7附魔装置&r。另一些设备在提供魔源时会有极大增幅，例如&7灌注室&r。"
 		""
-		"So, let’s pick a method and get some Source generated!"
+		"因此，从下面挑一个方案，现在开始魔源大生产！"
 		"&n                                       &r"
 		""
 		"每种魔源通道会使用不同的“燃料”产生魔源，然后将产生的魔源输送到附近的魔源罐中。"
@@ -2913,12 +2913,12 @@
 	]
 	quest.619FB543EE458A0E.title: "北极熊"
 	quest.61F55FC24EA0CD1C.quest_desc: [
-		"To begin, we’ll need some Organic Matter samples. You’ll obtain these by using your Scraper on different mobs. "
+		"首先，我们需要一些有机物质样本，可以对不同生物使用刮刀来获得。"
 		""
-		"Toss those in a Cell Analyzer to obtain Cells."
+		"然后扔进细胞分析器来获得细胞。"
 		""
-		"&a🛈 Tip: A Scraper enchanted with "
-		"&a    Delicate Touch will cause no harm."
+		"&a🛈 提示：带有精细触控附魔的刮刀不会造成伤害。"
+		""
 	]
 	quest.623B5F0C0464F907.quest_desc: [
 		"虽然“一群&7星宝石兽&r共享一个过度工作的脑细胞”的传言确实是真的，但它们依然能带来巨大的帮助。"
@@ -3158,12 +3158,12 @@
 		"New &7Dorodangos&r await you with the materials available on this island. "
 	]
 	quest.65FDD18E441E2E6E.quest_desc: [
-		"An animate Book, Bookwyrms are part of a complete storage system built into Ars Nouveau. "
+		"作为一本活化了的书，书龙是新生魔艺模组内置的完备仓储系统的一部分。"
 		""
-		"The guidebook offers a full guide on setting this system up, however as a brief overview use a Bookwyrm Charm on a Storage Lectern to enable that Lectern to be linked to inventories."
+		"手册中可以查到有关如何建立这一系统的更详细的指南。不过如果按还需要简单概述的话，那就是对存储讲台使用一个书龙护符，这样就可以建立讲台与容器的连接。"
 		""
-		"&a🛈 Tip: Adding more Bookwyrms allows "
-		"&a    more connections!"
+		"&a🛈 提示：使用更多书龙可以增加可连接容器的数量！"
+		""
 	]
 	quest.6660BE0C308A1744.quest_desc: [
 		"使用降生祭坛召唤一只&7山羊&r，然后从它身上采集一些&7有机物质&r。"
@@ -3179,9 +3179,9 @@
 		"Upgraded versions of the Chestplate are also available to add Elytra or Jetpack flight!"
 	]
 	quest.66DAC6EC4232C44A.quest_desc: [
-		"Fun-loving denizens of the deeps, Sirens live in warm oceans and will happily join your menagerie if you give them a Sea Pickle. "
+		"作为追求乐趣的海洋居民，塞壬生活在暖水海洋，也很愿意加入你的家园，只要你能给她一个海泡菜。"
 		""
-		"In exchange, the Siren will help you automatically obtain fishing loot. "
+		"作为交换，塞壬可以帮你收集钓鱼战利品。"
 		"&n                                       &r"
 		""
 		"用对应的护符右击海晶石块可以创造出她的家园。在她的家园里放置更多水生植物和水生动物可以让她更加开心，更有生产力。"
@@ -3283,12 +3283,12 @@
 	quest.69295042E8C3A609.quest_desc: [
 		"魔源中转器可以把魔源从一个地方传输到另一个地方。这样你就可以在一处设立集中式的魔源生产区域，让它为周围多个设备或法术炮塔提供魔源。"
 		""
-		"These come in a variety of flavors, however perhaps the most relevant right now will be the Splitter. Not only will this transfer Source faster than the basic Relay, but it can also be used to pull from or deposit to multiple targets. "
+		"中转器有多种不同的类型，目前来说，或许最具实用价值的还是分流中转器。相比普通的中转器，分流中转器不仅能输送更多魔源，还能同时向多个目标抽取或输送魔源。"
 		""
 		"Use a Dominion Wand to link Relays to other Relays or Source Jars. First Right-Click the origin, then Right-Click the destination."
 		""
-		"&a🛈 Tip: You can recolor the beams shot "
-		"&a    by a Relay using the Wololo Glyph!"
+		"&a🛈 提示：你可以使用Wololo魔符改变中转器发射的光束的颜色。"
+		""
 	]
 	quest.692EDEAEC3F4A2AD.quest_desc: [
 		"&7替换器&r是一个强大的传送装置，可以将前方的方块或实体与绑定的对象互换。"
@@ -3578,14 +3578,14 @@
 	quest.6EB6E8DEEBB32911.quest_desc: [
 		"In order to obtain a trait, it must be injected into a blood sample. So we’ll need to get one of those first."
 		""
-		"You can obtain your own blood with an Empty Syringe; simply hold Right-Click until your vision goes dark."
+		"你可以用空注射器来获得自己的血液，按住鼠标右键直到视野变暗。"
 		""
-		"To obtain the blood of another creature, you’ll need an Empty Metal Syringe."
+		"要想获得其他生物的血液，就需要一个空的金属注射器。"
 		""
-		"Once a sample is obtained, run it through the Blood Purifier to get it ready for modification."
+		"获得样本后，通过血液净化器净化，修改的前期准备就做好了。"
 		""
-		"&a🛈 Tip: You need to stand very close to "
-		"&a    a mob to extract their blood."
+		"&a🛈 提示：你需要站得离生物非常近，才能提取它们的血液。"
+		""
 	]
 	quest.6EBB293F3DDE5EC7.quest_desc: [
 		"女子游荡到了东方，动物们随她一同前行。"
@@ -3766,23 +3766,23 @@
 	]
 	quest.7413DDDB64FFAC2A.title: "整备物资"
 	quest.7431B398FFDF3DCA.quest_desc: [
-		"With a &7Potion of Mutation&r set to the proper mob type, you’re ready for the next step. "
+		"在设置好生物类型的&7突变药水&r后，就可以进行下一步了。"
 		""
-		"This potion will again be combined in the &7Advanced Incubator&r, this time with a key item. Check the uses for your &7Potion of Mutation&r to see what it needs. "
+		"这个药水会在&7高级孵化器&r中，与一个关键物品一起合成。查阅你&7突变药水&r的用途，看看它需要什么物品来合成。"
 		""
-		"This process is slow and any attempt to speed it up will result in a lower chance of success. "
+		"这个过程很慢，任何加速的方法都会导致成功率降低。"
 		""
-		"Adding &7Chorus Fruit&r to the right-hand slot of the A&7dvanced Incubator&r will increase your chances of success."
+		"在&7高级孵化器&r右侧的槽位中添加&7紫颂果&r会增加成功率。"
 		""
-		"&a🛈 Tip: When looking for these recipes, "
-		"&a    check the Uses on the Potion of "
-		"&a    Mutation."
+		"&a🛈 提示：在寻找这些配方时，不要忘记查看突变药水的用途。"
 		""
-		"&c⚠ Warning: Overclockers drastically "
-		"&c    increase failure rates. "
-		"&c    Patience, grasshopper!"
+		""
+		""
+		"&c⚠ 警告：超频器会大幅增加失败率"
+		""
+		"&c    耐心点，新手！"
 	]
-	quest.7431B398FFDF3DCA.title: "Mutation"
+	quest.7431B398FFDF3DCA.title: "突变"
 	quest.74463B3FC2D297AC.quest_desc: [
 		"欢迎探索气动工艺。作为一款强大的物流与自动化模组，它以压缩空气与热力为核心，可包揽各类繁杂任务。"
 		""
@@ -4029,9 +4029,9 @@
 	]
 	quest.79DFBA1E35132332.title: "薇克精烹饪"
 	quest.79FA7B5854C9606F.quest_desc: [
-		"The Anti-Field Orb and Block both function to suppress certain genes; specifically the Item Attraction and XP Attraction traits."
+		"反场球和反场方块的功能都是抑制特定基因，尤其是物品吸引和经验吸引基因。"
 		""
-		"Place the block in an area where you don’t want to be sucking up items randomly. Or carry the orb with you to enable and disable the trait at will. Just Right-Click it to toggle the feature."
+		"将方块放置在你不想随便吸取物品的区域。或者随身携带反场球，随时启用或禁用该基因。右击即可切换功能。"
 	]
 	quest.7ADBC282C9692EDE.quest_desc: ["Cable Façades are a universal façade that you can use to cover just about any pipe! "]
 	quest.7ADBC282C9692EDE.title: "Cable Facades"
@@ -4047,7 +4047,7 @@
 		"记住，你的耗电量越高，你这个策略所需的缓存容量就要越大。否则，重新预热所花费的时间很可能会消耗你更多的燃料。"
 	]
 	quest.7B6267C141FE9B83.quest_desc: [
-		"These dapper ocean critters have a knack for digging up lost treasures from sand. "
+		"这些优雅的海洋生物热衷于从沙子中找出失落的宝物。"
 		""
 		"Build them a little home and be sure to provide them with plenty of fresh Sand or Gravel and they’ll while away their days sifting through it for obscure artifacts. "
 	]
@@ -4209,7 +4209,7 @@
 	task.0CB92589AF70B557.title: "任意&3精巧手艺&r物品"
 	task.0DE0A9A5505F1850.title: "发现谜团"
 	task.10DFCCF8FA5D5505.title: "灵气制造设备"
-	task.116CBCF6CA77E71A.title: "Syringe"
+	task.116CBCF6CA77E71A.title: "注射器"
 	task.122BA8ACC6374460.title: "物品展示台"
 	task.1291CAC439E06D6C.title: "符文"
 	task.14C95C2344B5DC59.title: "催化剂"
@@ -4265,7 +4265,7 @@
 	task.466DBFDDD1C1C5A6.title: "Storage Controller"
 	task.47D22C2E34E9A099.title: "魔源通道"
 	task.484FF1BEA9145D5F.title: "Puller Modules"
-	task.488180E25D5B815A.title: "Anti-Fields"
+	task.488180E25D5B815A.title: "反场"
 	task.4927D2345C71AAA4.title: "流体存储"
 	task.4AAAB62A26960EFE.title: "Fluid Pipes"
 	task.4D45C5166D0700F8.title: "Item Pipes"
