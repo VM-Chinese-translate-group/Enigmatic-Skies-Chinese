@@ -2418,8 +2418,8 @@
 		""
 		"Very often, this just means adding a &7Heat Sink&r to the blue side to warm it up to ambient temperature. However, it can be useful at times to put hot blocks, such as &7Magma&r or &7Lava&r, on the blue side to really push temperatures higher on the red side.  "
 		""
-		"&a🛈 Tip: Use Thermal Lagging on "
-		"&a    machines to prevent heat loss."
+		"&a🛈 提示：在机器上使用隔热板，可以避免热量损耗。"
+		""
 	]
 	quest.4E175A06927C3A75.quest_desc: [
 		"&7充气站&r可便捷地为气动工具与设备充气。"
@@ -3632,8 +3632,8 @@
 		""
 		"Heat sources will degrade over time and will need to be replaced."
 		""
-		"&a🛈 Tip: Look at Uses for Heat Pipes in"
-		"&a    EMI for a list of heat sources."
+		"&a🛈 提示：可以在EMI中点击查看热管的用途，以获取热源的详细列表。"
+		""
 	]
 	quest.6FC31B3806BF222A.quest_subtitle: "Raising the Bar"
 	quest.706758F1FE31E268.quest_desc: [
@@ -3952,7 +3952,7 @@
 		"&6&n示例法术&r"
 		""
 		"&7构筑天壤&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
 		"&7构筑黏土&r"
 		"    &5触摸&r > &a构筑地层&r > &6强化&r"
