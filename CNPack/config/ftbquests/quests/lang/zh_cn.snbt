@@ -90,20 +90,20 @@
 	]
 	quest.0458B6BC887C9725.title: "狼"
 	quest.04AE4EA4C7CFB080.quest_desc: [
-		"The &7Turbo Jetpack&r functions much like an Elytra with the Space bar used to control it."
+		"&7涡轮增压喷气背包&r的机制与鞘翅类似，你可以使用空格键进行操作。"
 		""
-		"It burns the same types of fuel as your &7Boilers&r do."
+		"它所使用的燃料类型与&7锅炉&r相同。"
 		""
-		"[\"• Toggle Flight (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Toggle Flight\"}]},\"keybind\":\"key.modern_industrialization.toggle_flight\"},\")\"]"
+		"[\"• 切换飞行（\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"切换飞行\"}]},\"keybind\":\"key.modern_industrialization.toggle_flight\"},\"）。\"]"
 		""
-		"• Hold Space while on the ground to be "
-		"  propelled straight up"
+		"• 在地面上按住空格键垂直抬升。"
 		""
-		"• Tap Space to begin gliding"
 		""
-		"• While gliding, hold Space to provide a "
-		"  speed boost in the direction you’re "
-		"  looking"
+		"• 按下空格键开始滑翔。"
+		""
+		"• 处于滑翔状态下时，按住空格键可以朝视线方向加速。"
+		""
+		""
 		""
 		"&c⚠ 警告：请勿在室内使用。"
 	]
@@ -741,11 +741,11 @@
 	quest.18D575594C6F74A7.quest_desc: [
 		"Made from &7Sand&r, &7Silty Dorodangos&r may be processed down into new materials!"
 		""
-		"                    &n&6Materials&r"
+		"                    &n&6材料&r"
 		""
-		"  • &7Prismarine Shards&r"
-		"  • &7Prismarine Crystals&r"
-		"  • &7Nautilus Shells&r"
+		"  • &7海晶碎片&r"
+		"  • &7海晶砂粒&r"
+		"  • &7鹦鹉螺壳&r"
 	]
 	quest.19F8B29D38CA31B8.quest_desc: [
 		"The &7Flashing Archwoods&r on this island will already have a few &7Flashpine&r grown on them. "
@@ -1135,7 +1135,7 @@
 		"它确实需要一个工具，确保为羊毛农场提供了剪刀，为击杀生物提供一把趁手的抢夺剑。"
 	]
 	quest.267FEB0BB5D9B4D9.quest_desc: [
-		"The &7Assembly Table&r is a multiblock machine capable of more advanced crafting. "
+		"&7装配台&r是一种多方块机器，适用于更高级的合成配方。"
 		""
 		"Each piece has requirements for valid placement; refer to the PNC:R manual for the exact rules."
 		""
@@ -1148,7 +1148,7 @@
 		"&6    recipes that use either a drill or "
 		"&6    laser, or both."
 	]
-	quest.267FEB0BB5D9B4D9.title: "Assembly Table"
+	quest.267FEB0BB5D9B4D9.title: "装配台"
 	quest.26B8DEFFA75B3944.quest_desc: [
 		"鉴定室用于扫描物品，并将样板存储到存储芯片中。此过程具有破坏性，会损失你的输入物品。但这也算合情合理吧？毕竟你很快就会拥有无限量的这种物品了。"
 		""
@@ -1167,7 +1167,7 @@
 		""
 		"自那以后，凛冽之冬后也有温柔之春接替，四季轮回，生生不息。"
 	]
-	quest.2722D0A13CF02C73.quest_desc: ["A &7Source Condenser&r can be a handy way to convert &7Source&r into &7Liquefied Source&r!"]
+	quest.2722D0A13CF02C73.quest_desc: ["&7魔源凝聚器&r可以很方便地把&7魔源&r转化为&7液态魔源&r。"]
 	quest.274C351C4A8F794F.quest_desc: ["Positively buzzing with arcane energy. "]
 	quest.2850FCAFEEF5004C.quest_desc: [
 		"部分基因（比如&7效率&r），可以通过突变升级。"
@@ -1314,16 +1314,16 @@
 		"Like those &7Motors&r you’ve been manhandling. Do better."
 	]
 	quest.2BB91161DB6B6AF5.quest_desc: [
-		"What, you thought you’d have to blow up a bunch of &7Iron&r to make yourself some &7Compressed Iron&r? "
+		"什么？你还以为只能通过炸掉&7铁锭&r的方式制作&7压缩铁锭&r？"
 		""
-		"Just squish it really hard!"
+		"现在只要用力捶打就行了！"
 	]
 	quest.2C07E148B9B60809.quest_desc: [
-		"The &7Thermopneumatic Processing Plant&r, or &7TPP&r, uses a combination of heat and pressure to process materials. "
+		"&7热气动加工机&r（&7TPP&r）需要同时使用热量和压力来创造新的材料。"
 		""
-		"When placed side-by-side, they will share pressure, so keep this in mind if you need different requirements for different recipes. "
+		"相邻放置的热气动加工机会均摊压力。如果你需要在不同配方中应用不同压力的话，务必牢记前面的这条规律。"
 		""
-		"Similarly, they’ll share heat in any direction, making it simple to heat an entire line of them for multiple recipes. "
+		"类似的，所有方向上相邻的机器也会共享热量，因此将它们排成一条线，可以更方便地为多个配方提供所需热量。"
 	]
 	quest.2C1538BE243F0CB4.quest_desc: [
 		"终于找到了一个自己想要的基因？接下来只需要把它注入质粒中。"
@@ -1480,12 +1480,12 @@
 		""
 	]
 	quest.323D480E3C37579E.quest_desc: [
-		"The &7Cascading Archwoods&r on this island will already have a few &7Frostaya&r grown on them. "
+		"这座空岛上生长的&7奔流至高树&r上已经结出了一些&7霜木瓜&r。"
 		""
-		"Gather a few and consider setting up a farm when you can; they grow when placed on a &7Cascading Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. "
+		"可以先收集一些，然后随时可以建造一个农场。霜木瓜可以在&7奔流至高原木&r上生长，可以通过&7骨粉&r或其他催熟手段加速生长。"
 		""
-		"&a🛈 Tip: Harvest Rituals can be an easy "
-		"&a    way to farm these fruit!"
+		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
+		""
 	]
 	quest.3263757C9A240C70.quest_desc: [
 		"Chipped offers a multitude of block variants to fit your every decorative need. The Workbenches themselves are equally lovely and can spruce up your interiors quite easily."
@@ -1612,11 +1612,11 @@
 	quest.3753A3EB1909F923.quest_desc: [
 		"Made from &7Salt&r, &7Briny Dorodangos&r may be processed down into new materials!"
 		""
-		"                   &n&6Materials&r"
+		"                   &n&6材料&r"
 		""
-		"  • &7Lapis Lazuli&r"
-		"  • &7Certus Quartz Crystals&r"
-		"  • &7Neptunium Nuggets&r"
+		"  • &7青金石&r"
+		"  • &7赛特斯石英水晶&r"
+		"  • &7海王粒&r"
 	]
 	quest.37AA9E6270DB015A.quest_desc: [
 		"这是一个多方块结构，由放置在中心位置的&7充能台&r和周围四个&7物品展示台&r组成。"
@@ -2675,20 +2675,20 @@
 		"尽早完成自动化可以让机器在未来的一段时间内维持运转。"
 	]
 	quest.59F0519A7ED69E19.quest_desc: [
-		"&7Oil&r is normally formed under intense pressure over millions of years."
+		"通常情况下，&7石油&r是在数百万年的漫长岁月里，在巨大的压力作用下形成的。"
 		""
-		"Ain't nobody got time for that."
+		"没人能等得了那么久。"
 		""
-		"Let's speed things along a little with the magic of &7Time Fluid&r."
+		"让我们使用&7时间流体&r为这个过程稍微提一点速。"
 		"&n                                                &r"
 		""
-		"[ \"Obtaining the materials to create these crystals will require a visit to the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"19F8B29D38CA31B8\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \". \" ]"
+		"[ \"要获得制作这种结晶体所需的材料，你需要先到访过\", { \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"19F8B29D38CA31B8\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"。\" ]"
 		""
 		"Once you’ve obtained the requisite ingredients, the only thing standing in your way is Time itself."
 		""
 		"And Aura. Lots of Aura."
 	]
-	quest.59F0519A7ED69E19.title: "Crude Oil"
+	quest.59F0519A7ED69E19.title: "石油"
 	quest.5A5596ED63306534.quest_desc: ["It seems to flicker to a breeze that isn't there. "]
 	quest.5A5706DE9011B222.quest_desc: [
 		"With a &7Tesla Tower&r, you’ll be able to transmit power wirelessly in a large radius. "
@@ -3153,7 +3153,7 @@
 		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 	]
 	quest.6534548E8A6A318C.quest_desc: [
-		"Alakarkinos is eager and ready to assist! "
+		"探宝蟹已经迫不及待要帮忙啦！"
 		""
 		"New &7Dorodangos&r await you with the materials available on this island. "
 	]
@@ -3285,9 +3285,9 @@
 		""
 		"中转器有多种不同的类型，目前来说，或许最具实用价值的还是分流中转器。相比普通的中转器，分流中转器不仅能输送更多魔源，还能同时向多个目标抽取或输送魔源。"
 		""
-		"Use a Dominion Wand to link Relays to other Relays or Source Jars. First Right-Click the origin, then Right-Click the destination."
+		"使用支配之杖可以将中转器连接到另一个中转器或魔源罐上。先右击抽取源，再右击目标方块。"
 		""
-		"&a🛈 提示：你可以使用Wololo魔符改变中转器发射的光束的颜色。"
+		"&a🛈 提示：可以使用Wololo魔符改变中转器发射的光束的颜色。"
 		""
 	]
 	quest.692EDEAEC3F4A2AD.quest_desc: [
@@ -3697,12 +3697,12 @@
 		"&7沃土耕地&r上作物的生长速度将获得显著提升。"
 	]
 	quest.72C1A824063BAFA3.quest_desc: [
-		"Caretakers of natural spaces, &7Drygmies&r once roamd the lands tending to animals to maintain balance. They’ll willingly join your menagerie if you give them a &7Wilden Horn&r, thus showing your commitment to maintaining order."
+		"作为自然的守护者，&7德格米&r曾经在这片大地上四处游历，维持着动物之间的平衡。他们也很愿意加入你的家园，只要你能给他一个&7荒野号角&r，以此表明你对维持秩序的坚定决心。"
 		""
-		"In exchange, the &7Drygmy&r will help you harvest drops from animals and monsters alike. "
+		"作为交换，&7风转草&r可以帮你收获动物和怪物的掉落物。"
 		"&n                                       &r"
 		""
-		"Right-Click a &7Mossy Cobblestone&r with their charm to create their home. Placing many different creatures in their home will make them happier and more productive. "
+		"用对应的护符右击&7苔石&r可以创造出他的家园。在他的家园里放置更多种类的动物，可以让他更加开心，更有生产力。"
 		""
 		"&a🛈 提示：德格米可以操作被收容罐捕捉的生物！"
 		""
@@ -3867,9 +3867,9 @@
 		""
 	]
 	quest.7750C6E87B1EBF43.quest_desc: [
-		"The humble Imbuement Chamber is perhaps the single most important apparatus in Ars Nouveau. "
+		"灌注室或许是新生魔艺模组中相对简单，但是相当重要的一个魔法装置。"
 		""
-		"With it, you’ll be able to generate the Source Gems and Essences you’ll need for all future crafts. "
+		"通过这一设备，你现在可以生产魔源宝石与精华，为你接下来的合成做准备。"
 		""
 		"&a🛈 提示：魔源不是必需的！"
 	]
@@ -3939,35 +3939,35 @@
 		""
 		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
 		""
-		"  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r"
-		"  • &7Grass Block&r           &2⟶&r           &7Aether Grass Block&r"
-		"  • &7Cobblestone&r           &2⟶&r           &7Clay&r"
-		"  • &7Stone&r                   &2⟶&r           &7Terracotta&r"
-		"  • &7Sand&r                    &2⟶&r           &7Sand&r"
-		"  • &7Sandstone&r             &2⟶&r           &7Sandstone&r"
-		"  • &7C. Deepslate&r           &2⟶&r           &7Salt&r"
-		"  • &7Deepslate&r              &2⟶&r           &7Salt&r"
+		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
+		"  • &7草方块&r                    &2⟶&r           &7空叶草方块&r"
+		"  • &7圆石&r                      &2⟶&r           &7黏土&r"
+		"  • &7石头&r                      &2⟶&r           &7陶瓦&r"
+		"  • &7沙子&r                      &2⟶&r           &7沙子&r"
+		"  • &7沙岩&r                      &2⟶&r           &7沙岩&r"
+		"  • &7深板岩圆石&r                &2⟶&r           &7盐块&r"
+		"  • &7深板岩&r                    &2⟶&r           &7盐块&r"
 		""
 		"{@pagebreak}"
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Conjure Aether Dirt&r"
+		"&7构筑天壤&r"
 		"    &5Touch&r > &aConjure Terrain&r"
 		""
-		"&7Conjure Clay&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑黏土&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&7Conjure Terracotta&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑陶瓦&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a烧炼&r"
 		""
-		"&7Conjure Sand&r"
-		"    &5Touch&r > &aConjure Terrain&r > &aCrush&r"
+		"&7构筑沙子&r"
+		"    &5触摸&r > &a构筑地层&r > &a粉碎&r"
 		""
-		"&7Conjure Sandstone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑沙岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Salt&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑盐块&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 	]
 	quest.78B1BC9540590D17.quest_desc: [
 		"需要一个用来存来之不易经验的地方吗？"
@@ -4049,7 +4049,7 @@
 	quest.7B6267C141FE9B83.quest_desc: [
 		"这些优雅的海洋生物热衷于从沙子中找出失落的宝物。"
 		""
-		"Build them a little home and be sure to provide them with plenty of fresh Sand or Gravel and they’ll while away their days sifting through it for obscure artifacts. "
+		"为它们打造一个家园，然后提供大量新鲜的沙子或沙砾，它们就可以整天在沙子里淘取那些不为人知的宝藏。"
 	]
 	quest.7B6DF86E979614F4.quest_desc: [
 		"沉思良久，筹谋已定。女子走出她那被冰雪覆盖的居所。"
@@ -4158,7 +4158,7 @@
 	]
 	quest.7F829A1BFED304D0.title: "自然设备"
 	quest.7FAC3A637F82BFED.quest_desc: [
-		"These floaty little witch friends can be tasked with automating standard 3x3 Crafting Table crafts, Potion Brewing, and even the Enchanting Apparatus. "
+		"作为悬浮着的女巫小伙伴，她们可以自动完成标准的3x3工作台配方、药水酿造配方，甚至是附魔装置上的配方。"
 		""
 		"在制作薇克精护符前，获取薇克精词元需要一点魔法技巧。你需要对一个生命值少于一半的女巫使用“解除魔法”魔符。"
 		""
