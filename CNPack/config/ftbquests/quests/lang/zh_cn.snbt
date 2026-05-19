@@ -54,11 +54,11 @@
 	quest.0230942DF53BB9E5.quest_desc: ["下面是可以用来充能物品和装备的方块。"]
 	quest.0230942DF53BB9E5.title: "充能器"
 	quest.03405336161EF1B5.quest_desc: [
-		"On most OriTech machines, you’ll notice a blue square with two vertical slits like an electrical outlet. These act as connection points for the various &7Machine Addons&r that may be attached to these machines. "
+		"在大多数OriTech模组的机器上，都有一个带有两条垂直插口、类似电源插座的蓝色方形。这是用于连接各种&7机器插件&r的接口。"
 		""
-		"Adding a &7Machine Extender&r at these positions will allow you to attach more addons, however this also requires increasingly higher quality &7Machine Cores&r. Adding better &7Cores&r will increase how many &7Extenders&r an addon is allowed to chain through and still count. "
+		"在这些位置添加&7机器扩展坞&r将允许你使用更多插件，但这同时也需要更高品质的&7机器核心&r。使用更好的&7核心&r将增加插件与机器间允许连接的&7扩展坞&r数量。"
 		""
-		"For example, at Machine Quality 4, an addon can have up to 4 &7Extenders&r between it and the machine. "
+		"例如，当机器质量为4时，插件与机器之间最多可放置4个&7扩展坞&r。"
 	]
 	quest.03405336161EF1B5.title: "机器插件"
 	quest.03D475AF2266ECB6.quest_desc: [
@@ -168,17 +168,17 @@
 	]
 	quest.0554264AE11578D2.title: "压力室"
 	quest.05F232C12FA99F92.quest_desc: [
-		"Capable of withstanding greater temperatures, the &7Electric Kiln&r will allow you to make &7Steel&r as well as other useful materials. "
+		"&7电动窑&r能够承受更高的温度，让你得以制造&7钢&r及其他有用的材料。"
 		""
 		"&n                                       &r"
 		""
-		"Every Modern Industrialization multiblock requires input and output hatches commensurate with the recipes it handles. "
+		"每个现代工业化的多方块结构都需要根据其处理的配方配备相应的输入和输出仓。"
 		""
-		"In this case, the &7Electric Kiln&r requires both fluid and item hatches."
+		"该任务中，&7电动窑&r同时需要流体仓和物品仓。"
 		""
-		"&a🛈 Tip: Place the controller block, then hold a Wrench "
-		"&a    to see the structure. Similarly, hold a Hatch to see "
-		"&a    valid locations for them."
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
+		""
 	]
 	quest.062BB5F675CF9F45.quest_desc: [
 		"欢迎游玩Just Dire Things！"
@@ -255,9 +255,9 @@
 		"成功之后，再把那个转基因细胞放回DNA提取器，然后像处理正常细胞一样继续操作。最后，你就会得到一个带有你全新升级性状的血液样本。"
 	]
 	quest.0916404C0979D753.quest_desc: [
-		"&7Steel Upgrades&r may be right clicked onto any &7Andesite Alloy Tier Machine&r to upgrade it directly to the &7Steel Tier&r version. "
+		"&7钢材升级&r可以在任意&7安山合金级机器&r上右击使用，直接将其升级为&7钢级&r。"
 		""
-		"The target machine will retain all filters and inventory, making it a painless way to upgrade your machines."
+		"这种升级方式相当无害，被升级的机器将保留所有过滤器和内容物。"
 	]
 	quest.0963C14E9AF5A836.quest_desc: ["&7有线充能器&r可以给放在其中的设备充能。"]
 	quest.09B6773CDA5A7565.quest_desc: [
@@ -461,7 +461,7 @@
 		""
 		"如果想要扩建基地，就用它们来帮你！"
 	]
-	quest.0F63D034A018A4FC.quest_desc: ["Placing a &7Sewer&r beneath your animals will allow you to collect &7Sewage&r which can be used to obtain more &7Water&r and eventually converted into &7Oil&r!"]
+	quest.0F63D034A018A4FC.quest_desc: ["在你的动物下方放置&7排污器&r可以收集&7污水&r，污水可以用来获取更多&7水&r并最终转化为&7石油&r！"]
 	quest.105CABB7D9705359.quest_desc: [
 		"&7农民&r有一些非常实用的工具，可以帮助你加快作物农场的速度。务必要去看看他们的商品哦！"
 		""
@@ -987,12 +987,12 @@
 	]
 	quest.1DA29F3B45DEFB4B.title: "魔法伙伴"
 	quest.1DB63D0AAD1F0E11.quest_desc: [
-		"Made from &7Crushed Basalt&r, &7Volcanic Dorodangos&r may be processed down into new materials!"
+		"由&7平滑玄武岩&r制成的&7火山泥球&r可以加工成新材料！"
 		""
-		"                   &n&6Materials&r"
+		"                   &n&6材料&r"
 		""
 		"  • &7烈焰石英&r"
-		"  • &7Crystallized Lava&r"
+		"  • &7晶化熔岩&r"
 		"  • &7余烬面粉&r"
 	]
 	quest.1E0B03155C2CAEE7.quest_desc: [
@@ -1179,16 +1179,16 @@
 		"将细胞样本与突变药水一起酿造，就能得到一瓶以该生物为实体的突变药水。"
 	]
 	quest.288F7A968693F3E5.quest_desc: [
-		"When supplied the appropriate fluid and a &7Firework Rocket&r to deliver it high into the atmosphere, this &7Obelisk&r will control the weather, keeping things as temperate or tempestuous as you wish."
+		"只要输入合适的流体并用&7烟花火箭&r将其送至高空，这座&7方尖碑&r就能掌控天气，让气候如你所愿般温和或狂暴。"
 		""
-		"  • &6Liquid Sunshine&r Clears the weather, bringing "
-		"    back sunny skies."
+		"  • &6液态阳光&r能够驱散阴云，带回万里晴空。"
 		""
-		"  • &6Cloud Seed&r Calls forth clouds and rainy or "
-		"    snowy weather."
 		""
-		"  • &6Cloud Seed Concentrated&r Calls forth a mighty "
-		"    storm with lightning and thunder."
+		"  • &6云之精华&r能够召来云层，引发降雨或降雪。"
+		""
+		""
+		"  • &6浓缩云之精华&r能够召来强力的风暴，雷雨交加。"
+		""
 	]
 	quest.289A1CE4C4092687.quest_desc: [
 		"&7ME接口&r本质上是个集成的输入/输出总线。"
@@ -1224,14 +1224,14 @@
 		"&6⚠ 注意：在破坏魔符后插入强化魔符即可用来收获气凝胶。"
 	]
 	quest.28E44D5D6A6C1D6E.quest_desc: [
-		"An alchemical device used in the production of world-shaping materials of magical importance. "
+		"一种炼金装置，用于生产具有重要魔法意义的世界塑造材料。"
 		""
-		"With a &7VAT&r you can produce fluids which can shift the weather to your advantage. "
+		"利用&7酿液桶&r，你可以生产能够随心所欲改变天气的流体。"
 		""
-		"Of course, you’ll find other uses for these fluids as well, such as the production of a particularly durable form of steel: &7Dark Steel&r."
+		"当然，这些流体还有其他的用途，比如生产一种特别耐用的钢材——&7玄钢&r。"
 		""
-		"&6⚠ Note: Enderio machines require  "
-		"&6    a Capacitor to function."
+		"&6⚠ 注意：EnderIO模组的机器需要安装电容才能工作。"
+		""
 	]
 	quest.28F4519591D71F80.quest_desc: [
 		"&7Item Laser Relays&r pair with an &7Item Interface&r to create a larger storage network from a bunch of small inventories. "
@@ -1309,9 +1309,9 @@
 		"The label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r."
 	]
 	quest.2B759D4770C13739.quest_desc: [
-		"There’s a certain charm to hand-made objects, but for some things it’s best to relegate the task to a machine that can do the task more efficiently. "
+		"虽然手工制作的物品确实有其独特的魅力，但有些事情最好还是交给机器来完成，它们能更高效地胜任这项工作。"
 		""
-		"Like those &7Motors&r you’ve been manhandling. Do better."
+		"比如那些被你糟践的&7马达&r，机器的制作水平更好。"
 	]
 	quest.2BB91161DB6B6AF5.quest_desc: [
 		"什么？你还以为只能通过炸掉&7铁锭&r的方式制作&7压缩铁锭&r？"
@@ -1339,7 +1339,7 @@
 		""
 		"你的&7破朽锅炉&r目前应该能够生产足够的蒸汽，但马上你就能建造更好的锅炉来产生&7蒸汽&r，为更多机器提供动力。"
 	]
-	quest.2C3B39CD6A7E044C.quest_subtitle: "Techonalogia!"
+	quest.2C3B39CD6A7E044C.quest_subtitle: "糕科技！"
 	quest.2CA1A8A7B84FAD71.quest_desc: [
 		"Modular Routers is a catch all logistics mod capable of many things. "
 		""
@@ -1457,17 +1457,17 @@
 		""
 	]
 	quest.319FD618D4608068.quest_desc: [
-		"The &7Blazing Archwoods&r on this island will already have a few &7Bombegranate&r grown on them. "
+		"这座空岛上生长的&7烈焰至高树&r上已经结出了一些&7炸弹石榴&r。"
 		""
-		"Gather a few and consider setting up a farm when you can; they grow when placed on a &7Blazing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. "
+		"可以先收集一些，然后随时可以建造一个农场。炸弹石榴可以在&7烈焰至高原木&r上生长，可以通过&7骨粉&r或其他催熟手段加速生长。"
 		""
-		"&a🛈 Tip: Harvest Rituals can be an easy "
-		"&a    way to farm these fruit!"
+		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
+		""
 	]
 	quest.31CAA3BC20CCDF25.quest_desc: [
-		"Need a little more room to work? Summoning another island is always an option. "
+		"需要更多空间吗？你随时都可以再召唤另一座空岛。"
 		""
-		"Alternatively, Right-Click a &7Blackstone&r with a &7Fire Essence&r to convert a &n21x11x21&r area to this biome!"
+		"或者使用&7火之精华&r右击&7黑石&r，将&n21x11x21&r的区域变成该空岛的生物群系！"
 	]
 	quest.31CAA3BC20CCDF25.title: "生物群系转化"
 	quest.31FAEA42AC32BD3E.quest_desc: ["这个充能站有超大的能量缓存，可以快速给物品充能。"]
@@ -1765,19 +1765,19 @@
 		"西瓜里的水比你用的那些云多得多。"
 	]
 	quest.3B77FB0A8CFAAB97.quest_desc: [
-		"Potentially quite dangerous, &7Enderic Lasers&r will destroy most any blocks in their path. Some, however, are instead empowered by it."
+		"&7末影激光器&r会摧毁其路径上的大多数方块。这也许相当危险，然而有些方块反而会因此获得强化。"
 		""
-		"Use a &7Target Designator&r to aim an Enderic Laser at an &7Atomic Forge&r to deliver the power it needs to operate."
+		"使用&7目标标识器&r，令末影激光器瞄准&7原子锻造器&r以提供其运行所需的能量。"
 		"&n                                       &r"
 		""
-		"To target a block, Sneak + Right-Click it with the &7Target Designator&r, then Sneak + Right-Click the &7Laser&r. "
+		"要将目标设置为某个方块，先手持&7目标标识器&r潜行右击该方块，再潜行右击&7激光器&r。"
 	]
 	quest.3BBFA042D4C4EA4E.quest_desc: [
-		"&7Processing Arrays&r allow you to turn any single block Modern Industrialization machine into a batch processing multi-block powerhouse. "
+		"&7处理阵列&r能够将任意单方块现代工业化机器转变为能够进行批量处理的多方块厂房。"
 		""
-		"Simply build the structure, then insert one or more of the single block machines in the GUI. The exact number of machines you can insert will depend on the size of the &7Processing Array&r from 8 to 64. "
+		"只需搭建结构，然后在GUI中插入一个或多个单方块机器。可插入的机器数量取决于&7处理阵列&r的尺寸，范围从8到64。"
 		""
-		"Finally, to process recipes, ensure you have the appropriate hatches installed in the &7Array&r and supply the materials."
+		"最后，请确保&7阵列&r中安装了处理相应配方需要的对应仓室，并提供材料。"
 	]
 	quest.3BCD9E36D48B205A.quest_desc: [
 		"组装一台&7低压蒸汽涡轮机&r来生产能量。"
@@ -1821,9 +1821,9 @@
 	]
 	quest.3C50D5FE5FA787A9.quest_desc: ["For when you just need a big fracking gun to tell the monster hordes who’s boss. "]
 	quest.3C905ECF6E0A543E.quest_desc: [
-		"Burning with the heat of the hells themselves, Blaze Ember may be processed into a potent fuel to ramp up your power production."
+		"烈焰烬质燃烧着来自地狱的热量，可以被加工成一种强效燃料，以提高你的能源生产力。"
 		""
-		"The Fuel is also vital to the production of Steel, which will open numerous doors for you."
+		"这种燃料对于钢的生产也至关重要，而钢将为你打开通往各类科技机械的门扉。"
 	]
 	quest.3CA4472228D0F866.quest_desc: [
 		"将&7ME控制器&r接入网络，我们可以获得更多的频道——每个面提供32频道。"
@@ -2048,19 +2048,19 @@
 	]
 	quest.3FF8D40CD4CB33BB.title: "Power Tools"
 	quest.410225ED927857D4.quest_desc: [
-		"These three machines can be put together to farm passive mobs automatically. "
+		"这三台机器可以组合在一起，实现友好生物的自动化养殖。"
 		""
-		"First, the &7Animal Feeder&r will keep your animals fed, happy, and making babies. This will stop working automatically when there are too many animals in the working area. "
+		"首先，&7动物饲育机&r会持续喂养你的动物，让它们保持快乐并繁衍后代。当工作区域内动物数量过多时，饲育机将会自动停止。"
 		""
-		"The &7Animal Rancher&r can be used in the same area to gather Wool from Sheep and Milk from Cows. "
+		"&7动物资源收获机&r可以在同一区域收集绵羊的羊毛和牛的奶。"
 		""
-		"The &7Animal Baby Separator&r can then be used to send the babies to a holding area while they grow up. This block also has a reverse mode to separate the grown animals out from the baby holding area and into their final destination."
+		"&7幼崽分管机&r可以将幼崽送到指定区域等待长大。该方块还具有反向模式，可以将成年动物从幼崽区分离出来，送至最终目的地。"
 		""
-		"&a🛈 Tip: Install matching Range Addons "
-		"&a    in each to cover the appropriate "
-		"&a    area."
+		"&a🛈 提示：在机器中安装相应的范围插件来确保覆盖整个养殖区域。"
+		""
+		""
 	]
-	quest.410225ED927857D4.title: "Animal Farming"
+	quest.410225ED927857D4.title: "动物养殖"
 	quest.414458433C4734C6.quest_desc: [
 		"女子再临地面时，她环视周围，只见那全新的生态中，生命正蓬勃发展。曾经亦师亦友的动物们，而今也已繁衍生息，遍布整片大地。"
 		""
@@ -2301,9 +2301,9 @@
 		"目前，我们可以将让它们负责控制一些基础机械。"
 	]
 	quest.47FF0CFF9CC92DBE.quest_desc: [
-		"A powered &7Refinery&r that handles the more complicated aspects of the process for you by regulating heat and pressure automatically!"
+		"一台蓄势待发的&7精炼厂&r，通过自动调节热量和压力，为你处理更复杂的加工环节！"
 		""
-		"For recipes with multiple fluid outputs, be sure to stack &7Refinery Chamber Modules&r atop the Refinery to get the extra outputs."
+		"对于具有多种流体输出的配方，请务必在精炼厂上方堆叠&7精炼厂罐室模块&r，以获取额外输出。"
 	]
 	quest.48B6E6CDBFFD77A7.quest_desc: [
 		"符文可以注入强大的效果，佩戴时就会激活。然而，只有合适的容器才能装备它们。"
@@ -2468,7 +2468,7 @@
 	quest.503873180200D878.quest_desc: [
 		"Made from &7Sculk&r, &7Reverberating Dorodangos&r may be processed down into new materials!"
 		""
-		"                   &n&6Materials&r"
+		"                   &n&6材料&r"
 		""
 		"  • &7Zanite Gemstone&r"
 		"  • &7Echo Dust&r"
@@ -2691,13 +2691,13 @@
 	quest.59F0519A7ED69E19.title: "石油"
 	quest.5A5596ED63306534.quest_desc: ["It seems to flicker to a breeze that isn't there. "]
 	quest.5A5706DE9011B222.quest_desc: [
-		"With a &7Tesla Tower&r, you’ll be able to transmit power wirelessly in a large radius. "
+		"有了&7特斯拉电塔&r后，你就可以大范围无线传输电力。"
 		""
-		"The exact radius and transmission rate is determined by the &7Coils&r used in the structure, while the &7Energy Hatch&r determines the power tier."
+		"区域半径和传输速率由结构中使用的&7线圈&r决定，而&7能量仓&r则决定了电压等级。"
 		""
-		"&a🛈 Tip: A Tesla Receiver Hatch can "
-		"&a    power a multiblock directly without"
-		"&a    extra wires!"
+		"&a🛈 提示：特斯拉接收仓可以直接为多方块结构无线供能！"
+		""
+		""
 	]
 	quest.5A74D7EFD6AD1EAC.quest_desc: [
 		"用&7碎魂武器&r击杀生物会掉落精魂碎晶。这在灵灾中的许多合成都有用到，所以要注意哪种生物掉落哪种精魂碎晶。"
@@ -2707,7 +2707,7 @@
 		"&a🛈 提示：精魂罐可以容纳"
 		"&a    巨量的精魂！"
 	]
-	quest.5AC80FA3683D9E45.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
+	quest.5AC80FA3683D9E45.quest_desc: ["更高级的凝胶可以解锁更多配方，并且加快在游戏世界中的方块处理速度。"]
 	quest.5AD1A273F3714FAF.quest_desc: [
 		"是时候开始考虑生产魔源了。"
 		""
@@ -2816,14 +2816,14 @@
 		""
 	]
 	quest.5F9A998072170415.quest_desc: [
-		"Alakarkinos is eager and ready to assist! "
+		"探宝蟹已经迫不及待要帮忙啦！"
 		""
-		"New &7Dorodangos&r await you with the materials available on this island. "
+		"内含该空岛独特材料的新&7泥球&r正在等候着你。"
 	]
 	quest.5FC9979B966955DE.quest_desc: [
-		"Spin up an Oritech &7Centrifuge&r and start producing &7Carbon Fibre Strands&r. "
+		"让Oritech的&7离心机&r旋转起来，开始生产&7碳纤维&r。"
 		""
-		"You’ll need these to create parts for more advanced machinery. "
+		"你需要这些碳纤维来制作更高级机器所需的零件。"
 	]
 	quest.5FD8F4BE050D55B2.quest_desc: [
 		"&7Pretty Pipes&r are a simple item logistics and sorting system with some powerful features. "
@@ -2894,7 +2894,7 @@
 		"      &7山羊"
 	]
 	quest.605A60825B68C2D7.title: "动物衰老"
-	quest.60DC19DA26E8CCA4.quest_desc: ["With all of the impurities purged, &7Stainless Steel&r should prove useful in more advanced technology where a stray soul or two might otherwise disturb the process and prove disastrous. "]
+	quest.60DC19DA26E8CCA4.quest_desc: ["清除所有不洁灵魂后，&7不锈钢&r在更先进的科技中应该会大有用处，因为在这些科技中，一两个游荡的灵魂可能会干扰处理过程并带来灾难性的后果。"]
 	quest.616862D8ADBE3928.quest_desc: [
 		"水在寒冷中会结冰，毫无疑问。不过你很快就会需要一些特别寒冷、致密的冰。"
 		""
@@ -3201,12 +3201,12 @@
 		"尽管过热目前并不会带来威胁，这一机制也仍然需要留意，熔岩桶等物品在持有状态下也会影响体温。"
 	]
 	quest.6705BECBD94CAAAD.quest_desc: [
-		"With stronger gearing and motors, this &7SAG Mill&r can help you get more from your ores than before. "
+		"有了更强的齿轮和马达，这台&7半自磨机&r能够帮你从矿石中获得比以往更多的产出。"
 		""
-		"Be sure to supply it with &7Grinding Balls&r to get the best results. "
+		"务必给它提供&7磨珠&r以获得最佳效果。"
 		""
-		"&6⚠ Note: Enderio machines require  "
-		"&6    a Capacitor to function."
+		"&6⚠ 注意：EnderIO模组的机器需要安装电容才能工作。"
+		""
 	]
 	quest.6728201CEC8220A3.quest_desc: [
 		"无论何种原因导致五角星阵损坏，都不必担心。当前阶段下，重新完成阵法所需的所有材料都很容易再次获取。"
@@ -3259,17 +3259,17 @@
 		""
 	]
 	quest.6849CF8933FC70F9.quest_desc: [
-		"With &7Steel Machine Casings&r, a whole new world of technology becomes available. In particular, many Oritech machines will now be craftable. "
+		"有了&7钢机器外壳&r，一个全新的科技世界便向你敞开了大门。特别是许多Oritech模组的机器，现在已经能够制造了。"
 		""
-		"Be sure to check the uses for this casing in EMI to find more devices that you may now have access to."
+		"请务必在EMI中查看此外壳的用途，发掘你现在可以使用的新设备。"
 		""
-		"[ \"Also take a look in the \", { \"text\": \"Energy Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on upgrading your power infrastructure. \" ]"
+		"[ \"也请查看\", { \"text\": \"能量章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0FF1E0FF9CAD1914\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"以获取关于升级基础发电设施的信息。\" ]"
 	]
 	quest.687E532AD956C57A.quest_desc: [
-		"With excellent insulation and heating capabilities, this &7Alloy Smelter&r can reach temperatures capable of burning the Hell out of things."
+		"凭借出色的保温和加热能力，这台&7合金炉&r能够达到足以将地狱燃烧殆尽的温度。"
 		""
-		"&6⚠ Note: Enderio machines require  "
-		"&6    a Capacitor to function."
+		"&6⚠ 注意：EnderIO模组的机器需要安装电容才能工作。"
+		""
 	]
 	quest.68C212D2C7F8B308.quest_desc: [
 		"活化一个&7荒野守卫者&r，然后收集它的身体部件。"
@@ -3305,7 +3305,7 @@
 		""
 		"Combining the two will permit working with the most unstable and powerful aspects of magic."
 	]
-	quest.699B01CFAEE29827.quest_desc: ["An excellent way to cool &7Plastic&r or simply make &7Ice&r. "]
+	quest.699B01CFAEE29827.quest_desc: ["一个冷却&7塑料&r或直接&7制冰&r的好方法。"]
 	quest.69EE67B1B612D74D.quest_desc: [
 		"爬到空岛的顶端，那里长着一棵&7灵魂树&r。"
 		""
@@ -3803,11 +3803,11 @@
 		"&7消磁线圈&r同样必不可少，它能阻止&7磁铁&r吸附附近的掉落物。"
 	]
 	quest.75BD1F2EB47FB7CF.quest_desc: [
-		"The &7Advanced Liquid Compressor&r operates using the same fuels you've been using thus far and can reach up to &720 bar&r. "
+		"&7高级液体压缩机&r使用之前所用的相同燃料，且压力最高可达&720bar&r。"
 		""
-		"It does produce heat, however, and must be kept cool to run efficiently. At low speeds, a few &7Heat Sinks&r will suffice, especially at this altitude."
+		"不过，它会产生热量，想要高效运转就必须持续冷却机器。低速运行时，几个&7散热片&r就足够了，尤其是在这个海拔高度。"
 		""
-		"[\"For a step-by-step guide to cooling, refer to our \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../pneumaticcraft-heating-and-cooling#advanced-compressors-1\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\".\"]"
+		"[\"手把手教你如何冷却，敬请查阅我们的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../pneumaticcraft-heating-and-cooling#advanced-compressors-1\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"。\"]"
 	]
 	quest.76695BF2B0E70087.quest_desc: [
 		"[ \"在前往\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \"后，你可以将你的\", {\"text\": \"凝胶\", \"color\": \"gray\"}, \"升级成\", {\"text\": \"烈焰蕾凝胶\", \"color\": \"gray\"}, \"。\" ]"
@@ -3898,41 +3898,41 @@
 	quest.78626EE046E48EF3.quest_desc: [
 		"                       &6&n生物群系：至高木森林&r&r"
 		""
-		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
 		""
-		"  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r"
-		"  • &7Grass Block&r           &2⟶&r           &7Aether Grass Block&r"
-		"  • &7Cobblestone&r           &2⟶&r           &7Blackstone&r"
-		"  • &7Stone&r                   &2⟶&r           &7Polished Blackstone&r"
-		"  • &7Sand&r                    &2⟶&r           &7Gold Aercloud&r"
-		"  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r"
-		"  • &7C. Deepslate&r           &2⟶&r           &7Basalt&r"
-		"  • &7Deepslate&r              &2⟶&r           &7Smooth Basalt&r"
+		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
+		"  • &7草方块&r                    &2⟶&r           &7空叶草方块&r"
+		"  • &7圆石&r                      &2⟶&r           &7黑石&r"
+		"  • &7石头&r                      &2⟶&r           &7磨制黑石&r"
+		"  • &7沙子&r                      &2⟶&r           &7金黄境云&r"
+		"  • &7沙岩&r                      &2⟶&r           &7速沙&r"
+		"  • &7深板岩圆石&r                &2⟶&r           &7玄武岩&r"
+		"  • &7深板岩&r                    &2⟶&r           &7平滑玄武岩&r"
 		""
-		"                    &c⚠ Warning: Contents HOT!"
+		"                    &c⚠ 警告：内部高温！"
 		"{@pagebreak}"
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Conjure Aether Dirt&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"&7构筑天壤&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
-		"&7Conjure Blackstone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑黑石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&7Conjure Polished Blackstone&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑磨制黑石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a烧炼&r"
 		""
-		"&7Conjure Gold Aercloud&r"
-		"    &5Touch&r > &aConjure Terrain&r > &aCrush&r"
+		"&7构筑金黄境云&r"
+		"    &5触摸&r > &a构筑地层&r > &a粉碎&r"
 		""
-		"&7Conjure Quicksoil&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑速沙&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Basalt&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑玄武岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 		""
-		"&7Conjure Smooth Basalt&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑平滑玄武岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r > &a烧炼&r"
 	]
 	quest.7893072479F01DC2.quest_desc: [
 		"                          &6&n生物群系：暖水海洋&r&r"
@@ -4099,7 +4099,7 @@
 		""
 		"每个现代工业化的多方块结构都需要根据其处理的配方配备相应的输入和输出仓。"
 		""
-		"该任务中，&7蒸汽蒸馏器&r需要同时配备流体仓和物品仓。"
+		"该任务中，&7蒸汽蒸馏器&r同时需要流体仓和物品仓。"
 		""
 		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
 		""
@@ -4121,11 +4121,11 @@
 		"[ \"在\", { \"text\": \"应用能源章节\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"了解更多有关组建ME网络的信息。\" ]"
 	]
 	quest.7EBB38BA04910A92.quest_desc: [
-		"A cooking pot worthy of any industrial kitchen, this beast can handle larger batches of ingredients at a time. "
+		"任何工业级厨房都值得拥有的大锅，这个大家伙一次能处理更大批量的食材。"
 		""
-		"&6⚠ Note: This structure must be built in "
-		"&6    a warm biome, such as the Archwood "
-		"&6    Forest on the Blazing Island. "
+		"&6⚠ 注意：该结构必须在温暖的生物群系搭建，比如烈焰空岛上的至高木森林。"
+		""
+		""
 	]
 	quest.7EE93B81F83AD199.quest_desc: [
 		"附神&7黏土&r似乎让它获得了属于自己的转化魔法，不过它似乎需要“进食”才能工作？"
@@ -4285,7 +4285,7 @@
 	task.582472ED7BA0A212.title: "物品存储"
 	task.5887027FAE29F371.title: "插件：加工"
 	task.591E8D139882293D.title: "物流框架"
-	task.5A4465B1F1B8673A.title: "Any Machine Addons"
+	task.5A4465B1F1B8673A.title: "任意机器插件"
 	task.5CE5C1A8B02B037B.title: "线缆伪装板"
 	task.5D8E35699FF69418.title: "ME接口"
 	task.5F727F447B0B4623.title: "Just Dire Things工具"
