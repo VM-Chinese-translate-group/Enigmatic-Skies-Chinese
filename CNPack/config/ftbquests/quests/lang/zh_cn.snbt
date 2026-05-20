@@ -973,9 +973,9 @@
 		"只需提供电力、水和一些蘑菇就能启动，剩下的它会自己完成。"
 	]
 	quest.1D9182A079919158.quest_desc: [
-		"Need a little more room to work? Summoning another island is always an option. "
+		"需要更多空间吗？你随时都可以再召唤另一座空岛。"
 		""
-		"Alternatively, Right-Click &7Sculk&r with &7Air Essence&r to convert a &n21x11x21&r area to this biome!"
+		"或者使用&7气之精华&r右击&7幽匿块&r，将&n21x11x21&r的区域变成该空岛的生物群系！"
 	]
 	quest.1D9182A079919158.title: "生物群系转化"
 	quest.1DA29F3B45DEFB4B.quest_desc: [
