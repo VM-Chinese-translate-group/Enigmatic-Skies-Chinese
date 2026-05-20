@@ -300,13 +300,13 @@
 	quest.0B04BC5F88746182.quest_desc: ["The following are full-blown storage systems that hold many types of items and present them in a single easy-to-browse and searchable interface. "]
 	quest.0B04BC5F88746182.title: "存储"
 	quest.0B05FA716D7335D2.quest_desc: ["&7初级投物器&r是一款很出色的工具，它可以自动化一些世界交互的配方。"]
-	quest.0B17FF64DFA4BA90.quest_desc: ["Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!"]
+	quest.0B17FF64DFA4BA90.quest_desc: ["想更快地到处探索？做个鞘翅就能帅气地在岛屿间滑翔！"]
 	quest.0BB08CCD3FEDEB54.quest_desc: [
-		"Moving materials long distances can be a troublesome task, but with an &7Entangled Block&r you can treat over there as if it were over here."
+		"长距离运输材料非常麻烦，但有了&7纠缠方块&r，你就可以把“那边”绑定成“这边”。"
 		""
-		"Sneak Right-Click an inventory with the &7Binder&r to select it, then Right-Click the &7Entangled Block&r with the wand to bind the two. "
+		"手持&7绑定器&r潜行右击容器以选中它，然后再右击&7纠缠方块&r来将二者绑定。"
 		""
-		"Once bound, you'll be able to pipe in and out of the &7Entangled Block&r as if it were the bound inventory. Perfect for accessing fluids or items from far away!"
+		"绑定后，你就能够像操作绑定的容器那样，通过&7纠缠方块&r输入输出。非常适合远距离存取流体或物品！"
 	]
 	quest.0BB6D2595F99ADB4.quest_desc: [
 		"既然我们可以活化方块并收集更多种类的精魂，那么是时候深入研究基因改造技术了。"
@@ -629,21 +629,21 @@
 	]
 	quest.144E3D7884732298.title: "可编程无人机"
 	quest.1476B02AA2977ACB.quest_desc: [
-		"The funny thing about being so high in the air is just how much lightning one can attract with a proper setup. "
+		"在高空的有趣之处就在于，只要设置得当，就能吸引到大量闪电。"
 		""
-		"The &7Electrostatic Compressor&r will attract random lightning strikes, converting the energy into compressed air up to &720 bar&r."
+		"&7静电压缩机&r会随机吸引雷击，将能量转化为压缩空气，最高可达&720bar&r。"
 		""
-		"It works well enough in clear skies, but when a storm rolls through it will really get going."
+		"在晴朗的天气下它的表现也不错，但暴风雨来临时它才能真正运转起来。"
 		""
-		"Up this far, it is &overy efficient&r."
+		"到目前为止，它都&o非常高效&r。"
 		"&n                                       &r"
 		""
-		"[\"An example of the structure required for this compressor can be found on \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://blockprints.io/schematic/f0d838f5-6460-4f3d-aaf0-ab6590df20e5\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"BlockPrints.io\",\"underlined\":true},\". Press (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Open Book\"}]},\"keybind\":\"key.blockprints.open_menu\"},\") to open the menu!\"]"
+		"[\"你可以在\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://blockprints.io/schematic/f0d838f5-6460-4f3d-aaf0-ab6590df20e5\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"BlockPrints.io\",\"underlined\":true},\"找到该压缩机所需结构的搭建示例，按(\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"打开菜单\"}]},\"keybind\":\"key.blockprints.open_menu\"},\")键打开菜单！\"]"
 		""
-		"&a🛈 Tip: Search &3#electrostatic&r &ain EMI to discover "
-		"&a    valid blocks for an Electrostatic Grid."
+		"&a🛈 提示：在EMI中搜索&3#electrostatic&r&a查阅所有能够作为静电网格的方块。"
+		""
 	]
-	quest.1476B02AA2977ACB.quest_subtitle: "Shocking Efficiency"
+	quest.1476B02AA2977ACB.quest_subtitle: "效率惊人"
 	quest.149BC66585EA0C34.quest_desc: [
 		"每个连接至&7主讲台&r的书龙都可以连接八个容器。但如果你直接连接到箱子之类的容器，连接数量很快就会用光。"
 		""
@@ -748,12 +748,12 @@
 		"  • &7鹦鹉螺壳&r"
 	]
 	quest.19F8B29D38CA31B8.quest_desc: [
-		"The &7Flashing Archwoods&r on this island will already have a few &7Flashpine&r grown on them. "
+		"这座空岛上生长的&7闪耀至高树&r上已经结出了一些&7闪电菠萝&r。"
 		""
-		"Gather a few and consider setting up a farm when you can; they grow when placed on a &7Flashing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. "
+		"可以先收集一些，然后随时可以建造一个农场。闪电菠萝可以在&7闪耀至高原木&r上生长，可以通过&7骨粉&r或其他催熟手段加速生长。"
 		""
-		"&a🛈 Tip: Harvest Rituals can be an easy "
-		"&a    way to farm these fruit!"
+		"&a🛈 提示：收获仪式可以更方便地采集这些水果！"
+		""
 	]
 	quest.1A2B5BCA37161B1A.quest_desc: [
 		"该工作站允许&7薇克精&r使用&7附魔装置&r配方。"
@@ -837,16 +837,16 @@
 		"且与&7初级点击器&r不同，&7高级点击器&r可以在更大的区域内工作。"
 	]
 	quest.1C4DB05778703E9B.quest_desc: [
-		"&7Wardens&r were built for protection. That was the original purpose, at least."
+		"&7监守者&r为了保护而被创造出来，至少原本如此。"
 		""
-		"Somewhere along the way, they decided the best way to protect was to consume the souls of those they watched over. No more harm can come, after all, if there’s no body to be harmed."
+		"不知何时起，它们认定守护的最佳方式便是吞噬所守护之人的灵魂。毕竟，如果连躯体都不复存在，便再无人能受到伤害。"
 		""
-		"By harvesting the souls from these creatures, we can use them to make many of our machines operate quicker. "
+		"通过收割这些生物的灵魂，我们可以让许多机器运行得更快。"
 		"&n                                                &r"
 		""
-		"Many machines have built-in ways to speed themselves up; addons, upgrades, and the like. Sometimes, that's simply not enough, however. And in other cases, there's simply no built-in way to speed up the device."
+		"许多机器都内置了加速方法，比如插件、升级等。然而有时仅凭这些并不足够。另一些情况下，机器本身根本没有内置的提速方式。"
 		""
-		"This system can be a great way to speed up things like the &7Cooking Pot&r and the &7Natural Altar&r, among others."
+		"这个系统可以极大地加速诸如&7厨锅&r和&7自然祭坛&r等设备的运作。"
 	]
 	quest.1C83B47F599B117A.quest_desc: [
 		"目前为止，我们已涉足了灵魂的魔法。要想再进一步深入，我们就必须凝视虚空本身。"
@@ -1106,9 +1106,9 @@
 		""
 	]
 	quest.25570E19FFABD951.quest_desc: [
-		"The &7Arcane Catalyst&r and &7Stabilized Enchanter&r will allow you to over enchant your tools, weapons, and armor to truly absurd levels of power. "
+		"&7奥术触媒&r和&7稳定附魔器&r能够超附魔你的工具、武器和盔甲，达到简直荒谬的强力水平。"
 		""
-		"As &7Spirit&r requirements increase, it may be a good idea to push your Spirit Plunder enchants to ever greater heights."
+		"随着&7精魂&r需求的增加，提高你的精魂劫掠附魔等级或许是个不错的主意。"
 	]
 	quest.25B419FE32D9752B.quest_desc: [
 		"制作一个&7汞蒸馏器&r并将其放置在&7御炎火盆&r上方。"
@@ -1143,10 +1143,10 @@
 		"&a    IO Unit   Controller     IO Unit"
 		"&a    Drill      Platform        Laser"
 		""
-		"&6⚠ Note: The Drill \\& Laser program "
-		"&6    allows the Assembly Table to craft "
-		"&6    recipes that use either a drill or "
-		"&6    laser, or both."
+		"&6⚠ 注意：在安装了装配程序：钻头\\&激光后，装配机既可以完成需要钻头或激光其中之一的配方，也可以完成同时需要二者的配方。"
+		""
+		""
+		""
 	]
 	quest.267FEB0BB5D9B4D9.title: "装配台"
 	quest.26B8DEFFA75B3944.quest_desc: [
@@ -1168,7 +1168,7 @@
 		"自那以后，凛冽之冬后也有温柔之春接替，四季轮回，生生不息。"
 	]
 	quest.2722D0A13CF02C73.quest_desc: ["&7魔源凝聚器&r可以很方便地把&7魔源&r转化为&7液态魔源&r。"]
-	quest.274C351C4A8F794F.quest_desc: ["Positively buzzing with arcane energy. "]
+	quest.274C351C4A8F794F.quest_desc: ["活跃地涌动着，充满奥术能量。"]
 	quest.2850FCAFEEF5004C.quest_desc: [
 		"部分基因（比如&7效率&r），可以通过突变升级。"
 		""
@@ -1403,7 +1403,7 @@
 		"[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处访问\"}]},\"text\":\"《三姐妹的故事》\",\"underlined\":true}]"
 	]
 	quest.305A56BDCBE2D2AE.quest_desc: [
-		"The &7Settling Tank&r can filter &7Wastewater&r through &7Sand&r and &7Gravel&r to purify it, making it suitable for normal use. "
+		"&7沉淀池&r可让&7废水&r通过&7沙子&r和&7沙砾&r进行过滤，使它得到净化，恢复正常使用的标准。"
 		""
 		"As such, it can be a great way to supplement your &7Water&r production from the waste produced by your animals."
 	]
@@ -1700,11 +1700,11 @@
 	]
 	quest.39716C901B98BAF2.title: "薇克精切石"
 	quest.398AE848C969FCEF.quest_desc: [
-		"An enigmatic material that looks solid enough but feels as light as air. "
+		"一种看似坚实，实则轻如空气的神秘材料。"
 		""
-		"Procuring it will involve condensing enormous quantities of air at high pressure into &7Liquid Air&r. "
+		"获取它需要将大量空气在高压下液压成&7液态空气&r。"
 		""
-		"Generating Compressed Air in sufficient volumes with only a &7Thermal Compressor&r will likely prove daunting. Consider something with a bit more power, such as the &7Electrostatic Compressor&r. "
+		"仅靠&7温差压缩机&r产生足够体积的压缩空气可能相当困难。你可以考虑使用功率更大的设备，例如&7静电压缩机&r。"
 	]
 	quest.39BCDF29A792B723.quest_desc: [
 		"灵气缓存相当于个人电池，可以给灵气工具与装备“充电”。"
@@ -1908,9 +1908,9 @@
 		"你得花些时间来设计一套自动化生产线。"
 	]
 	quest.3DE69E7B1359D76D.quest_desc: [
-		"This metal resonates with the endless possibilities of the void. "
+		"这种金属里回荡着虚空中无限的可能性。"
 		""
-		"It feels lightweight but resists sudden changes in momentum as if it were incredibly dense or being dragged through a thick fluid…"
+		"它很轻盈，但在动量突然变化时却表现出极大的阻力，就像是某种及其致密的金属或是把什么东西从粘稠的流体中拽出来似的……"
 	]
 	quest.3E7A4470BD04F2A1.quest_desc: [
 		"&7初级传感器&r是一种多功能的方块与实体检测器，可以根据其设置发出信号。"
@@ -2094,14 +2094,14 @@
 		""
 	]
 	quest.42A899B5E25F6124.quest_desc: [
-		"Channeling the most powerful magics requires a highly specialized focus. "
+		"引导最强大的魔法需要及其专精的媒介。"
 		""
-		"Upgrade your &7Spell Book&r with the materials you’ve discovered here and on other islands to unlock your true spell casting capabilities."
+		"使用在这些空岛上发现的材料升级你的&7法术书&r，展现你的真正法力。"
 		""
-		"&a🛈 Tip: Spells and are retained when "
-		"&a    upgrading your Spell Book!"
+		"&a🛈 提示：法术书中的法术会在升级后保留！"
+		""
 	]
-	quest.42A899B5E25F6124.title: "Tier 3 Spells"
+	quest.42A899B5E25F6124.title: "三级法术"
 	quest.42F2191B5C08849B.quest_desc: [
 		"制作一柄&7刮刀&r，并用它右击生物，从生物的身上采集&7有机物质&r。"
 		""
@@ -2158,27 +2158,27 @@
 		""
 	]
 	quest.454EB146FC67E3D5.quest_desc: [
-		"Who knew accelerating objects to near relativistic speeds and smashing them together could be so lucrative?"
+		"谁知道将物体加速到近相对论性速度并让它们相撞能有如此好处呢？"
 		""
-		"The &7Particle Accelerator&r consists of a large free form multiblock structure. The &7Accelerator&r itself is used to inject items into the beam and the &7Guide Rings&r are used to guide the beam along the desired path. "
+		"&7粒子加速器&r是一个可自由搭建的大型多方块结构。&7加速器&r本身用于将物品注入光束中，而&7导向环&r则用于让光束沿预定路径行进。"
 		""
-		"Typically, this path should be a loop to gain the momentum needed for various crafts. "
+		"通常，这条路径应该是一个循环，以便积攒进行各种制作所需的动量。"
 		""
-		"Speeding up the particle will require one or more &7Linear Motors&r. As the input item crosses a powered &7Motor&r, it will consume &640 * Current Speed FE&r to accelerate by &61J&r. So while a low speed collision of &6100J&r will only require about &6200k FE&r total, high speed crafts may consume millions or billions of FE."
+		"加速粒子需要一个或多个&7直线型马达&r。当输入的物品穿过通电的&7马达&r时，会消耗&640×当前速度的FE&r来加速&61J&r。这意味着&6100J&r的低速碰撞只需要约&6200kFE&r，而高速可能会消耗数百万甚至数十亿FE。"
 		""
-		"Starting off, you'll probably only have a few &7Linear Motors&r, so it is best to keep the ring small to reduce the time it takes for the particle to get back around to the &7Motor&r again. "
+		"你一开始应该只有几个&7直线型马达&r，因此最好搭建一个较小的环，以减少粒子每次转到&7马达&r所需的时间。"
 		""
-		"&7Guide Rings&r may be controlled by &cRedstone&r to send a particle out into a larger loop that can handle higher speeds as the particle gains momentum."
+		"&7导向环&r可以通过&c红石&r控制，将粒子发射到更大的循环中，更大的循环可以让粒子获得更多动量，达到更高的速度。"
 		"&n                                       &r"
 		""
-		"[\"There are a lot of moving parts here, so be sure to check out the \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://moddedmc.org/en/project/oritech/docs/interaction/particle_accelerator\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Particle Accelerator\",\"underlined\":true},\" on the Oritech Wiki, which does an excellent job of describing how this system works. \"]"
+		"[\"该结构有大量非固定部件，请务必查看Oritech Wiki上的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://moddedmc.org/en/project/oritech/docs/interaction/particle_accelerator\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"粒子加速器\",\"underlined\":true},\" 部分，该部分非常详细地描述了整个系统的工作原理。\"]"
 		""
-		"To give an idea of scope, however, consider a recipe that requires a collision of &61000J&r. Reaching these speeds while keeping your particle contained will require a minimum distance of 11 blocks between turns."
+		"为了直观理解规模，设想一个需要&61000J&r能量碰撞的配方。要在保持粒子不逸散的同时达到此速度，转弯之间的最小距离需达到11格。"
 		""
-		"See the next page for a full list of speeds by &cRedstone Signal Strength&r as measured by the &7Sensor&r."
+		"请翻到下一页查看&7传感器&r根据对应速度输出的&c红石信号强度&r。"
 		""
 		"{@pagebreak}"
-		"            &6&nSignal Strength&r            &6&nParticle Speed&r "
+		"            &6&n信号强度&r            &6&n粒子速度&r "
 		"                      1                             0"
 		"                      2                            10"
 		"                      3                            50"
@@ -2276,13 +2276,13 @@
 	]
 	quest.472936F50BC28EBF.title: "Sophisticated Storage"
 	quest.47A2DB9344C8CE26.quest_desc: [
-		"With a &7Zephyr Impetus&r secured, you’ll be able to mass produce some important materials; &7Weather Crystals&r and &7Wind Charges&r. "
+		"拥有&7西风促符&r后，你就能够批量生产一些重要材料：&7天气水晶&r和&7风弹&r。"
 		""
-		"[ \"Refer to the Spirit Focusing quest in the \", { \"text\": \"Malum\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0C0D9C8007301C03\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for information on using the Impetus.\" ]"
+		"[ \"查阅\", { \"text\": \"灵灾\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0C0D9C8007301C03\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"章节的精魂聚焦任务以了解更多有关使用促符的信息。\" ]"
 		""
-		"&a🛈 Tip: Mending Diffusers are an easy"
-		"&a    way to keep your Impetus from"
-		"&a    breaking."
+		"&a🛈 提示：使用修补弥散器是防止促符破碎的一种简单方式。"
+		""
+		""
 	]
 	quest.47AFEF3DCB2990FB.quest_desc: [
 		"操作&7大型蒸汽锅炉&r需要点液体燃料。"
@@ -2406,7 +2406,7 @@
 		"或者使用&7土之精华&r右击&7凝灰岩&r，将&n21x11x21&r的区域变成该空岛的生物群系！"
 	]
 	quest.4CC1CF537349C2D6.title: "生物群系转化"
-	quest.4D8B278BDF762813.quest_desc: ["As cold as the void, this material seems to phase in and out of existence."]
+	quest.4D8B278BDF762813.quest_desc: ["这种物质如同虚空般冰冷，它的存在似乎时有时无。"]
 	quest.4DFD963932B9FF81.quest_desc: [
 		"With a &7Vortex Tube&r, you can easily create the very high, or very low, temperatures needed for many recipes."
 		""
@@ -2434,8 +2434,8 @@
 		""
 		""
 	]
-	quest.4E2D6D91B5DA19EE.quest_desc: ["Deep intelligence and prescient capabilities allow these devices to handle the unpredictable power surges and chaotic arcane energies necessary for advanced technology. "]
-	quest.4EA58751A74DABAA.quest_desc: ["Capable of storing immense power, &7Vibrant Crystals&r will allow you to begin dealing with EV Tier power. "]
+	quest.4E2D6D91B5DA19EE.quest_desc: ["凭借深度智能与预知能力，这些装置得以满足高阶科技的需求，驾驭不可预测的电涌与混沌奥术能量。"]
+	quest.4EA58751A74DABAA.quest_desc: ["&7振动水晶&r能够储存庞大的能量，让你开始发展EV级的电力。"]
 	quest.4F2E18DABA17E0AC.quest_desc: [
 		"&7原子再构机&r是一台能够转化特定物品的强大装置，比如将&7泥巴&r转化为&7苔藓块&r。"
 		""
@@ -2466,13 +2466,13 @@
 		"与&7专家型漏斗&r配合使用时，还可针对特定物品进行过滤。"
 	]
 	quest.503873180200D878.quest_desc: [
-		"Made from &7Sculk&r, &7Reverberating Dorodangos&r may be processed down into new materials!"
+		"由&7幽匿块&r制成的&7回响泥球&r可以加工成新材料！"
 		""
 		"                   &n&6材料&r"
 		""
-		"  • &7Zanite Gemstone&r"
-		"  • &7Echo Dust&r"
-		"  • &7Otherworld Ashes&r"
+		"  • &7紫晶石&r"
+		"  • &7回响粉&r"
+		"  • &7异界灰烬&r"
 	]
 	quest.51233852CD921F79.quest_desc: [
 		"&7驱动器&r作为紧凑存储设备，可以存储成千上万的物品。"
@@ -2511,7 +2511,7 @@
 		""
 		""
 	]
-	quest.521DE7879A4B6F03.quest_desc: ["With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  "]
+	quest.521DE7879A4B6F03.quest_desc: ["有了&7EV级电缆&r和&7变压器&r，升级基础电力设施以满足高功率&7粒子加速器&r的需求会是一个明智之举。"]
 	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"水之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"奔流空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \"的不绝飞瀑。\" ]"]
 	quest.5226F1BC0A1B23D0.title: "奔流空岛"
 	quest.529329FE6CB3D29E.quest_desc: ["在DNA提取器中分解细胞来获得美味多汁的DNA螺旋。"]
@@ -2523,7 +2523,7 @@
 		"&a🛈 提示：线缆组件不能连接致密线缆。"
 		""
 	]
-	quest.537EDDC45D94BDE4.quest_desc: ["Upgrading your Goo will give you access to newer recipes and faster in-world processing."]
+	quest.537EDDC45D94BDE4.quest_desc: ["更高级的凝胶可以解锁更多配方，并且加快在游戏世界中的方块处理速度。"]
 	quest.53CE92319716971B.quest_desc: [
 		"我的世界里一直可以使用&7骨粉&r来复制&7玫瑰丛&r等大型花。"
 		""
@@ -2531,9 +2531,9 @@
 	]
 	quest.53CE92319716971B.title: "复制小花"
 	quest.53D3092CA777D3B5.quest_desc: [
-		"Nearly perfect, this Resonator seems to be able to react to changing conditions well in advance. "
+		"这个共振器已近乎完美，能够很好地预判不断变化的情况。"
 		""
-		"This will be of use when dealing with highly unstable arcane flows. "
+		"这在处理高度不稳定的奥术流时将会很有用。"
 	]
 	quest.540133B792547B21.quest_desc: [
 		"制作一个&7煅烧炉&r，并将其放置在&7御炎火盆&r上。"
@@ -2553,9 +2553,9 @@
 	]
 	quest.5550423B6E6BDBAF.title: "蜂巢空岛"
 	quest.55D51F58CA3130AA.quest_desc: [
-		"Alakarkinos is eager and ready to assist! "
+		"探宝蟹已经迫不及待要帮忙啦！"
 		""
-		"New &7Dorodangos&r await you with the materials available on this island. "
+		"内含该空岛独特材料的新&7泥球&r正在等候着你。"
 	]
 	quest.56AD6E7F12056140.quest_desc: [
 		"&7附魔装置&r本身就是一个关键工具，而且很快将会成为必须。"
@@ -2689,7 +2689,7 @@
 		"And Aura. Lots of Aura."
 	]
 	quest.59F0519A7ED69E19.title: "石油"
-	quest.5A5596ED63306534.quest_desc: ["It seems to flicker to a breeze that isn't there. "]
+	quest.5A5596ED63306534.quest_desc: ["在不存在的微风下，它闪烁不定。"]
 	quest.5A5706DE9011B222.quest_desc: [
 		"有了&7特斯拉电塔&r后，你就可以大范围无线传输电力。"
 		""
@@ -3301,9 +3301,9 @@
 	]
 	quest.692EDEAEC3F4A2AD.title: "初级替换器"
 	quest.697E0106FF4F5691.quest_desc: [
-		"&7Ender Resonators&r, despite their prescience, still lack the higher-order thinking capabilities of a conscious mind. "
+		"尽管&7末影谐振器&r具有预见能力，但它仍然缺乏意识体所需的高级认知功能。"
 		""
-		"Combining the two will permit working with the most unstable and powerful aspects of magic."
+		"将这两者结合，便能涉足魔法中最不稳定也最强大的领域。"
 	]
 	quest.699B01CFAEE29827.quest_desc: ["一个冷却&7塑料&r或直接&7制冰&r的好方法。"]
 	quest.69EE67B1B612D74D.quest_desc: [
@@ -3505,11 +3505,11 @@
 		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 	]
 	quest.6DD8DD44D4B70AD4.quest_desc: [
-		"With an &7Addon Splicer&r, it’s possible to compact a set of Addons into a single block, allowing you to make more compact setups for your Oritech machines. "
+		"&7插件铰接器&r可以将一套插件压缩成一个方块，从而使你的Oritech机器布局更加紧凑。"
 		""
-		"Once the structure is built, attach addons to it like you would any other machine. Then either click the &7Compact!&r button in the GUI or supply a Redstone signal to the front of the machine to produce a &7Heart of the Machine&r. "
+		"结构建成后，像其他机器一样为其安装插件。然后点击GUI中的&7压缩！&r按钮，或向机器前方输入红石信号，即可开始生产&7机器之心&r。"
 		""
-		"This new compact addon will have provide the same benefits as the addons used to craft it and must be attached directly to an Oritech machine; it cannot be extended in any way, nor combined with other addons. "
+		"这个新的压缩插件将提供所有组成插件的效果，并且必须直接安装在Oritech机器上。它无法以任何方式扩展，也不能与其他插件组合使用。"
 	]
 	quest.6DE4258F18A7A321.quest_desc: [
 		"欢迎来到&6谜之天空&r！希望你在这里玩得愉快！:D"
@@ -3825,37 +3825,37 @@
 	quest.768869D763EC54EB.quest_desc: [
 		"                       &6&n生物群系：深暗之域&r&r"
 		""
-		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
 		""
-		"  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r"
-		"  • &7Grass Block&r           &2⟶&r           &7Aether Grass Block&r"
-		"  • &7Cobblestone&r           &2⟶&r           &7Sculk&r"
-		"  • &7Stone&r                   &2⟶&r           &7Sculk&r"
-		"  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r"
-		"  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r"
-		"  • &7C. Deepslate&r           &2⟶&r           &7C. Deepslate&r"
-		"  • &7Deepslate&r              &2⟶&r           &7Deepslate&r"
+		"• &7泥土&r                      &2⟶&r           &7天壤&r"
+		"• &7草方块&r                    &2⟶&r           &7空叶草方块&r"
+		"• &7圆石&r                      &2⟶&r           &7幽匿块&r"
+		"• &7石头&r                      &2⟶&r           &7幽匿块&r"
+		"• &7沙子&r                      &2⟶&r           &7寒风境云&r"
+		"• &7沙岩&r                      &2⟶&r           &7速沙&r"
+		"• &7深板岩圆石&r                &2⟶&r           &7深板岩圆石&r"
+		"• &7深板岩&r                    &2⟶&r           &7深板岩&r"
 		""
 		"{@pagebreak}"
-		"&6&nExample Spells&r"
+		"&6&n示例法术&r"
 		""
-		"&7Conjure Aether Dirt&r"
-		"    &5Touch&r > &aConjure Terrain&r"
+		"&7构筑天壤&r"
+		"    &5触摸&r > &a构筑地层&r"
 		""
-		"&7Conjure Sculk&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r"
+		"&7构筑幽匿块&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r"
 		""
-		"&7Conjure Gold Aercloud&r"
-		"    &5Touch&r > &aConjure Terrain&r > &aCrush&r"
+		"&7构筑金黄境云&r"
+		"    &5触摸&r > &a构筑地层&r > &a粉碎&r"
 		""
-		"&7Conjure Quicksoil&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r"
+		"&7构筑速沙&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &a粉碎&r"
 		""
-		"&7Conjure Cobbled Deepslate&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r"
+		"&7构筑深板岩圆石&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r"
 		""
-		"&7Conjure Deepslate&r"
-		"    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r"
+		"&7构筑深板岩&r"
+		"    &5触摸&r > &a构筑地层&r > &6强化&r > &6强化&r > &a烧炼&r"
 	]
 	quest.76EC73B59502E2A5.quest_desc: [
 		"只需一点小小的切割和拼合，就能得到我们想要的东西。准备好仪式需要的物品，然后造出属于你的&7德格米&r。"
