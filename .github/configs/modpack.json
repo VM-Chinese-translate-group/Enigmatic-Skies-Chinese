@@ -4,7 +4,7 @@
   "versionPattern": "Enigmatic Skies {version}",
   "mcVersion": "1.21.1", 
   "loader": "neoforge",
-  "updateMethod": "cursethebeast",
+  "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "attentionList": {
