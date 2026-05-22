@@ -120,11 +120,11 @@
 	]
 	quest.04D144DC0EAE8BE3.title: "牧师"
 	quest.0537E3C9A2164A7D.quest_desc: [
-		"Oritech’s &7Fluid Pipes&r may not have many fancy features, but they’ll get the job done. "
+		"Oritech的&7流体管道&r除了恪尽职守完成自己的本职工作外没有太多花哨的功能。"
 		""
-		"These come in three varieties, though the differences are mainly cosmetic. &7Framed Pipes&r have a nice supporting structure around them, while &7Duct Pipes&r are a full block for passing through a wall without gaps. &7Duct Pipes&r only connect to other pipes, however."
+		"这些管道分为三种类型，差异主要在外观上。&7带框架的管道&r在管道周围有漂亮的支撑结构；&7集装管道&r则是一个完整的方块，可以严丝合缝地嵌入墙体，不过&7集装管道&r只能与其他管道连接。"
 		""
-		"Right-Click the pipe connecting to a machine or tank to set it to Extract mode."
+		"右击管道与机器或储罐相连的部分，将其设置为提取模式。"
 	]
 	quest.053C43E68E7ADB2B.quest_desc: [
 		"只要有了&7头颅装配机&r，我们就可以将这些来自不同生物基因材料重新组合、拼接到一起，创作出我们想要的怪物。"
@@ -353,9 +353,9 @@
 		""
 	]
 	quest.0D32F25CCBC9B192.quest_desc: [
-		"Simple power cables for transferring Modern Industrialization’s EU power. "
+		"用于传输现代工业化EU电力的简易电缆。"
 		""
-		"They can power blocks that use FE, but can only accept power from Modern Industrialization generators."
+		"也可以为使用FE的机器供电，但只能接从现代工业化的发电机中提取能量。"
 	]
 	quest.0D65061DFD04B301.quest_desc: [
 		"&7Item Modules&r for &7Modular Routers&r allow them to send to or pull from an inventory. "
@@ -366,7 +366,7 @@
 	]
 	quest.0D65061DFD04B301.title: "物品模块"
 	quest.0D7B7B9CF7362FD8.quest_desc: [
-		"有不想要的基因？你可以制作抗质粒来移除它。"
+		"有不想要的性状？你可以制作抗质粒来移除它。"
 		""
 		"将它与同类型的质粒一起合成。然后将其注入血液样本，就像使用普通质粒一样。"
 	]
@@ -1082,13 +1082,13 @@
 		"它还会显示网络上存储的每种&7物质&r的总量，也允许你管理任何进行中的请求。"
 	]
 	quest.22ABFC3024E54FEA.quest_desc: [
-		"The Mercurial Item transport system is a simple logistics network for moving, well, items."
+		"汞驱物品运输系统是一个用于运输物品的简单物流网络。"
 		""
-		"The &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Copper Wire&r. "
+		"将&7输入器&r和&7输出器&r放置在机器或其他容器上，然后通过&7汞驱铜线缆&r连接起来即可使用。"
 		""
-		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
+		"&7汞驱连接节点&r允许多条线缆汇集到一处，形成更广泛的网络，同时也能用来延伸单条线缆的连接距离。"
 	]
-	quest.22ABFC3024E54FEA.title: "Mercurial Item Nodes"
+	quest.22ABFC3024E54FEA.title: "汞驱物品节点"
 	quest.235D7EF41916E480.quest_desc: ["以下是Enigmatica 10中可用的各种能量传输方式。"]
 	quest.235D7EF41916E480.title: "能量"
 	quest.23DDFBC0DB19F6A4.quest_desc: [
@@ -1240,11 +1240,11 @@
 		""
 	]
 	quest.28F4519591D71F80.quest_desc: [
-		"&7Item Laser Relays&r pair with an &7Item Interface&r to create a larger storage network from a bunch of small inventories. "
+		"将多个&7物品激光中继器&r连入一个&7物品传输接口&r，即可将多个小型容器整合成大型存储网络。"
 		""
-		"Place the L&7aser Relays&r against a series of chests and another against an &7Item Interface&r. Link them all together with a &7Laser Wrench&r and now any items that are pushed into the &7Interface&r will be stored in the chests. "
+		"将&7激光中继器&r放在你的箱子上，再将另一个放到&7物品传输接口&r上。使用&7中继器扳手&r将所有中继器连接起来，这样任何被输送至&7接口&r的物品都会被存储到箱子中。"
 		""
-		"Similarly, items can be pulled out of the system from the &7Interface&r, meaning this can be paired nicely with AE2 or an Ars Nouveau Storage Lectern."
+		"类似地，你也可以通过&7接口&r从系统中取出物品，这意味着它可以与AE2或新生魔艺的存储讲台很好地配合使用。"
 	]
 	quest.294B023DD4F19FE3.quest_desc: [
 		"你的&7毛皮套装&r足以在出门时保暖，但它无法提供更多防护。"
@@ -2241,17 +2241,17 @@
 	quest.4613FE560EAC7695.quest_desc: [
 		"在&7质粒注射器&r中将&7净化血液&r与已填充的&7质粒&r组合，就可以在血液样本中设置基因。"
 		""
-		"你可以将多个基因注入同一个样本。"
+		"如果愿意，你可以在同一份血液样本中插入多个性状。"
 		""
-		"感觉血液样本增强得差不多了之后，就该把它注入一个生物了。"
+		"一旦你对增强后的血液样本感到满意了，你就可以准备把它注射进生物体内了。"
 		""
 		"[\"许多基因都可以注入到生物上，但不是所有基因都可以。如有疑问，请参考\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"。\"]"
 		""
-		"&6⚠ 注意：有些基因有前置条件，如果不满足，注入就会失败。"
-		"&6    具体参照EMI。"
+		"&6⚠ 注意：一些性状需要有前置条件才能表达，如果未满足会使得注射失败。具体可参考EMI。"
 		""
 		""
-		"&a🛈 提示：对于可繁殖动物的基因，同样会遗传给它们的子代！"
+		""
+		"&a🛈 提示：可繁殖动物的性状可以遗传给后代！"
 		""
 		""
 	]
@@ -2668,12 +2668,12 @@
 		"&a    valid locations for them."
 	]
 	quest.598473588831F46D.quest_desc: [
-		"&7Fluid Laser Relays&r act as a wireless fluid pipe. Simply place them against the machines that need liquids and a tank, then link them all together with the Laser Wrench. "
+		"&7流体激光中继器&r相当于一个无线流体管道。只需将其放置在储罐和需要流体的机器上，然后用中继器扳手将它们全部连接起来即可。"
 		""
-		"They have a relatively short range but can be chained to extend their reach!"
+		"它们的连接范围相对较短，但可以连锁延伸来扩大范围！"
 		""
-		"&a🛈 Tip: Use a Compass to change modes"
-		"&a    to pull from the source tank!"
+		"&a🛈 提示：使用指南针即可将模式切换为从流体储罐中传出！"
+		""
 	]
 	quest.59DC95275C1091C6.quest_desc: [
 		"&7烈焰燃料&r相较于&7精制菜籽油&r有了显著提升，其价值绝对值得付出努力。"
@@ -3582,13 +3582,13 @@
 	]
 	quest.6EB5108D30F5A94A.title: "高压进阶大型蒸汽锅炉"
 	quest.6EB6E8DEEBB32911.quest_desc: [
-		"In order to obtain a trait, it must be injected into a blood sample. So we’ll need to get one of those first."
+		"要想获得一个生物性状，你需要将它插入到血液样本中。为此，我们首先要采集一份血液样本。"
 		""
-		"你可以用空注射器来获得自己的血液，按住鼠标右键直到视野变暗。"
+		"你可以用空注射器采集自己的血液，只需按住鼠标右键，直到你的视野变暗。"
 		""
-		"要想获得其他生物的血液，就需要一个空的金属注射器。"
+		"想要采集其他生物的血液的话，就需要准备一支空的金属注射器。"
 		""
-		"获得样本后，通过血液净化器净化，修改的前期准备就做好了。"
+		"采集到血液样本后，把它送入血液净化器里进行处理，这样就可以进行基因修饰了。"
 		""
 		"&a🛈 提示：你需要站得离生物非常近，才能提取它们的血液。"
 		""
@@ -4081,21 +4081,21 @@
 		"对于可以持续生产的流体，例如熔岩和水，使用溢出销毁卡可以销毁多余的流体，防止堵塞。"
 	]
 	quest.7C1E4DDAAA75E58F.quest_desc: [
-		"Oritech’s &7Item Pipes&r offer limited logistics and filtering, perfect for point-to-point transfers. "
+		"Oritech的&7物流管道&r提供有限的物流和过滤功能，非常适合点对点传输。"
 		""
-		"These come in four varieties, though the differences are mainly cosmetic. "
-		"&7Framed Pipes&r have a nice supporting structure around them, while &7Duct Pipes&r are a full block for passing through a wall without gaps. &7Duct Pipes&r only connect to other pipes, however."
+		"这些管道分为四种类型，差异主要在外观上。"
+		"&7带框架的管道&r在管道周围有漂亮的支撑结构；&7集装管道&r则是一个完整的方块，可以严丝合缝地嵌入墙体，不过&7集装管道&r只能与其他管道连接。"
 		""
-		"Right-Click the pipe connecting to a machine or tank to set it to Extract mode."
+		"右击管道与机器或储罐相连的部分，将其设置为提取模式。"
 	]
 	quest.7C27093E25633B9F.quest_desc: [
-		"The Mercurial Fluid transport system is a simple logistics network for moving, well, fluids."
+		"汞驱流体运输系统是一个用于运输流体的简单物流网络。"
 		""
-		"The &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Copper Wire&r. "
+		"将&7输入器&r和&7输出器&r放置在机器或其他容器上，然后通过&7汞驱铜线缆&r连接起来即可使用。"
 		""
-		"&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires."
+		"&7汞驱连接节点&r允许多条线缆汇集到一处，形成更广泛的网络，同时也能用来延伸单条线缆的连接距离。"
 	]
-	quest.7C27093E25633B9F.title: "Mercurial Fluid Nodes"
+	quest.7C27093E25633B9F.title: "汞驱流体节点"
 	quest.7C3C0E6AC71F621B.quest_desc: ["&7物品分配器&r使用方法：从其上方容器中提取物品，并均匀分配到周围的容器中。"]
 	quest.7D63AB919406E5AD.quest_desc: [
 		"&7探宝蟹&r生产的&7泥球&r充满魔力和潜在价值。&7蒸汽蒸馏器&r能够将它们转化为珍贵的资源。"
@@ -4248,8 +4248,8 @@
 	task.31B1D4D0DBFCDCD6.title: "符文木基座"
 	task.328C56BA23A70B8F.title: "能量"
 	task.34E6ED3A221ADB0E.title: "Just Dire Things模组的工具"
-	task.358F07DD4EF00930.title: "Item Pipes"
-	task.35B971D8A6CCBC94.title: "EU Cables"
+	task.358F07DD4EF00930.title: "物流管道"
+	task.35B971D8A6CCBC94.title: "EU电缆"
 	task.35F8589774CE48D9.title: "奥术基座"
 	task.360DFCFD6400CADB.title: "胶乳原料"
 	task.36D658D637E5D847.title: "存储系统"
