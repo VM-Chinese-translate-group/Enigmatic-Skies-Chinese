@@ -1,13 +1,12 @@
 {
   "modpack": {
-    "name": "名字",
+    "name": "Enigmatic Skies",
     "version": "1.7.1",
     "translation": {
-      "id": "meta用的id",
-      "url": "https://vmct-cn.top/modpacks/官网页面/",
+      "id": "enigmatic-skies",
+      "url": "https://vmct-cn.top/modpacks/enigmatic-skies/",
       "language": "zh_cn",
-      "version": "汉化版本1.0.0",
-      "resourcePackName": "VM汉化组模组汉化包1.19及以上"
+      "version": "1.7.1"
     }
   }
 }

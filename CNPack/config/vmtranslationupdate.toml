@@ -4,9 +4,9 @@ autoSwitchLanguage = true
 checkModPackTranslationUpdate = true
 [resourcePack]
 autoDownloadVMTranslationPack = false
-autoLoadExtraTranslationPack = false
+autoLoadExtraTranslationPack = true
 resourcePackIndex = "DEFAULT"
-extraPackName = ""
+extraPackName = "Enigmatic Skies Chinese Translation"
 extraPackCustomIndex = 0
 [modInstallCheck]
 i18nUpdateMod = true
