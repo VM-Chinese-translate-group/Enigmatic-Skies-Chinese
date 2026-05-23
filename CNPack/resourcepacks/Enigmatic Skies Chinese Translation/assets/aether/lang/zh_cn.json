@@ -1,1 +1,5 @@
-{ "item.aether.blue_berry": "云莓" }
+{ 
+	"item.aether.blue_berry": "云莓",
+	"block.aether.berry_bush": "云莓灌木",
+	"block.aether.berry_bush_stem": "未成熟的云莓灌木"
+}
