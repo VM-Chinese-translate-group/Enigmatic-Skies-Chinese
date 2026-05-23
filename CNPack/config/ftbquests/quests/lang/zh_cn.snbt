@@ -24,7 +24,7 @@
 	chapter_group.440488E780593120.title: "&b学习"
 	chapter_group.46AB9129BBE517B6.title: "&b谜之天空"
 	file.0000000000000001.title: "&n&6谜之天空&r"
-	quest.00066BB06F509677.quest_desc: ["Item Cards for LaserIO allow Laser Nodes to transport Items."]
+	quest.00066BB06F509677.quest_desc: ["LaserIO的物品卡允许激光节点传输物品。"]
 	quest.008F3C0FB9F4B451.quest_desc: ["[ \"\", { \"text\": \"火之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"烈焰空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \"上的炽热火山。\" ]"]
 	quest.008F3C0FB9F4B451.title: "烈焰空岛"
 	quest.00946DF0B2C88A9F.quest_desc: [
@@ -36,13 +36,13 @@
 	quest.01266355AAB13C39.quest_desc: [
 		"凿子（Chisel ）模组提供了大量方块的变种，让你的建筑大放异彩，拿上凿子和方块开建吧！"
 		""
-		"&a🛈 提示：在EMI中搜索&3@chisel&r查阅"
-		"&a    更多相关内容。"
+		"&a🛈 提示：在EMI中搜索“&3@chisel&r&a”查阅更多相关内容。"
+		""
 	]
 	quest.015857940250CE8D.quest_desc: [
-		"&7Fluid Modules&r for &7Modular Routers&r allows them to transfer fluid bi-directionally. They can also be used to place fluid in the world. "
+		"&7流体模块&r允许&7模块化路由器&r双向传输流体，同样也可用于在世界中放置流体。"
 		""
-		"The &7Router&r needs some kind of storage tank in its buffer to work. A bucket is sufficient but a larger fluid tank from any other mod is ideal."
+		"你需要在&7路由器&r的缓冲区放入某种储罐才能工作。一个桶就足够了，但其他模组的大型流体储罐效果更为理想。"
 	]
 	quest.016B7CA4A7FC58A1.quest_desc: ["有了&7黄铜&r之后，你现在可以使用来自机械动力模组的更多功能了，这意味着你现在拥有更多可选的自动化方案。"]
 	quest.0227D9EC391788D6.quest_desc: [
@@ -196,7 +196,7 @@
 		"每个方块有多种变种，可以被快捷键轻松选取。与此同时，你也可以使用多种手杖，来快速修改已经放置的方块。"
 		""
 		"&a🛈 提示：在EMI中搜索&3@blockz&r&a查询"
-		"&a    更多相关内容。"
+		""
 	]
 	quest.064BF1AA27A01A3A.title: "BetterBlockZ"
 	quest.064F6355185A51D4.quest_desc: [
@@ -345,9 +345,9 @@
 		"它可以给你物品栏中用FE和EU的设备充电，是保持电量充足的实用工具。"
 	]
 	quest.0CCE0467AF123EAB.quest_desc: [
-		"Just Dire Things introduces a number of tools with special capabilities, from aoe breaking to teleportation of items to a linked inventory. "
+		"Just Dire Things模组提供了许多带有特殊能力的工具，有的可以范围破坏方块，有的可以将物品直接传送到连接的物品容器中。"
 		""
-		"Higher tiers also run on FE instead of using durability!"
+		"更高阶级的工具可以用FE驱动，从而避免消耗耐久！"
 		""
 		"&a🛈 提示：手持工具潜行右击可以打开它们的选项菜单。"
 		""
@@ -358,11 +358,11 @@
 		"也可以为使用FE的机器供电，但只能接从现代工业化的发电机中提取能量。"
 	]
 	quest.0D65061DFD04B301.quest_desc: [
-		"&7Item Modules&r for &7Modular Routers&r allow them to send to or pull from an inventory. "
+		"&7物品模块&r允许&7模块化路由器&r从容器抽取物品或将物品发送到容器中。"
 		""
-		"The first tier, MK1, can only send in a straight line, while MK2 can interact with any linked inventory in range. MK3 Senders are special in that they have no range limits and work across dimensions."
+		"第一级的MK1只能沿直线发送，MK2则可以与范围内所有已连接的容器交互。MK3发送模块的特殊之处在于没有范围限制且能跨维度工作。"
 		""
-		"&7Distributor Modules&r can pull from or send to a maximum of up to eight inventories per module, making them perfect for distributed crafts or collecting from many machines."
+		"每个&7分配模块&r可以从最多八个容器中抽取或发送物品，非常适合用于分布式合成或从多个机器中收集物品。"
 	]
 	quest.0D65061DFD04B301.title: "物品模块"
 	quest.0D7B7B9CF7362FD8.quest_desc: [
@@ -452,9 +452,9 @@
 		""
 	]
 	quest.0E1258E2B2C7FFD5.quest_desc: [
-		"&7Modular Routers&r can be upgraded with an &7Energy Distributor Module&r, allowing them to deliver power wirelessly to eight different blocks per module."
+		"&7模块化路由器&r可以通过&7能量分配模块&r升级，每个模块能够为八个不同的方块无线传输能量。"
 		""
-		"To use them, the &7Router&r must also have an &7Energy Upgrade&r installed, which determines the type of energy the &7Router&r will send. This is fully compatible with both FE and EU."
+		"使用时，&7路由器&r也必须安装一个&7能量升级&r，该升级决定了&7路由器&r发送的能量类型，完全兼容FE和EU。"
 	]
 	quest.0E1F3FCCA1A9E405.quest_desc: [
 		"这些简单的平台仅由草地和云朵构成。"
@@ -565,19 +565,19 @@
 	]
 	quest.136AD444BD07EFCF.title: "作物种植"
 	quest.136EC4060E233E16.quest_desc: [
-		"建筑手杖适合于大量放置方块的场景，例如搭建墙壁和地板等。"
+		"建筑棒适合于大量放置方块的场景，例如搭建墙壁和地板等。"
 		""
-		"They offer a variety of options out of the box, but can be upgraded with new features by applying a Template in a Smithing Table.  "
+		"它们自带多种选项，还可以在锻造台中使用模板来添加新的功能升级。"
 	]
 	quest.136FD7D7C0EECAE3.quest_desc: [
-		"The first step to making our own &7Oil&r is, of course, lots of organic material. "
+		"要制造属于你的&7原油&r，第一步当然是需要大量的有机物质。"
 		""
-		"You should have plenty of raw materials for this from your various animal farms and dorodangos. "
+		"你应该已经从众多生物农场和泥球中收集到了充足的原材料来完成这一过程。"
 	]
 	quest.13F15094F3AF4A73.quest_desc: [
 		"                      &6&n生物群系：蘑菇岛&r&r"
 		""
-		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活地生成方块。"
 		""
 		"  • &7泥土&r                      &2⟶&r           &7腐枯土&r"
 		"  • &7草方块&r                    &2⟶&r           &7腐枯土&r"
@@ -659,8 +659,8 @@
 	quest.154F980273016EAF.quest_desc: [
 		"仅需要一点火花，&7蒸汽&r便点燃了&7光以太&r。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.157A20804F9E8F83.quest_desc: [
@@ -709,9 +709,9 @@
 	]
 	quest.161CA05D18639AD4.title: "薇克精切削"
 	quest.16BFB19411FE195F.quest_desc: [
-		"LaserIO is a catch all logistics mod capable of many things. "
+		"LaserIO是一款功能全面的物流模组，能够实现多种功能。"
 		""
-		"Check out the guidebook for more information on how to use it to your advantage!"
+		"查看指南书以获取更多关于如何利用它来发挥优势的信息！"
 	]
 	quest.16BFB19411FE195F.title: "LaserIO"
 	quest.16C7D5478BF3D449.quest_desc: [
@@ -827,8 +827,8 @@
 		""
 		"这只是你至今为止用过的众多&7涡轮机&r中的一台，但你还需要不少这样的涡轮机来满足你&7聚变反应堆&r的产能。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.1BAEB780F38B1C56.quest_desc: [
@@ -881,18 +881,18 @@
 		""
 		"不过，要使&7涡轮机&r达到这一产能，需要&7超高压等级能量仓&r和线缆。它当然可以使用低级的仓室，但这会导致输出被限制。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.1CEDA28FD4CB759E.quest_desc: [
-		"&7Transfer Labels&r slip between blocks to enable block-to-block transfer without a pipe. "
+		"将&7传输标贴&r夹在方块之间，即可实现无需管道的方块间传输。"
 		""
-		"Sneak + Right-Click to install one on the side of a block. Once installed, the label may be configured by Right-Clicking either with another label or with a &7Label Accessor&r. "
+		"潜行右击将标贴安装在方块侧面。安装后，可通过手持另一个标贴或&7标贴访问器&r右击该标贴进行配置。"
 		""
-		"While in the Configuration screen, you may add more labels to control the quantity and speed of transfer, as well as set filters."
+		"在配置界面中，你可以添加更多标贴来控制传输的数量和速度，还可以设置过滤器。"
 		""
-		"The label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r."
+		"手持另一个标贴或&7标贴访问器&r左击该标贴即可移除。"
 	]
 	quest.1CF0D1E63C34AE6E.quest_desc: [
 		"&7精魂催化器&r能加速&7精魂坩埚&r。只需将它们放置在附近，并填入指定熔炉燃料即可。"
@@ -933,16 +933,16 @@
 	quest.1D5616DFA428D46F.quest_desc: [
 		"建筑小帮手模组提供了一系列使用FE能量驱动的工具，用以完成例如方块放置、方块替换、复制粘贴甚至是删除大片方块的工作。"
 		""
-		"If you’re looking to build a massive base, Building Gadgets likely has a tool to help. "
+		"如果你想要建一个超大的基地，建筑小帮手们可以派上用场。"
 		""
-		"&a🛈 Tip: Search &3@buildinggadgets&r &ain EMI"
-		"&a    to discover more."
+		"&a🛈 提示：在EMI中搜索“&3@buildinggadgets&r”&a查阅更多相关内容。"
+		""
 	]
 	quest.1D5616DFA428D46F.title: "建筑小帮手"
 	quest.1D5E773A3A547A2C.quest_desc: [
-		"If you’re into Cottagecore or just want some knicknacks to fill your shelves with, Handcrafted is the place to start. It’s loaded with comfy chairs and interior decorations."
+		"如果你喜欢农舍风格，或者只是想要用一些小物件装点你的书架，那么你可以试试精巧手艺。这个模组有很多舒适的椅子和室内装饰品。"
 		""
-		"&a🛈 提示：在EMI中搜索“&3@handcrafted&r”&a查阅更多相关内容"
+		"&a🛈 提示：在EMI中搜索“&3@handcrafted&r”&a查阅更多相关内容。"
 		""
 	]
 	quest.1D5E773A3A547A2C.title: "精巧手艺"
@@ -1042,19 +1042,19 @@
 		"原始创造触手可及。"
 	]
 	quest.21C1CAA38D040AC8.quest_desc: [
-		"Functional Storage is an expandable storage solution capable of holding all of your items and liquids. "
+		"功能性存储是一种可扩展的存储解决方案，能够容纳你所有的物品和液体。"
 		""
-		"Each drawer can hold from one to four item types, but will hold a truly astronomical amount of them. "
+		"每个抽屉可以容纳一至四种物品，而每种物品的存储量能够达到真正天文数字般的规模。"
 		""
-		"Drawers may also be linked up to a Drawer Controller, allowing you to link all of the drawers into a single network. So, item pipes and other logistics can pipe into or out of the Controller and have access to every attached drawer."
+		"你也可以将抽屉连接到存储控制器，这样就可以将所有抽屉整合到一个网络中。这样一来，物品管道和其他物流系统可以通过控制器输入或输出，并访问所有连接的抽屉。"
 		""
-		"It’s not possible to manually access the Storage Controller, so you’ll likely want to pair this with something else that allows you access the items. An Ad Hoc AE2 network, Pretty Pipes, or an Ars nouveau Storage Lectern are all excellent options."
+		"但你是无法访问存储控制器的，因此你可能需要将其与其他能访问物品的组件配对使用。临时AE2网络、Pretty Pipes或新生魔艺的存储讲台都是绝佳选择。"
 	]
-	quest.21C1CAA38D040AC8.title: "Functional Drawers"
+	quest.21C1CAA38D040AC8.title: "功能性抽屉"
 	quest.21FA8A625A79BE61.quest_desc: [
-		"Simple fluid pipes for getting fluid from one place to another. "
+		"用于将流体从一个地方输送到另一个地方的简易流体管道。"
 		""
-		"Each one will only transfer a single fluid type at a time."
+		"同一时间每次只能传输一种流体。"
 	]
 	quest.22344008D43D4710.quest_desc: [
 		"村民是许多关键原料的来源，而且他们胃口大得吓人。你需要一些帮手来喂养它们！"
@@ -1104,9 +1104,9 @@
 		"然后，将其注入&7神能晶片&r来制造&7魔源宝石&r。"
 	]
 	quest.24095EE1A419152D.quest_desc: [
-		"A small multiblock consisting of the &7Controller&r and up to four &7Outputs&r stacked atop it, the &7Refinery&r is central to processing &7Crude Oil&r. "
+		"&7精炼厂&r是一台简单的多方块机器，由一个&7控制器&r和上方堆叠的最多四个&7输出仓&r组成，是&7石油&r生成的核心。"
 		""
-		"The Refinery uses Heat instead of Air. You can use passive heat sources such as &7Magma Blocks&r or &7Lava&r, however you may wish to use a &7Vortex Tube&r to heat it instead. "
+		"精炼厂的运行并不需要空气，而是使用热量。你当然可以使用被动热源驱动，例如&7岩浆块&r或&7熔岩&r，但&7涡流管&r也许会是更好的选择。"
 		""
 		"&a🛈 提示：可以在EMI中点击查看热管的用途，以此获取详细的热源列表。"
 		""
@@ -1143,11 +1143,11 @@
 	quest.267FEB0BB5D9B4D9.quest_desc: [
 		"&7装配台&r是一种多方块机器，适用于更高级的合成配方。"
 		""
-		"Each piece has requirements for valid placement; refer to the PNC:R manual for the exact rules."
+		"每一部件拥有各自的合适摆放需求，推荐在《PNC:R 手册》中阅读详细规则。"
 		""
-		"A simple layout can be setup in a 2x3 space, however:"
-		"&a    IO Unit   Controller     IO Unit"
-		"&a    Drill      Platform        Laser"
+		"不过，在2x3空间中也能建造一个简单的布局："
+		"&a    IO 设备，控制器，IO 设备"
+		"&a    钻头，平台，激光"
 		""
 		"&6⚠ 注意：在安装了装配程序：钻头\\&激光后，装配机既可以完成需要钻头或激光其中之一的配方，也可以完成同时需要二者的配方。"
 		""
@@ -1306,13 +1306,13 @@
 		"此接口可用于为气动设备充能、自动存取物品，甚至能自动喂食或管理经验。玩法无穷无尽！"
 	]
 	quest.2B0DDF8003305DB6.quest_desc: [
-		"&7Transfer Labels&r slip between blocks to enable block-to-block transfer without a pipe. "
+		"将&7传输标贴&r夹在方块之间，即可实现无需管道的方块间传输。"
 		""
-		"Sneak + Right-Click to install one on the side of a block. Once installed, the label may be configured by Right-Clicking either with another label or with a &7Label Accessor&r. "
+		"潜行右击将标贴安装在方块侧面。安装后，可通过手持另一个标贴或&7标贴访问器&r右击该标贴进行配置。"
 		""
-		"While in the Configuration screen, you may add more labels to control the quantity and speed of transfer, as well as set filters."
+		"在配置界面中，你可以添加更多标贴来控制传输的数量和速度，还可以设置过滤器。"
 		""
-		"The label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r."
+		"手持另一个标贴或&7标贴访问器&r左击该标贴即可移除。"
 	]
 	quest.2B759D4770C13739.quest_desc: [
 		"虽然手工制作的物品确实有其独特的魅力，但有些事情最好还是交给机器来完成，它们能更高效地胜任这项工作。"
@@ -1332,12 +1332,12 @@
 		"类似的，所有方向上相邻的机器也会共享热量，因此将它们排成一条线，可以更方便地为多个配方提供所需热量。"
 	]
 	quest.2C1538BE243F0CB4.quest_desc: [
-		"终于找到了一个自己想要的基因？接下来只需要把它注入质粒中。"
+		"终于找到了一个自己想拥有的性状吗？你还需要把它注入到质粒中才能使用。"
 		""
-		"用DNA螺旋来设置质粒的类型，然后可以使用更多同类型的DNA螺旋来填满它，基础基因也可以，不过使用基础基因需要消耗更多数量。"
+		"只需要一个DNA螺旋就能确定质粒的类型，然后你可以使用更多相同类型的DNA螺旋进行填充，或者使用基础基因。两种方式都是可行的，只不过用基础基因来填充的话，需要消耗更多的基础基因。"
 		""
-		"&a🛈 提示：使用基础基因来制作空质粒，"
-		"&a    而不要把有用的基因浪费在它上面。"
+		"&a🛈 提示：推荐使用基础基因制作空质粒，这样就不会浪费更有价值的基因。"
+		""
 		""
 	]
 	quest.2C3B39CD6A7E044C.quest_desc: [
@@ -1347,9 +1347,9 @@
 	]
 	quest.2C3B39CD6A7E044C.quest_subtitle: "糕科技！"
 	quest.2CA1A8A7B84FAD71.quest_desc: [
-		"Modular Routers is a catch all logistics mod capable of many things. "
+		"模块化路由器是一款功能全面的物流模组，能够实现多种功能。"
 		""
-		"Check out the guidebook for more information on how to use it to your advantage!"
+		"查看指南书以获取更多关于如何利用它来发挥优势的信息！"
 	]
 	quest.2D55E211F5B4F0BF.quest_desc: ["一个简单的充能站，可以给放在其中的设备充能。"]
 	quest.2D755021F6490B86.quest_desc: [
@@ -1411,7 +1411,7 @@
 	quest.305A56BDCBE2D2AE.quest_desc: [
 		"&7沉淀池&r可让&7废水&r通过&7沙子&r和&7沙砾&r进行过滤，使它得到净化，恢复正常使用的标准。"
 		""
-		"As such, it can be a great way to supplement your &7Water&r production from the waste produced by your animals."
+		"这台设备可以极好地从动物代谢的废料中提取&7水&r资源。"
 	]
 	quest.307FEC610F0B542F.quest_desc: [
 		"复制器主要有两种运作模式。"
@@ -1494,14 +1494,14 @@
 		""
 	]
 	quest.3263757C9A240C70.quest_desc: [
-		"Chipped offers a multitude of block variants to fit your every decorative need. The Workbenches themselves are equally lovely and can spruce up your interiors quite easily."
+		"Chipped模组为方块相当多的变种，能够满足各种各样的装饰需求。模组的工匠站本身也很美观大气，能够轻松地为您的室内环境增添美感。"
 		""
-		"If you’d like to work on the go, the mod also offers a variety of handheld tools that work exactly like a placed Workstation."
+		"如果你希望随时进行操作，那么这一模组还提供了多种便携工具，这些工具的功能与摆放下来的工匠站完全相同。"
 		""
-		"Workstation variants are aesthetic only. They can all make any Chipped block, so pick your favorite!"
+		"工匠站的变种只有外形差别。它们中的任一个都能用来制作所有Chipped方块，所以你可以随心挑选自己更喜欢的那个！"
 		""
-		"&a🛈 Tip: Search &3@chipped&r &ain EMI to "
-		"&a    更多相关内容。"
+		"&a🛈 提示：在EMI中搜索“&3@chipped&r”&a查阅更多相关内容。"
+		""
 	]
 	quest.3263757C9A240C70.title: "Chipped"
 	quest.3282293AB6B43287.quest_desc: [
@@ -1549,17 +1549,17 @@
 	quest.34FB10F0A2504973.title: "牧羊人"
 	quest.359562022532BAE1.quest_desc: [
 		"精魂灌注用于强化物品和材料，加强它们的效果。"
-		"&n                                                  &r"
+		"&n                                                   &r"
 		""
-		"When viewing Spirit Altar recipes in EMI, the central item and the Spirits shown to the left should be insterted onto the Altar itself. "
+		"EMI的精魂祭坛的配方中，中间的物品和显示在左侧精魂应放在祭坛本身之上。"
 		""
-		"Any items shown on the right must be instered into a nearby Item Pedestal or Item Stand. "
+		"显示在右侧的其他物品必须放在附近的物品基座或物品台中。"
 		""
-		"Items may be piped into the these blocks, or otherwise Right-Clicked into place when crafting by hand."
+		"可以通过管道把物品送入物品基座中，或者在合成时手动右击放入。"
 		""
-		"&6⚠ Note: Item Stands and Pedestals "
-		"&6    must be within four blocks of "
-		"&6    the Altar."
+		"&6⚠ 注意：物品台和物品基座必须在祭坛的四格之内。"
+		""
+		""
 	]
 	quest.359A7C9127500D6C.quest_desc: ["一个简单的&7熔炉&r，尽管天气寒冷，它也能很好地保护那宝贵的热量供你使用。"]
 	quest.35A8CEA408114638.quest_desc: [
@@ -1576,13 +1576,13 @@
 		"这些内容在&7自然灵气之书&r中均有详细说明，如需了解具体搭建方法，请查阅对应条目。"
 	]
 	quest.35FD905A4A4EB1F5.quest_desc: [
-		"Pretty Pipes: Fluids is an addon to Pretty Pipes which allows the network to carry fluids in addition to items. The same network will effectively carry both, allowing everything to flow through a single block space. "
+		"Pretty Pipes: Fluids是Pretty Pipes的一个附加组件，它允许网络传输物品以及流体。同一个存储网络就能够有效传输两者，所有东西都能在单个方块内流通。"
 		""
-		"&7Fluid Pipes&r are therefore only required at the end points where the pipes connect to a fluid tank. "
+		"因此，&7流体管道&r只需要放置在流体储罐的连接端。"
 		""
-		"Like Pretty Pipes, this addon includes &7Extraction&r and &7Retrieval Modules&r for getting fluids into and out of tanks. It also features a suite of filters and works with the Pretty Pipes priority system. "
+		"与Pretty Pipes类似，本附属包含用于从储罐中进出流体的&7抽取&r和&7检索模块&r。它还提供了一套过滤模块，并与Pretty Pipes的优先级系统兼容。"
 	]
-	quest.363AB8EC195285BE.quest_desc: ["&7Sludge Refiners&r sort all the gunk fed into them to create more useful materials, such as &7Soul Sand&r, &7Clay&r, and &7Rich Soil&r. "]
+	quest.363AB8EC195285BE.quest_desc: ["&7污泥精炼机&r会将输入它们的各类污物进行分类处理，以提取出更多有用的物质，如&7灵魂沙&r、&7黏土&r和&7沃土&r等。"]
 	quest.369D0F2CC8D028D2.quest_desc: [
 		"在&7精魂坩埚&r上放置最多四个&7增强件&r和一个&7核心增强件&r，可以进一步加强它。类似地，附近的每个&7精魂催化器&r也可以用&7增强件&r进行增强。"
 		""
@@ -1730,9 +1730,9 @@
 		""
 	]
 	quest.3A078285904792A2.quest_desc: [
-		"Simple item pipes for moving things around. "
+		"用于运输物品的简易物品管道。"
 		""
-		"They can be filtered and accept Motors as upgrades to speed them up."
+		"这种管道拥有过滤器，且可以使用马达升级，加快传输速度。"
 	]
 	quest.3A0F43654CE474DA.quest_desc: [
 		"作为亲近树木的林地精灵，&7风转草&r很愿意加入你的家园，只要你能展现对她的爱，在她的附近种下一棵树。"
@@ -1800,7 +1800,7 @@
 		""
 		"我们稍后会学到进一步精炼它的方法。"
 		""
-		"就现在而言，去挖掘一些灵魂石矿石，然后烧炼它以获得精制灵魂石。"
+		"目前而言，你可以去挖掘灵魂石矿石，然后烧炼，获得精制灵魂石。"
 	]
 	quest.3BF458796782EB49.quest_desc: [
 		"你可以通过&7赛博改造中心&r进行研究，并在自己身体里植入多种生物机械增强，以此获得永久增益效果和额外能力。"
@@ -1865,12 +1865,12 @@
 	]
 	quest.3CBA1384BD3D28ED.title: "薇克精烧炼"
 	quest.3CC1C6949E17A1B9.quest_desc: [
-		"Simple and reliable, the &7Liquid Compressor&r is suitable for running basic PneumaticCraft machines up to &75 bar&r. "
+		"&7液体压缩机&r简单但可靠，适合驱动最高&75 bar&r工作压强的气动工艺基础机器。"
 		"&n                                                &r"
 		""
-		"Machines and Tubes will burst if over pressurized! Avoid this by disabling the Compressor when it’s nearly full. "
+		"所有机器与管道在压力过载时都会发生爆炸！要避免出现这一情况，你需要在机器达到临界状态前关闭压缩机。"
 		""
-		"[\"Refer to the \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../pneumaticcraft-safe-compressor-usage#compressing-air-and-basic-control\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Safe Compressor Usage\",\"underlined\":true},\" article on our wiki for more information.\"]"
+		"[\"详细信息请见我们Wiki上的《\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://wiki.enigmatica.net/enigmatica6/gameplay/how-to.../pneumaticcraft-safe-compressor-usage#compressing-air-and-basic-control\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处前往\"}]},\"text\":\"压缩器安全使用指南\",\"underlined\":true},\"》这篇文章。\"]"
 	]
 	quest.3CC1C6949E17A1B9.quest_subtitle: "基础压力"
 	quest.3D1D6D17B2900DF0.quest_desc: [
@@ -1888,12 +1888,12 @@
 		"&a   区域更方便。"
 	]
 	quest.3D6441ECF951BAD4.quest_desc: [
-		"This incredibly cold fluid holds some mystical capabilities that may be used to augment certain Industrial Foregoing machines."
+		"这种液体极度寒冷，且拥有一些神秘的特性，适用于调节特定的工业先锋机器。"
 		""
-		"  • Auto-harvesting in &7Hydroponic Beds&r"
-		"  • Gentle-harvesting in the &7Plant Gatherer&r"
+		"  • 使用&7水培床&r自动收获；"
+		"  • 使用&7植物收割机&r收获并补种。"
 		""
-		"It's also a vital component for more advanced machinery!"
+		"它也会成为后续高级机械设备中至关重要的组成材料！"
 	]
 	quest.3D76C219EB7EEC03.quest_desc: [
 		"一种可以在一定范围内放置方块的机器。它会从上方的容器中提取物品，并将其放置在指定的方块上方。"
@@ -1930,13 +1930,13 @@
 		""
 		"本模组能让你自己和其它生物获得特殊能力。"
 		""
-		"有没有想过从猪身上剪下肉；或者给鸡挤奶；或者像羊一样吃草；再或者通过光合作用直接给自己补充能量？"
+		"有没有想过从猪身上“剪”下肉；或者给鸡“挤奶”；或者使自己像羊一样吃草；再或者通过光合作用直接给自己补充能量？"
 		""
-		"现在你可以做到了。"
+		"以上这些，现在你都可以实现！"
 		""
-		"这些任务将引导你完成使用模组的基础步骤。之后，无论怎样，就靠你自己去运用这些知识了。"
+		"这些任务将引导你了解模组的基础用法。之后，怎样运用这些知识，不论是正面的还是邪恶的，全看你自己的想法。"
 		""
-		"[\"请务必查阅他们的\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"，可以为你补充很多信息。\"]"
+		"[\"务必查阅他们的在线\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"，这可以为你补充很多信息。\"]"
 	]
 	quest.3EA53BBEBC32F813.title: "基因重组"
 	quest.3EA705A9C893F04A.quest_desc: [
@@ -2043,9 +2043,9 @@
 	]
 	quest.3F20E7D7E1C07311.title: "滚金翻银"
 	quest.3FF6566453299DC1.quest_desc: [
-		"Applied Energistics is the ultimate storage and logistics solution. Not only does it store items and fluids, but it acts as a controller for external machines by way of its auto crafting system. "
+		"应用能源是存储与物流的终极方案。它不仅能够存储物品和流体，还能通过自动合成系统操控其他机器。"
 		""
-		"[\"Read more about this system in the dedicated \",{\"clickEvent\":{ \"action\": \"change_page\", \"value\": \"7D82585D50D7207A\" },\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\": \"Applied Energistics\",\"underlined\":true},\" chapter. \"]"
+		"[\"在其专属的\",{\"clickEvent\":{ \"action\": \"change_page\", \"value\": \"7D82585D50D7207A\" },\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\": \"应用能源\",\"underlined\":true},\"章节了解更多关于该系统的信息。\"]"
 	]
 	quest.3FF8D40CD4CB33BB.quest_desc: [
 		"想找个不会损坏的工具？这些就能满足你的需求。"
@@ -2239,26 +2239,26 @@
 		"没关系！此任务可以被重复完成，助你重新上路！"
 	]
 	quest.4613FE560EAC7695.quest_desc: [
-		"在&7质粒注射器&r中将&7净化血液&r与已填充的&7质粒&r组合，就可以在血液样本中设置基因。"
+		"在&7质粒注射器&r中将&7净化血液&r与已填充的&7质粒&r组合，可以为血液样本设置一个性状。"
 		""
-		"如果愿意，你可以在同一份血液样本中插入多个性状。"
+		"如果愿意，你可以继续在这份血液样本中插入更多性状。"
 		""
 		"一旦你对增强后的血液样本感到满意了，你就可以准备把它注射进生物体内了。"
 		""
-		"[\"许多基因都可以注入到生物上，但不是所有基因都可以。如有疑问，请参考\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"Wiki\",\"underlined\":true},\"。\"]"
+		"[\"有很多种性状可以赋予给生物，但不是全部性状都能这么做。你可以在\",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]},\"text\":\"模组Wiki\",\"underlined\":true},\"上查看详细内容。\"]"
 		""
-		"&6⚠ 注意：一些性状需要有前置条件才能表达，如果未满足会使得注射失败。具体可参考EMI。"
+		"&6⚠ 注意：有些性状需要前置条件才能表达，如果未满足会使得注射失败。具体可参考EMI。"
 		""
 		""
 		""
-		"&a🛈 提示：可繁殖动物的性状可以遗传给后代！"
+		"&a🛈 提示：可繁殖动物身上的性状可以遗传给后代！"
 		""
 		""
 	]
 	quest.465D195EA5630857.quest_desc: [
-		"With a Storage Lectern from Ars Nouveau, you can easily link together multiple inventories to have a central storage and crafting interface. "
+		"使用新生魔艺模组的存储讲台，可以轻松地将多个容器连接起来，形成一个带有合成界面的集中存储系统。"
 		""
-		"Be sure to check out the Worn Notebook for more information on this system!"
+		"记得查看《破旧的笔记本》以获取更多关于该系统的信息！"
 	]
 	quest.46DDBE0A9170F54A.quest_desc: [
 		"使用&7烈焰烬质&r铸造的&7钢材&r与使用传统方式铸造出的相比，应该……有些优势。"
@@ -2266,21 +2266,21 @@
 		"这种钢材不仅坚固耐用，而且在与&7精魂&r接触时有特别的渗透性；仿佛它对灵魂有着深不见底的渴求一般。"
 	]
 	quest.46F17885C957FD5C.quest_desc: [
-		"Potions of &7Fire Resistance&r and &7Ice Resistance&r won’t affect your body temperature, but they will prevent any negative effects associated with being too &9cold&r or &chot&r, making them ideal for prolonged jaunts outside of the area of your &7Hearth&r."
+		"&7抗火药水&r与&7御寒药水&r并不会直接影响你的体温，但会阻止&9过冷&r和&c过热&r带来的负面影响，如果你需要长时间在&7壁炉&r外的区域停留，那么这两种药水会起到非常大的作用。"
 		""
-		"By feeding them into a &7Potion Diffuser&r, you can even share the effects with your friends and &oother creatures&r in the area."
+		"将它们装填进&7药水散布器&r，你可以在区域内和你的朋友与&o其他生物&r分享这些效果。"
 		""
-		"&a🛈 Tip: Diffusers can be bound to "
-		"&a    Jars that are &overy far away&r&a."
+		"&a🛈 提示：药水散布器可以与&o非常非常远的&r&a药水罐进行连接。"
+		""
 	]
 	quest.472936F50BC28EBF.quest_desc: [
-		"Sophisticated Storage offers a wide range of inventories to suit your needs, all of which may be connected through a Storage Controller for centralized access to everything in the network. "
+		"精妙存储提供了多种多样的存储容器以满足你的需求，所有容器均可通过存储控制器连接，集中访问存储网络中的物品。"
 		""
-		"The Storage Tool is used to select the Controller and then bind different inventories to it. This allows wireless connections within a limited range. "
+		"存储工具用于选择控制器，然后将不同的容器绑定到它。这样就可以在有限范围内建立无线连接。"
 		""
-		"It’s not possible to manually access the Storage Controller, so you’ll likely want to pair this with something else that allows you access the items. An Ad Hoc AE2 network, Pretty Pipes, or an Ars nouveau Storage Lectern are all excellent options."
+		"但你是无法访问存储控制器的，因此你可能需要将其与其他能访问物品的组件配对使用。临时AE2网络、Pretty Pipes或新生魔艺的存储讲台都是绝佳选择。"
 	]
-	quest.472936F50BC28EBF.title: "Sophisticated Storage"
+	quest.472936F50BC28EBF.title: "精妙存储"
 	quest.47A2DB9344C8CE26.quest_desc: [
 		"拥有&7西风促符&r后，你就能够批量生产一些重要材料：&7天气水晶&r和&7风弹&r。"
 		""
@@ -2377,9 +2377,9 @@
 	]
 	quest.49F48B91801BE4FE.title: "传输标贴"
 	quest.4A3B9586D14D5037.quest_desc: [
-		"Need a little more room to work? Summoning another island is always an option. "
+		"需要更多空间吗？你随时都可以再召唤另一座空岛。"
 		""
-		"Alternatively, Right-Click &7Clay&r with a &7Water Essence&r to convert a &n21x11x21&r area to this biome!"
+		"或者使用&7水之精华&r右击&7黏土&r，将&n21x11x21&r的区域变成该空岛的生物群系！"
 	]
 	quest.4A3B9586D14D5037.title: "生物群系转化"
 	quest.4ACD723FC7EB7CD6.quest_desc: ["这个地方很难点着火，大部分明火会立即熄灭，或者根本打不着。"]
@@ -2396,7 +2396,7 @@
 		""
 		"强化方法：在任意一台灵气场生成器上的&7物品展示框&r中放入工具，就可获得该工具的&7精准采集&r、&7时运&r及其它特殊挖掘效果。"
 	]
-	quest.4C91792ACCC53A2B.quest_desc: ["By applying high heat in a low-oxygen environment, we can convert &7Pelagite&r into &7Kerogen&r. "]
+	quest.4C91792ACCC53A2B.quest_desc: ["在高热低氧环境下，我们可以把&7沉积有机质&r转化为&7干酪根&r。"]
 	quest.4CB21D6351486281.quest_desc: [
 		"在&7自然祭坛&r上安装催化剂，就可处理新的配方。"
 		""
@@ -2414,15 +2414,15 @@
 	quest.4CC1CF537349C2D6.title: "生物群系转化"
 	quest.4D8B278BDF762813.quest_desc: ["这种物质如同虚空般冰冷，它的存在似乎时有时无。"]
 	quest.4DFD963932B9FF81.quest_desc: [
-		"With a &7Vortex Tube&r, you can easily create the very high, or very low, temperatures needed for many recipes."
+		"通过&7涡流管&r，你可以轻易创造出极高或极低的温度环境，以完成多种配方的需求。"
 		""
-		"The &7Vortex Tube&r will consume air constantly to create a temperature differential. It is therefore advisable to use a &7Regulator Tube Module&r to limit or disable air flow."
+		"&7涡流管&r会持续吸入空气以形成温差。因此非常建议使用&7调节器管道模块&r来禁止或限制空气流动。"
 		""
-		"机器工作时，红色端会产生热量，而蓝色端则会变冷。"
+		"机器工作时，红色端会发热，而蓝色端则会变冷。"
 		""
-		"As this is operating on differentials, the warmer you make the blue side, the hotter the red side will get. "
+		"鉴于机器的作用就是形成温差，你把蓝色那一侧加热得越厉害，红色那一侧也会变得越热。"
 		""
-		"Very often, this just means adding a &7Heat Sink&r to the blue side to warm it up to ambient temperature. However, it can be useful at times to put hot blocks, such as &7Magma&r or &7Lava&r, on the blue side to really push temperatures higher on the red side.  "
+		"通常情况下，你只需要在蓝色端添加一个&7散热片&r，使另一侧升温至环境温度。然而特定需求下，你也可以故意在蓝色端放置高温方块，例如&7岩浆块&r与&7熔岩&r，这样可以进一步提升红色端的温度。"
 		""
 		"&a🛈 提示：在机器上使用隔热板，可以避免热量损耗。"
 		""
@@ -2458,12 +2458,12 @@
 		""
 	]
 	quest.4FEA49AD05720ED7.quest_desc: [
-		"Ah, the simple joys of playing with chalk outside. "
+		"啊——在户外玩粉笔竟也如此简单快乐。"
 		""
-		"Arts and Crafts allows you to craft paint brushes to rapidly re-color blocks such as Wool, Terracotta, or any of the many blocks added by the mod itself. "
+		"你可以制作一柄来自Arts and Crafts的染刷，从而能够快速为羊毛、陶瓦等方块重新上色，或者为模组自己添加的众多方块进行上色操作。"
 		""
-		"&a🛈 Tip: Search &3@arts&r &ain EMI to "
-		"&a    更多相关内容。"
+		"&a🛈 提示：在EMI中搜索“&3@arts&r”&a查阅更多相关内容。"
+		""
 	]
 	quest.4FEA49AD05720ED7.title: "Arts and Crafts"
 	quest.5009BB4B0D1B459E.quest_desc: [
@@ -2520,7 +2520,7 @@
 	quest.521DE7879A4B6F03.quest_desc: ["有了&7EV级电缆&r和&7变压器&r，升级基础电力设施以满足高功率&7粒子加速器&r的需求会是一个明智之举。"]
 	quest.5226F1BC0A1B23D0.quest_desc: ["[ \"\", { \"text\": \"水之精华\", \"color\":\"gray\"}, \"能够让你进入\", { \"text\": \"奔流空岛\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \"的不绝飞瀑。\" ]"]
 	quest.5226F1BC0A1B23D0.title: "奔流空岛"
-	quest.529329FE6CB3D29E.quest_desc: ["在DNA提取器中分解细胞来获得美味多汁的DNA螺旋。"]
+	quest.529329FE6CB3D29E.quest_desc: ["细胞可以通过DNA提取器进行分解，从而获得丰富的DNA螺旋结构。"]
 	quest.52E79B2EB7400D13.quest_desc: [
 		"&7终端&r让你可以访问网络，让你和其中的物品交互。"
 		""
@@ -2663,9 +2663,9 @@
 		""
 		"该任务中，&7大型沉淀池&r同时需要流体仓和物品仓。"
 		""
-		"&a🛈 Tip: Place the controller block, then hold a Wrench "
-		"&a    to see the structure. Similarly, hold a Hatch to see "
-		"&a    valid locations for them."
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
+		""
 	]
 	quest.598473588831F46D.quest_desc: [
 		"&7流体激光中继器&r相当于一个无线流体管道。只需将其放置在储罐和需要流体的机器上，然后用中继器扳手将它们全部连接起来即可。"
@@ -2690,9 +2690,9 @@
 		""
 		"[ \"要获得制作这种结晶体所需的材料，你需要先到访过\", { \"text\": \"闪耀空岛\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"19F8B29D38CA31B8\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"点击此处\"}]} }, \"。\" ]"
 		""
-		"Once you’ve obtained the requisite ingredients, the only thing standing in your way is Time itself."
+		"当你集齐必需的材料后，剩下所需的就只有时间本身。"
 		""
-		"And Aura. Lots of Aura."
+		"当然，还需要灵气，需要很多很多灵气。"
 	]
 	quest.59F0519A7ED69E19.title: "石油"
 	quest.5A5596ED63306534.quest_desc: ["在不存在的微风下，它闪烁不定。"]
@@ -2832,13 +2832,13 @@
 		"你需要这些碳纤维来制作更高级机器所需的零件。"
 	]
 	quest.5FD8F4BE050D55B2.quest_desc: [
-		"&7Pretty Pipes&r are a simple item logistics and sorting system with some powerful features. "
+		"&7Pretty Pipes&r是一个简单的物品物流与分类系统，具备一些强大的功能。"
 		""
-		"Perhaps the biggest draw is that they show what’s moving through them for a more immersive experience. "
+		"或许这个模组最吸睛的点在于它们能显示在管道中穿梭的物品，从而带来更具沉浸感的体验。"
 		""
-		"Beyond this, however, they offer both push and pull functionality, where an &7Extraction Module&r can be used to pull items from an adjacent inventory and disperse them throughout the network, or a &7Retrieval Module&r may be used to pull items from any inventory on the network and push into the adjacent inventory. "
+		"不过除此之外，它们还提供了推拉功能，&7抽取模块&r可用于从相邻容器中抽取物品并分发到网络中，而&7检索模块&r则能从网络中的容器抽取物品并推入相邻的容器中。"
 		""
-		"Various filters and priority modules exist to help ensure the items are going to the correct place. "
+		"各种过滤和优先级模块可以确保物品被送往正确的位置。"
 	]
 	quest.5FE4FD410171ABFD.quest_desc: [
 		"随着能量需求激增，更好的方案通常是升级你的&7锅炉&r，并非制造更多相同的。"
@@ -2848,8 +2848,8 @@
 		""
 		"使用&7进阶大型蒸汽锅炉&r来提升你的能量产出。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.60239B38B7288779.quest_desc: [
@@ -2862,8 +2862,8 @@
 		""
 		"在EMI中，查看控制器方块（即&7大型蒸汽锅炉&r方块）的用途便可知道这个结构所需的其他方块。注意，所列的方块可被仓室替代。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.6030BA17DB9228F2.quest_desc: [
@@ -2921,9 +2921,9 @@
 	quest.61F55FC24EA0CD1C.quest_desc: [
 		"首先，我们需要一些有机物质样本，可以对不同生物使用刮刀来获得。"
 		""
-		"然后扔进细胞分析器来获得细胞。"
+		"然后把这些样本扔进细胞分析器来获得细胞。"
 		""
-		"&a🛈 提示：带有精细触控附魔的刮刀不会造成伤害。"
+		"&a🛈 提示：带有精细触控魔咒的刮刀不会对生物造成伤害。"
 		""
 	]
 	quest.623B5F0C0464F907.quest_desc: [
@@ -3126,7 +3126,7 @@
 	quest.6490781066FAE8CF.quest_desc: [
 		"                      &6&n生物群系：红树林沼泽&r&r"
 		""
-		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活地生成方块。"
 		""
 		"  • &7泥土&r                      &2⟶&r           &7泥巴&r"
 		"  • &7草方块&r                    &2⟶&r           &7泥巴&r"
@@ -3161,7 +3161,7 @@
 	quest.6534548E8A6A318C.quest_desc: [
 		"探宝蟹已经迫不及待要帮忙啦！"
 		""
-		"New &7Dorodangos&r await you with the materials available on this island. "
+		"内含该空岛独特材料的新&7泥球&r正在等候着你。"
 	]
 	quest.65FDD18E441E2E6E.quest_desc: [
 		"作为一本活化了的书，书龙是新生魔艺模组内置的完备仓储系统的一部分。"
@@ -3355,7 +3355,7 @@
 		"小龟抓起一小撮泥，转身游向水面。其他动物看到它手中拿着的东西时，纷纷赞叹不已。它们帮忙将泥巴涂抹到龟背上，发现还需更多泥巴，于是小龟又一次潜入水中，如此反复，小龟的背甲上的泥巴慢慢扩大，最终形成了一片新的陆地，让女子得以在上面休息。"
 	]
 	quest.6A8ACE8E9B7A056D.title: "潜水取泥"
-	quest.6A94923547B93B51.quest_desc: ["Fluid Cards for LaserIO allow Laser Nodes to transport Fluids."]
+	quest.6A94923547B93B51.quest_desc: ["LaserIO的流体卡允许激光节点传输流体。"]
 	quest.6AA9F3E0D4BC181A.quest_desc: [
 		"在这座空岛上有两个重要的结构。"
 		""
@@ -3382,9 +3382,9 @@
 	]
 	quest.6AF21EDF59FCE0D4.title: "消逝的童真"
 	quest.6AFCA9F187AE6EB2.quest_desc: [
-		"The Building section covers mods and tools to help you build up or tear down. "
+		"建筑章节介绍了一些模组与工具，它们能帮助您完成建造与拆除操作。"
 		""
-		"From mining and decoration, to destruction and more, the mods shown here will help you do it all."
+		"从采矿与装饰，到破坏以及更多操作，这里展示的模组将助您完成所有这些任务。"
 	]
 	quest.6AFCA9F187AE6EB2.title: "建筑"
 	quest.6BA05AC6ECC577DA.quest_desc: [
@@ -3412,9 +3412,9 @@
 	]
 	quest.6BA05AC6ECC577DA.title: "繁茂花园"
 	quest.6C4A7BF577605E4A.quest_desc: [
-		"The &7Time Wand&r uses Time Fluid and Energy to drastically accelerate machines for a brief period. "
+		"&7时间手杖&r能利用时间流体和能量以在短时间内极大提升机器的运行速度。"
 		""
-		"Simply Sneak + Right Click on a machine to apply stacking boosts up to 256x speed.   "
+		"简单对一台机器潜行并右击，就可以使用叠加加速功能，最高可将速度提升至 256 倍。"
 	]
 	quest.6CA8BA78F5B8FB6A.quest_desc: [
 		"活化一个&7荒野猎首&r，然后收集它的身体部件。"
@@ -3576,13 +3576,13 @@
 		""
 		"每台&7锅炉&r最高生产等价于8kEU/t的&7高压蒸汽&r，这意味着需要两台&7锅炉&r才能使一台&7热交换机&r达到最高产量。"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
 		"&a   同样，拿着仓室可以显示它们的位置。"
 		""
 	]
 	quest.6EB5108D30F5A94A.title: "高压进阶大型蒸汽锅炉"
 	quest.6EB6E8DEEBB32911.quest_desc: [
-		"要想获得一个生物性状，你需要将它插入到血液样本中。为此，我们首先要采集一份血液样本。"
+		"要获得一个生物性状，你需要将它插入到血液样本中。为此，我们首先需要采集一份血液样本。"
 		""
 		"你可以用空注射器采集自己的血液，只需按住鼠标右键，直到你的视野变暗。"
 		""
@@ -3632,16 +3632,16 @@
 		""
 	]
 	quest.6FC31B3806BF222A.quest_desc: [
-		"The &7Thermal Compressor&r uses heat differentials to produce compressed air up to &710 bar&r. "
+		"&7温差压缩机&r通过温差制造压缩空气，最高可达&710 bar&r。"
 		""
-		"Blocks such as &7Lava&r or &7Magma&r may be used to heat one side while a &7Heat Sink&r placed opposite will be enough to produce the required differential. "
+		"可以用&7熔岩&r或&7岩浆块&r等加热设备的一侧，这样放置在另一侧的&7散热片&r就足以产生设备所需的差值。"
 		""
-		"Heat sources will degrade over time and will need to be replaced."
+		"热源会随时间逐渐冷却，因此经常需要替换。"
 		""
 		"&a🛈 提示：可以在EMI中点击查看热管的用途，以此获取详细的热源列表。"
 		""
 	]
-	quest.6FC31B3806BF222A.quest_subtitle: "Raising the Bar"
+	quest.6FC31B3806BF222A.quest_subtitle: "提升压强"
 	quest.706758F1FE31E268.quest_desc: [
 		"预编程无人机主打开箱即用。"
 		""
@@ -3714,18 +3714,18 @@
 		""
 	]
 	quest.7327D905FE8B38FC.quest_desc: [
-		"The Item Terminal turns a Pretty Pipes network into a full-fledged item management system, allowing you to access the items throughout a network in one central location. "
+		"物品终端将Pretty Pipes的网络转变成一个完整的物品管理系统，让你能够在一个中心位置访问整个网络中的物品。"
 		""
-		"This may even be upgraded to a Crafting Terminal which has an integrated crafting grid. "
+		"它甚至还能升级为带有内置合成面板的合成终端。"
 		""
-		"Attaching and powering a Pipe Pressurizer will greatly increase the speed at which items are retrieved, however it is also recommended to keep your storage network pipe length short to ensure the items get to you quickly when requested."
+		"将管道连上管道加压器并为其供电将极大提升物品抽取速度，但同时建议限制存储网络管道长度，以确保在请求物品时能够快速送达。"
 		"&n                                       &r"
 		""
-		"Lastly, through the use of Crafting Modules, these Terminals may be used to request crafts on demand. "
+		"最后，通过使用合成模块，这些终端可以按需请求合成。"
 		""
-		"Simply program the Crafting Module in a pipe segment adjacent to a machine and it will insert the ingredients upon request. "
+		"在管道与机器的连接处放入合成模块，简单编辑一下，它就会根据请求输入相应的材料。"
 		""
-		"Another unconfigured pipe segment is needed for the Terminal to retrieve the craft."
+		"你还需要另一个未配置的管道来将合成物品传回终端。"
 	]
 	quest.7327D905FE8B38FC.title: "Pretty Pipes"
 	quest.739A201F595E3EFE.quest_desc: [
@@ -3745,8 +3745,8 @@
 		""
 		"最高效率：&n592&r"
 		""
-		"&a🛈 提示：放置控制方块，然后拿着扳手来预览结构。"
-		"&a   同样，拿着仓室可以显示它们的位置。"
+		"&a🛈 提示：放置控制器方块后，手持扳手即可预览完整结构。类似地，手持仓室可以查看能够放置的位置。"
+		""
 		""
 	]
 	quest.739A201F595E3EFE.title: "热交换机"
@@ -3786,7 +3786,7 @@
 		""
 		"&c⚠ 警告：超频器会大幅增加失败率"
 		""
-		"&c    耐心点，新手！"
+		"&c    保持耐心，新手！"
 	]
 	quest.7431B398FFDF3DCA.title: "突变"
 	quest.74463B3FC2D297AC.quest_desc: [
@@ -3831,7 +3831,7 @@
 	quest.768869D763EC54EB.quest_desc: [
 		"                       &6&n生物群系：深暗之域&r&r"
 		""
-		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活地生成方块。"
 		""
 		"• &7泥土&r                      &2⟶&r           &7天壤&r"
 		"• &7草方块&r                    &2⟶&r           &7空叶草方块&r"
@@ -3880,17 +3880,17 @@
 		"&a🛈 提示：魔源不是必需的！"
 	]
 	quest.77A66ADAB0845804.quest_desc: [
-		"Macaw’s Mods are an expansive suite of decorative mods to fit just about any build. Enigmatica 10 currently has the following:"
+		"Macaw的模组系列是一套功能丰富的装饰性改装包，适用于几乎任何风格的。目前Enigmatica 10整合包已安装以下模组："
 		""
-		"• Macaw’s Bridges"
-		"• Macaw’s Doors"
-		"• Macaw’s Fences and Walls"
-		"• Macaw’s Lights and Lamps"
-		"• Macaw’s Paths and Pavings"
-		"• Macaw’s Trapdoors"
+		"• Macaw的桥梁"
+		"• Macaw的门"
+		"• Macaw的栅栏和墙"
+		"• Macaw的照明灯具"
+		"• Macaw的小径和路面"
+		"• Macaw的活板门"
 		""
-		"&a🛈 Tip: Search &3@mcw&r &ain EMI to"
-		"&a    discover more."
+		"&a🛈 提示：在EMI中搜索&3@mcw&r&a查阅更多相关内容。"
+		""
 	]
 	quest.77A66ADAB0845804.title: "Macaw 系列模组"
 	quest.77FA6854AC88C138.quest_desc: [
@@ -3904,7 +3904,7 @@
 	quest.78626EE046E48EF3.quest_desc: [
 		"                       &6&n生物群系：至高木森林&r&r"
 		""
-		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活的生成方块。"
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活地生成方块。"
 		""
 		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
 		"  • &7草方块&r                    &2⟶&r           &7空叶草方块&r"
@@ -3943,7 +3943,7 @@
 	quest.7893072479F01DC2.quest_desc: [
 		"                          &6&n生物群系：暖水海洋&r&r"
 		""
-		"The following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks."
+		"以下放置转换规则在本生物群系中生效。务必记得这一规律，这样在使用“构筑地层”法术时能更加灵活地生成方块。"
 		""
 		"  • &7泥土&r                      &2⟶&r           &7天壤&r"
 		"  • &7草方块&r                    &2⟶&r           &7空叶草方块&r"
@@ -4037,10 +4037,10 @@
 	quest.79FA7B5854C9606F.quest_desc: [
 		"反场球和反场方块的功能都是抑制特定基因，尤其是物品吸引和经验吸引基因。"
 		""
-		"将方块放置在你不想随便吸取物品的区域。或者随身携带反场球，随时启用或禁用该基因。右击即可切换功能。"
+		"将方块放置在你不想随便吸取物品的区域。或者随身携带反场球，随时启用或禁用该性状。右击即可切换功能。"
 	]
-	quest.7ADBC282C9692EDE.quest_desc: ["Cable Façades are a universal façade that you can use to cover just about any pipe! "]
-	quest.7ADBC282C9692EDE.title: "Cable Facades"
+	quest.7ADBC282C9692EDE.quest_desc: ["线缆伪装方块是一种通用的伪装方块，可用于包覆任意管道！"]
+	quest.7ADBC282C9692EDE.title: "线缆伪装方块"
 	quest.7B4E085679031F8B.quest_desc: [
 		"当蒸汽充足时，&7蒸汽锅炉&r燃烧速率会降低，既能保持结构温暖，又不会浪费水。"
 		""
@@ -4221,8 +4221,8 @@
 	task.14C95C2344B5DC59.title: "催化剂"
 	task.15D7325C0C904192.title: "任意小型花"
 	task.1A49508B81A230E6.title: "观察：&2降生祭坛&r"
-	task.1B81285E0D45A226.title: "Any Tool"
-	task.1D1C35B0CD86F6CC.title: "Any Fluid Drawer"
+	task.1B81285E0D45A226.title: "任意工具"
+	task.1D1C35B0CD86F6CC.title: "任意流体抽屉"
 	task.1E437E1BEE76E5FF.title: "终端"
 	task.1E4E5D2B9B36005C.title: "闪耀方块"
 	task.1FBFB31F5657696B.title: "能量"
@@ -4230,7 +4230,7 @@
 	task.210DF794EE1D714A.title: "观察：&2薇克精切石机&r"
 	task.2249B1CA280D4531.title: "谜之天空"
 	task.225508B5F690C310.title: "流体输入仓"
-	task.23CDBB8A570B6689.title: "Blocks Obtained from Sludge"
+	task.23CDBB8A570B6689.title: "可通过污泥得到的方块"
 	task.2404D63C45135601.title: "精魂碎晶"
 	task.241DC4DBEF1C8648.title: "观察：&2薇克精炼药锅&r"
 	task.24F2BEBFC964C83B.title: "小刀"
@@ -4240,8 +4240,8 @@
 	task.2914EFBE380196D0.title: "致密线缆"
 	task.2A7052B5A35B4A22.title: "神秘学五芒星阵"
 	task.2B3416E3F3663598.title: "方块转化"
-	task.2BEFCB331D1564CF.title: "Any Basic Sophisticated Storage Chest or Barrel"
-	task.2D263309A4FF7233.title: "Energy Upgrades"
+	task.2BEFCB331D1564CF.title: "任意基础精妙存储箱子或桶"
+	task.2D263309A4FF7233.title: "能量升级"
 	task.2EFD078D0F36514F.title: "样板供应器"
 	task.2F65A10B08073D6D.title: "精魂坩埚增强件"
 	task.31508ACE862B4A9A.title: "印记"
@@ -4258,23 +4258,23 @@
 	task.3898E7E189555B8C.title: "奥术台座"
 	task.3A59C49FAF001D7E.title: "体温管理"
 	task.3B6A2E42A7F4D6C2.title: "专业工具"
-	task.3C9F8F7D407AC253.title: "Sender Modules"
-	task.3D17C42035FE93C1.title: "Fluid Transfer Labels"
-	task.3DED6DAEE4419675.title: "Any Chipped Workbench"
-	task.3EAFB384DAB520FD.title: "Any &3Arts and Crafts&r Item"
+	task.3C9F8F7D407AC253.title: "抽取模块"
+	task.3D17C42035FE93C1.title: "流体传输标贴"
+	task.3DED6DAEE4419675.title: "任意Chipped工作台"
+	task.3EAFB384DAB520FD.title: "任意&3Arts and Crafts&r物品"
 	task.3F1AFB75DEE21F65.title: "流体管道"
 	task.40A7E30D465D0168.title: "物品输入仓"
 	task.40BF2920569F9751.title: "插件：速度"
 	task.42EE7B1C5F75BCAF.title: "欢迎！"
 	task.431D734EA8A2E7EF.title: "流体输入仓"
 	task.4484CC7F88D33D12.title: "奥术台座"
-	task.466DBFDDD1C1C5A6.title: "Storage Controller"
+	task.466DBFDDD1C1C5A6.title: "存储控制器"
 	task.47D22C2E34E9A099.title: "魔源通道"
-	task.484FF1BEA9145D5F.title: "Puller Modules"
+	task.484FF1BEA9145D5F.title: "发送模块"
 	task.488180E25D5B815A.title: "反场"
 	task.4927D2345C71AAA4.title: "流体存储"
-	task.4AAAB62A26960EFE.title: "Fluid Pipes"
-	task.4D45C5166D0700F8.title: "Item Pipes"
+	task.4AAAB62A26960EFE.title: "流体管道"
+	task.4D45C5166D0700F8.title: "物品管道"
 	task.4EAFCD169CB43E2D.title: "壁炉与家"
 	task.4F21DF4EFC469AAC.title: "流体输出仓"
 	task.4FE55FEB08DFF115.title: "建筑棒"
@@ -4299,7 +4299,7 @@
 	task.5FD033C23F211569.title: "放下去，拿起来"
 	task.605834F92F6F384F.title: "观察：&2薇克精厨锅&r"
 	task.60A606EEBA68E86C.title: "流体输出仓"
-	task.60BB29288D966B49.title: "Any &3Macaw's&r Item"
+	task.60BB29288D966B49.title: "任意&3Macaw的&r物品"
 	task.62742836108A45A3.title: "插件：效率"
 	task.664C79E935ED1414.title: "玻璃线缆"
 	task.676C8DE6C246D422.title: "AE能量"
@@ -4309,9 +4309,9 @@
 	task.6DE11EA8A586D544.title: "物品输出仓"
 	task.70531464F6943384.title: "样板终端"
 	task.71A479E92219AB03.title: "流体输入仓"
-	task.71EFA0C693ACD330.title: "Item Transfer Labels"
+	task.71EFA0C693ACD330.title: "物品传输标贴"
 	task.7361E2FFBFB27FD7.title: "流体输出仓"
-	task.73C57E2AF9A1F920.title: "Any Chipped Tool"
+	task.73C57E2AF9A1F920.title: "任意Chipped工具"
 	task.75050C1ED68FA527.title: "建筑小帮手"
 	task.7559C9E4BA735703.title: "观察：&2薇克精砧板&r"
 	task.75F35EC4088EBA42.title: "机械动力处理"
@@ -4321,6 +4321,6 @@
 	task.7BBDAB866A167CE4.title: "汞驱物品传输器"
 	task.7C0E5A805AE1132B.title: "学习模组"
 	task.7CDDB3E6855989E2.title: "碎魂武器"
-	task.7E422D4A867340A6.title: "Any Functional Storage Drawer"
+	task.7E422D4A867340A6.title: "任意功能性存储抽屉"
 	task.7FC1B66AFF268BF8.title: "致密包层线缆"
 }
