@@ -376,5 +376,13 @@
     "ritual.enigmatica.ritual/transmute_cockatrice.conditions": "该仪式的部分条件仍未满足。",
     "ritual.enigmatica.ritual/transmute_cockatrice.finished": "成功嬗变鸡蛇。",
     "ritual.enigmatica.ritual/transmute_cockatrice.interrupted": "嬗变仪式中断。",
-    "ritual.enigmatica.ritual/transmute_cockatrice.started": "开始嬗变鸡蛇。"
+    "ritual.enigmatica.ritual/transmute_cockatrice.started": "开始嬗变鸡蛇。",
+
+    "item.occultism.ritual_dummy.sm/ritual/psychic_squid_rift": "召唤灵能鱿鱼",
+    "item.occultism.ritual_dummy.psychic_squid_rift": "§6仪式：召唤灵能鱿鱼",
+    "item.occultism.ritual_dummy.psychic_squid_rift.tooltip": "§5召唤五维灵能鱿鱼。",
+    "ritual.enigmatica.ritual/psychic_squid_rift.conditions": "该仪式的部分条件仍未满足。",
+    "ritual.enigmatica.ritual/psychic_squid_rift.finished": "成功召唤灵能鱿鱼。",
+    "ritual.enigmatica.ritual/psychic_squid_rift.interrupted": "活化仪式中断。",
+    "ritual.enigmatica.ritual/psychic_squid_rift.started": "开始召唤灵能鱿鱼。"
 }
