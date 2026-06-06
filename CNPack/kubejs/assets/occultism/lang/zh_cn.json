@@ -68,11 +68,19 @@
 
     "item.occultism.ritual_dummy.sm/ritual/animate_guardian": "活化守卫者",
     "item.occultism.ritual_dummy.animate_guardian": "§6仪式：活化守卫者",
-    "item.occultism.ritual_dummy.animate_guardian.tooltip": "§5将魔法注入海晶石，赋予其生命。",
+    "item.occultism.ritual_dummy.animate_guardian.tooltip": "§5将魔法注入守卫者二极管，赋予其生命。",
     "ritual.enigmatica.ritual/animate_guardian.conditions": "该仪式的部分条件仍未满足。",
     "ritual.enigmatica.ritual/animate_guardian.finished": "成功活化守卫者。",
     "ritual.enigmatica.ritual/animate_guardian.interrupted": "活化仪式中断。",
     "ritual.enigmatica.ritual/animate_guardian.started": "开始活化守卫者。",
+
+    "item.occultism.ritual_dummy.sm/ritual/animate_elder_guardian": "活化远古守卫者",
+    "item.occultism.ritual_dummy.animate_elder_guardian": "§6仪式：活化远古守卫者",
+    "item.occultism.ritual_dummy.animate_elder_guardian.tooltip": "§5将魔法注入守卫者二极管，赋予其生命。",
+    "ritual.enigmatica.ritual/animate_elder_guardian.conditions": "该仪式的部分条件仍未满足。",
+    "ritual.enigmatica.ritual/animate_elder_guardian.finished": "成功活化远古守卫者。",
+    "ritual.enigmatica.ritual/animate_elder_guardian.interrupted": "活化仪式中断。",
+    "ritual.enigmatica.ritual/animate_elder_guardian.started": "开始活化远古守卫者。",
 
     "item.occultism.ritual_dummy.sm/ritual/animate_honey_slime": "活化蜜糖史莱姆",
     "item.occultism.ritual_dummy.animate_honey_slime": "§6仪式：活化蜜糖史莱姆",
