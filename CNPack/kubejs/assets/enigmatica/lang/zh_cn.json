@@ -359,6 +359,8 @@
     "tooltip.enigmatica.hot_to_touch": "触感炽热",
     "tooltip.enigmatica.burning_to_touch": "触感灼烫",
 
+    "tooltip.enigmatica.biome_conversion_essentia": "右击空岛上的方块来转换生物群系。",
+
     "tooltip.enigmatica.wixie_conversion": "潜行右击方块以转换。",
     "tooltip.enigmatica.worm_from_grass": "小概率在耕草方块时获得",
     "tooltip.enigmatica.armadillo_scute": "通过刷取犰狳获得",

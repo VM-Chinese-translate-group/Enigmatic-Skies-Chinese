@@ -100,7 +100,7 @@
 
     "item.occultism.ritual_dummy.sm/ritual/animate_mimic": "活化拟箱怪",
     "item.occultism.ritual_dummy.animate_mimic": "§6仪式：活化拟箱怪",
-    "item.occultism.ritual_dummy.animate_mimic.tooltip": "§5将魔法注入紫珀，赋予其生命。",
+    "item.occultism.ritual_dummy.animate_mimic.tooltip": "§5将魔法注入粉色史莱姆，赋予其生命。",
     "ritual.enigmatica.ritual/animate_mimic.conditions": "该仪式的部分条件仍未满足。",
     "ritual.enigmatica.ritual/animate_mimic.finished": "成功活化拟箱怪。",
     "ritual.enigmatica.ritual/animate_mimic.interrupted": "活化仪式中断。",
