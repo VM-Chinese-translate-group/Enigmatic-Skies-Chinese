@@ -314,6 +314,14 @@
     "ritual.enigmatica.ritual/animate_swamp_creeper.interrupted": "活化仪式中断。",
     "ritual.enigmatica.ritual/animate_swamp_creeper.started": "开始活化沼泽苦力怕。",
 
+    "item.occultism.ritual_dummy.sm/ritual/animate_dark_oak_creeper": "活化深色橡木苦力怕",
+    "item.occultism.ritual_dummy.animate_dark_oak_creeper": "§6仪式：活化深色橡木苦力怕",
+    "item.occultism.ritual_dummy.animate_dark_oak_creeper.tooltip": "§5将魔法注入苦力怕的头，赋予其生命。",
+    "ritual.enigmatica.ritual/animate_dark_oak_creeper.conditions": "该仪式的部分条件仍未满足。",
+    "ritual.enigmatica.ritual/animate_dark_oak_creeper.finished": "成功活化深色橡木苦力怕。",
+    "ritual.enigmatica.ritual/animate_dark_oak_creeper.interrupted": "活化仪式中断。",
+    "ritual.enigmatica.ritual/animate_dark_oak_creeper.started": "开始活化深色橡木苦力怕。",
+
     "item.occultism.ritual_dummy.sm/ritual/transmute_whirlisprig": "嬗变风转草",
     "item.occultism.ritual_dummy.transmute_whirlisprig": "§6仪式：嬗变风转草",
     "item.occultism.ritual_dummy.transmute_whirlisprig.tooltip": "§5将原材料嬗变为风转草。",
