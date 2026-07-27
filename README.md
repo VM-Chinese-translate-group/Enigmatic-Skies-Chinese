@@ -11,6 +11,7 @@
 - **汉化项目**：[Paratranz](https://paratranz.cn/projects/18919)
 - **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/18919)
 - **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/18919/leaderboard)
+- ***已放弃Github侧发布，获取汉化请移步VM汉化组官网***
 
 # 📖 整合包介绍
 
