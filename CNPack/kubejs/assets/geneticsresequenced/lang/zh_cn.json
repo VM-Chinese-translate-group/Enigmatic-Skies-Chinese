@@ -11,27 +11,27 @@
     "gene.geneticsresequenced.stone_skin": "石肤",
     "info.gene.geneticsresequenced.stone_skin": "硬化自身皮肤，获得额外护甲值。",
 
-    "gene.geneticsresequenced.bovine": "Bovine",
-    "info.gene.geneticsresequenced.bovine": "Causes the affected creature to drop some Beef when killed.",
+    "gene.geneticsresequenced.bovine": "牛状",
+    "info.gene.geneticsresequenced.bovine": "使受影响的生物在死亡时掉落一些牛肉。",
 
-    "gene.geneticsresequenced.galline": "Galline",
-    "info.gene.geneticsresequenced.galline": "Causes the affected creature to drop some Chicken when killed.",
+    "gene.geneticsresequenced.galline": "鸡状",
+    "info.gene.geneticsresequenced.galline": "使被影响的生物在死亡时掉落一些鸡肉。",
 
-    "gene.geneticsresequenced.lapine": "Lapine",
-    "info.gene.geneticsresequenced.lapine": "Causes the affected creature to drop some Rabbit when killed.",
+    "gene.geneticsresequenced.lapine": "兔状",
+    "info.gene.geneticsresequenced.lapine": "使受影响生物被杀死时掉落一些兔肉。",
 
-    "gene.geneticsresequenced.ovine": "Ovine",
-    "info.gene.geneticsresequenced.ovine": "Causes the affected creature to drop some Mutton when killed.",
+    "gene.geneticsresequenced.ovine": "羊状",
+    "info.gene.geneticsresequenced.ovine": "使受影响的生物在死亡时掉落一些羊肉。",
 
-    "gene.geneticsresequenced.porcine": "Porcine",
-    "info.gene.geneticsresequenced.porcine": "Causes the affected creature to drop some Porkchops when killed.",
+    "gene.geneticsresequenced.porcine": "猪状",
+    "info.gene.geneticsresequenced.porcine": "使被影响的生物在死亡时掉落一些猪排。",
 
-    "gene.geneticsresequenced.burgeoning": "Burgeoning",
-    "info.gene.geneticsresequenced.burgeoning": "Causes the affected creature to drop some Flowers when killed.",
+    "gene.geneticsresequenced.burgeoning": "繁茂",
+    "info.gene.geneticsresequenced.burgeoning": "使被影响的生物在死亡时掉落一些花。",
 
-    "gene.geneticsresequenced.saevine": "Saevine",
-    "info.gene.geneticsresequenced.saevine": "Causes the affected creature to drop some Wilden Meat when killed.",
+    "gene.geneticsresequenced.saevine": "荒野状",
+    "info.gene.geneticsresequenced.saevine": "使被影响的生物在死亡时掉落一些荒野肉。",
 
-    "gene.geneticsresequenced.chimeric": "Chimeric",
-    "info.gene.geneticsresequenced.chimeric": "Causes the affected creature to drop some Chimera Meat when killed."
+    "gene.geneticsresequenced.chimeric": "奇美拉状",
+    "info.gene.geneticsresequenced.chimeric": "使被影响的生物在死亡时掉落一些奇美拉肉。"
 }
